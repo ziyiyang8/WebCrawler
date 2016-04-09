@@ -1,0 +1,850 @@
+<!doctype html>
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#">
+ <head>
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9"> 
+  <meta charset="utf-8"> 
+  <meta name="Author" content="Apple Inc."> 
+  <meta name="robots" content="noodp"> 
+  <link rel="canonical" href="http://www.apple.com/sitemap/"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalnav/2.0/en_US/styles/ac-globalnav.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalfooter/2.0/en_US/styles/ac-globalfooter.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/localnav/3.0/styles/ac-localnav.built.css"> 
+  <title>Site Map - Apple</title>
+  <meta name="Description" content="Use the sitemap to find your way around apple.com. Learn about and shop our products including the iPhone, Mac, iPad, Apple Watch, and more.">
+  <meta property="analytics-track" content="Site Map - Index">
+  <meta property="analytics-s-channel" content="sitemap"> 
+  <meta property="analytics-s-bucket-0" content="appleglobal,appleusother"> 
+  <meta property="analytics-s-bucket-1" content="apple{COUNTRY_CODE}global,apple{COUNTRY_CODE}other"> 
+  <meta property="analytics-s-bucket-2" content="apple{COUNTRY_CODE}global"> 
+  <meta property="analytics-s-bucket-store" content="applestoreww,applestoreamr,applestoreus"> 
+  <link rel="stylesheet" href="/wss/fonts?family=Myriad+Set+Pro&amp;v=1" type="text/css">
+  <link rel="stylesheet" href="/sitemap/static/en_US/styles/sitemap.built.css" type="text/css">
+  <script src="/sitemap/static/en_US/scripts/head.built.js" type="text/javascript" charset="utf-8"></script>
+ </head>
+ <body class="page-sitemap">
+  <aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }"></aside> 
+  <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"> 
+  <nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-US" data-store-key="SFX9YPYY9PPXCU9KH" data-store-locale="us" data-store-api="/[storefront]/shop/bag/status" data-search-locale="en_US" data-search-api="/search-services/suggestions/"> 
+   <div class="ac-gn-content"> 
+    <ul class="ac-gn-header"> 
+     <li class="ac-gn-item ac-gn-menuicon"> <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span> </span> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span> </span> </label> <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"> <span class="ac-gn-menuanchor-label">Open Menu</span> </a> <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"> <span class="ac-gn-menuanchor-label">Close Menu</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <ul class="ac-gn-list"> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-mac"> <a class="ac-gn-link ac-gn-link-mac" href="/mac/" data-analytics-title="mac"> <span class="ac-gn-link-text">Mac</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"> <a class="ac-gn-link ac-gn-link-ipad" href="/ipad/" data-analytics-title="ipad"> <span class="ac-gn-link-text">iPad</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"> <a class="ac-gn-link ac-gn-link-iphone" href="/iphone/" data-analytics-title="iphone"> <span class="ac-gn-link-text">iPhone</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-watch"> <a class="ac-gn-link ac-gn-link-watch" href="/watch/" data-analytics-title="watch"> <span class="ac-gn-link-text">Watch</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-tv"> <a class="ac-gn-link ac-gn-link-tv" href="/tv/" data-analytics-title="tv"> <span class="ac-gn-link-text">TV</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-music"> <a class="ac-gn-link ac-gn-link-music" href="/music/" data-analytics-title="music"> <span class="ac-gn-link-text">Music</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-support"> <a class="ac-gn-link ac-gn-link-support" href="/support/" data-analytics-title="support"> <span class="ac-gn-link-text">Support</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"> <a class="ac-gn-link ac-gn-link-search" href="/us/search" data-analytics-title="search" data-analytics-click="search" aria-label="Search apple.com"> <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge" aria-hidden="true"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"> 
+     <div class="ac-gn-searchview-content"> 
+      <form id="ac-gn-searchform" class="ac-gn-searchform" action="/us/search" method="get"> 
+       <div class="ac-gn-searchform-wrapper"> 
+        <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" name="" placeholder="Search apple.com" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false"> 
+        <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav"> 
+        <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Submit"></button> 
+        <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Clear Search"></button> 
+       </div> 
+      </form> 
+      <aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" data-string-noresults="Hit enter to search."></aside> 
+     </div> 
+     <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search"> <span class="ac-gn-searchview-close-wrapper"> <span class="ac-gn-searchview-close-left"></span> <span class="ac-gn-searchview-close-right"></span> </span> </button> 
+    </aside> 
+    <aside class="ac-gn-bagview" data-analytics-region="bag"> 
+     <div class="ac-gn-bagview-scrim"> 
+      <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span> 
+     </div> 
+     <div class="ac-gn-bagview-content" id="ac-gn-bagview-content"> 
+     </div> 
+    </aside> 
+   </div> 
+  </nav> 
+  <div id="ac-gn-curtain" class="ac-gn-curtain"></div> 
+  <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div> 
+  <script type="text/javascript" src="/ac/globalnav/2.0/en_US/scripts/ac-globalnav.built.js"></script> 
+  <script src="http://images.apple.com/metrics/ac-analytics/1.0/scripts/ac-analytics.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/metrics/ac-analytics/1.0/scripts/auto-init.js" type="text/javascript" charset="utf-8"></script> 
+  <input type="checkbox" id="ac-ln-menustate" class="ac-ln-menustate">
+  <nav id="ac-localnav" class="no-js" lang="en-US" role="navigation" data-analytics-region="local nav">
+   <div class="ac-ln-wrapper">
+    <div class="ac-ln-background"></div>
+    <div class="ac-ln-content">
+     <h2 class="ac-ln-title"><a href="/sitemap/" data-analytics-title="product index">Apple Site Map</a></h2>
+    </div>
+   </div>
+  </nav>
+  <label id="ac-ln-curtain" for="ac-ln-menustate"></label>
+  <script type="text/javascript" src="/ac/localnav/3.0/scripts/ac-localnav.built.js"></script> 
+  <div class="main" role="main">
+   <section class="category category-appleinfo">
+    <div class="category-sections"> 
+     <section class="category-section category-section-about first"> 
+      <h3 class="category-section-title">About Apple</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/about/" class="category-section-link">Apple Info</a></li>
+       <li class="category-section-item"><a href="/contact/" class="category-section-link">Contact Apple</a></li>
+       <li class="category-section-item"><a href="http://www.apple.com/jobs/us/" class="category-section-link">Job Opportunities</a></li>
+       <li class="category-section-item"><a href="/pr/" class="category-section-link">Press Info</a></li>
+       <li class="category-section-item"><a href="http://investor.apple.com/" class="category-section-link">Investors</a></li>
+       <li class="category-section-item"><a href="http://www.apple.com/about/workingwithapple.html" class="category-section-link">Working with Apple</a></li>
+       <li class="category-section-item"><a href="/legal/" class="category-section-link">Legal</a></li>
+       <li class="category-section-item"><a href="http://www.apple.com/choose-your-country/" class="category-section-link">Choose Your Country or Region</a></li>
+       <li class="category-section-item"><a href="/feedback/" class="category-section-link">Product Feedback</a></li>
+       <li class="category-section-item"><a href="http://salesresources.apple.com/cp/channel/index.html" class="category-section-link">Apple Channel Program</a></li>
+       <li class="category-section-item"><a href="/about/webbadges/" class="category-section-link">Web Badges</a></li>
+       <li class="category-section-item"><a href="/recycling/" class="category-section-link">Recycling</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-values "> 
+      <h3 class="category-section-title">Apple Values</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/environment/" class="category-section-link">Environment</a></li>
+       <li class="category-section-item"><a href="/supplier-responsibility/" class="category-section-link">Supplier Responsibility</a></li>
+       <li class="category-section-item"><a href="/accessibility/" class="category-section-link">Accessibility</a></li>
+       <li class="category-section-item"><a href="/privacy/" class="category-section-link">Privacy</a></li>
+       <li class="category-section-item"><a href="/diversity/" class="category-section-link">Inclusion and Diversity</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-news "> 
+      <h3 class="category-section-title">News and Events</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/hotnews/" class="category-section-link">Hot News</a></li>
+       <li class="category-section-item"><a href="/rss/" class="category-section-link">RSS Feeds</a></li>
+       <li class="category-section-item"><a href="/apple-events/" class="category-section-link">Apple Events</a></li>
+       <li class="category-section-item"><a href="/usergroups/" class="category-section-link">User Groups</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-where "> 
+      <h3 class="category-section-title">Where to Buy</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/retail/" class="category-section-link">Find an Apple Store</a></li>
+       <li class="category-section-item"><a href="https://locate.apple.com/" class="category-section-link">Find a Reseller</a></li>
+       <li class="category-section-item"><a href="/retail/iphone/" class="category-section-link">How to Buy iPhone</a></li>
+       <li class="category-section-item"><a href="/r/store/government/" class="category-section-link">Apple Store for Government</a></li>
+       <li class="category-section-item"><a href="/financing/" class="category-section-link">Apple Financial Services</a></li>
+       <li class="category-section-item"><a href="/promo/" class="category-section-link">Rebates</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/special_deals" class="category-section-link">Refurbished</a></li>
+       <li class="category-section-item"><a href="http://salesresources.apple.com/sp/catalog/" class="category-section-link">Catalog and Internet Resellers</a></li>
+       <li class="category-section-item"><a href="http://salesresources.apple.com/sp/resellers/" class="category-section-link">Corporate Resellers</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-account "> 
+      <h3 class="category-section-title">Account</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="https://appleid.apple.com/signin" class="category-section-link">Manage Your Apple ID</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/account/home" class="category-section-link">Apple Store Account</a></li>
+       <li class="category-section-item"><a href="https://www.icloud.com/" class="category-section-link">iCloud.com</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-storeservices "> 
+      <h3 class="category-section-title">Store Services</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/retail/geniusbar/" class="category-section-link">Genius Bar</a></li>
+       <li class="category-section-item"><a href="/retail/learn/" class="category-section-link">Workshops and Learning</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/order/list" class="category-section-link">Order Status</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/payment_plan" class="category-section-link">Financing</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/reuse_and_recycle" class="category-section-link">Reuse and Recycling</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/giftcards" class="category-section-link">Gift Cards</a></li>
+       <li class="category-section-item"><a href="/retail/personal-pickup/" class="category-section-link">Personal Pickup</a></li>
+       <li class="category-section-item"><a href="/retail/personalsetup/" class="category-section-link">Personal Setup</a></li>
+       <li class="category-section-item"><a href="https://itunes.apple.com/us/app/apple-store/id375380948?mt=8" class="category-section-link">Apple Store App</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/help" class="category-section-link">Shopping Help</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-education "> 
+      <h3 class="category-section-title">For Education</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/education/" class="category-section-link">Apple and Education</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/educationrouting" class="category-section-link">Shop for College</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-business "> 
+      <h3 class="category-section-title">For Business</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/iphone/business/" class="category-section-link">iPhone in Business</a></li>
+       <li class="category-section-item"><a href="/ipad/business/" class="category-section-link">iPad in Business</a></li>
+       <li class="category-section-item"><a href="/business/mac/" class="category-section-link">Mac in Business</a></li>
+       <li class="category-section-item"><a href="/retail/business/" class="category-section-link">Shop for Your Business</a></li>
+      </ul>
+     </section>
+    </div>
+   </section>
+   <section class="category category-mac">
+    <h2 class="category-title"><a href="/mac/" class="more">Mac</a></h2>
+    <div class="category-sections"> 
+     <section class="category-section category-section-shop first"> 
+      <h3 class="category-section-title">Shop and Learn</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/macbook/" class="category-section-link">MacBook</a></li>
+       <li class="category-section-item"><a href="/macbook-air/" class="category-section-link">MacBook Air</a></li>
+       <li class="category-section-item"><a href="/macbook-pro/" class="category-section-link">MacBook Pro</a></li>
+       <li class="category-section-item"><a href="/mac-mini/" class="category-section-link">Mac mini</a></li>
+       <li class="category-section-item"><a href="/imac/" class="category-section-link">iMac</a></li>
+       <li class="category-section-item"><a href="/mac-pro/" class="category-section-link">Mac Pro</a></li>
+       <li class="category-section-item"><a href="/mac/compare/" class="category-section-link">Compare Mac Models</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-appleaccessories "> 
+      <h3 class="category-section-title">Apple Accessories</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/magic-accessories/" class="category-section-link">Magic Mouse 2</a></li>
+       <li class="category-section-item"><a href="/magic-accessories/" class="category-section-link">Magic Trackpad 2</a></li>
+       <li class="category-section-item"><a href="/magic-accessories/" class="category-section-link">Magic Keyboard</a></li>
+       <li class="category-section-item"><a href="/displays/" class="category-section-link">Thunderbolt Display</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-wifistations "> 
+      <h3 class="category-section-title">Wi-Fi Base Stations</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/airport-express/" class="category-section-link">AirPort Express</a></li>
+       <li class="category-section-item"><a href="/airport-extreme/" class="category-section-link">AirPort Extreme</a></li>
+       <li class="category-section-item"><a href="/airport-time-capsule/" class="category-section-link">AirPort Time Capsule</a></li>
+       <li class="category-section-item"><a href="/compare-wifi-models/" class="category-section-link">Which Wi-Fi Are You?</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-macaccessories "> 
+      <h3 class="category-section-title"><a href="/us/shop/goto/mac/accessories" class="more">Mac Accessories</a></h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/us/shop/goto/mac/audio_music" class="category-section-link">Audio &amp; Music</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/mac/business/accessories" class="category-section-link">Business</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/mac/cases_protection" class="category-section-link">Cases &amp; Protection</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/mac/display_mounts" class="category-section-link">Displays &amp; Mounts</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/mac/mice_keyboards" class="category-section-link">Mice &amp; Keyboards</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/mac/networking" class="category-section-link">Networking</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/mac/photography_creativity" class="category-section-link">Photography &amp; Creativity</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/mac/power_cables" class="category-section-link">Power &amp; Cables</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/mac/printers_scanners" class="category-section-link">Printers &amp; Scanners</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/mac/software" class="category-section-link">Software</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/mac/storage" class="category-section-link">Storage</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-applications "> 
+      <h3 class="category-section-title">Applications</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/osx/photos/" class="category-section-link">Photos</a></li>
+       <li class="category-section-item"><a href="/mac/imovie/" class="category-section-link">iMovie</a></li>
+       <li class="category-section-item"><a href="/mac/garageband/" class="category-section-link">GarageBand</a></li>
+       <li class="category-section-item"><a href="/mac/pages/" class="category-section-link">Pages</a></li>
+       <li class="category-section-item"><a href="/mac/numbers/" class="category-section-link">Numbers</a></li>
+       <li class="category-section-item"><a href="/mac/keynote/" class="category-section-link">Keynote</a></li>
+       <li class="category-section-item"><a href="/final-cut-pro/" class="category-section-link">Final Cut Pro X</a></li>
+       <li class="category-section-item"><a href="/final-cut-pro/motion/" class="category-section-link">Motion</a></li>
+       <li class="category-section-item"><a href="/final-cut-pro/compressor/" class="category-section-link">Compressor</a></li>
+       <li class="category-section-item"><a href="/logic-pro/" class="category-section-link">Logic Pro X</a></li>
+       <li class="category-section-item"><a href="/mainstage/" class="category-section-link">MainStage</a></li>
+       <li class="category-section-item"><a href="/ibooks/" class="category-section-link">iBooks</a></li>
+       <li class="category-section-item"><a href="/ibooks-author/" class="category-section-link">iBooks Author</a></li>
+       <li class="category-section-item"><a href="/remotedesktop/" class="category-section-link">Remote Desktop</a></li>
+       <li class="category-section-item"><a href="/safari/" class="category-section-link">Safari</a></li>
+       <li class="category-section-item"><a href="/quicktime/" class="category-section-link">QuickTime</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-moremac "> 
+      <h3 class="category-section-title">More Mac</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/osx/" class="category-section-link">OS X El Capitan</a></li>
+       <li class="category-section-item"><a href="/osx/server/" class="category-section-link">OS X Server</a></li>
+       <li class="category-section-item"><a href="/downloads/" class="category-section-link">Downloads</a></li>
+       <li class="category-section-item"><a href="https://developer.apple.com/" class="category-section-link">Developer</a></li>
+       <li class="category-section-item"><a href="/pro/" class="category-section-link">Creative Pro</a></li>
+       <li class="category-section-item"><a href="/business/mac/" class="category-section-link">Mac in Business</a></li>
+       <li class="category-section-item"><a href="/education/mac/" class="category-section-link">Mac in Education</a></li>
+       <li class="category-section-item"><a href="/accessibility/" class="category-section-link">Accessibility</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-support "> 
+      <h3 class="category-section-title">Support</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/buy/" class="category-section-link">Where Can I Buy a Mac?</a></li>
+       <li class="category-section-item"><a href="/support/products/" class="category-section-link">AppleCare</a></li>
+       <li class="category-section-item"><a href="/support/" class="category-section-link">Online Support</a></li>
+       <li class="category-section-item"><a href="/retail/geniusbar/" class="category-section-link">Genius Bar</a></li>
+       <li class="category-section-item"><a href="/retail/learn/" class="category-section-link">Workshops</a></li>
+      </ul>
+     </section>
+    </div>
+   </section>
+   <section class="category category-ipad">
+    <h2 class="category-title"><a href="/ipad/" class="more">iPad</a></h2>
+    <div class="category-sections"> 
+     <section class="category-section category-section-shop first"> 
+      <h3 class="category-section-title">Shop and Learn</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/ipad-pro/" class="category-section-link">iPad Pro</a></li>
+       <li class="category-section-item"><a href="/ipad-air-2/" class="category-section-link">iPad Air 2</a></li>
+       <li class="category-section-item"><a href="/ipad-mini-4/" class="category-section-link">iPad mini 4</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/ipad_mini_retina" class="category-section-link">iPad mini 2</a></li>
+       <li class="category-section-item"><a href="/ipad/compare/" class="category-section-link">Compare iPad Models</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-appleaccessories "> 
+      <h3 class="category-section-title">Apple Accessories</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/apple-pencil/" class="category-section-link">Apple Pencil</a></li>
+       <li class="category-section-item"><a href="/smart-keyboard/" class="category-section-link">Smart Keyboard</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-ipadaccessories "> 
+      <h3 class="category-section-title"><a href="/us/shop/goto/ipad/accessories" class="more">iPad Accessories</a></h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/us/shop/goto/ipad/audio_music" class="category-section-link">Audio &amp; Music</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/ipad/business/accessories" class="category-section-link">Business</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/ipad/case_protection" class="category-section-link">Cases &amp; Protection</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/ipad/displays_mounts" class="category-section-link">Displays &amp; Mounts</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/ipad/health_fitness" class="category-section-link">Health &amp; Fitness</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/ipad/home_automation" class="category-section-link">Home Automation</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/ipad/keyboards" class="category-section-link">Keyboards</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/ipad/photography_creativity" class="category-section-link">Photography &amp; Creativity</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/ipad/power_cables" class="category-section-link">Power &amp; Cables</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/ipad/toys_hobbies" class="category-section-link">Toys &amp; Hobbies</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-moreipad "> 
+      <h3 class="category-section-title">More iPad</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/ipad/why-ipad/" class="category-section-link">Why iPad</a></li>
+       <li class="category-section-item"><a href="/ios/" class="category-section-link">iOS</a></li>
+       <li class="category-section-item"><a href="/icloud/" class="category-section-link">iCloud</a></li>
+       <li class="category-section-item"><a href="/ipad/business/" class="category-section-link">iPad in Business</a></li>
+       <li class="category-section-item"><a href="/education/ipad/" class="category-section-link">iPad in Education</a></li>
+       <li class="category-section-item"><a href="https://developer.apple.com/ipad/sdk/" class="category-section-link">iPad for Developers</a></li>
+       <li class="category-section-item"><a href="/accessibility/ios/" class="category-section-link">Accessibility</a></li>
+       <li class="category-section-item"><a href="/batteries/maximizing-performance/" class="category-section-link">Batteries</a></li>
+       <li class="category-section-item"><a href="/icloud/find-my-iphone.html" class="category-section-link">Find My iPad</a></li>
+       <li class="category-section-item"><a href="/product-red/" class="category-section-link">(PRODUCT)RED</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/engraving_giftwrap" class="category-section-link">Free Engraving</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-support "> 
+      <h3 class="category-section-title">Support</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/support/products/ipad.html" class="category-section-link">AppleCare+</a></li>
+       <li class="category-section-item"><a href="/support/ipad/" class="category-section-link">Online Support</a></li>
+       <li class="category-section-item"><a href="http://support.apple.com/manuals/ipad" class="category-section-link">User Guide</a></li>
+       <li class="category-section-item"><a href="https://discussions.apple.com/community/ipad" class="category-section-link">iPad Discussions</a></li>
+       <li class="category-section-item"><a href="/retail/learn/" class="category-section-link">Workshops</a></li>
+      </ul>
+     </section>
+    </div>
+   </section>
+   <section class="category category-iphone">
+    <h2 class="category-title"><a href="/iphone/" class="more">iPhone</a></h2>
+    <div class="category-sections"> 
+     <section class="category-section category-section-shop first"> 
+      <h3 class="category-section-title">Shop and Learn</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/iphone-6s/" class="category-section-link">iPhone 6s</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/iphone6" class="category-section-link">iPhone 6</a></li>
+       <li class="category-section-item"><a href="/iphone-se/" class="category-section-link">iPhone SE</a></li>
+       <li class="category-section-item"><a href="/iphone/compare/" class="category-section-link">Compare iPhone Models</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-iphoneaccessories "> 
+      <h3 class="category-section-title"><a href="/us/shop/goto/iphone/accessories" class="more">iPhone Accessories</a></h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/us/shop/goto/iphone/audio_music" class="category-section-link">Audio &amp; Music</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/iphone/business/accessories" class="category-section-link">Business</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/iphone/cases_protection" class="category-section-link">Cases &amp; Protection</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/iphone/fitness_sport_accessories" class="category-section-link">Health &amp; Fitness</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/iphone/home_automation" class="category-section-link">Home Automation</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/iphone/photography_creativity" class="category-section-link">Photography &amp; Creativity</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/iphone/power_cables" class="category-section-link">Power &amp; Cables</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/iphone/toys_hobbies" class="category-section-link">Toys &amp; Hobbies</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-moreiphone "> 
+      <h3 class="category-section-title">More iPhone</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/ios/" class="category-section-link">iOS</a></li>
+       <li class="category-section-item"><a href="/icloud/" class="category-section-link">iCloud</a></li>
+       <li class="category-section-item"><a href="/researchkit/" class="category-section-link">ResearchKit and CareKit</a></li>
+       <li class="category-section-item"><a href="/ios/carplay/" class="category-section-link">Apple CarPlay</a></li>
+       <li class="category-section-item"><a href="/iphone/switch-to-iphone/" class="category-section-link">Switch to iPhone</a></li>
+       <li class="category-section-item"><a href="/iphone/business/" class="category-section-link">iPhone in Business</a></li>
+       <li class="category-section-item"><a href="http://developer.apple.com/programs/iphone/" class="category-section-link">iOS for Developers</a></li>
+       <li class="category-section-item"><a href="/accessibility/" class="category-section-link">Accessibility</a></li>
+       <li class="category-section-item"><a href="/batteries/maximizing-performance/" class="category-section-link">Batteries</a></li>
+       <li class="category-section-item"><a href="/icloud/find-my-iphone.html" class="category-section-link">Find My iPhone</a></li>
+       <li class="category-section-item"><a href="/product-red/" class="category-section-link">(PRODUCT)RED</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-support "> 
+      <h3 class="category-section-title">Support</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/support/products/iphone.html" class="category-section-link">AppleCare+</a></li>
+       <li class="category-section-item"><a href="/iphone/buy/" class="category-section-link">Where to Buy iPhone</a></li>
+       <li class="category-section-item"><a href="/support/iphone/" class="category-section-link">Online Support</a></li>
+       <li class="category-section-item"><a href="http://support.apple.com/manuals/iphone" class="category-section-link">User Guide</a></li>
+       <li class="category-section-item"><a href="https://discussions.apple.com/community/iphone" class="category-section-link">iPhone Discussions</a></li>
+       <li class="category-section-item"><a href="/retail/learn/" class="category-section-link">Workshops</a></li>
+      </ul>
+     </section>
+    </div>
+   </section>
+   <section class="category category-applewatch">
+    <h2 class="category-title"><a href="/watch/" class="more">Apple Watch</a></h2>
+    <div class="category-sections"> 
+     <section class="category-section category-section-learn first"> 
+      <h3 class="category-section-title">Learn</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/watch/" class="category-section-link">Overview</a></li>
+       <li class="category-section-item"><a href="/watch/notifications/" class="category-section-link">Notifications</a></li>
+       <li class="category-section-item"><a href="/watch/fitness/" class="category-section-link">Fitness</a></li>
+       <li class="category-section-item"><a href="/watch/health/" class="category-section-link">Health</a></li>
+       <li class="category-section-item"><a href="/watch/personalization/" class="category-section-link">Personalization</a></li>
+       <li class="category-section-item"><a href="/watch/more-to-love/" class="category-section-link">More to Love</a></li>
+       <li class="category-section-item"><a href="/watch/gallery/" class="category-section-link">Gallery</a></li>
+       <li class="category-section-item"><a href="/watch/guided-tours/" class="category-section-link">Guided Tours</a></li>
+       <li class="category-section-item"><a href="/watch/films/" class="category-section-link">Films</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-shopcollections "> 
+      <h3 class="category-section-title">Shop Collections</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/us/shop/buy-watch/apple-watch-sport" class="category-section-link">Apple Watch Sport</a></li>
+       <li class="category-section-item"><a href="/us/shop/buy-watch/apple-watch" class="category-section-link">Apple Watch</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/apple_watch_hermes" class="category-section-link">Apple Watch Hermes</a></li>
+       <li class="category-section-item"><a href="/us/shop/buy-watch/apple-watch-edition" class="category-section-link">Apple Watch Edition</a></li>
+       <li class="category-section-item"><a href="/us/shop/watch/bands" class="category-section-link">Bands</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-watchaccessories "> 
+      <h3 class="category-section-title"><a href="/us/shop/goto/watch/accessories" class="more">Watch Accessories</a></h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/us/shop/goto/watch/audio_music" class="category-section-link">Audio &amp; Music</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/watch/health_fitness" class="category-section-link">Health &amp; Fitness</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/watch/home_automation" class="category-section-link">Home Automation</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/watch/power_cables" class="category-section-link">Power &amp; Cables</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-more "> 
+      <h3 class="category-section-title">More Apple Watch</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/apple-watch-hermes/" class="category-section-link">Apple Watch Hermes</a></li>
+       <li class="category-section-item"><a href="https://developer.apple.com/watchkit/" class="category-section-link">watchOS for Developers</a></li>
+       <li class="category-section-item"><a href="/accessibility/watch/" class="category-section-link">Accessibility</a></li>
+       <li class="category-section-item"><a href="/watch/battery.html" class="category-section-link">Battery</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-support "> 
+      <h3 class="category-section-title">Support</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/support/products/watch.html" class="category-section-link">AppleCare+</a></li>
+       <li class="category-section-item"><a href="/support/watch/" class="category-section-link">Online Support</a></li>
+       <li class="category-section-item"><a href="http://support.apple.com/manuals/" class="category-section-link">User Guide</a></li>
+       <li class="category-section-item"><a href="https://discussions.apple.com/community/watch" class="category-section-link">Apple Watch Discussions</a></li>
+       <li class="category-section-item"><a href="/retail/learn/" class="category-section-link">Workshops</a></li>
+       <li class="category-section-item"><a href="https://support.apple.com/en-us/HT204665" class="category-section-link">Wearing Apple Watch</a></li>
+       <li class="category-section-item"><a href="https://support.apple.com/en-us/HT204666" class="category-section-link">Heart Rate Monitor</a></li>
+      </ul>
+     </section>
+    </div>
+   </section>
+   <section class="category category-appletv">
+    <h2 class="category-title"><a href="/tv/" class="more">Apple TV</a></h2>
+    <div class="category-sections"> 
+     <section class="category-section category-section-learn first"> 
+      <h3 class="category-section-title">Learn</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/tv/" class="category-section-link">Overview</a></li>
+       <li class="category-section-item"><a href="/tv/experience/" class="category-section-link">Experience</a></li>
+       <li class="category-section-item"><a href="/tv/entertainment/" class="category-section-link">Entertainment</a></li>
+       <li class="category-section-item"><a href="/tv/games-and-more/" class="category-section-link">Games and More</a></li>
+       <li class="category-section-item"><a href="/tv/music-and-photos/" class="category-section-link">Music and Photos</a></li>
+       <li class="category-section-item"><a href="/tv/specs/" class="category-section-link">Tech Specs</a></li>
+       <li class="category-section-item"><a href="/tv/films/" class="category-section-link">Films</a></li>
+       <li class="category-section-item"><a href="/tv/compare/" class="category-section-link">Compare <span class="nowrap">Apple TV</span> Models</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-shop "> 
+      <h3 class="category-section-title">Shop</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/us/shop/goto/apple_tv/select" class="category-section-link"><span class="nowrap">Apple TV</span> <span class="nowrap">(4th generation)</span></a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/appletv_3rd_gen/select" class="category-section-link"><span class="nowrap">Apple TV</span> <span class="nowrap">(3rd generation)</span></a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-tvaccessories "> 
+      <h3 class="category-section-title"><a href="/us/shop/goto/tv/tv_accessories" class="more">Apple TV Accessories</a></h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/us/shop/goto/tv/tv_accessories/mounts" class="category-section-link">Apple TV Mounts</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/tv/tv_accessories/audio_music" class="category-section-link">Audio &amp; Music</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/tv/tv_accessories/gaming" class="category-section-link">Gaming</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/tv/tv_accessories/networking" class="category-section-link">Networking</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/tv/tv_accessories/power_cables" class="category-section-link">Power &amp; Cables</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/tv/tv_accessories/remotes_controllers" class="category-section-link">Remotes &amp; Controllers</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-support "> 
+      <h3 class="category-section-title">Support</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/support/products/appletv.html" class="category-section-link">AppleCare+</a></li>
+       <li class="category-section-item"><a href="/support/appletv/" class="category-section-link">Online Support</a></li>
+       <li class="category-section-item"><a href="http://help.apple.com/appletv" class="category-section-link">User Guide</a></li>
+      </ul>
+     </section>
+    </div>
+   </section>
+   <section class="category category-applemusic">
+    <h2 class="category-title"><a href="/music/" class="more">Apple Music</a></h2>
+    <div class="category-sections"> 
+     <section class="category-section category-section-applemusic first"> 
+      <h3 class="category-section-title">Apple Music</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/music/" class="category-section-link">Overview</a></li>
+       <li class="category-section-item"><a href="/music/discover/" class="category-section-link">Discover</a></li>
+       <li class="category-section-item"><a href="/music/radio/" class="category-section-link">Radio</a></li>
+       <li class="category-section-item"><a href="/music/connect/" class="category-section-link">Connect</a></li>
+       <li class="category-section-item"><a href="/music/membership/" class="category-section-link">Membership</a></li>
+      </ul>
+     </section>
+    </div>
+   </section>
+   <section class="category category-itunes">
+    <h2 class="category-title"><a href="/itunes/" class="more">iTunes</a></h2>
+    <div class="category-sections"> 
+     <section class="category-section category-section-itunes first"> 
+      <h3 class="category-section-title">iTunes</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/itunes/download/" class="category-section-link">Download iTunes</a></li>
+       <li class="category-section-item"><a href="/itunes/" class="category-section-link">iTunes</a></li>
+       <li class="category-section-item"><a href="/itunes/music/" class="category-section-link">Music</a></li>
+       <li class="category-section-item"><a href="/itunes/video/" class="category-section-link">Video</a></li>
+       <li class="category-section-item"><a href="/itunes/charts/" class="category-section-link">Charts</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-moreitunes "> 
+      <h3 class="category-section-title">More iTunes</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/itunes/gifts/" class="category-section-link">iTunes Gifts</a></li>
+       <li class="category-section-item"><a href="/support/ipod/" class="category-section-link">iPod and iTunes Support</a></li>
+       <li class="category-section-item"><a href="/accessibility/other-products/" class="category-section-link">Accessibility</a></li>
+       <li class="category-section-item"><a href="http://trailers.apple.com/" class="category-section-link">Movie Trailers</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-working "> 
+      <h3 class="category-section-title">Working with iTunes</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/itunes/working-itunes/" class="category-section-link">Overview</a></li>
+       <li class="category-section-item"><a href="/itunes/working-itunes/sell-content/" class="category-section-link">Sell Your Content</a></li>
+       <li class="category-section-item"><a href="/itunes/working-itunes/enhance/" class="category-section-link">Enhance Your Content</a></li>
+       <li class="category-section-item"><a href="/itunes/working-itunes/market/" class="category-section-link">Market with iTunes</a></li>
+       <li class="category-section-item"><a href="/itunes/link/" class="category-section-link">Link to iTunes</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-itunesstore "> 
+      <h3 class="category-section-title">iTunes Store</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="https://itunes.apple.com/us/genre/music/id34" class="category-section-link">Browse iTunes Store</a></li>
+       <li class="category-section-item"><a href="https://itunes.apple.com/us/genre/mobile-software-applications/id36?mt=8" class="category-section-link">Browse App Store</a></li>
+       <li class="category-section-item"><a href="https://itunes.apple.com/us/store" class="category-section-link">Buy Music Now</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/giftcards" class="category-section-link">Buy iTunes Gift Cards</a></li>
+       <li class="category-section-item"><a href="https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/redeemLandingPage" class="category-section-link">Redeem iTunes Gift Cards</a></li>
+       <li class="category-section-item"><a href="/itunes/corporatesales/" class="category-section-link">iTunes Corporate Sales</a></li>
+       <li class="category-section-item"><a href="/education/it/vpp/" class="category-section-link">App Store Volume Purchase</a></li>
+       <li class="category-section-item"><a href="http://www.apple.com/itunesnews/us/" class="category-section-link">New on iTunes</a></li>
+       <li class="category-section-item"><a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/iTunesPlusPage" class="category-section-link">iTunes Plus</a></li>
+       <li class="category-section-item"><a href="/feedback/itunes.html" class="category-section-link">Music Requests</a></li>
+      </ul>
+     </section>
+    </div>
+   </section>
+   <section class="category category-ipod">
+    <h2 class="category-title"><a href="/ipod/" class="more">iPod</a></h2>
+    <div class="category-sections"> 
+     <section class="category-section category-section-shop first"> 
+      <h3 class="category-section-title">Shop and Learn</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/ipod-touch/" class="category-section-link">iPod touch</a></li>
+       <li class="category-section-item"><a href="/ipod-nano/" class="category-section-link">iPod nano</a></li>
+       <li class="category-section-item"><a href="/ipod-shuffle/" class="category-section-link">iPod shuffle</a></li>
+       <li class="category-section-item"><a href="/ipod/compare-ipod-models/" class="category-section-link">Compare iPod Models</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-ipodaccessories "> 
+      <h3 class="category-section-title">iPod Accessories</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/audio_music" class="category-section-link">Audio &amp; Music</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/cases_protection" class="category-section-link">Cases &amp; Protection</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/health_fitness" class="category-section-link">Health &amp; Fitness</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/home_automation" class="category-section-link">Home Automation</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/photography_creativity" class="category-section-link">Photography &amp; Creativity</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/power_cables" class="category-section-link">Power &amp; Cables</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/toys_hobbies" class="category-section-link">Toys &amp; Hobbies</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-moreipod "> 
+      <h3 class="category-section-title">More iPod</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/us/shop/goto/promo/corporategifting" class="category-section-link">Corporate Gifting</a></li>
+       <li class="category-section-item"><a href="/product-red/" class="category-section-link">(PRODUCT)RED</a></li>
+       <li class="category-section-item"><a href="/itunes/" class="category-section-link">iTunes</a></li>
+       <li class="category-section-item"><a href="/education/" class="category-section-link">iPod touch in Education</a></li>
+       <li class="category-section-item"><a href="/accessibility/other-products/" class="category-section-link">Accessibility</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/engraving_giftwrap" class="category-section-link">Free Engraving</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-support "> 
+      <h3 class="category-section-title">Support</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/support/products/ipod.html" class="category-section-link">AppleCare+</a></li>
+       <li class="category-section-item"><a href="/support/ipod/" class="category-section-link">Online Support</a></li>
+      </ul>
+     </section>
+    </div>
+   </section>
+   <section class="category category-accessories">
+    <h2 class="category-title"><a href="/us/shop/goto/accessories" class="more">Accessories</a></h2>
+    <div class="category-sections"> 
+     <section class="category-section category-section-product first"> 
+      <h3 class="category-section-title">Shop by Product</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/us/shop/goto/mac/accessories" class="category-section-link">Mac Accessories</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/ipad/accessories" class="category-section-link">iPad Accessories</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/iphone/accessories" class="category-section-link">iPhone Accessories</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/watch/accessories" class="category-section-link">Watch Accessories</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/tv/tv_accessories" class="category-section-link">Apple TV Accessories</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-category "> 
+      <h3 class="category-section-title">Shop by Category</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/audio_music" class="category-section-link">Audio &amp; Music</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/buy_accessories/business" class="category-section-link">Business</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/cases_protection" class="category-section-link">Cases &amp; Protection</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/displays_mounts" class="category-section-link">Displays &amp; Mounts</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/health_fitness" class="category-section-link">Health &amp; Fitness</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/home_automation" class="category-section-link">Home Automation</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/buy_accessories/mice_keyboards" class="category-section-link">Mice &amp; Keyboards</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/buy_accessories/networking" class="category-section-link">Networking</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/photography_creativity" class="category-section-link">Photography &amp; Creativity</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/power_cables" class="category-section-link">Power &amp; Cables</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/printers_scanners" class="category-section-link">Printers &amp; Scanners</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/buy_accessories/software" class="category-section-link">Software</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/buy_accessories/storage" class="category-section-link">Storage</a></li>
+       <li class="category-section-item"><a href="/us/shop/goto/accessories/toys_hobbies" class="category-section-link">Toys &amp; Hobbies</a></li>
+      </ul>
+     </section>
+    </div>
+   </section>
+   <section class="category category-iosandicloud">
+    <h2 class="category-title">iOS and iCloud</h2>
+    <div class="category-sections"> 
+     <section class="category-section category-section-ios first"> 
+      <h3 class="category-section-title">iOS</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/ios/" class="category-section-link">Overview</a></li>
+       <li class="category-section-item"><a href="/ios/whats-new/" class="category-section-link">What’s New</a></li>
+       <li class="category-section-item"><a href="/ios/what-is/" class="category-section-link">What Is iOS</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-iosapplications "> 
+      <h3 class="category-section-title">iOS Applications</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/ios/photos/" class="category-section-link">Photos</a></li>
+       <li class="category-section-item"><a href="/ios/imovie/" class="category-section-link">iMovie</a></li>
+       <li class="category-section-item"><a href="/ios/garageband/" class="category-section-link">GarageBand</a></li>
+       <li class="category-section-item"><a href="/music-memos/" class="category-section-link">Music Memos</a></li>
+       <li class="category-section-item"><a href="/ios/pages/" class="category-section-link">Pages</a></li>
+       <li class="category-section-item"><a href="/ios/numbers/" class="category-section-link">Numbers</a></li>
+       <li class="category-section-item"><a href="/ios/keynote/" class="category-section-link">Keynote</a></li>
+       <li class="category-section-item"><a href="/ios/maps/" class="category-section-link">Maps</a></li>
+       <li class="category-section-item"><a href="/news/" class="category-section-link">News</a></li>
+       <li class="category-section-item"><a href="/ios/health/" class="category-section-link">Health</a></li>
+       <li class="category-section-item"><a href="/ios/siri/" class="category-section-link">Siri</a></li>
+      </ul>
+     </section> 
+     <section class="category-section category-section-icloud "> 
+      <h3 class="category-section-title">iCloud</h3>
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/icloud/" class="category-section-link">Overview</a></li>
+       <li class="category-section-item"><a href="/icloud/setup/" class="category-section-link">Set Up iCloud</a></li>
+       <li class="category-section-item"><a href="/iwork-for-icloud/" class="category-section-link">iWork for iCloud</a></li>
+      </ul>
+     </section>
+    </div>
+   </section>
+   <section class="category category-support">
+    <h2 class="category-title"><a href="/support/" class="more">Support</a></h2>
+    <div class="category-sections"> 
+     <section class="category-section category-section-support first">
+      <ul class="category-section-items ">
+       <li class="category-section-item"><a href="/support/contact/" class="category-section-link">Contact Support</a></li>
+       <li class="category-section-item"><a href="/support/" class="category-section-link">Online Support and Service</a></li>
+       <li class="category-section-item"><a href="https://discussions.apple.com/welcome" class="category-section-link">Apple Discussions</a></li>
+       <li class="category-section-item"><a href="http://support.apple.com/downloads/" class="category-section-link">Downloads and Software Updates</a></li>
+       <li class="category-section-item"><a href="http://support.apple.com/manuals/#" class="category-section-link">Product Manuals</a></li>
+       <li class="category-section-item"><a href="/support/products/" class="category-section-link">AppleCare Products and Services</a></li>
+       <li class="category-section-item"><a href="/support/diy/" class="category-section-link">Request a Repair or Parts (DIY)</a></li>
+       <li class="category-section-item"><a href="https://selfsolve.apple.com/repairstatus/main.do" class="category-section-link">Check Repair Status</a></li>
+       <li class="category-section-item"><a href="/support/exchange_repair/" class="category-section-link">Exchange and Repair Extension Programs</a></li>
+       <li class="category-section-item"><a href="/support/programs/" class="category-section-link">Apple Service Programs</a></li>
+       <li class="category-section-item"><a href="http://training.apple.com/" class="category-section-link">Apple Training</a></li>
+       <li class="category-section-item"><a href="http://consultants.apple.com/us/" class="category-section-link">Apple Consultants Network</a></li>
+       <li class="category-section-item"><a href="/support/sitemap/" class="category-section-link">Support Site Map</a></li>
+      </ul>
+     </section>
+    </div>
+   </section>
+  </div>
+  <!--/main-->
+  <footer id="ac-globalfooter" class="no-js" lang="en-US" data-analytics-region="global footer" role="contentinfo" aria-labelledby="ac-gf-label">
+   <div class="ac-gf-content">
+    <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2>
+    <nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation">
+     <a href="/" class="home ac-gf-breadcrumbs-home"><span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true">?</span><span class="ac-gf-breadcrumbs-home-label">Apple</span><span class="ac-gf-breadcrumbs-home-chevron"></span><span class="ac-gf-breadcrumbs-home-mask"></span></a>
+     <div class="ac-gf-breadcrumbs-path">
+      <ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList">
+       <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem"><span property="name">Site Map</span>
+        <meta property="position" content="1"></li>
+      </ol>
+     </div>
+    </nav>
+    <nav class="ac-gf-directory with-5-columns" aria-label="Apple Directory" role="navigation"> 
+     <!--googleoff: all--> 
+     <div class="ac-gf-directory-column">
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-products"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-products"> <h3 class="ac-gf-directory-column-section-title">Shop and Learn</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-products" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/mac/">Mac</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/">iPad</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/">iPhone</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/watch/">Watch</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/tv/">TV</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/music/">Music</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/itunes/">iTunes</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipod/">iPod</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/buy_accessories">Accessories</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/giftcards">Gift Cards</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column">
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-storeservices"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-storeservices"> <h3 class="ac-gf-directory-column-section-title">Apple Store</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-storeservices" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/">Find a Store</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/geniusbar/">Genius Bar</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/">Workshops and Learning</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/youth/">Youth Programs</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://itunes.apple.com/app/apple-store/id375380948?mt=8">Apple Store App</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/special_deals">Refurbished</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/payment_plan">Financing</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/reuse_and_recycle">Reuse and Recycling</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Order Status</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/help">Shopping Help</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-education"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-education"> <h3 class="ac-gf-directory-column-section-title">For Education</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-education" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/">Apple and Education</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/educationrouting">Shop for College</a></li> 
+       </ul> 
+      </div> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-business"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-business"> <h3 class="ac-gf-directory-column-section-title">For Business</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-business" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/business/">iPhone in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/business/">iPad in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/business/mac/">Mac in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/business/">Shop for Your Business</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-accounts"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-accounts"> <h3 class="ac-gf-directory-column-section-title">Account</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-accounts" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://appleid.apple.com/us/">Manage Your Apple ID</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Apple Store Account</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://www.icloud.com">iCloud.com</a></li> 
+       </ul> 
+      </div> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-responsibility"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-responsibility"> <h3 class="ac-gf-directory-column-section-title">Apple Values</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-responsibility" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/environment/">Environment</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/supplier-responsibility/">Supplier Responsibility</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/accessibility/">Accessibility</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/privacy/">Privacy</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/diversity/">Inclusion and Diversity</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/connectED/">Education</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-about"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-about"> <h3 class="ac-gf-directory-column-section-title">About Apple</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-about" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/about/">Apple Info</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://www.apple.com/jobs/us/">Job Opportunities</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/pr/">Press Info</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://investor.apple.com">Investors</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/apple-events/">Events</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/hotnews/">Hot News</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/contact/">Contact Apple</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <!--googleon: all--> 
+    </nav> 
+    <section class="ac-gf-footer" vocab="http://schema.org/" typeof="Organization"> 
+     <div class="ac-gf-footer-shop" x-ms-format-detection="none">
+       More ways to shop: Visit an 
+      <a href="/retail/">Apple Store</a>, 
+      <span class="nowrap">call 1-800-MY-APPLE, or <a href="https://locate.apple.com/">find a reseller</a></span>. 
+     </div> 
+     <div class="ac-gf-footer-locale"> 
+      <a class="ac-gf-footer-locale-link" href="/choose-your-country/" title="Choose your country or region" aria-label="United States. Choose your country or region"><span class="ac-gf-footer-locale-flag" data-hires="false"></span>United States</a> 
+     </div> 
+     <div class="ac-gf-footer-legal"> 
+      <div class="ac-gf-footer-legal-copyright">
+       Copyright © 2016 Apple Inc. All rights reserved.
+      </div> 
+      <div class="ac-gf-footer-legal-links"> 
+       <a class="ac-gf-footer-legal-link" href="/privacy/privacy-policy/">Privacy Policy</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/internet-services/terms/site.html">Terms of Use</a> 
+       <a class="ac-gf-footer-legal-link" href="/us/shop/goto/help/sales_refunds">Sales and Refunds</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/">Legal</a> 
+       <a class="ac-gf-footer-legal-link" href="/sitemap/">Site Map</a> 
+      </div> 
+     </div> 
+     <meta content="Apple" property="name"> 
+     <meta content="1-800-692-7753" property="telephone"> 
+    </section> 
+    <script type="text/javascript" src="/ac/globalfooter/2.0/en_US/scripts/ac-globalfooter.built.js"></script> 
+   </div>
+  </footer> 
+ </body>
+</html>

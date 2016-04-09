@@ -1,0 +1,406 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=8; IE=9"> 
+  <meta charset="utf-8"> 
+  <meta name="Author" content="Apple Inc."> 
+  <meta name="robots" content="noodp"> 
+  <link rel="canonical" href="http://www.apple.com/supplier-responsibility/"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalnav/2.0/en_US/styles/ac-globalnav.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalfooter/2.0/en_US/styles/ac-globalfooter.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/localnav/3.0/styles/ac-localnav.built.css"> 
+  <title>Supplier Responsibility - Apple</title> 
+  <meta name="Description" content="We’re empowering workers, creating sustainable facilities, and treating our supply chain as an example for the whole world to follow."> 
+  <meta property="analytics-track" content="Supplier Responsibility - Index"> 
+  <meta property="analytics-s-channel" content="supplier"> 
+  <meta property="analytics-s-bucket-0" content="appleglobal,appleussupplier"> 
+  <meta property="analytics-s-bucket-1" content="apple{COUNTRY_CODE}global,apple{COUNTRY_CODE}supplier"> 
+  <meta property="analytics-s-bucket-2" content="apple{COUNTRY_CODE}global"> 
+  <meta property="og:url" content="http://www.apple.com/supplier-responsibility/"> 
+  <meta property="og:title" content="Supplier Responsibility - Apple"> 
+  <meta property="og:description" content="We’re empowering workers, creating sustainable facilities, and treating our supply chain as an example for the whole world to follow."> 
+  <meta property="og:image" content="/supplier-responsibility/overview/images/og.jpg?201603300951"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:site_name" content="Apple"> 
+  <link rel="stylesheet" href="/wss/fonts/?family=Myriad+Set+Pro&amp;v=2" type="text/css" media="all"> 
+  <link rel="stylesheet" href="http://images.apple.com/v/supplier-responsibility/n/built/styles/main.built.css"> 
+  <link rel="stylesheet" href="/v/supplier-responsibility/n/built/styles/overview.built.css"> 
+  <script src="http://images.apple.com/v/supplier-responsibility/n/built/scripts/head.built.js" type="text/javascript" charset="utf-8"></script> 
+ </head> 
+ <body class="page-supplier-responsibility page-overview"> 
+  <aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }"></aside> 
+  <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"> 
+  <nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-US" data-store-key="SFX9YPYY9PPXCU9KH" data-store-locale="us" data-store-api="/[storefront]/shop/bag/status" data-search-locale="en_US" data-search-api="/search-services/suggestions/"> 
+   <div class="ac-gn-content"> 
+    <ul class="ac-gn-header"> 
+     <li class="ac-gn-item ac-gn-menuicon"> <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span> </span> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span> </span> </label> <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"> <span class="ac-gn-menuanchor-label">Open Menu</span> </a> <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"> <span class="ac-gn-menuanchor-label">Close Menu</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <ul class="ac-gn-list"> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-mac"> <a class="ac-gn-link ac-gn-link-mac" href="/mac/" data-analytics-title="mac"> <span class="ac-gn-link-text">Mac</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"> <a class="ac-gn-link ac-gn-link-ipad" href="/ipad/" data-analytics-title="ipad"> <span class="ac-gn-link-text">iPad</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"> <a class="ac-gn-link ac-gn-link-iphone" href="/iphone/" data-analytics-title="iphone"> <span class="ac-gn-link-text">iPhone</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-watch"> <a class="ac-gn-link ac-gn-link-watch" href="/watch/" data-analytics-title="watch"> <span class="ac-gn-link-text">Watch</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-tv"> <a class="ac-gn-link ac-gn-link-tv" href="/tv/" data-analytics-title="tv"> <span class="ac-gn-link-text">TV</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-music"> <a class="ac-gn-link ac-gn-link-music" href="/music/" data-analytics-title="music"> <span class="ac-gn-link-text">Music</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-support"> <a class="ac-gn-link ac-gn-link-support" href="/support/" data-analytics-title="support"> <span class="ac-gn-link-text">Support</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"> <a class="ac-gn-link ac-gn-link-search" href="/us/search" data-analytics-title="search" data-analytics-click="search" aria-label="Search apple.com"> <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge" aria-hidden="true"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"> 
+     <div class="ac-gn-searchview-content"> 
+      <form id="ac-gn-searchform" class="ac-gn-searchform" action="/us/search" method="get"> 
+       <div class="ac-gn-searchform-wrapper"> 
+        <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" name="" placeholder="Search apple.com" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false"> 
+        <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav"> 
+        <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Submit"></button> 
+        <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Clear Search"></button> 
+       </div> 
+      </form> 
+      <aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" data-string-noresults="Hit enter to search."></aside> 
+     </div> 
+     <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search"> <span class="ac-gn-searchview-close-wrapper"> <span class="ac-gn-searchview-close-left"></span> <span class="ac-gn-searchview-close-right"></span> </span> </button> 
+    </aside> 
+    <aside class="ac-gn-bagview" data-analytics-region="bag"> 
+     <div class="ac-gn-bagview-scrim"> 
+      <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span> 
+     </div> 
+     <div class="ac-gn-bagview-content" id="ac-gn-bagview-content"> 
+     </div> 
+    </aside> 
+   </div> 
+  </nav> 
+  <div id="ac-gn-curtain" class="ac-gn-curtain"></div> 
+  <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div> 
+  <script type="text/javascript" src="/ac/globalnav/2.0/en_US/scripts/ac-globalnav.built.js"></script> 
+  <input type="checkbox" id="ac-ln-menustate" class="ac-ln-menustate"> 
+  <nav id="sr-localnav" class="ac-ln  ac-ln-noborder" data-sticky lang="en-US" aria-label="Supplier Responsibility Navigation" role="navigation" data-analytics-region="local nav"> 
+   <div class="ac-ln-wrapper"> 
+    <div class="ac-ln-background ac-ln-background-no-transition"></div> 
+    <div class="ac-ln-content"> 
+     <span class="ac-ln-title"> <a href="/supplier-responsibility/" data-analytics-title="product index">Supplier Responsibility</a> </span> 
+     <div class="ac-ln-menu"> 
+      <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open"> <span class="ac-ln-menucta-anchor-label">Open Menu</span> </a> 
+      <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close"> <span class="ac-ln-menucta-anchor-label">Close Menu</span> </a> 
+      <div class="ac-ln-menu-tray"> 
+       <ul class="ac-ln-menu-items"> 
+        <li class="ac-ln-menu-item"> <a href="/supplier-responsibility/accountability/" class="ac-ln-menu-link" data-analytics-title="accountability">Accountability</a> </li> 
+        <li class="ac-ln-menu-item"> <a href="/supplier-responsibility/labor-and-human-rights/" class="ac-ln-menu-link" data-analytics-title="labor-and-human-rights">Labor &amp; Human Rights</a> </li> 
+        <li class="ac-ln-menu-item"> <a href="/supplier-responsibility/empowering-workers/" class="ac-ln-menu-link" data-analytics-title="empowering-workers">Empowering Workers</a> </li> 
+        <li class="ac-ln-menu-item"> <a href="/supplier-responsibility/environment-health-and-safety/" class="ac-ln-menu-link" data-analytics-title="environment-health-and-safety">Environment, Health &amp; Safety</a> </li> 
+        <li class="ac-ln-menu-item"> <a href="/supplier-responsibility/progress-report/" class="ac-ln-menu-link" data-analytics-title="progress-report">Reports</a> </li> 
+       </ul> 
+      </div> 
+      <div class="ac-ln-actions ac-ln-actions"> 
+       <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true"> 
+        <label for="ac-ln-menustate" class="ac-ln-menucta"> <span class="ac-ln-menucta-chevron"></span> </label> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </nav> 
+  <label id="ac-ln-curtain" for="ac-ln-menustate"></label> 
+  <script src="/metrics/ac-analytics/1.1/scripts/ac-analytics.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="/metrics/ac-analytics/1.1/scripts/auto-init.js" type="text/javascript" charset="utf-8"></script> 
+  <main class="main" role="main" data-page-type="supplier-responsibility"> 
+   <section class="section section-hero" data-analytics-section-engagement="name:supplier-responsibility-hero"> 
+    <div class="section-content"> 
+     <h1 class="visuallyhidden">Supplier Responsibility</h1> 
+     <p class="hero-headline large-11 large-centered medium-12"> There’s a right way to make products. It&nbsp;starts with the rights of the people who make them. </p> 
+     <p class="hero-intro large-10 large-centered medium-11 small-12"> Our suppliers employ more than 1.6 million people in 20 countries. And every one of those people deserves to be treated with dignity and respect. In our tenth annual Supplier Responsibility Report, we’re sharing the latest steps we’ve taken to create fair employment and safe working conditions throughout our supply chain. </p> 
+    </div> 
+    <figure class="section-background"></figure> 
+    <figcaption class="figcaption figcaption-overlay"> 
+     <div class="section-content"> 
+      <div class="large-3 medium-4 small-12">
+       A worker inspects lens components in Lianyungang, China.
+      </div> 
+     </div> 
+    </figcaption> 
+   </section> 
+   <section class="section section-hero section-accountability" data-analytics-section-engagement="name:supplier-responsibility-accountability"> 
+    <div class="section-content"> 
+     <div class="hero-headline large-9 large-centered medium-10 small-12"> 
+      <h2 class="eyebrow-hero">Accountability</h2> We set high standards, then help our suppliers meet them. 
+     </div> 
+     <p class="hero-intro large-9 medium-10 large-centered small-12"> Our Supplier Code of Conduct is one of the strictest in the industry. But we do more than just hold our suppliers accountable to these standards — we work with them and provide the support they need to operate responsibly. </p> 
+     <p> <a class="cta more" href="/supplier-responsibility/accountability/" data-analytics-region="Learn more">Learn more<span class="visuallyhidden"> about how Apple keeps suppliers accountable</span></a> </p> 
+    </div> 
+    <figure class="section-background"></figure> 
+    <figcaption class="figcaption figcaption-overlay dark"> 
+     <div class="section-content"> 
+      <div class="large-3 medium-4 small-12">
+       Workers in Hsinchu, Taiwan, have a meeting in a clean room.
+      </div> 
+     </div> 
+    </figcaption> 
+   </section> 
+   <section class="section section-hero section-labor-and-human-rights" data-analytics-section-engagement="name:supplier-responsibility-labor-and-human-rights"> 
+    <div class="section-content"> 
+     <div class="hero-headline large-10 large-centered medium-12"> 
+      <h2 class="eyebrow-hero">Labor and Human Rights</h2> Workers’ rights are human rights. 
+     </div> 
+     <p class="hero-intro large-9 medium-10 large-centered small-12"> We make sure every person who works in our suppliers’ facilities is treated fairly. So we partner closely with suppliers to end bonded labor, underage labor, and excessive work hours. We’re also going deep within our supply chain to make sure our materials are sourced responsibly. </p> 
+     <p> <a class="cta more" href="/supplier-responsibility/labor-and-human-rights/" data-analytics-region="Learn more">Learn more<span class="visuallyhidden"> about how Apple helps protect workers’ rights</span></a> </p> 
+    </div> 
+    <figure class="section-background"></figure> 
+    <figcaption class="figcaption figcaption-overlay dark"> 
+     <div class="section-content"> 
+      <div class="large-3 medium-4 small-12">
+       Apple iPod quality control and testing in Changshu, China.
+      </div> 
+     </div> 
+    </figcaption> 
+   </section> 
+   <section class="section section-hero section-empowering-workers theme-dark" data-analytics-section-engagement="name:supplier-responsibility-empowering-workers"> 
+    <div class="section-content"> 
+     <div class="hero-headline large-8 medium-10 large-centered small-12"> 
+      <h2 class="eyebrow-hero">Empowering Workers</h2> Preparing people for the workplace and beyond. 
+     </div> 
+     <p class="hero-intro large-9 large-centered small-12"> Workers may not have access to a quality education in some places where our products are made. So we provide training in factories to help workers be better informed, offer classes to help them take the next steps in their careers, and partner with vocational schools to increase the standard of education. </p> 
+     <p class="large-12 large-centered medium-7 small-12"> <a class="cta more" href="/supplier-responsibility/empowering-workers/" data-analytics-region="Learn more">Learn more<span class="visuallyhidden"> about how Apple empowers workers through education</span></a> </p> 
+    </div> 
+    <figure class="section-background"></figure> 
+    <figcaption class="figcaption figcaption-overlay"> 
+     <div class="section-content"> 
+      <div class="large-offset-9 large-3 medium-offset-8 medium-4 small-offset-0 small-12">
+       A facility employee practices calligraphy during a SEED class.
+      </div> 
+     </div> 
+    </figcaption> 
+   </section> 
+   <section class="section section-hero section-environment-health-and-safety" data-analytics-section-engagement="name:supplier-responsibility-environment-health-and-safety"> 
+    <div class="section-content"> 
+     <div class="hero-headline large-9 medium-10 large-centered small-12"> 
+      <h2 class="eyebrow-hero">Environment, Health and Safety</h2> Respecting the environments we work and live in. 
+     </div> 
+     <p class="hero-intro large-10 large-centered small-12"> Our suppliers’ facilities can have a significant impact on the planet and the people who make our products. So we collaborate with suppliers to enforce strict environmental policies and protect workers with the right equipment and safety measures. </p> 
+     <p class="large-12 large-centered medium-7 small-12 section-copy"> <a class="cta more" href="/supplier-responsibility/environment-health-and-safety/" data-analytics-region="Learn more">Learn more<span class="visuallyhidden"> about how Apple approaches environment, health and safety</span></a> </p> 
+     <div class="row section-block section-stats"> 
+      <div class="column large-offset-1 large-3 small-offset-0 small-8 small-centered"> 
+       <div class="stats-badge" data-component-list="Counter" data-counter="{&quot;delay&quot;: 0, &quot;to&quot;: 13.8}"> 
+        <figure class="badge badge-long"> 
+         <div class="badge-content" role="text"> 
+          <span class="badge-large offset-left counter"> <span class="label-text">13.8</span><span class="badge-half badge-half-bottom">K</span> </span> 
+          <span class="badge-small large-11 medium-12"><strong>tons of carbon emissions reduced</strong> in 2015</span> 
+         </div> 
+        </figure> 
+       </div> 
+      </div> 
+      <div class="column large-offset-1 large-3 small-offset-0 small-8 small-centered"> 
+       <div class="stats-badge" data-component-list="Counter" data-counter="{&quot;delay&quot;: 0.2, &quot;to&quot;: 310}"> 
+        <figure class="badge badge-long"> 
+         <div class="badge-content" role="text"> 
+          <span class="badge-large counter"> <span class="label-text">310</span> </span> 
+          <span class="badge-small"><strong>new safety professionals graduated</strong> from the EHS Academy in 2015</span> 
+         </div> 
+        </figure> 
+       </div> 
+      </div> 
+      <div class="column large-offset-1 large-3 small-offset-0 small-8 small-centered"> 
+       <div class="stats-badge" data-component-list="Counter" data-counter="{&quot;delay&quot;: 0.4, &quot;to&quot;: 3.8}"> 
+        <figure class="badge badge-long"> 
+         <div class="badge-content" role="text"> 
+          <span class="badge-large counter"> <span class="label-text">3.8</span><span class="badge-half badge-half-bottom">B</span> </span> 
+          <span class="badge-small medium-11 small-12"><strong>gallons of water saved</strong> since 2013</span> 
+         </div> 
+        </figure> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <figure class="section-background"></figure> 
+    <figcaption class="figcaption figcaption-overlay"> 
+     <div class="section-content"> 
+      <div class="large-3 medium-4 small-12">
+       Plastic reels in Shenzhen, China, are prepared for recycling.
+      </div> 
+     </div> 
+    </figcaption> 
+   </section> 
+   <section class="section section-hero section-progress-report" data-analytics-section-engagement="name:supplier-responsibility-progress-report"> 
+    <div class="section-content"> 
+     <figure class="icon-reports"></figure> 
+     <h2 class="hero-headline"> Progress Report </h2> 
+     <p class="hero-intro large-6 medium-9 small-10 large-centered"> Download this year’s progress report, read a letter from Apple Chief Operating Officer Jeff&nbsp;Williams, and view reports from previous years. </p> 
+     <p> <a class="cta more" href="/supplier-responsibility/progress-report/" data-analytics-region="Learn more">Learn more<span class="visuallyhidden"> about the 2016 progress report</span></a> </p> 
+    </div> 
+    <figure class="section-background"></figure> 
+    <figcaption class="figcaption figcaption-overlay dark"> 
+     <div class="section-content"> 
+      <div class="large-3 small-12">
+       Apple operations and engineering teams working in Shanghai, China.
+      </div> 
+     </div> 
+    </figcaption> 
+   </section> 
+   <section class="section section-send-comments" data-analytics-section-engagement="name:supplier-responsibility-send-comments"> 
+    <div class="section-content"> 
+     <p> </p>
+     <div class="title">
+      <figure class="image-feedback"></figure>
+     </div> We welcome your thoughts on Supplier Responsibility. 
+     <a class="more" href="/feedback/supplierresponsibility.html">Submit your feedback</a> 
+     <p></p> 
+    </div> 
+   </section> 
+  </main> 
+  <footer id="ac-globalfooter" class="no-js" lang="en-US" data-analytics-region="global footer" role="contentinfo" aria-labelledby="ac-gf-label"> 
+   <div class="ac-gf-content"> 
+    <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2> 
+    <nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation"> 
+     <a href="/" class="home ac-gf-breadcrumbs-home"> <span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true">?</span> <span class="ac-gf-breadcrumbs-home-label">Apple</span> <span class="ac-gf-breadcrumbs-home-chevron"></span> <span class="ac-gf-breadcrumbs-home-mask"></span> </a> 
+     <div class="ac-gf-breadcrumbs-path"> 
+      <ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList"> 
+       <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem"><span property="name">Supplier Responsibility</span>
+        <meta property="position" content="1"></li> 
+      </ol> 
+     </div> 
+    </nav> 
+    <nav class="ac-gf-directory with-5-columns" aria-label="Apple Directory" role="navigation"> 
+     <!--googleoff: all--> 
+     <div class="ac-gf-directory-column">
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-products"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-products"> <h3 class="ac-gf-directory-column-section-title">Shop and Learn</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-products" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/mac/">Mac</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/">iPad</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/">iPhone</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/watch/">Watch</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/tv/">TV</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/music/">Music</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/itunes/">iTunes</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipod/">iPod</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/buy_accessories">Accessories</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/giftcards">Gift Cards</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column">
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-storeservices"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-storeservices"> <h3 class="ac-gf-directory-column-section-title">Apple Store</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-storeservices" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/">Find a Store</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/geniusbar/">Genius Bar</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/">Workshops and Learning</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/youth/">Youth Programs</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://itunes.apple.com/app/apple-store/id375380948?mt=8">Apple Store App</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/special_deals">Refurbished</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/payment_plan">Financing</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/reuse_and_recycle">Reuse and Recycling</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Order Status</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/help">Shopping Help</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-education"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-education"> <h3 class="ac-gf-directory-column-section-title">For Education</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-education" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/">Apple and Education</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/educationrouting">Shop for College</a></li> 
+       </ul> 
+      </div> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-business"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-business"> <h3 class="ac-gf-directory-column-section-title">For Business</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-business" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/business/">iPhone in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/business/">iPad in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/business/mac/">Mac in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/business/">Shop for Your Business</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-accounts"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-accounts"> <h3 class="ac-gf-directory-column-section-title">Account</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-accounts" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://appleid.apple.com/us/">Manage Your Apple ID</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Apple Store Account</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://www.icloud.com">iCloud.com</a></li> 
+       </ul> 
+      </div> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-responsibility"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-responsibility"> <h3 class="ac-gf-directory-column-section-title">Apple Values</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-responsibility" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/environment/">Environment</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/supplier-responsibility/">Supplier Responsibility</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/accessibility/">Accessibility</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/privacy/">Privacy</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/diversity/">Inclusion and Diversity</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/connectED/">Education</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-about"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-about"> <h3 class="ac-gf-directory-column-section-title">About Apple</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-about" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/about/">Apple Info</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://www.apple.com/jobs/us/">Job Opportunities</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/pr/">Press Info</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://investor.apple.com">Investors</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/apple-events/">Events</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/hotnews/">Hot News</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/contact/">Contact Apple</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <!--googleon: all--> 
+    </nav> 
+    <section class="ac-gf-footer" vocab="http://schema.org/" typeof="Organization"> 
+     <div class="ac-gf-footer-shop" x-ms-format-detection="none">
+       More ways to shop: Visit an 
+      <a href="/retail/">Apple Store</a>, 
+      <span class="nowrap">call 1-800-MY-APPLE, or <a href="https://locate.apple.com/">find a reseller</a></span>. 
+     </div> 
+     <div class="ac-gf-footer-locale"> 
+      <a class="ac-gf-footer-locale-link" href="/choose-your-country/" title="Choose your country or region" aria-label="United States. Choose your country or region"><span class="ac-gf-footer-locale-flag" data-hires="false"></span>United States</a> 
+     </div> 
+     <div class="ac-gf-footer-legal"> 
+      <div class="ac-gf-footer-legal-copyright">
+       Copyright © 2016 Apple Inc. All rights reserved.
+      </div> 
+      <div class="ac-gf-footer-legal-links"> 
+       <a class="ac-gf-footer-legal-link" href="/privacy/privacy-policy/">Privacy Policy</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/internet-services/terms/site.html">Terms of Use</a> 
+       <a class="ac-gf-footer-legal-link" href="/us/shop/goto/help/sales_refunds">Sales and Refunds</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/">Legal</a> 
+       <a class="ac-gf-footer-legal-link" href="/sitemap/">Site Map</a> 
+      </div> 
+     </div> 
+     <meta content="Apple" property="name"> 
+     <meta content="1-800-692-7753" property="telephone"> 
+    </section> 
+    <script type="text/javascript" src="/ac/globalfooter/2.0/en_US/scripts/ac-globalfooter.built.js"></script> 
+   </div> 
+  </footer> 
+  <script src="http://images.apple.com/ac/libs/d3/3.5.15/d3.min.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/v/supplier-responsibility/n/built/scripts/main.built.js" type="text/javascript" charset="utf-8"></script>   
+ </body>
+</html>

@@ -1,0 +1,687 @@
+<!doctype html>
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9"> 
+  <meta charset="utf-8"> 
+  <meta name="Author" content="Apple Inc."> 
+  <meta name="robots" content="noodp"> 
+  <link rel="canonical" href="http://www.apple.com/diversity/"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalnav/2.0/en_US/styles/ac-globalnav.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalfooter/2.0/en_US/styles/ac-globalfooter.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/localnav/3.0/styles/ac-localnav.built.css"> 
+  <title>Apple - Diversity - Inclusion inspires innovation.</title> 
+  <meta property="analytics-track" content="Diversity - Index"> 
+  <meta property="analytics-s-channel" content="diversity"> 
+  <meta property="analytics-s-bucket-0" content="appleglobal,appleusother"> 
+  <meta property="analytics-s-bucket-1" content="apple{COUNTRY_CODE}global,apple{COUNTRY_CODE}other"> 
+  <meta property="analytics-s-bucket-2" content="apple{COUNTRY_CODE}global"> 
+  <meta property="analytics-s-bucket-store" content="applestoreww,applestoreamr,applestoreus"> 
+  <meta name="description" content="Great ideas can come from anywhere, or anyone. See what we’re doing to make tech more diverse."> 
+  <meta property="og:title" content="Apple - Inclusion inspires innovation."> 
+  <meta property="og:description" content="Great ideas can come from anywhere, or anyone. See what we’re doing to make tech more diverse."> 
+  <meta property="og:url" content="http://www.apple.com/diversity/"> 
+  <meta property="og:image" content="http://images.apple.com/diversity/images/og.jpg?201601141325"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:site_name" content="Apple"> 
+  <link rel="stylesheet" href="/wss/fonts?family=Myriad+Set+Pro&amp;v=1"> 
+  <link rel="stylesheet" href="http://images.apple.com/v/diversity/b/styles/diversity.built.css"> 
+  <link rel="stylesheet" href="http://images.apple.com/diversity/styles/diversity.built.css"> 
+  <script src="http://images.apple.com/v/diversity/b/scripts/head.built.js" type="text/javascript" charset="utf-8"></script> 
+ </head> 
+ <body class="page-diversity page-landing ac-nav-overlap"> 
+  <aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }"></aside> 
+  <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"> 
+  <nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-US" data-store-key="SFX9YPYY9PPXCU9KH" data-store-locale="us" data-store-api="/[storefront]/shop/bag/status" data-search-locale="en_US" data-search-api="/search-services/suggestions/"> 
+   <div class="ac-gn-content"> 
+    <ul class="ac-gn-header"> 
+     <li class="ac-gn-item ac-gn-menuicon"> <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span> </span> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span> </span> </label> <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"> <span class="ac-gn-menuanchor-label">Open Menu</span> </a> <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"> <span class="ac-gn-menuanchor-label">Close Menu</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <ul class="ac-gn-list"> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-mac"> <a class="ac-gn-link ac-gn-link-mac" href="/mac/" data-analytics-title="mac"> <span class="ac-gn-link-text">Mac</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"> <a class="ac-gn-link ac-gn-link-ipad" href="/ipad/" data-analytics-title="ipad"> <span class="ac-gn-link-text">iPad</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"> <a class="ac-gn-link ac-gn-link-iphone" href="/iphone/" data-analytics-title="iphone"> <span class="ac-gn-link-text">iPhone</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-watch"> <a class="ac-gn-link ac-gn-link-watch" href="/watch/" data-analytics-title="watch"> <span class="ac-gn-link-text">Watch</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-tv"> <a class="ac-gn-link ac-gn-link-tv" href="/tv/" data-analytics-title="tv"> <span class="ac-gn-link-text">TV</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-music"> <a class="ac-gn-link ac-gn-link-music" href="/music/" data-analytics-title="music"> <span class="ac-gn-link-text">Music</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-support"> <a class="ac-gn-link ac-gn-link-support" href="/support/" data-analytics-title="support"> <span class="ac-gn-link-text">Support</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"> <a class="ac-gn-link ac-gn-link-search" href="/us/search" data-analytics-title="search" data-analytics-click="search" aria-label="Search apple.com"> <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge" aria-hidden="true"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"> 
+     <div class="ac-gn-searchview-content"> 
+      <form id="ac-gn-searchform" class="ac-gn-searchform" action="/us/search" method="get"> 
+       <div class="ac-gn-searchform-wrapper"> 
+        <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" name="" placeholder="Search apple.com" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false"> 
+        <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav"> 
+        <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Submit"></button> 
+        <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Clear Search"></button> 
+       </div> 
+      </form> 
+      <aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" data-string-noresults="Hit enter to search."></aside> 
+     </div> 
+     <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search"> <span class="ac-gn-searchview-close-wrapper"> <span class="ac-gn-searchview-close-left"></span> <span class="ac-gn-searchview-close-right"></span> </span> </button> 
+    </aside> 
+    <aside class="ac-gn-bagview" data-analytics-region="bag"> 
+     <div class="ac-gn-bagview-scrim"> 
+      <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span> 
+     </div> 
+     <div class="ac-gn-bagview-content" id="ac-gn-bagview-content"> 
+     </div> 
+    </aside> 
+   </div> 
+  </nav> 
+  <div id="ac-gn-curtain" class="ac-gn-curtain"></div> 
+  <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div> 
+  <script type="text/javascript" src="/ac/globalnav/2.0/en_US/scripts/ac-globalnav.built.js"></script> 
+  <input type="checkbox" id="ac-ln-menustate" class="ac-ln-menustate"> 
+  <nav id="ac-localnav" class="no-js" lang="en-US" role="navigation" data-analytics-region="local nav" data-sticky> 
+   <div class="ac-ln-wrapper"> 
+    <div class="ac-ln-background"></div> 
+    <div class="ac-ln-content"> 
+     <h2 class="ac-ln-title"> <a href="/diversity/" data-analytics-title="product index">Inclusion &amp; Diversity</a> </h2> 
+     <div class="ac-ln-menu"> 
+      <div class="ac-ln-menu-tray"> 
+       <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open"> <span class="ac-ln-menucta-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close"> <span class="ac-ln-menucta-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-ln-menu-items"> 
+        <li class="ac-ln-menu-item"> <a href="/diversity/today/" class="ac-ln-menu-link" data-analytics-title="doing-today">What we’re doing today</a> </li> 
+        <li class="ac-ln-menu-item"> <a href="/diversity/tomorrow/" class="ac-ln-menu-link" data-analytics-title="changing-tomorrow">How we’re changing tomorrow</a> </li> 
+       </ul> 
+      </div> 
+      <div class="ac-ln-actions"> 
+       <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true"> 
+        <label for="ac-ln-menustate" class="ac-ln-menucta"> <span class="ac-ln-menucta-chevron"></span> </label> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </nav> 
+  <label id="ac-ln-curtain" for="ac-ln-menustate"></label> 
+  <script type="text/javascript" src="/ac/localnav/3.0/scripts/ac-localnav.built.js"></script> 
+  <script src="/metrics/ac-analytics/1.1/scripts/ac-analytics.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="/metrics/ac-analytics/1.1/scripts/auto-init.js" type="text/javascript" charset="utf-8"></script> 
+  <div id="main" class="main" role="main"> 
+   <section class="section section-hero" data-analytics-section-engagement="name:hero"> 
+    <div class="hero-image"> 
+     <figure class="image"></figure> 
+    </div> 
+    <div class="hero-text"> 
+     <h1 class="hero-header">Inclusion inspires innovation.</h1> 
+     <h4 class="hero-subheader hide-small">Great ideas push the world forward. And they can come from anywhere.&nbsp;At Apple, we rely on our&nbsp;employees’ diverse backgrounds and perspectives to spark innovation. So we’re hiring more inclusively,&nbsp;choosing partners who make diversity a priority, and creating opportunities for the next generation.</h4> 
+    </div> 
+    <div class="figcaption overlay"> 
+     <p>A group of hardware engineers at our campus in Cupertino, CA.</p> 
+    </div> 
+   </section> 
+   <section class="section section-hero-subheader hide show-small section-tan" aria-hidden="true"> 
+    <div class="container"> 
+     <h4 class="hero-subheader hero-subheader-small">Great ideas push the world forward. And they can come from anywhere.&nbsp;At Apple, we rely on our&nbsp;employees’ diverse backgrounds and perspectives to spark innovation. So we’re hiring more inclusively,&nbsp;choosing partners who make diversity a priority, and creating opportunities for the next generation.</h4> 
+    </div> 
+   </section> 
+   <section class="section section-letter letter-tim-cook" data-analytics-section-engagement="name:tim-letter"> 
+    <div class="section-information container letter"> 
+     <figure class="letter-image"></figure> 
+     <h2>A message from Tim&nbsp;Cook.</h2> 
+     <div class="letter-body"> 
+      <p>Apple has always been different. A different kind of company with a different view of the world. It’s a special place where we have the opportunity to create the best products on earth — products that change lives and help shape the future. It’s a privilege we hold dear.</p> 
+      <p>Diversity is critical to innovation and it is essential to Apple’s future. We aspire to do more than just make our company as diverse as the talent available to hire. We must address the broad underlying challenges, offer new opportunities, and create a future generation of employees as diverse as the world around us. We also aspire to make a difference beyond Apple.</p> 
+      <p>This means fostering diversity not just at Apple but throughout our entire ecosystem, from the customers we welcome in our stores to the suppliers and developers we work with. We are committed to fostering and advancing inclusion and diversity across Apple and all the communities we’re a part of. As one example, we’re proud that our spending on women- and minority-owned businesses exceeded $650 million last year.</p> 
+      <p>We want every person who joins our team, every customer visiting our stores or calling for support to feel welcome. We believe in equality for everyone, regardless of race, age, gender, gender identity, ethnicity, religion, or sexual orientation. That applies throughout our company, around the world with no exceptions.</p> 
+      <p>Last year we reported the demographics of our employees for the first time externally, although we have long prioritized diversity. We promised to improve those numbers and we’re happy to report that we have made progress. In the past year we hired over 11,000 women globally, which is 65 percent more than in the previous year. In the United States, we hired more than 2,200 Black employees — a 50 percent increase over last year — and 2,700 Hispanic employees, a 66 percent increase. In total, this represents the largest group of employees we’ve ever hired from underrepresented groups in a single year. Additionally, in the first 6 months of this year, nearly 50 percent of the people we’ve hired in the United States are women, Black, Hispanic, or Native American.</p> 
+      <p>As you can see, we’re working hard to expand our recruiting efforts so we continue hiring talented people from groups that are currently underrepresented in our industry. We’re supporting education with programs like the Thurgood Marshall College Fund to help students at historically black colleges and universities find opportunities in technology. ConnectED is bringing our technology to some of the most economically disadvantaged schools and communities in the United States, so more people have the opportunity to pursue their dreams. We’re also hosting hundreds of students at our annual developer conference, and we’re setting up new programs to help students learn to code.</p> 
+      <p>We are proud of the progress we’ve made, and our commitment to diversity is unwavering. But we know there is a lot more work to be done.</p> 
+      <p>Some people will read this page and see our progress. Others will recognize how much farther we have to go. We see both. And more important than these statistics, we see tens of thousands of Apple employees all over the world, speaking dozens of languages, working together. We celebrate their differences and the many benefits we and our customers enjoy as a result.</p> 
+     </div> 
+     <div class="letter-attribution"> 
+      <h5 class="attribution-name">Tim Cook</h5> 
+      <p class="attribution-title">CEO, Apple Inc.</p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-overview section-light-tan" data-analytics-section-engagement="name:overview"> 
+    <div class="section-information container"> 
+     <div class="row row-overview-intro"> 
+      <div class="column"> 
+       <h2>A look at our progress.</h2> 
+       <p>In the last 12 months, we’ve hired more diverse candidates than in any other year to date. It’s part of our commitment to creating a truly inclusive Apple.</p> 
+      </div> 
+     </div> 
+     <div class="row row-overview-header"> 
+      <div class="column text-center"> 
+       <hr class="section-divider"> 
+       <h5 class="section-header pinch-small">Percentage of new hires from the past year.</h5> 
+      </div> 
+      <ul class="counter-horizontal-list"> 
+       <li class="counter-item first-row"> 
+        <div class="information-data"> 
+         <div class="data-wrapper"> 
+          <div class="counter-static">
+           35
+           <span class="unit super">%</span>
+          </div> 
+         </div> 
+         <figure class="infographic-fallback progress-numbers-1"></figure> 
+         <div class="figcaption"> 
+          <h5 class="paragraph-font-bump">Women (Global)</h5> 
+         </div> 
+        </div> </li> 
+       <li class="counter-item first-row md-last"> 
+        <div class="information-data"> 
+         <div class="data-wrapper"> 
+          <div class="counter-static violet">
+           19
+           <span class="unit super">%</span>
+          </div> 
+         </div> 
+         <figure class="infographic-fallback progress-numbers-2"></figure> 
+         <div class="figcaption"> 
+          <h5 class="paragraph-font-bump">Asian (U.S.)</h5> 
+         </div> 
+        </div> </li> 
+       <li class="counter-item"> 
+        <div class="information-data"> 
+         <div class="data-wrapper"> 
+          <div class="counter-static indigo">
+           13
+           <span class="unit super">%</span>
+          </div> 
+         </div> 
+         <figure class="infographic-fallback progress-numbers-3"></figure> 
+         <div class="figcaption"> 
+          <h5 class="paragraph-font-bump">Hispanic (U.S.)</h5> 
+         </div> 
+        </div> </li> 
+       <li class="counter-item last"> 
+        <div class="information-data"> 
+         <div class="data-wrapper"> 
+          <div class="counter-static aqua">
+           11
+           <span class="unit super">%</span>
+          </div> 
+         </div> 
+         <figure class="infographic-fallback progress-numbers-4"></figure> 
+         <div class="figcaption"> 
+          <h5 class="paragraph-font-bump">Black (U.S.)</h5> 
+         </div> 
+        </div> </li> 
+      </ul> 
+     </div> 
+     <div class="row row-overview-header"> 
+      <div class="column text-center"> 
+       <hr class="section-divider"> 
+       <h5 class="section-header">Our company in 2015.</h5> 
+      </div> 
+     </div> 
+     <div class="row row-overview-data"> 
+      <div class="overview-data column first large-6 medium-12 text-center" aria-hidden="true"> 
+       <h5 class="paragraph-font-bump">Global Gender</h5> 
+       <div id="donut-graph-gender-2015" class="donut-graph-gender donut-graph-wrapper"> 
+        <nav class="togglenav" data-analytics-region="gallery"> 
+         <ul> 
+          <li><a href="#1" class="togglenav-button current" data-analytics-click="prop3:gender gallery 2015 - overall">Overall</a></li> 
+          <li><a href="#2" class="togglenav-button" data-analytics-click="prop3:gender gallery 2015 - tech">Tech</a></li> 
+          <li><a href="#3" class="togglenav-button" data-analytics-click="prop3:gender gallery 2015 - non-tech">Non-Tech</a></li> 
+          <li><a href="#4" class="togglenav-button" data-analytics-click="prop3:gender gallery 2015 - leadership">Leadership</a></li> 
+          <li><a href="#5" class="togglenav-button" data-analytics-click="prop3:gender gallery 2015 - retail">Retail</a></li> 
+          <li><a href="#6" class="togglenav-button" data-analytics-click="prop3:gender gallery 2015 - retail leadership">Retail Leadership</a></li> 
+         </ul> 
+        </nav> 
+        <div class="donut-graph" data-initial-stroke="dedede" data-graph-values="31,69|22,79|37,63|28,72|30,71|32,68" data-over-hundred="0,0|1,0|0,0|0,0|1,0|0,0" data-label-ids="donut-graph-gender-2015-label" data-colors-start="f7a8a6|8c3891" data-colors-end="d71d84|504099" data-line-width="8" data-segments="2"></div> 
+        <div class="counter-lookalike medium counter-gender-overall left"> 
+         <span id="donut-graph-gender-2015-label-2">69</span> 
+         <span class="unit super">%</span> 
+         <span class="counter-title left">Male</span> 
+        </div> 
+        <div class="counter-lookalike medium counter-gender-overall right"> 
+         <span id="donut-graph-gender-2015-label-1">31</span> 
+         <span class="unit super">%</span> 
+         <span class="counter-title right">Female</span> 
+        </div> 
+       </div> 
+       <div id="gallery-gender-2015-wrapper" class="infographic-fallback donut-fallback infographic-gallery-wrapper infographic-gallery-with-toggles"> 
+        <nav class="togglenav" data-analytics-region="gallery"> 
+         <ul> 
+          <li><a href="#gallery-gender-overall" class="togglenav-button active" data-analytics-click="prop3:gender gallery 2015 - overall">Overall</a></li> 
+          <li><a href="#gallery-gender-tech" class="togglenav-button" data-analytics-click="prop3:gender gallery 2015 - tech">Tech</a></li> 
+          <li><a href="#gallery-gender-non-tech" class="togglenav-button" data-analytics-click="prop3:gender gallery 2015 - non-tech">Non-Tech</a></li> 
+          <li><a href="#gallery-gender-leadership" class="togglenav-button" data-analytics-click="prop3:gender gallery 2015 - leadership">Leadership</a></li> 
+          <li><a href="#gallery-gender-retail" class="togglenav-button" data-analytics-click="prop3:gender gallery 2015 - retail">Retail</a></li> 
+          <li><a href="#gallery-gender-retail-leadership" class="togglenav-button" data-analytics-click="prop3:gender gallery 2015 - retail leadership">Retail Leadership</a></li> 
+         </ul> 
+        </nav> 
+        <div class="section-infographic-gallery gallery-gender"> 
+         <div id="gallery-gender-2015" class="gallery-inner gallery-infographic ac-gallery ac-gallery-fade"> 
+          <div id="gallery-gender-overall" class="section-gallery-image ac-gallery-content active"> 
+           <figure class="infographic-fallback donut-fallback gender-overall-2015"></figure> 
+          </div> 
+          <div id="gallery-gender-tech" class="section-gallery-image ac-gallery-content"> 
+           <figure class="infographic-fallback donut-fallback gender-tech-2015"></figure> 
+          </div> 
+          <div id="gallery-gender-non-tech" class="section-gallery-image ac-gallery-content"> 
+           <figure class="infographic-fallback donut-fallback gender-non-tech-2015"></figure> 
+          </div> 
+          <div id="gallery-gender-leadership" class="section-gallery-image ac-gallery-content"> 
+           <figure class="infographic-fallback donut-fallback gender-leadership-2015"></figure> 
+          </div> 
+          <div id="gallery-gender-retail" class="section-gallery-image ac-gallery-content"> 
+           <figure class="infographic-fallback donut-fallback gender-retail-2015"></figure> 
+          </div> 
+          <div id="gallery-gender-retail-leadership" class="section-gallery-image ac-gallery-content"> 
+           <figure class="infographic-fallback donut-fallback gender-retail-leadership-2015"></figure> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="overview-data column large-6 medium-12 text-center"> 
+       <h5 class="paragraph-font-bump">U.S. Race and Ethnicity</h5> 
+       <div id="bar-graph-ethnicity-race-2015" class="bar-graph-wrapper handheld-sideways" data-counters="true" data-counters-unit="%" data-counters-unitpos="super" data-handheld-sideways="true"> 
+        <nav class="togglenav"> 
+         <ul> 
+          <li><a href="#1" class="togglenav-button current" data-analytics-click="prop3:ethnicity gallery 2015 - overall">Overall</a></li> 
+          <li><a href="#2" class="togglenav-button" data-analytics-click="prop3:ethnicity gallery 2015 - tech">Tech</a></li> 
+          <li><a href="#3" class="togglenav-button" data-analytics-click="prop3:ethnicity gallery 2015 - non-tech">Non-Tech</a></li> 
+          <li><a href="#4" class="togglenav-button" data-analytics-click="prop3:ethnicity gallery 2015 - leadership">Leadership</a></li> 
+          <li><a href="#5" class="togglenav-button" data-analytics-click="prop3:ethnicity gallery 2015 - retail">Retail</a></li> 
+          <li><a href="#6" class="togglenav-button" data-analytics-click="prop3:ethnicity gallery 2015 - retail leadership">Retail Leadership</a></li> 
+         </ul> 
+        </nav> 
+        <div class="bar-graph ethnicity-race"> 
+         <div class="bar" data-graph-values="54|53|56|63|56|69"></div> 
+         <div class="bar" data-graph-values="18|25|11|21|7|5"></div> 
+         <div class="bar" data-graph-values="11|8|14|6|15|9"></div> 
+         <div class="bar" data-graph-values="8|7|10|3|11|5"></div> 
+         <div class="bar" data-graph-values="2|2|3|1|3|2"></div> 
+         <div class="bar" data-graph-values="1|1|1|0|1|1"></div> 
+         <div class="bar" data-graph-values="6|5|6|5|7|9"></div> 
+        </div> 
+        <div class="bar-graph-counters has-togglenav ethnicity-race"> 
+         <div class="caption"> 
+          <div class="counter">
+           54
+           <span class="unit super">%</span>
+          </div> White 
+         </div> 
+         <div class="caption"> 
+          <div class="counter">
+           17
+           <span class="unit super">%</span>
+          </div> Asian 
+         </div> 
+         <div class="caption"> 
+          <div class="counter">
+           11
+           <span class="unit super">%</span>
+          </div> Hispanic 
+         </div> 
+         <div class="caption"> 
+          <div class="counter">
+           8
+           <span class="unit super">%</span>
+          </div> Black 
+         </div> 
+         <div class="caption"> 
+          <div class="counter">
+           2
+           <span class="unit super">%</span>
+          </div> Multiracial 
+         </div> 
+         <div class="caption"> 
+          <div class="counter">
+           1
+           <span class="unit super">%</span>
+          </div> Other 
+         </div> 
+         <div class="caption"> 
+          <div class="counter">
+           6
+           <span class="unit super">%</span>
+          </div> Undeclared 
+         </div> 
+        </div> 
+       </div> 
+       <div id="gallery-race-2015-wrapper" class="infographic-fallback infographic-gallery-wrapper infographic-gallery-with-toggles"> 
+        <nav class="togglenav" data-analytics-region="gallery"> 
+         <ul> 
+          <li><a href="#gallery-race-overall" class="togglenav-button active" data-analytics-click="prop3:race gallery 2015 - overall">Overall</a></li> 
+          <li><a href="#gallery-race-tech" class="togglenav-button" data-analytics-click="prop3:race gallery 2015 - tech">Tech</a></li> 
+          <li><a href="#gallery-race-non-tech" class="togglenav-button" data-analytics-click="prop3:race gallery 2015 - non-tech">Non-Tech</a></li> 
+          <li><a href="#gallery-race-leadership" class="togglenav-button" data-analytics-click="prop3:race gallery 2015 - leadership">Leadership</a></li> 
+          <li><a href="#gallery-race-retail" class="togglenav-button" data-analytics-click="prop3:race gallery 2015 - retail">Retail</a></li> 
+          <li><a href="#gallery-race-retail-leadership" class="togglenav-button" data-analytics-click="prop3:race gallery 2015 - retail leadership">Retail Leadership</a></li> 
+         </ul> 
+        </nav> 
+        <div class="section-infographic-gallery gallery-race"> 
+         <div id="gallery-race-2015" class="gallery-inner gallery-infographic ac-gallery ac-gallery-fade"> 
+          <div id="gallery-race-overall" class="section-gallery-image ac-gallery-content active"> 
+           <figure class="infographic-fallback race-overall-2015"></figure> 
+          </div> 
+          <div id="gallery-race-tech" class="section-gallery-image ac-gallery-content"> 
+           <figure class="infographic-fallback race-tech-2015"></figure> 
+          </div> 
+          <div id="gallery-race-non-tech" class="section-gallery-image ac-gallery-content"> 
+           <figure class="infographic-fallback race-non-tech-2015"></figure> 
+          </div> 
+          <div id="gallery-race-leadership" class="section-gallery-image ac-gallery-content"> 
+           <figure class="infographic-fallback race-leadership-2015"></figure> 
+          </div> 
+          <div id="gallery-race-retail" class="section-gallery-image ac-gallery-content"> 
+           <figure class="infographic-fallback race-retail-2015"></figure> 
+          </div> 
+          <div id="gallery-race-retail-leadership" class="section-gallery-image ac-gallery-content"> 
+           <figure class="infographic-fallback race-retail-leadership-2015"></figure> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="row row-overview-summary"> 
+      <div class="column text-center"> 
+       <p class="callout">Gender and race and ethnicity data as of June 27, 2015.*</p> 
+      </div> 
+     </div> 
+     <div class="row row-overview-header"> 
+      <div class="column text-center"> 
+       <hr class="section-divider"> 
+       <h5 class="section-header">Our company in 2014.</h5> 
+      </div> 
+     </div> 
+     <div class="row row-overview-data"> 
+      <div class="overview-data column large-6 medium-12 text-center" aria-hidden="true"> 
+       <h5 class="paragraph-font-bump">Global Gender</h5> 
+       <figure class="infographic-fallback donut-fallback gender-2014"></figure> 
+       <div id="donut-graph-gender-2014" class="donut-graph-gender donut-graph-wrapper"> 
+        <div class="donut-graph" data-initial-stroke="dedede" data-graph-values="30,70" data-label-ids="donut-graph-gender-2014-label" data-colors-start="81d2eb|87398e" data-colors-end="5398d2|6f53a3" data-line-width="8" data-segments="2"></div> 
+        <div class="counter-lookalike medium counter-gender-overall gender-2014 left"> 
+         <span id="donut-graph-gender-2014-label-2">70</span> 
+         <span class="unit super">%</span> 
+         <span class="counter-title left">Male</span> 
+        </div> 
+        <div class="counter-lookalike medium counter-gender-overall gender-2014 right"> 
+         <span id="donut-graph-gender-2014-label-1">30</span> 
+         <span class="unit super">%</span> 
+         <span class="counter-title right">Female</span> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="overview-data column first large-6 medium-12 text-center"> 
+       <h5 class="paragraph-font-bump">U.S. Race and Ethnicity</h5> 
+       <figure class="infographic-fallback race-2014"></figure> 
+       <div id="bar-graph-ethnicity-race-2014" class="bar-graph-wrapper handheld-sideways" data-counters="true" data-counters-unit="%" data-counters-unitpos="super" data-handheld-sideways="true"> 
+        <div class="bar-graph data-2014"> 
+         <div class="bar" data-graph-values="55"></div> 
+         <div class="bar" data-graph-values="15"></div> 
+         <div class="bar" data-graph-values="11"></div> 
+         <div class="bar" data-graph-values="7"></div> 
+         <div class="bar" data-graph-values="2"></div> 
+         <div class="bar" data-graph-values="1"></div> 
+         <div class="bar" data-graph-values="9"></div> 
+        </div> 
+        <div class="bar-graph-counters data-2014"> 
+         <div class="caption"> 
+          <div class="counter">
+           55
+           <span class="unit super">%</span>
+          </div> White 
+         </div> 
+         <div class="caption"> 
+          <div class="counter">
+           15
+           <span class="unit super">%</span>
+          </div> Asian 
+         </div> 
+         <div class="caption"> 
+          <div class="counter">
+           11
+           <span class="unit super">%</span>
+          </div> Hispanic 
+         </div> 
+         <div class="caption"> 
+          <div class="counter">
+           7
+           <span class="unit super">%</span>
+          </div> Black 
+         </div> 
+         <div class="caption"> 
+          <div class="counter">
+           2
+           <span class="unit super">%</span>
+          </div> Multiracial 
+         </div> 
+         <div class="caption"> 
+          <div class="counter">
+           1
+           <span class="unit super">%</span>
+          </div> Other 
+         </div> 
+         <div class="caption"> 
+          <div class="counter">
+           9
+           <span class="unit super">%</span>
+          </div> Undeclared 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="row row-overview-summary"> 
+      <div class="column text-center"> 
+       <p class="callout">Gender data as of August 2, 2014; race and ethnicity data as of June 28, 2014.*</p> 
+       <p class="eeo-explanation">Our most recently filed Federal Employer Information Report EEO-1 is available for download below, representing employees as of August 2015. We make the document publicly available, but it’s not how we measure our progress. The EEO-1 has not kept pace with changes in industry or the American workforce over the past half century. We believe the information we report elsewhere on this site is a far more accurate reflection of our progress toward diversity.</p> 
+       <a href="http://images.apple.com/diversity/pdf/2015-EEO-1-Consolidated-Report.pdf" target="_blank" class="block pdf"> 
+        <figure class="drawing-download"></figure> <span class="block-link icon icon-downloadalt">Download our most recently filed Employer Information Report EEO-1</span> </a> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-bottomnav" data-analytics-section-engagement="name:bottomnav" data-analytics-region="learn more"> 
+    <div class="row bottomnav-container"> 
+     <a href="/diversity/today/" class="column block large-6 small-12"> 
+      <div class="bottomnav-image-container"> 
+       <figure class="bottomnav-image our-actions"></figure> 
+      </div> 
+      <div class="bottomnav-callout"> 
+       <h4>What we’re doing today</h4> 
+       <span class="block-link more">Learn more</span> 
+      </div> </a> 
+     <a href="/diversity/tomorrow/" class="column block large-6 small-12"> 
+      <div class="bottomnav-image-container"> 
+       <figure class="bottomnav-image our-partnerships"></figure> 
+      </div> 
+      <div class="bottomnav-callout"> 
+       <h4>How we’re changing tomorrow</h4> 
+       <span class="block-link more">Learn more</span> 
+      </div> </a> 
+    </div> 
+   </section> 
+   <section class="section section-accessibilitycta" data-analytics-section-engagement="name:accessibilitycta" data-analytics-region="learn more"> 
+    <a href="/accessibility/" class="block container"> 
+     <figure class="accessibility-image"></figure> 
+     <div class="accessibility-text"> 
+      <h5 class="paragraph-font-bump">Accessibility is at the heart of our products.</h5> 
+      <span class="block-link more">Learn more</span> 
+     </div> </a> 
+   </section> 
+   <section class="section section-social" data-analytics-section-engagement="name:social"> 
+    <div class="container social"> 
+     <div class="share-content"> 
+      <div id="share-wrapper" class="share-links"> 
+       <a class="share-facebook share icon icon-standalone icon-facebook" href="javascript:window.open('http://www.facebook.com/sharer/sharer.php?u=http://www.apple.com/diversity/%3fcid=fb-diversity','','width=555,height=368');void(0)">Facebook</a> 
+       <a class="share-twitter share icon icon-standalone icon-twitter" href="javascript:window.open('http://twitter.com/share?url=http://www.apple.com/diversity/%3fcid=tw-diversity&amp;text=Great%20ideas%20can%20come%20from%20anywhere,%20or%20anyone.%20See%20what%20we%20are%20doing%20to%20make%20tech%20more%20diverse.','','width=550,height=257');void(0)">Twitter</a> 
+       <a class="share-email share icon icon-standalone icon-mail" href="mailto:?subject=Apple%20-%20Inclusion%20inspires%20innovation.&amp;body=Great%20ideas%20can%20come%20from%20anywhere,%20or%20anyone.%20See%20what%20we%20are%20doing%20to%20make%20tech%20more%20diverse.%0Ahttp://www.apple.com/diversity/%3fcid=em-diversity">Email</a> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-citations" data-analytics-section-engagement="name:citations"> 
+    <div class="container"> 
+     <ul class="citations-list not-numbered"> 
+      <li class="citations-item">* Data supplied by Apple Human Resources. Totals may not add up to 100 percent due to rounding.</li> 
+     </ul> 
+    </div> 
+   </section> 
+  </div>
+  <!--/main--> 
+  <div class="footer-wrapper"> 
+   <footer id="ac-globalfooter" class="no-js" lang="en-US" data-analytics-region="global footer" role="contentinfo" aria-labelledby="ac-gf-label"> 
+    <div class="ac-gf-content"> 
+     <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2> 
+     <!-- Breadcrumbs --> 
+     <nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation"> 
+      <a href="/" class="home ac-gf-breadcrumbs-home"> <span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true">?</span> <span class="ac-gf-breadcrumbs-home-label">Apple</span> <span class="ac-gf-breadcrumbs-home-chevron"></span> <span class="ac-gf-breadcrumbs-home-mask"></span> </a> 
+      <div class="ac-gf-breadcrumbs-path"> 
+       <ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList"> 
+        <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem"><span property="name">Diversity</span>
+         <meta property="position" content="1"></li> 
+       </ol> 
+      </div> 
+     </nav> 
+     <nav class="ac-gf-directory with-5-columns" aria-label="Apple Directory" role="navigation"> 
+      <!--googleoff: all--> 
+      <div class="ac-gf-directory-column">
+       <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-products"> 
+       <div class="ac-gf-directory-column-section"> 
+        <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-products"> <h3 class="ac-gf-directory-column-section-title">Shop and Learn</h3> </label> 
+        <a href="#ac-gf-directory-column-section-state-products" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+        <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+        <ul class="ac-gf-directory-column-section-list"> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/mac/">Mac</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/">iPad</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/">iPhone</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/watch/">Watch</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/tv/">TV</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/music/">Music</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/itunes/">iTunes</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipod/">iPod</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/buy_accessories">Accessories</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/giftcards">Gift Cards</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ac-gf-directory-column">
+       <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-storeservices"> 
+       <div class="ac-gf-directory-column-section"> 
+        <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-storeservices"> <h3 class="ac-gf-directory-column-section-title">Apple Store</h3> </label> 
+        <a href="#ac-gf-directory-column-section-state-storeservices" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+        <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+        <ul class="ac-gf-directory-column-section-list"> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/">Find a Store</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/geniusbar/">Genius Bar</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/">Workshops and Learning</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/youth/">Youth Programs</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://itunes.apple.com/app/apple-store/id375380948?mt=8">Apple Store App</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/special_deals">Refurbished</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/payment_plan">Financing</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/reuse_and_recycle">Reuse and Recycling</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Order Status</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/help">Shopping Help</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ac-gf-directory-column"> 
+       <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-education"> 
+       <div class="ac-gf-directory-column-section"> 
+        <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-education"> <h3 class="ac-gf-directory-column-section-title">For Education</h3> </label> 
+        <a href="#ac-gf-directory-column-section-state-education" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+        <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+        <ul class="ac-gf-directory-column-section-list"> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/">Apple and Education</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/educationrouting">Shop for College</a></li> 
+        </ul> 
+       </div> 
+       <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-business"> 
+       <div class="ac-gf-directory-column-section"> 
+        <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-business"> <h3 class="ac-gf-directory-column-section-title">For Business</h3> </label> 
+        <a href="#ac-gf-directory-column-section-state-business" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+        <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+        <ul class="ac-gf-directory-column-section-list"> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/business/">iPhone in Business</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/business/">iPad in Business</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/business/mac/">Mac in Business</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/business/">Shop for Your Business</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ac-gf-directory-column"> 
+       <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-accounts"> 
+       <div class="ac-gf-directory-column-section"> 
+        <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-accounts"> <h3 class="ac-gf-directory-column-section-title">Account</h3> </label> 
+        <a href="#ac-gf-directory-column-section-state-accounts" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+        <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+        <ul class="ac-gf-directory-column-section-list"> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://appleid.apple.com/us/">Manage Your Apple ID</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Apple Store Account</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://www.icloud.com">iCloud.com</a></li> 
+        </ul> 
+       </div> 
+       <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-responsibility"> 
+       <div class="ac-gf-directory-column-section"> 
+        <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-responsibility"> <h3 class="ac-gf-directory-column-section-title">Apple Values</h3> </label> 
+        <a href="#ac-gf-directory-column-section-state-responsibility" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+        <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+        <ul class="ac-gf-directory-column-section-list"> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/environment/">Environment</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/supplier-responsibility/">Supplier Responsibility</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/accessibility/">Accessibility</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/privacy/">Privacy</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/diversity/">Inclusion and Diversity</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/connectED/">Education</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ac-gf-directory-column"> 
+       <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-about"> 
+       <div class="ac-gf-directory-column-section"> 
+        <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-about"> <h3 class="ac-gf-directory-column-section-title">About Apple</h3> </label> 
+        <a href="#ac-gf-directory-column-section-state-about" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+        <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+        <ul class="ac-gf-directory-column-section-list"> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/about/">Apple Info</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://www.apple.com/jobs/us/">Job Opportunities</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/pr/">Press Info</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://investor.apple.com">Investors</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/apple-events/">Events</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/hotnews/">Hot News</a></li> 
+         <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/contact/">Contact Apple</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <!--googleon: all--> 
+     </nav> 
+     <section class="ac-gf-footer" vocab="http://schema.org/" typeof="Organization"> 
+      <div class="ac-gf-footer-shop" x-ms-format-detection="none">
+        More ways to shop: Visit an 
+       <a href="/retail/">Apple Store</a>, 
+       <span class="nowrap">call 1-800-MY-APPLE, or <a href="https://locate.apple.com/">find a reseller</a></span>. 
+      </div> 
+      <div class="ac-gf-footer-locale"> 
+       <a class="ac-gf-footer-locale-link" href="/choose-your-country/" title="Choose your country or region" aria-label="United States. Choose your country or region"><span class="ac-gf-footer-locale-flag" data-hires="false"></span>United States</a> 
+      </div> 
+      <div class="ac-gf-footer-legal"> 
+       <div class="ac-gf-footer-legal-copyright">
+        Copyright © 2016 Apple Inc. All rights reserved.
+       </div> 
+       <div class="ac-gf-footer-legal-links"> 
+        <a class="ac-gf-footer-legal-link" href="/privacy/privacy-policy/">Privacy Policy</a> 
+        <a class="ac-gf-footer-legal-link" href="/legal/internet-services/terms/site.html">Terms of Use</a> 
+        <a class="ac-gf-footer-legal-link" href="/us/shop/goto/help/sales_refunds">Sales and Refunds</a> 
+        <a class="ac-gf-footer-legal-link" href="/legal/">Legal</a> 
+        <a class="ac-gf-footer-legal-link" href="/sitemap/">Site Map</a> 
+       </div> 
+      </div> 
+      <meta content="Apple" property="name"> 
+      <meta content="1-800-692-7753" property="telephone"> 
+     </section> 
+     <script type="text/javascript" src="/ac/globalfooter/2.0/en_US/scripts/ac-globalfooter.built.js"></script> 
+    </div> 
+   </footer> 
+  </div> 
+  <script src="http://images.apple.com/v/diversity/b/scripts/diversity.built.js" type="text/javascript" charset="utf-8"></script>   
+ </body>
+</html>

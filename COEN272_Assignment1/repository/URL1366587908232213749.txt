@@ -1,0 +1,897 @@
+<!doctype html>
+<html lang="en-US" class="en-us amr nojs en us">
+ <head> 
+  <meta name="viewport" content="width=1024"> 
+  <!-- Dynamic page title (extracted from the node, product, etc.) --> 
+  <title>Shipping &amp; Pickup  - Apple</title> 
+  <meta charset="utf-8"> 
+  <meta name="applicable-device" content="pc,mobile"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta http-equiv="Set-Cookie" content="as_sfa=Mnx1c3x1c3x8ZW5fVVN8Y29uc3VtZXJ8aW50ZXJuZXR8MHwwfDE=; path=/; domain=.apple.com; expires=Thu, 09-Apr-2026 04:33:41 GMT;"> 
+  <!-- Simple meta information about the page (in case some non-google search engine or social sharing partner is interested) --> 
+  <meta name="description" content="If your order totals more than $50, you'll receive free standard shipping in the United States. Find out more about shipments to Puerto Rico."> 
+  <meta name="robots" content="NOODP"> 
+  <link rel="canonical" href="http://www.apple.com/shop/help/shipping_delivery"> 
+  <script>
+		
+		if ( /(iPad).*OS [7-9].*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) )
+		{
+			var headNode = document.getElementsByTagName("head")[0];
+			var sbNode = document.createElement('meta');
+			sbNode.name = 'apple-itunes-app';
+			sbNode.content = 'app-id=375380948, app-argument=http%3A%2F%2Fwww.apple.com%2Fshop%2Fhelp%2Fshipping_delivery';
+			headNode.appendChild(sbNode);
+		}
+		
+		else if ( /(iPhone|iPod).*OS [6-9].*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) )
+		{
+			var headNode = document.getElementsByTagName("head")[0];
+			var sbNode = document.createElement('meta');
+			sbNode.name = 'apple-itunes-app';
+			sbNode.content = 'app-id=375380948, app-argument=http%3A%2F%2Fwww.apple.com%2Fshop%2Fhelp%2Fshipping_delivery';
+			headNode.appendChild(sbNode);
+		}
+		
+	</script> 
+  <script>
+	//replace nojs class with js on html element
+	(function(html){
+		html.className = html.className.replace(/\bnojs\b/,'js')
+	})(document.documentElement);
+</script> 
+  <!--[if gte IE 9]><!--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/base.css" media="screen, print"> 
+  <!--<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/base-ie8.css" media="screen, print" />
+<![endif]--> 
+  <!--[if gte IE 9]><!--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/help.css" media="screen, print"> 
+  <!--<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/help-ie8.css" media="screen, print" />
+<![endif]--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/Catalog/regional/amr/css/aos-overrides.css" media="screen, print"> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/Catalog/US/Images/css/aos-local.css" media=""> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-external/rel/us/external.css" media="screen, print"> 
+  <link rel="stylesheet" href="https://www.apple.com/wss/fonts?family=Myriad+Set+Pro&amp;weights=200,400,500,600,700&amp;v=1" media=""> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-external/rel/external.js"></script> 
+  <script>
+	window.irOn=true;
+</script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/base.js"></script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/help.js"></script> 
+  <script>
+	// Emits an extra bit to let FE know whether AI feedback is enabled.
+	Event.onLoad(window.apple.ai.init);
+</script> 
+  <script>
+        
+				window.chatButtonConfig = {
+					'disablePageLoadCall': false,
+					'onDemandChatType': false,
+					'infoURL': "http://www.apple.com/shop/client_info_chat",
+					'availURL': "http://www.apple.com/shop/button_availability?cs=product+selection&seg=consumer&css=shipping_delivery&pg=AOS%3A+help/shipping_delivery"
+				};
+			
+			
+			window.chatConfig = {"chat":{"page":[{"name":"WEB_CHAT_COUNTRY","value":"us"},{"name":"WEB_CHAT_LANGUAGE","value":"en"},{"name":"WEB_CHAT_GEO","value":"amr"},{"name":"WEB_CHAT_SEGMENT","value":"consumer"},{"name":"WEB_CHAT_SECTION","value":"product selection"},{"name":"WEB_CHAT_SUBSECTION","value":"shipping_delivery"},{"name":"WEB_CHAT_ORDERNUMBER","value":""},{"name":"WEB_CHAT_REFER","value":"AOS: help/shipping_delivery"}]}};
+													
+	</script> 
+  <!-- Template Based Off a Fragment --> 
+  <script type="text/mustache" id="{{chatForm}}">
+		
+			<form id="chatForm" action="{{url}}" target="chatWin" method="post">{{#inputs}}<input type={{type}} name="{{name}}" id="{{id}}" value="{{value}}" {{data "input"}} />{{/inputs}}</form>
+		
+	</script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/chat.js"></script> 
+  <style>
+
+.box-shipping .title-bar h2 {
+color: white;
+}
+
+.overlayScreen {
+z-index: 1;
+}
+
+.overlay2 {
+position: absolute;
+background: white;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+z-index: 99998!important;
+border: 1px solid #e1e1e1;
+-webkit-box-shadow: 0 0 25px rgba(0,0,0,.6);
+-moz-box-shadow: 0 0 25px rgba(0,0,0,.6);
+box-shadow: 0 0 25px rgba(0,0,0,.6);
+max-width: 950px;
+}
+
+.overlay2 .close,.overlay2 .close-alias {
+cursor: pointer;
+position: absolute;
+display: block;
+top: -12px;
+left: -12px;
+width: 28px;
+height: 28px;
+text-indent: -5000em;
+background: url(http://store.apple.com/rs/oocss/common/objects/img/boxes/action_sprites.png) no-repeat;
+z-index: 10002;
+}
+
+.overlay2 .close.loading,.overlay2 .close-alias.loading {
+background: url(http://store.apple.com/rs/oocss/common/objects/img/boxes/close-loader.gif) 1px -1px no-repeat;
+}
+
+.overlay2 .header,.overlay2 .overlay2-header {
+padding: 10px 18px 2px;
+-webkit-border-radius: 6px 6px 0 0;
+-moz-border-radius: 6px 6px 0 0;
+border-radius: 6px 6px 0 0;
+min-height: 40px;
+background: -webkit-gradient(linear,left top,left bottom,from(#f1f1f1),to(#d9d9d9));
+background-size: 10px 200px;
+}
+
+.overlay2 .content {
+padding: 25px 30px 20px;
+}
+
+.overlay2 .actions {
+text-align: center;
+padding-bottom: 20px;
+}
+
+.overlay2 .content .header {
+margin: -25px -30px 25px;
+}
+
+.overlay2 .content .actions {
+margin: 0 -30px;
+}
+
+.overlay2 .content .content {
+padding: 0;
+}
+
+.overlay2Screen,.overlay2 .screen {
+position: fixed;
+display: none;
+z-index: 99997;
+background: rgba(255,255,255,.7);
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+}
+
+.overlay2 .tab-hook,.overlay2 #tab-start,.overlay2 #tab-stop {
+left: -9999em;
+position: absolute;
+}
+
+
+.field-with-placeholder {
+    width: auto;
+}
+.field-with-placeholder .placeholder {
+    width: auto;
+}
+#postal-lookup-content .placeholder > span {
+    padding: 0 10px;
+}
+#postal-lookup-content .city-field select, #postal-lookup-content .district-field select, #postal-lookup-content .state-field select {
+    font-size: 12px;
+}
+</style> 
+ </head> 
+ <body class="ns"> 
+  <div class="metrics"> 
+   <!-- SiteCatalyst code version: H.8. Copyright 1997-2006 Omniture, Inc. More info available at http://www.omniture.com --> 
+   <noscript> 
+    <img alt="" width="1" height="1" src="http://metrics.apple.com/b/ss/applestoreWW,appleglobal,applestoreAMR,applestoreus/1/H.8--NS/0?pageName=No-Script:AOS%3A+help%2Fshipping_delivery"> 
+   </noscript> 
+   <script>
+            
+            var s_account = "applestoreWW,appleglobal,applestoreAMR,applestoreus";
+        </script> 
+   <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/omniture.js"></script> 
+   <script>
+
+	
+
+            var ametrics = new apple.metrics.Metrics({
+                isHome: false,
+                storeId: "wHF2F2PHCCCX72KDY",
+                evarDataNodes: true
+            });
+
+			if (!ametrics.getVar) {
+  				 ametrics.getVar = ametrics.getPageLoadMetricsDataForVariable || function() {return '';};
+			}
+			
+            
+            <!-- Page identification tags -->
+            
+            
+            s.pageName = ametrics.pageName("AOS: help/shipping_delivery");
+                        
+                        
+            s.server = "m10088660";
+            s.hier1 = "help/shipping_delivery";
+            s.charSet = "UTF-8";
+            s.currencyCode = "USD";
+            
+            s.prop4 = "D=g";
+            s.prop5 = navigator.platform + ((window.devicePixelRatio || 0) >= 2 ? " 2x" : "");
+            s.prop5 = s.prop5.toLowerCase();
+            
+            s.prop8 = "AOS: Help";
+            
+            s.prop19 = "AOS: US Consumer: help/shipping_delivery";
+            s.prop20 = "AOS: US Consumer";
+            
+            
+            
+            
+            
+            
+          
+            
+            
+            
+            
+            s.prop37 = ametrics.getProp37() || "";
+            s.prop40 = "10078";
+            
+            s.prop42 = ametrics.getProp42();
+            <!--  Changing to test the defensive code -->
+            s.eVar20 =  "" || ametrics.getVar('eVar20');
+            
+            
+            
+            
+            
+            
+                        
+            
+
+            
+                 s.products = ametrics.getProducts() || "";
+                s.events = "";
+            
+
+            
+
+            
+                s.eVar1 = ametrics.getEvar1() || "";
+                s.eVar2 = "";
+                s.eVar3 = "AOS: US Consumer";
+                s.eVar4 = "D=pageName"; 
+            
+            
+            
+			
+            
+
+            s.eVar19 = "D=c19";
+            
+            
+            
+            
+            
+                        
+			
+            
+                s.eVar30 = ametrics.getEvar30() || "www.apple.com";
+            
+ 			
+			s.eVar31 = ametrics.getEvar31();
+
+            s.linkInternalFilters = "javascript:,store.apple.com,secure.store.apple.com,secure1.store.apple.com,secure2.store.apple.com,epp.apple.com,secure1.epp.apple.com,storeint.apple.com,secure1.storeint.apple.com,www.apple.com,#";
+
+            if (ametrics.appendEvents) {
+                s.events = ametrics.appendEvents(s.events);
+            }
+            if (ametrics.getPageLoadTime) {
+                s.eVar9 = ametrics.getPageLoadTime();
+            }
+
+            
+			
+            ametrics.mark();            
+
+            <!-- DO NOT ALTER ANYTHING BELOW THIS LINE ! -->
+            var s_code = s.t();if(s_code)document.write(s_code);
+
+</script> 
+   <!-- End SiteCatalyst code version: H.8. --> 
+  </div>
+  <!-- /.metrics --> 
+  <script>
+		if(!/dssid2=[a-zA-Z0-9-]+(;|$)/.test(document.cookie) || !/as_dc=[a-zA-Z0-9-]+(;|$)/.test(document.cookie))
+		{
+			Event.onDomReady(function() {
+				var ie = document.createElement("IMG");
+				ie.src = '/shop/dc';
+				ie.width = ie.height = 1;
+				ie.style.display = "none";
+				ie.alt = "";
+				document.body.appendChild(ie);
+			});	
+		}
+	</script> 
+  <div id="page" class="clearfix"> 
+   <aside class="ac-gn-segmentbar" id="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }"></aside> 
+   <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"> 
+   <nav aria-label="Global Navigation" data-store-locale="us" data-store-api="http://www.apple.com/shop/bag/status" data-store-key="SJHJUH4YFCTTPD4F4" id="ac-globalnav" data-hires="false" data-analytics-region="global nav" lang="en-US" class="no-js" role="navigation" data-search-api="/search-services/suggestions/" data-search-locale="en_US"> 
+    <div class="ac-gn-content"> 
+     <ul class="ac-gn-header"> 
+      <li class="ac-gn-item ac-gn-menuicon"> <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span> </span> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span> </span> </label> <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"> <span class="ac-gn-menuanchor-label">Open Menu</span> </a> <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"> <span class="ac-gn-menuanchor-label">Close Menu</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-apple"> <a href="http://www.apple.com/" class="ac-gn-link ac-gn-link-apple" id="ac-gn-firstfocus-small" data-analytics-title="apple home" data-s-object-id="7227e391a25bfee0f0fac9f1e736e7bc" data-evar1="AOS: help/shipping_delivery |  | " data-evar30="help/shipping_delivery"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"> <a data-string-badge="Shopping Bag with Items" href="/shop/bag" data-analytics-title="bag" aria-label="Shopping Bag" class="ac-gn-link ac-gn-link-bag" data-analytics-click="bag"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+     </ul> 
+     <ul class="ac-gn-list"> 
+      <li class="ac-gn-item ac-gn-apple"> <a href="http://www.apple.com/" class="ac-gn-link ac-gn-link-apple" id="ac-gn-firstfocus" data-analytics-title="apple home" data-s-object-id="7227e391a25bfee0f0fac9f1e736e7bc" data-evar1="AOS: help/shipping_delivery |  | " data-evar30="help/shipping_delivery"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-mac"> <a href="http://www.apple.com/mac/" class="ac-gn-link ac-gn-link-mac" data-analytics-title="mac" data-s-object-id="7227e391a25bfee0f0fac9f1e736e7bc" data-evar1="AOS: help/shipping_delivery |  | " data-evar30="help/shipping_delivery"> <span class="ac-gn-link-text">Mac</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"> <a href="http://www.apple.com/ipad/" class="ac-gn-link ac-gn-link-ipad" data-analytics-title="ipad" data-s-object-id="7227e391a25bfee0f0fac9f1e736e7bc" data-evar1="AOS: help/shipping_delivery |  | " data-evar30="help/shipping_delivery"> <span class="ac-gn-link-text">iPad</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"> <a href="http://www.apple.com/iphone/" class="ac-gn-link ac-gn-link-iphone" data-analytics-title="iphone" data-s-object-id="7227e391a25bfee0f0fac9f1e736e7bc" data-evar1="AOS: help/shipping_delivery |  | " data-evar30="help/shipping_delivery"> <span class="ac-gn-link-text">iPhone</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-watch"> <a href="http://www.apple.com/watch/" class="ac-gn-link ac-gn-link-watch" data-analytics-title="watch" data-s-object-id="7227e391a25bfee0f0fac9f1e736e7bc" data-evar1="AOS: help/shipping_delivery |  | " data-evar30="help/shipping_delivery"> <span class="ac-gn-link-text">Watch</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-tv"> <a href="http://www.apple.com/tv/" class="ac-gn-link ac-gn-link-tv" data-analytics-title="tv" data-s-object-id="7227e391a25bfee0f0fac9f1e736e7bc" data-evar1="AOS: help/shipping_delivery |  | " data-evar30="help/shipping_delivery"> <span class="ac-gn-link-text">TV</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-music"> <a href="http://www.apple.com/music/" class="ac-gn-link ac-gn-link-music" data-analytics-title="music" data-s-object-id="7227e391a25bfee0f0fac9f1e736e7bc" data-evar1="AOS: help/shipping_delivery |  | " data-evar30="help/shipping_delivery"> <span class="ac-gn-link-text">Music</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-support"> <a href="http://www.apple.com/support/" class="ac-gn-link ac-gn-link-support" data-analytics-title="support" data-s-object-id="7227e391a25bfee0f0fac9f1e736e7bc" data-evar1="AOS: help/shipping_delivery |  | " data-evar30="help/shipping_delivery"> <span class="ac-gn-link-text">Support</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"> <a href="/search" data-analytics-title="search" aria-label="Search apple.com" class="ac-gn-link ac-gn-link-search" data-analytics-click="search"> <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"> <a data-string-badge="Shopping Bag with Items" href="/shop/bag" data-analytics-title="bag" aria-label="Shopping Bag" class="ac-gn-link ac-gn-link-bag" data-analytics-click="bag"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge" aria-hidden="true"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+     </ul> 
+     <aside role="search" class="ac-gn-searchview" id="ac-gn-searchview" data-analytics-region="search"> 
+      <div class="ac-gn-searchview-content"> 
+       <form method="get" action="/search" class="ac-gn-searchform" id="ac-gn-searchform"> 
+        <div class="ac-gn-searchform-wrapper"> 
+         <input autocapitalize="off" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" spellcheck="false" autocomplete="off" placeholder="Search apple.com" id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text"> 
+         <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav"> 
+         <button aria-label="Submit" class="ac-gn-searchform-submit" type="submit" id="ac-gn-searchform-submit"></button> 
+         <button aria-label="Clear Search" class="ac-gn-searchform-reset" type="reset" id="ac-gn-searchform-reset"></button> 
+        </div> 
+       </form> 
+       <aside data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" class="ac-gn-searchresults" id="ac-gn-searchresults" data-string-noresults="Hit enter to search."></aside> 
+      </div> 
+      <button aria-label="Close Search" class="ac-gn-searchview-close" id="ac-gn-searchview-close"> <span class="ac-gn-searchview-close-wrapper"> <span class="ac-gn-searchview-close-left"></span> <span class="ac-gn-searchview-close-right"></span> </span> </button> 
+     </aside> 
+     <aside class="ac-gn-bagview" data-analytics-region="bag"> 
+      <div class="ac-gn-bagview-scrim"> 
+       <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span> 
+      </div> 
+      <div class="ac-gn-bagview-content" id="ac-gn-bagview-content"> 
+      </div> 
+     </aside> 
+    </div> 
+   </nav> 
+   <div id="ac-gn-curtain" class="ac-gn-curtain"></div> 
+   <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div> 
+   <div class="localnav-wrapper localnav-headless gh-show-below"> 
+    <div class="localnav"></div> 
+   </div> 
+   <div id="primary" role="main"> 
+    <div class="box help-content"> 
+     <div class="box-content clearfix"> 
+      <div id="main-content-top">
+       <a name="shipdeliver"></a> 
+       <div class="titlestub-wrap"> 
+        <div class="titlestub"> 
+         <h1><span>Shipping &amp; Pickup</span></h1> 
+         <p> </p>
+         <p>You can purchase your items online and pick them up at an Apple Store, or have them delivered directly to your door. Here you'll find everything you need to know about delivery, pickup, and managing your order.</p> 
+         <p></p>
+        </div> 
+       </div> 
+       <div class="topic-area"> 
+        <p>Choose a topic:</p> 
+        <ul class="topics"> 
+         <li><a href="#shipping">Shipping &amp; Delivery</a></li> 
+         <li><a href="#pickup">Apple Store Pickup</a></li> 
+         <li><a href="#next">What's Next?</a></li> 
+         <li><a href="#text">Text Notifications</a></li> 
+         <li><a href="#delivery">Carrier Delivery Options</a></li> 
+         <li><a href="#policy">Shipping Policies</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="topic">
+       <a name="shipping"></a> 
+       <h3>Shipping &amp; Delivery</h3> 
+       <p>Shipping is free on all orders. Apple uses the best carriers in the business to make sure your order gets to you on time. From the Secure Checkout page you'll see your item description, price and delivery timing. </p> 
+       <h4>Free two-day shipping</h4> 
+       <p>Free two-day shipping is available on in-stock items. You can see in your bag if your item qualifies. Free two-day shipping is not available on customized Mac, engraved products, and for certain order types, including orders paid for with financing or by bank transfer. Cut-offs apply. See checkout for delivery dates.</p> 
+       <h4>Free next-day shipping on iPhone</h4> 
+       <p>Free next-day shipping is available on any in-stock iPhone. You can see in your bag if your item qualifies. Cut-offs apply. See checkout for delivery dates.</p> 
+       <p>Please note that we do not deliver to P.O. box addresses.</p> 
+       <h4>Guaranteed shipping services</h4> 
+       <p>Where available, you can also choose a faster delivery method for each item on your order, for an additional fee:</p> 
+       <ul type="none"> 
+        <li><strong> Courier Delivery</strong> ? Delivers on the same day, within two hours (available during business hours on select items, to certain zip codes)</li> 
+        <li><strong> Guaranteed Next Day Shipping</strong> ? Delivers in one business day </li> 
+        <li><strong> Guaranteed Next Day Shipping, before noon</strong> ? Delivers before noon the day after the product is available</li> 
+       </ul> 
+       <p>Delivery times vary according to your selected delivery address, availability of your items and the time of day you place your order. A signature may be required for delivery.</p> 
+       <h4>Available to Ship Time</h4> 
+       <p>The ‘Available to ship' time is an estimate of when the item will leave our warehouse. For example, if an item displays “Available to ship: 1 business day" the item will leave our warehouse 1 business day after you place your order. While Apple works hard to ship every order as quickly as possible, personalized, custom-configured, and more popular items may have longer ship times. </p> 
+       <p>Occasionally, we will confirm ship and delivery times, then learn we are unable to fulfill the order due to low product availability. In these rare cases, we will notify by email of the new ship and delivery times. </p> 
+       <h4>Shipping Cost</h4> 
+       <p>The cost for shipping is calculated and displayed on the Checkout page before you complete your order. Please note that applicable shipping fees apply to Apple Print Products. </p> 
+       <p>You can find delivery costs at checkout, on the Order Confirmation email and online when you view your order on the <a href="http://apple.com/orderstatus">Order Status</a> website. </p> 
+       <h4>Puerto Rico</h4> 
+       <ul type="none"> 
+        <li>Average transit time is 2-5 days.</li> 
+        <li>Carriers deliver to Culebra and Vieques twice per week.</li> 
+        <li>Overnight shipping is available to some zip codes for an additional cost.</li> 
+       </ul> 
+       <p class="toplink"><a href="#help-nav">Return to top</a></p> 
+      </div> 
+      <div class="topic">
+       <a name="pickup"></a> 
+       <h3>Apple Store Pickup</h3> 
+       <p>If this is your first time selecting an Apple Store, our product pages will display <strong>Available for pickup: Check availability</strong>. Click this link, enter the zip code or the city where you'd like to pick up the item, and click <strong>Search Stores</strong> to check availability. </p> 
+       <p>If you’ve previously selected an Apple Store, our product pages&nbsp;will display your chosen location. You can click <strong>See more stores</strong> to check pickup availability at a different Apple Store. </p> 
+       <p>Once you're ready to purchase, select <strong>Pick up</strong> at Checkout. If you would like to change the pickup location, select <strong>Change location</strong>. Then <strong>Continue</strong>. Items marked <strong>Available Today</strong> will usually be ready for pickup within an hour. You'll receive a notification email when your item is available to pick up. Please wait for this email before coming to the store. </p> 
+       <p>If you would like someone else to pick up your items, select <strong>Someone else will pick up these items</strong>. To pick up your items in an Apple Store, you will need to bring the card used for payment, or the order number and a valid photo ID. If you have designated an alternative pickup contact, they will need to bring the order number and a valid photo ID. </p> 
+       <p class="toplink"><a href="#help-nav">Return to top</a></p> 
+      </div> 
+      <div class="topic">
+       <a name="next"></a> 
+       <h3>What's Next?</h3> 
+       <h3>What's Next?</h3> 
+       <p>Once your order is placed, we send information about your order by email. The email you receive depends on whether you chose to have the items delivered or picked up. If you have multiple items on your order, you may receive additional emails for each item.</p> 
+       <p><strong>Order Acknowledgement</strong></p> 
+       <p>The order acknowledgement email provides a summary of the items on your order. If you chose to have an item delivered, the order acknowledgement will display the delivery address and a <strong>Delivers</strong> date. You can click this to view your order status in <a href="http://apple.com/orderstatus">online Order Status</a>. For pickup items on your order, the email will display your selected Apple Store location. If you have designated someone else to pick up the item for you, the email will also display your pickup contact.</p> 
+       <p><strong>Shipment Notification</strong></p> 
+       <p>If you chose to have an item delivered, we'll send a shipment notification email when the item leaves our warehouse. This email includes the carrier name, tracking number, and a delivery date. You can click the tracking number to track your package on the carrier's website.</p> 
+       <p>If you purchase an Apple Store Gift Card by email, we'll send you an email notification once we send the gift card to the recipient.</p> 
+       <p><strong>Pickup Notification</strong></p> 
+       <p>Once your items are available at the Apple Store, we'll send a pickup notification email.</p> 
+       <p><strong>Pickup Reminder</strong></p> 
+       <p>We'll send a reminder email if your item is still waiting to be picked up.</p> 
+       <p class="toplink"><a href="#help-nav">Return to top</a></p> 
+      </div> 
+      <div class="topic">
+       <a name="text"></a> 
+       <h3>Text Notifications</h3> 
+       <p>We send updates by text message, so you can stay updated on your delivery or pickup order. Just add your mobile number at checkout to receive these notifications. The number of messages you'll receive will vary depending on the orders you placed.</p>
+       <p> </p>
+       <p><strong>What to Expect</strong></p> 
+       <p>Once your order is shipped or available for pickup, we'll send you a text message. This will include your order number and a link to the tracking or pickup store information. We will also send you texts on the day of delivery or after your item has been delivered, depending on your selected delivery method, country and carrier. You may receive between 1-4 text messages per item on your order.</p> 
+       <p><strong>Changing Text Message Preferences</strong></p> 
+       <p>You can edit your mobile phone number at any time by signing in to your account and editing the delivery or pickup notification preferences for your order.</p> 
+       <p>Your privacy is important to Apple. So we've developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Visit <a href="http://www.apple.com/privacy">apple.com/privacy</a>. You can also review our Terms of Use at <a href="http://www.apple.com/legal/terms/site.html">apple.com/legal/terms/site.html</a>.</p> 
+       <p class="toplink"><a href="#help-nav">Return to top</a></p> 
+      </div> 
+      <div class="topic"> 
+       <a name="delivery"></a> 
+       <h3>Carrier Delivery Options</h3> 
+       <p>Apple chooses which carrier will deliver your shipment, and some of our shipments require a signature. Your Shipment Notification email will tell you whether a signature is required. The carrier may make subsequent delivery attempts before returning the shipment to Apple. Once your order has prepared for shipment or has shipped, we are unable to change the shipping address.</p> 
+       <p>If you are unavailable to provide a signature, Apple offers three easy options for you to receive your package.</p> 
+       <h4>Option 1: Pre-sign with Apple</h4> 
+       <p>There are two ways you can Pre-sign for your shipment: </p> 
+       <ol> 
+        <li>Click the Pre-sign for this shipment link in your Shipment Notification email </li>
+        <br> 
+        <li>Visit <a href="http://apple.com/orderstatus"> online Order Status</a> and click the "Pre-sign for this shipment" link</li> 
+       </ol> 
+       <p>Complete and print the Shipment Release Authorization form. Leave the form on your door for the carrier, prior to 8:00 a.m. on the day of expected delivery.</p> 
+       <p>You can specify a preferred delivery location (e.g., front door, back door, immediate neighbor, or building manager). If you provide an address other than the one specified on the package, someone must sign for the package.</p> 
+       <p>If you'd like to pre-sign for more than one shipment, simply print, sign, and leave a Shipment Release Authorization for each package.</p> 
+       <p>For safety and security reasons, all deliveries are subject to the driver's discretion. If you are unable to access the Pre-sign Form, call Apple Store Customer Service at 1-800-676-2775 and let us help!</p> 
+       <h4>Option 2: Sign to release your shipment to your address, an immediate neighbor, or a building manager </h4> 
+       <p>If you did not pre-sign for your package through Apple, and you were unavailable to provide a signature, the carrier will leave a Delivery Notice on your door after the first delivery attempt. </p> 
+       <p>You can sign the Delivery Notice, specify a preferred delivery location (e.g., front door, back door, immediate neighbor, building manager), and leave the notice on your door prior to the next delivery attempt.</p> 
+       <p>If you provide an address other than the one specified on the package, someone must sign for the package.</p> 
+       <h4>Option 3: Pick up package at carrier's local facility</h4> 
+       <p>After the first delivery attempt, you can request to pick up your package at our carrier's local facility. Call the number on the carrier's Delivery Notice and inform the carrier you'd like to pick up your package in person. </p> 
+       <p>To pick up your package from the carrier's local facility, you'll need:</p> 
+       <ul> 
+        <li>The Delivery Notice</li>
+        <br> 
+        <li>Government ID (driver's license, passport) that matches the package name and address</li>
+        <br> 
+        <li>Second ID with your name on it (credit card, social security card)</li> 
+       </ul> 
+       <p>The carrier can release the package only to the person included on the shipping address.</p> 
+       <p class="toplink"><a href="#help-nav">Return to top</a></p> 
+      </div> 
+      <div class="topic">
+       <a name="policy"></a> 
+       <h3>Shipping Policies</h3> 
+       <h4>Shopping in the U.S.</h4> 
+       <p>The Apple Online Store US ships items within the continental US, Alaska, Hawaii and Puerto Rico. No shipments can be made to PO Box addresses, United States territories, or addresses outside of the United States. You may not export any products purchased at the Apple Online Store.</p> 
+       <h4>Sales to U.S. territories</h4> 
+       <p>We are happy to ship your order to a friend or family member residing within the 50 United States if your billing address is within one of the following United States territories:</p> 
+       <ul> 
+        <li>American Samoa</li> 
+        <li>Armed Forces Africa</li> 
+        <li>Armed Forces Americas</li> 
+        <li>Armed Forces Canada</li> 
+        <li>Armed Forces Europe</li> 
+        <li>Armed Forces Middle East</li> 
+        <li>Armed Forces Pacific</li> 
+        <li>Guam</li> 
+        <li>Northern Mariana Islands</li> 
+        <li>Palau</li> 
+        <li>U.S. Virgin Islands</li> 
+       </ul> 
+       <p>Simply shop at the Apple Online Store U.S. with the payment method of your choice, and we'll ship the order to any address within the 50 United States.</p> 
+       <p>We regret that we cannot ship orders placed on the Apple Online Store U.S. to addresses outside of the 50 United States. Let us help you <a href="http://www.apple.com/buy/">find an Apple reseller</a> to assist you in purchasing Apple products locally.</p> 
+       <h4>Shopping outside the U.S.</h4> 
+       <p>There are more than 30 Apple Online Stores in countries around the globe. If you would like to purchase Apple products from outside the U.S., please see our <a href="http://www.apple.com/shop/Catalog/US/Images/intlstoreroutingpage.html">International Store Directory</a> to find out if an Apple Online Store serves your country.</p> 
+       <h4>Shopping for friends and family who reside outside of the U.S.</h4> 
+       <p>Would you like to buy a gift for a friend or family member residing in a different country? Visit the <a href="/shop/help/gifting" data-s-object-id="9096153c27f8406d05571b450926aab4" data-evar1="AOS: help/shipping_delivery | center-2 | Astro Link | 0 | AOS: help/gifting" data-evar30="help/shipping_delivery/center-2">Gifting</a> section of online Help for more information.</p> 
+       <h4>Sales to U.S. military personnel stationed abroad</h4> 
+       <p>If you would like to ship to an APO/FPO address, please see our <a href="http://www.apple.com/shop/open/shipping_apo" target="new">APO/FPO</a> page.</p> 
+       <p>Apple's products may be found at your local PX/BX AAFES store. Please contact <a href="http://www.aafes.com/">AAFES</a> to find out if your base carries Apple products.</p> 
+       <!-- <h4>Shipping promotions</h4>
+											<p>Occasionally, Apple may offer a shipping promotion on Apple-branded products. Shipping offers only apply to the promotional product, and are limited to two shipped items per customer during the promotional period.</p> --> 
+       <p class="toplink"><a href="#help-nav">Return to top</a></p> 
+      </div> 
+      <!-- BLANK --> 
+      <!-- BLANK --> 
+      <!-- BLANK --> 
+      <!-- BLANK --> 
+     </div>
+     <!-- /.box-content --> 
+    </div>
+    <!-- /.box --> 
+   </div>
+   <!-- /#primary --> 
+   <div id="navigation" class="rail"> 
+    <a name="help-nav"></a> 
+    <!-- Left slots --> 
+    <div class="box help-categories list-of-links"> 
+     <div class="title-bar"> 
+      <h2> Help Topics </h2> 
+     </div>
+     <!-- /.title-bar --> 
+     <div class="box-content clearfix"> 
+      <!-- <h2>Help Categories</h2> --> 
+      <div class="box navigation-list list-of-links help-categories"> 
+       <ul> 
+        <li><a href="/shop/help/your_account" data-s-object-id="ad83c2e6f4f220000f565b184c3888d6" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 0 | AOS: help/your_account" data-evar30="help/shipping_delivery/left-1">Your Account</a></li> 
+        <li><a href="/shop/help/returns_refund" data-s-object-id="eeaa0cac8bc2b71f17521954ee406145" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 1 | AOS: help/returns_refund" data-evar30="help/shipping_delivery/left-1">Returns &amp; Refunds</a></li> 
+        <li><a href="/shop/help/viewing_changing_orders" data-s-object-id="4b66faf102a32075f6682a7683ca4bb8" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 2 | AOS: help/viewing_changing_orders" data-evar30="help/shipping_delivery/left-1">Viewing &amp; Changing Orders</a></li> 
+        <li><a href="/shop/help/payments" data-s-object-id="a6a5c6db7dd85bb7c375da838eeea182" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 3 | AOS: help/payments" data-evar30="help/shipping_delivery/left-1">Payment &amp; Pricing</a></li> 
+        <li><a href="/shop/help/shipping_delivery" data-s-object-id="88cee291953a8fd07ca1050369653c9e" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 4 | AOS: help/shipping_delivery" data-evar30="help/shipping_delivery/left-1">Shipping &amp; Pickup</a></li> 
+        <li><a href="/shop/help/iphone" data-s-object-id="b5224ab92ae7ad8b36f17b8aca624eb2" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 5 | AOS: help/iphone" data-evar30="help/shipping_delivery/left-1">iPhone</a></li> 
+        <li><a href="/shop/help/downloadable_software" data-s-object-id="a7bf8be01af323f4c0cdbb3d72b42f0b" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 6 | AOS: help/downloadable_software" data-evar30="help/shipping_delivery/left-1">Apple Software</a></li> 
+        <li><a href="/shop/help/recycle" data-s-object-id="37e5df09ff008da752c8ec5293c1d73e" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 7 | AOS: help/recycle" data-evar30="help/shipping_delivery/left-1">Apple Recycling Program</a></li> 
+        <li><a href="/shop/help/online_store_exclusives" data-s-object-id="e750b2dcdb485c7fb20c0d4c7c5e369a" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 8 | AOS: help/online_store_exclusives" data-evar30="help/shipping_delivery/left-1">Online Store Exclusives</a></li> 
+        <li><a href="/shop/help/gifting" data-s-object-id="072cf15608293ebbebf0aa73d207d80e" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 9 | AOS: help/gifting" data-evar30="help/shipping_delivery/left-1">Gifting</a></li> 
+        <li><a href="/shop/help/shopping_experience" data-s-object-id="cbbf1ebb04f68a4de494da6c060e5375" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 10 | AOS: help/shopping_experience" data-evar30="help/shipping_delivery/left-1">Shopping Experience</a></li> 
+        <li><a href="/shop/help/questions_and_answers" data-s-object-id="82bee7e14f5c2654f4dad2083822c739" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 11 | AOS: help/questions_and_answers" data-evar30="help/shipping_delivery/left-1">Questions &amp; Answers</a></li> 
+        <li><a href="/shop/help/policies" data-s-object-id="40b503cc0c89c679e450808beb509a27" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 12 | AOS: help/policies" data-evar30="help/shipping_delivery/left-1">Policies</a></li> 
+        <li><a href="/shop/help/print_products" data-s-object-id="0bf7803aba8b35b34396b13fd2ed0fa2" data-evar1="AOS: help/shipping_delivery | left-1 | Astro Link | 13 | AOS: help/print_products" data-evar30="help/shipping_delivery/left-1">Apple Print Products</a></li> 
+        <!-- <li><a href="http://store.apple.com" astro:id="link" astro:url="node:standard/help/whatsnew">What’s New</a></li> --> 
+       </ul> 
+      </div> 
+     </div>
+     <!-- /.box-content --> 
+    </div>
+    <!-- /.box --> 
+    <div class="box quick-links list-of-links"> 
+     <div class="title-bar"> 
+      <h2> Quick Links </h2> 
+     </div>
+     <!-- /.title-bar --> 
+     <div class="box-content clearfix"> 
+      <!-- <h2>Quick Links</h2> --> 
+      <div class="box navigation-list list-of-links help-categories"> 
+       <ul> 
+        <li><a href="http://www.apple.com/support/">Product Support</a></li> 
+        <li><a href="http://www.apple.com/support/aperture/customerservice/">Aperture Support</a></li> 
+        <li><a href="http://www.apple.com/support/iphoto/customerservice/">iPhoto Support</a></li> 
+        <li><a href="http://www.apple.com/support/itunes/store/">iTunes Support</a></li> 
+        <li><a href="http://www.apple.com/support/icloud/">iCloud Support</a></li> 
+        <li><a href="http://www.apple.com/support/quicktime/">QuickTime Support</a></li> 
+       </ul>
+      </div> 
+     </div>
+     <!-- /.box-content --> 
+    </div>
+    <!-- /.box --> 
+   </div>
+   <!-- /#navigation --> 
+   <div class="as-footnotes as-globalfooter-transparent"> 
+    <div class="as-footnotes-content"> 
+     <div class="as-footnotes-sosumi"> 
+      <div class="footnotes"> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <footer class="as-globalfooter as-globalfooter-transparent"> 
+    <div class="as-globalfooter-content"> 
+     <div class="as-globalfooter-breadcrumbs"> 
+      <a href="http://www.apple.com/" class="as-globalfooter-breadcrumbs-home"> <span aria-hidden="true" class="as-globalfooter-breadcrumbs-homeicon icon-apple icon-standalone"></span> <span class="as-globalfooter-breadcrumbs-homelabel"> Apple </span> <span class="as-globalfooter-breadcrumbs-homechevron"></span> </a> 
+      <div class="as-globalfooter-breadcrumbs-path"> 
+       <ol class="as-globalfooter-breadcrumbs-list"> 
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="as-globalfooter-breadcrumbs-item"> <a itemprop="url" class="as-globalfooter-breadcrumbs-link" href="/shop/help" data-s-object-id="85eac2c0f2cbd03882ce5b4ec30fe763" data-evar1="AOS: help/shipping_delivery |  | Breadcrumb | 1 | Help" data-evar30="help/shipping_delivery/Breadcrumb"> <span itemprop="title">Help</span> </a> </li> 
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="as-globalfooter-breadcrumbs-item"> <span itemprop="title" class="breadcrumbs-title">Shipping &amp; Pickup</span> </li> 
+       </ol> 
+      </div> 
+     </div> 
+     <nav role="navigation" aria-label="More Apple Store Links"> 
+      <div class="as-globalfooter-directory as-globalfooter-with-5columns"> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> Shop and Learn </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/mac/" data-s-object-id="922f6d827e55669c4b6c287a8330ca98" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 0 | Mac" data-evar30="help/shipping_delivery/Footer_Navigation"> Mac <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/ipad/" data-s-object-id="1a7ad75a87c91f76921897c99b51065b" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 1 | iPad" data-evar30="help/shipping_delivery/Footer_Navigation"> iPad <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/iphone/" data-s-object-id="f0ee82e099b4628d7d183189220d8267" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 2 | iPhone" data-evar30="help/shipping_delivery/Footer_Navigation"> iPhone <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/watch/" data-s-object-id="1c62b2369717ae67a658e63012afe04b" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 3 | Watch" data-evar30="help/shipping_delivery/Footer_Navigation"> Watch <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/tv/" data-s-object-id="e39c46767582c1d48059bb046ba1bf61" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 4 | TV" data-evar30="help/shipping_delivery/Footer_Navigation"> TV <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/music" data-s-object-id="40ea7cb0d9ee078b3f2a47cdca4fbdce" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 5 | Music" data-evar30="help/shipping_delivery/Footer_Navigation"> Music <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/itunes" data-s-object-id="c81d249eedb8f64c8cb7308585d2ef8b" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 6 | iTunes" data-evar30="help/shipping_delivery/Footer_Navigation"> iTunes <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/ipod" data-s-object-id="4a29285ab96099f17941207a6673fbb9" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 7 | iPod" data-evar30="help/shipping_delivery/Footer_Navigation"> iPod <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/accessories/all-accessories" data-s-object-id="82de92c572a388fc187ab4de6b3c1047" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 8 | Accessories" data-evar30="help/shipping_delivery/Footer_Navigation"> Accessories <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/gift-cards" data-s-object-id="113f8e966bab9b5f95dc0c4217452640" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 9 | Gift Cards" data-evar30="help/shipping_delivery/Footer_Navigation"> Gift Cards <span class="a11y">(Shop and Learn)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> Apple Store </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail" data-s-object-id="6b1394a975d807e59c37b8d619fd4f78" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 0 | Find a Store" data-evar30="help/shipping_delivery/Footer_Navigation"> Find a Store <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail/geniusbar" data-s-object-id="6ccf19360b30ffc693c13e21d30d123a" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 1 | Genius Bar" data-evar30="help/shipping_delivery/Footer_Navigation"> Genius Bar <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail/learn" data-s-object-id="a6edfb1592cf53bad6541a9f379ea0dc" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 2 | Workshops and Learning" data-evar30="help/shipping_delivery/Footer_Navigation"> Workshops and Learning <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail/learn/youth" data-s-object-id="7ff579b03f07fac385db030fba0c9097" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 3 | Youth Programs" data-evar30="help/shipping_delivery/Footer_Navigation"> Youth Programs <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="https://itunes.apple.com/us/app/apple-store/id375380948?mt=8" data-s-object-id="49071551ede5fc105d4d72f88ec6e96b" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 4 | Apple Store App" data-evar30="help/shipping_delivery/Footer_Navigation"> Apple Store App <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/home/specialdeals" data-s-object-id="681140994d7bc972ee1009bfa8a4cc8a" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 5 | Refurbished" data-evar30="help/shipping_delivery/Footer_Navigation"> Refurbished <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/finance/PaypalFinancingLandingPage" data-s-object-id="0dcd91e100fe075d13ba7ab9e69dc83e" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 6 | Financing" data-evar30="help/shipping_delivery/Footer_Navigation"> Financing <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/reuse_and_recycle" data-s-object-id="5ab3546cd8f9991cfa0f389c65d7feff" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 7 | Reuse and Recycling" data-evar30="help/shipping_delivery/Footer_Navigation"> Reuse and Recycling <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="https://secure.store.apple.com/order/list" data-s-object-id="b575a675b5e871bbf352db7313b78c22" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 8 | Order Status" data-evar30="help/shipping_delivery/Footer_Navigation"> Order Status <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/help" data-s-object-id="4ae34c8f4fbb37ed16123b2e495ad07b" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 9 | Shopping Help" data-evar30="help/shipping_delivery/Footer_Navigation"> Shopping Help <span class="a11y">(Apple Store)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> For Education </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/education" data-s-object-id="84ad86c398c1e3a19b84a4530d94a53b" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 0 | Apple and Education" data-evar30="help/shipping_delivery/Footer_Navigation"> Apple and Education <span class="a11y">(For Education)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/home/education_routing" data-s-object-id="4406ade0662e83856465fc102776d2c3" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 1 | Shop for College" data-evar30="help/shipping_delivery/Footer_Navigation"> Shop for College <span class="a11y">(For Education)</span> </a> </li> 
+         </ul> 
+        </div> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> For Business </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section2"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/iphone/business" data-s-object-id="87320e86c547d98ced648d96e2cec9a9" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 0 | iPhone in Business" data-evar30="help/shipping_delivery/Footer_Navigation"> iPhone in Business <span class="a11y">(For Business)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/ipad/business" data-s-object-id="2444cba56d59d3c2e729b1d5c176484d" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 1 | iPad in Business" data-evar30="help/shipping_delivery/Footer_Navigation"> iPad in Business <span class="a11y">(For Business)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/business/mac" data-s-object-id="4417e53398f074da41011023107f430f" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 2 | Mac in Business" data-evar30="help/shipping_delivery/Footer_Navigation"> Mac in Business <span class="a11y">(For Business)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail/business" data-s-object-id="fbe6c66f069d06bb06a40ecf972978e6" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 3 | Shop for Your Business" data-evar30="help/shipping_delivery/Footer_Navigation"> Shop for Your Business <span class="a11y">(For Business)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> Account </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="https://appleid.apple.com" data-s-object-id="0ccc1eeb6cf536e60fa1d665c42dd84f" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 0 | Manage Your Apple ID" data-evar30="help/shipping_delivery/Footer_Navigation"> Manage Your Apple ID <span class="a11y">(Account)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/account/home" data-s-object-id="b7d7b0d8ae6fa1b840d53f2224a84dfb" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 1 | Apple Store Account" data-evar30="help/shipping_delivery/Footer_Navigation"> Apple Store Account <span class="a11y">(Account)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.icloud.com" data-s-object-id="d8740def93bd9057d51b3cce835d5094" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 2 | iCloud.com" data-evar30="help/shipping_delivery/Footer_Navigation"> iCloud.com <span class="a11y">(Account)</span> </a> </li> 
+         </ul> 
+        </div> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> Apple Values </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section2"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/environment" data-s-object-id="b9762ed934382bc9b17b639474a77a54" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 0 | Environment" data-evar30="help/shipping_delivery/Footer_Navigation"> Environment <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/supplier-responsibility" data-s-object-id="b3131d9b0c85e5590075004ff49e1e34" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 1 | Supplier Responsibility" data-evar30="help/shipping_delivery/Footer_Navigation"> Supplier Responsibility <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/accessibility" data-s-object-id="7cc82810470f420ec723d07eaff55f10" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 2 | Accessibility" data-evar30="help/shipping_delivery/Footer_Navigation"> Accessibility <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/privacy" data-s-object-id="455f59dab65be195b6858231acc09331" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 3 | Privacy" data-evar30="help/shipping_delivery/Footer_Navigation"> Privacy <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/diversity" data-s-object-id="9a870c5e4f28c928125d2e1ab1399917" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 4 | Inclusion and Diversity" data-evar30="help/shipping_delivery/Footer_Navigation"> Inclusion and Diversity <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/education/connectED" data-s-object-id="e18f1c13664c48e1f0a642f4c12de45e" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 5 | ConnectED" data-evar30="help/shipping_delivery/Footer_Navigation"> ConnectED <span class="a11y">(Apple Values)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> About Apple </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/about" data-s-object-id="828cce2d07c17081ad63f30749bac930" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 0 | Apple Info" data-evar30="help/shipping_delivery/Footer_Navigation"> Apple Info <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/jobs/us" data-s-object-id="c960a2a3511dd378a433a0c09cd14e9b" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 1 | Job Opportunities" data-evar30="help/shipping_delivery/Footer_Navigation"> Job Opportunities <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/pr" data-s-object-id="7f816d922461acc03226010706c31581" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 2 | Press Info" data-evar30="help/shipping_delivery/Footer_Navigation"> Press Info <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="https://investor.apple.com" data-s-object-id="fcf3a6941c4250d425d7f317427ef66b" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 3 | Investors" data-evar30="help/shipping_delivery/Footer_Navigation"> Investors <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/apple-events" data-s-object-id="aa9d8a1a9839e5202e0a10c3a2c17e39" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 4 | Events" data-evar30="help/shipping_delivery/Footer_Navigation"> Events <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/hotnews" data-s-object-id="5a8ed82517ac6799ba41d74eaee35a25" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 5 | Hot News" data-evar30="help/shipping_delivery/Footer_Navigation"> Hot News <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/legal" data-s-object-id="fc24c8b47f63822be8f683553134829d" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 6 | Legal" data-evar30="help/shipping_delivery/Footer_Navigation"> Legal <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/contact" data-s-object-id="e2d2f68598a4f5240ec76ed2723bc5d7" data-evar1="AOS: help/shipping_delivery |  | Footer Navigation | 7 | Contact Apple" data-evar30="help/shipping_delivery/Footer_Navigation"> Contact Apple <span class="a11y">(About Apple)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </nav> 
+     <div id="as-globalfooter-extended"> 
+      <div class="as-globalfooter-shop"> 
+       <p>More ways to shop: <span class="nowrap">Visit an <a href="http://www.apple.com/retail" data-s-object-id="bc2d74339577a304ed93e78edc5d1de2" data-evar1="AOS: help/shipping_delivery |  | Astro Link | 0 | AOS: retail" data-evar30="help/shipping_delivery/Astro_Link">Apple Store</a></span>, <span class="nowrap">call 1-800-MY-APPLE, or <a href="https://locate.apple.com" data-s-object-id="3947db31f4a041fce82cb0122edd62af" data-evar1="AOS: help/shipping_delivery |  | Astro Link | 1 | AOS: locate.apple.com" data-evar30="help/shipping_delivery/Astro_Link">find a reseller</a></span>.</p> 
+       <script>
+				Event.onLoad(function () {
+					apple.fcs.storeFcsData();
+	  			});
+			</script> 
+      </div> 
+      <div class="as-globalfooter-locale"> 
+       <a class="as-globalfooter-locale-link as-globalfooter-locale-country" href="http://www.apple.com/choose-your-country" data-s-object-id="2361770d80edd26176d42e9cb2b49108" data-evar1="AOS: help/shipping_delivery |  | Navigation Footer | 0 | Country Selector" data-evar30="help/shipping_delivery/Navigation_Footer"> <img class="ir as-globalfooter-locale-flag ir as-globalfooter-locale-flag ir" src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/c/ou/country/icon/country-icon-us?wid=16&amp;hei=16&amp;fmt=png-alpha&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=O8hjZ3" alt="" width="16" height="16" data-scale-params-2="wid=32&amp;hei=32&amp;fmt=png-alpha&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=O8hjZ3"> <span class="as-globalfooter-locale-name">United States</span> </a> 
+      </div> 
+      <div class="as-globalfooter-legal"> 
+       <p> Copyright © 2016 Apple Inc. All rights reserved. </p> 
+       <p> <a class="as-globalfooter-legal-link" href="http://www.apple.com/privacy">Privacy Policy</a> <a class="as-globalfooter-legal-link" href="http://www.apple.com/legal/terms/site.html">Terms of Use</a> <a class="as-globalfooter-legal-link" href="/shop/open/salespolicies">Sales and Refunds</a> 
+        <!-- /.sosumi --> <a class="as-globalfooter-legal-link" href="/shop/browse/sitemap" data-s-object-id="3f5a7f7da24bf2b0c3501e5fb1a713e0" data-evar1="AOS: help/shipping_delivery |  | Navigation Footer | 3 | Sitemap" data-evar30="help/shipping_delivery/Navigation_Footer"> Site Map </a> </p> 
+      </div> 
+     </div>
+     <!-- /.as-globalfooter-extended" --> 
+    </div>
+    <!-- /.as-globalfooter-content" --> 
+   </footer>
+   <!--/footer" --> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{WebOverlay}}">
+		
+			<div class="overlay" tabindex="-1" {{#if isAriaDialog}}role=alertdialog aria-describedby=overlayContent{{uid}}    aria-labelledby=overlayHeading{{uid}}{{/if}}><span class="chrome tl"></span><span class="chrome tr"></span><span class="chrome top"></span><span class="chrome left"></span><span class="chrome right"></span><span class="chrome bottom"></span><span class="chrome bl"></span><span class="chrome br"></span><span class="chrome center"></span><div class="container"><div class="content" id="overlayContent{{uid}}" style="{{{as.WebOverlay.contentSize width height}}}">{{#if contentIsHtml}}{{{content}}}{{else}}{{#if contentIsTemplate}}{{{as.include content}}}{{else}}{{content}}{{/if}}{{/if}}</div>{{#if recoveryOptions.length}}<ul class="buttons recoveryOptions">{{#recoveryOptions}}<li><button {{data 'recoveryOption'}}>{{text}}</button></li>{{/recoveryOptions}}</ul>{{/if}}</div>{{#if canClose}}<button class="close">{{close}}</button>{{/if}}</div>
+		
+	</script> 
+   <!-- /.apple-footer --> 
+   <script>dciddstr = 'b76ec9cd49da80ad1cf3219bf33bfe1904da1cfed58efd23b14e097e99d139785999b293810886f30346cbe8088f944a45c882c653a873804f64b158b4e0c4327232160fd5b3e5aed54d5396598a597349ec25879f0ccd90ac0592a37df289a26ef27f6b0ec76f62579ae039eab6289446f0d1ded1bf448bb26ee1834d93b77af801de7d72d2544cacfc78e005f7669a4e3b533531db4d40cea9f3d4c966a7a4086aabd6004575b87dc9f348ec108dae0e96054283898b3078ab568639a8ddb78278effa2947f6cc342b4a485a82cccc96b67fc4e62c87fd9e473d4332c2c6eab04485701622410dabb73dda8c4d87c0cb1073a1b8d5e58f039ce30d7787d9f45d0c4c7df51063e7e177f34da228c2029ca2cdbc6012620c5eee7b303789b0f2230ffe84d5685427fa1f22a4ce56745809f2cf356a8a8dc510ef28ffde88e106e3ff1f55e13755a492d161628566c26904b65befe488868fbba856c02b4df9336ee3858357a8e8521bac640fbf3949d538656e4c56391e6f1aaa8e1625a99396bdd9f4b9fd39a4fbc92934e69db38dddc17f78baa886a6a5732bced46a656877bf9ad7c8a0aa2be6f1c1affad529afe28cb44dd4912362a23615e2138dec9e0d83f1dd48d9d2e93b2c27a484bf89be13670e31d8bdb2e4b798ab014b5974628af31fc78e86504955fcb622e723897636574cfcf273022bdd071936826224e9c868d6076472fbfe892b51c5cbb2491c0f82abc50fe2779be1359b2a55c4914e586e6edb764aa7161ca89a1bf99101008afe6c36feb4fe39ce3e75d79a56d989c6cfc45379aec441361719573b1e31330e12c89899fb214f7286b6e3086b154b2e33d1ad222e323376ce8bf89d4669fbaef09a663c67bfecb98f8356d3a5ed28c8bea1ffc9a5e72ef571653be9c3b95ff3cc449ca4b100de26';</script> 
+   <script>dciddstr = '393b7d80a92747ef0fdb9a399a510dda533da0613fb5a6ae341eb3a43b31f5d6813a60a54f1d1ed9f312f2a0e88fef2a3ebc26d6902758fd8cc8f82b27893d56e981321aac14bf2c6cb907db5a3378972c617dcd4c2c5c5c1be12141c2f1d1680caa310aadcdad81c3670209a201ed57cd926e14b5b72b9a14dad7b1e19c7cb577a063e50907d30295466c05380566ea5f4f8e98836982e9bc97b519fd25df89bd17c16c5c0c33d11b20fd4b132d866be0dfb451c302e0496fafb37d3e83c9b2a74cde1f63414552931fc11101bf57859349cb9b4574268e78ac54e9592ea571c58cc65e6064a648ef882183c33ac6e451de06cba3bf1f2f7cb607c9ab662835f950dffe81e6e5ccdf67bae84d34c71d0a8ef31426a98a0262e012d8d73c5e24155fa578d99336aedf77abc5a932eaa8fb47aa79383fd18d72f52d477560e61edbe62ce2bab3f6e4cd38b3115574e796ef7becf3724c2e4b7bfd0b9093c3d1b75916972b1b04e4308490916f0812bd8785a7fbc259ce9579d6761d9fd37da4b91b3935b02a12080913b12c1fd9cfb0bfb9c9721462462f9d3735fa44f3c14cace4f5a0edae43d178afe9ae5befb7abc4999ee077083134b2ad33c2b554e00b0602d9a6c930da17b34d1560930807c8556f7abe53c5999fee9c5b0f2ace823b3fc90140fff72739ee397d337cfa364f836796a8a017e7bd229543c3ba66c48f2f4e610ba039e007432222881129e5d4b026fe858d7d5819fa94b7610cb75cc6042d43d22f5483a7ea982550097983ac412d593f9ef7102032367446279d0a6663168095bfe13dad4fb7590d454c0cab768682b3c7d0501ea31134537929dab671b43aad4b67fcda80e7eea11c30dcc91210cd34d108bc107f073e458c81bb1a60ccc39279511eef5775e801255597bf2dbbe55d5fdec3248b';</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{WebOverlayError}}">
+		
+			<div class="blue-header-popup">    <div class="header">        <h2>${translate.overlay.error.header}</h2>    </div>    <div class="content clearfix">        <p><strong>${translate.overlay.error.description}</strong></p>        <div class="error-actions">            <button class="cancel continue"><span class="replaced">${translate.store.button_text.continue}</span></button>        </div>    </div>    <div class="footer empty-footer">        <p>&nbsp;</p>    </div></div>
+		
+	</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{Bubble}}">
+		
+			<div class="bubble {{#isBelow}}below{{/isBelow}}">    <span class="chrome tl"></span>    <span class="chrome tr"></span>    <span class="chrome top"></span>    <span class="chrome left"></span>    <span class="chrome right"></span>    <span class="chrome bottom"></span>    <span class="chrome bl"></span>    <span class="chrome br"></span>    <span class="chrome center"></span>    <div class="container" style="{{{as.WebOverlay.contentSize width height}}}">        <div class="content" id="overlayContent{{uid}}">            {{#if contentIsHtml}}                {{{content}}}            {{else}}                {{content}}            {{/if}}        </div>    </div>    <span class="chrome arrow"></span></div>
+		
+	</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{AsTextBoxMatcher}}">
+		
+			<ul role="listbox">{{#model}}    <li role="option" aria-selected="{{selected}}" class="item            {{#selected}}selected{{/selected}}" id="{{id}}" {{data 'item'}}>        <span title="{{item}}"><a>{{item}}</a></span>    </li>{{/model}}</ul>
+		
+	</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{OverlayComponent}}">
+		
+			<materializer data-uid='{{dataUid}}-mat'
+        data-shown    ='materializerShown'
+        data-show-done='dataShowDone'
+        data-hide-done='dataHideDone'
+        class='ase-overlay-materializer{{#if dataSheet}} ase-overlay-materializersheet{{/if}}'>
+    {{#if dataHasScreen}}
+        <computed-height data-type="document" data-recompute="recomputeScreen"
+                         class="ase-overlay-screen"></computed-height>
+    {{/if}}
+    <div class="ase-overlay {{#if dataSheet}}ase-overlay-sheet{{else}}ase-overlay-popup{{/if}}">
+        <content />
+    </div>
+</materializer>
+		
+	</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{InputPlaceholder}}">
+		
+			{{#if dataPlaceholder}}
+    <label {{#dataId}}for="{{.}}"{{/dataId}}>
+        {{dataPlaceholder}}
+    </label>
+{{/if}}
+{{#if dataTextarea}}
+    <textarea 
+        {{#dataId}}id="{{.}}"{{/dataId}}
+        {{#dataClass}}class="{{.}}"{{/dataClass}}
+        {{#dataDisabled}}disabled{{/dataDisabled}}
+        {{#dataAriaLabelledby}}aria-labelledby="{{.}}"{{/dataAriaLabelledby}}
+        {{#dataMaxlength}}maxlength="{{.}}"{{/dataMaxlength}}></textarea>
+{{else}}
+    <input
+        {{#dataId}}id="{{.}}"{{/dataId}}
+        {{#dataClass}}class="{{.}}"{{/dataClass}}
+        {{#dataDisabled}}disabled{{/dataDisabled}}
+        {{#dataAriaLabelledby}}aria-labelledby="{{.}}"{{/dataAriaLabelledby}}
+        {{#dataType}}type="{{.}}"{{/dataType}}
+        {{#dataPattern}}pattern="{{.}}"{{/dataPattern}}
+        {{#dataMaxlength}}maxlength="{{.}}"{{/dataMaxlength}} />
+{{/if}}
+		
+	</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{AutoComplete}}">
+		
+			<input  type="text" role="combobox"
+
+    aria-owns="{{dataUid}}_nl_ml"
+    aria-autocomplete="list"
+    aria-expanded="{{menuShowing}}"
+    {{#selId}}aria-activedescendant='{{.}}'{{/selId}}
+
+    value="{{chosenValue}}"
+    data-ase-nl-input="{{dataUid}}_nl"
+
+    {{#dataInputId}}          id="{{.}}"{{/dataInputId}}
+    {{#dataInputClass}}       class="{{.}}"{{/dataInputClass}}
+    {{#dataInputName}}        name="{{.}}"{{/dataInputName}}
+    {{#dataInputMaxlength}}   maxlength="{{.}}"{{/dataInputMaxlength}}
+    {{#dataInputPlaceholder}} placeholder="{{.}}"{{/dataInputPlaceholder}}
+    {{#dataInputAutocomplete}}autocomplete="{{.}}"{{/dataInputAutocomplete}}
+/>
+
+<navigable-list id="{{dataUid}}_nl" data-uid="{{dataUid}}_nl"
+        data-shown="menuShowing" data-selected="selected"
+        data-value="chosenValue"
+        {{#if dataUpdateOnNavigation}}data-update-on-navigation{{/if}} >
+    <ul>{{#results}}
+        <li id="{{dataUid}}_li_{{i}}" data-ase-nl-item="{{i}}" 
+                role="option" aria-selected="false">
+            <span class="ase-autocomplete-start">{{#if vStart}}{{vStart}}{{/if}}</span>{{#if vMatch}}<{{dataHighlightOnMatch}} class="ase-autocomplete-match {{dataHighlightClass}}">{{vMatch}}</{{dataHighlightOnMatch}}>{{/if}}{{#if vEnd}}<span class="ase-autocomplete-end">{{vEnd}}</span>{{/if}}
+        </li>
+    {{/results}}</ul>
+</navigable-list>
+		
+	</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{NavigableList}}">
+		
+			<materializer data-uid="{{dataUid}}_ml" role="listbox" id="{{dataUid}}_ml"
+    data-shown="dataShown">
+        <content/>
+</materializer>
+		
+	</script> 
+  </div>
+  <!-- /#page --> 
+  <script>
+   (function (window, $, as, can, undefined) {
+            /*for NPI overlay focus */
+            can.view.attr("data-focus-when", function( el, attrData ) {
+                var handler = function(ev, newVal, oldVal){
+                    if (newVal) {
+                        setTimeout(function() { el.focus(); }, 1000);
+                    }
+                };
+
+                var attrValues = el.getAttribute("data-focus-when").split(',');
+                var itemsFocusInCompute = [];
+                for(var i=0; i<attrValues.length; i+=1){
+                    var focusInCompute = attrData.scope.compute(attrValues[i]);
+                    focusInCompute.bind("change", handler);
+                    itemsFocusInCompute.push(focusInCompute);
+                }
+
+                $(el).bind("remove", function(){
+                    for(var i=0; i<itemsFocusInCompute.length; i+=1){
+                        itemsFocusInCompute[i].unbind(handler);
+                    }
+                });
+            });
+            window.ctrl = new as.OrbitParser();
+            window.ctrl.processUrlData({"h":{"aos-csrf":"t"},"url":"/shop/postalLookupHelp"});
+    }(window, jQuery, as, can));
+  </script>   
+ </body>
+</html>

@@ -1,0 +1,747 @@
+<!doctype html>
+<html lang="en-US" class="en-us amr nojs en us">
+ <head> 
+  <meta name="viewport" content="width=1024"> 
+  <!-- Dynamic page title (extracted from the node, product, etc.) --> 
+  <title>Refurbished and Clearance iPod, iPad &amp; Mac Products  - Apple</title> 
+  <meta charset="utf-8"> 
+  <meta name="applicable-device" content="pc,mobile"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta http-equiv="Set-Cookie" content="as_sfa=Mnx1c3x1c3x8ZW5fVVN8Y29uc3VtZXJ8aW50ZXJuZXR8MHwwfDE=; path=/; domain=.apple.com; expires=Thu, 09-Apr-2026 04:39:47 GMT;"> 
+  <!-- Simple meta information about the page (in case some non-google search engine or social sharing partner is interested) --> 
+  <meta name="description" content="Shop refurbished and clearance Mac computers, as well as iPod and iPad devices. Products are Apple-certified and include a 1-year warranty."> 
+  <meta name="robots" content="NOODP"> 
+  <link rel="canonical" href="http://www.apple.com/shop/browse/home/specialdeals"> 
+  <script>
+		
+		if ( /(iPad).*OS [7-9].*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) )
+		{
+			var headNode = document.getElementsByTagName("head")[0];
+			var sbNode = document.createElement('meta');
+			sbNode.name = 'apple-itunes-app';
+			sbNode.content = 'app-id=375380948, app-argument=http%3A%2F%2Fwww.apple.com%2Fshop%2Fbrowse_wo%2Fhome%2Fspecialdeals';
+			headNode.appendChild(sbNode);
+		}
+		
+		else if ( /(iPhone|iPod).*OS [6-9].*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) )
+		{
+			var headNode = document.getElementsByTagName("head")[0];
+			var sbNode = document.createElement('meta');
+			sbNode.name = 'apple-itunes-app';
+			sbNode.content = 'app-id=375380948, app-argument=http%3A%2F%2Fwww.apple.com%2Fshop%2Fbrowse_wo%2Fhome%2Fspecialdeals';
+			headNode.appendChild(sbNode);
+		}
+		
+	</script> 
+  <script>
+	//replace nojs class with js on html element
+	(function(html){
+		html.className = html.className.replace(/\bnojs\b/,'js')
+	})(document.documentElement);
+</script> 
+  <!--[if gte IE 9]><!--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/base.css" media="screen, print"> 
+  <!--<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/base-ie8.css" media="screen, print" />
+<![endif]--> 
+  <!--[if gte IE 9]><!--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/merch.css" media="screen, print"> 
+  <!--<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/merch-ie8.css" media="screen, print" />
+<![endif]--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/Catalog/regional/amr/css/aos-overrides.css" media="screen, print"> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/Catalog/US/Images/css/aos-local.css" media=""> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-external/rel/us/external.css" media="screen, print"> 
+  <link rel="stylesheet" href="https://www.apple.com/wss/fonts?family=Myriad+Set+Pro&amp;weights=200,400,500,600,700&amp;v=1" media=""> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-external/rel/external.js"></script> 
+  <script>
+	window.irOn=true;
+</script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/base.js"></script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/merch.js"></script> 
+  <script>
+	// Emits an extra bit to let FE know whether AI feedback is enabled.
+	Event.onLoad(window.apple.ai.init);
+</script> 
+  <script>
+        
+				window.chatButtonConfig = {
+					'disablePageLoadCall': false,
+					'onDemandChatType': false,
+					'infoURL': "http://www.apple.com/shop/client_info_chat",
+					'availURL': "http://www.apple.com/shop/button_availability?cs=product+selection&seg=consumer&css=specialdeals&pg=AOS%3A+home/specialdeals"
+				};
+			
+			
+			window.chatConfig = {"chat":{"page":[{"name":"WEB_CHAT_COUNTRY","value":"us"},{"name":"WEB_CHAT_LANGUAGE","value":"en"},{"name":"WEB_CHAT_GEO","value":"amr"},{"name":"WEB_CHAT_SEGMENT","value":"consumer"},{"name":"WEB_CHAT_SECTION","value":"product selection"},{"name":"WEB_CHAT_SUBSECTION","value":"specialdeals"},{"name":"WEB_CHAT_ORDERNUMBER","value":""},{"name":"WEB_CHAT_REFER","value":"AOS: home/specialdeals"}]}};
+													
+	</script> 
+  <!-- Template Based Off a Fragment --> 
+  <script type="text/mustache" id="{{chatForm}}">
+		
+			<form id="chatForm" action="{{url}}" target="chatWin" method="post">{{#inputs}}<input type={{type}} name="{{name}}" id="{{id}}" value="{{value}}" {{data "input"}} />{{/inputs}}</form>
+		
+	</script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/chat.js"></script> 
+  <link href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/Catalog/regional/amr/css/pages/special-deals/lp-refurb.css" media="all" rel="stylesheet" data-evar1="AOS: "> 
+  <script> Event.onLoad (function() { apple.widget.EqualizeCopy(); }); </script> 
+ </head> 
+ <body class="ns-buttons"> 
+  <div class="metrics"> 
+   <!-- SiteCatalyst code version: H.8. Copyright 1997-2006 Omniture, Inc. More info available at http://www.omniture.com --> 
+   <noscript> 
+    <img alt="" width="1" height="1" src="http://metrics.apple.com/b/ss/applestoreWW,appleglobal,applestoreAMR,applestoreus/1/H.8--NS/0?pageName=No-Script:AOS%3A+home%2Fspecialdeals"> 
+   </noscript> 
+   <script>
+            
+            var s_account = "applestoreWW,appleglobal,applestoreAMR,applestoreus";
+        </script> 
+   <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/omniture.js"></script> 
+   <script>
+
+	
+
+            var ametrics = new apple.metrics.Metrics({
+                isHome: false,
+                storeId: "wHF2F2PHCCCX72KDY",
+                evarDataNodes: true
+            });
+
+			if (!ametrics.getVar) {
+  				 ametrics.getVar = ametrics.getPageLoadMetricsDataForVariable || function() {return '';};
+			}
+			
+            
+            <!-- Page identification tags -->
+            
+            
+            s.pageName = ametrics.pageName("AOS: home/specialdeals");
+                        
+                        
+            s.server = "m10018660";
+            s.hier1 = "home/specialdeals";
+            s.charSet = "UTF-8";
+            s.currencyCode = "USD";
+            
+            s.prop4 = "D=g";
+            s.prop5 = navigator.platform + ((window.devicePixelRatio || 0) >= 2 ? " 2x" : "");
+            s.prop5 = s.prop5.toLowerCase();
+            
+            s.prop8 = "AOS: Special Deals";
+            
+            s.prop19 = "AOS: US Consumer: home/specialdeals";
+            s.prop20 = "AOS: US Consumer";
+            
+            
+            
+            
+            
+            
+          
+            
+            
+            
+            
+            s.prop37 = ametrics.getProp37() || "";
+            s.prop40 = "10078";
+            
+            s.prop42 = ametrics.getProp42();
+            <!--  Changing to test the defensive code -->
+            s.eVar20 =  "" || ametrics.getVar('eVar20');
+            
+            
+            
+            
+            
+            
+                        
+            
+
+            
+                 s.products = ametrics.getProducts() || "";
+                s.events = "";
+            
+
+            
+
+            
+                s.eVar1 = ametrics.getEvar1() || "";
+                s.eVar2 = "";
+                s.eVar3 = "AOS: US Consumer";
+                s.eVar4 = "D=pageName"; 
+            
+            
+            
+			
+            
+
+            s.eVar19 = "D=c19";
+            
+            
+            
+            
+            
+                        
+			
+            
+                s.eVar30 = ametrics.getEvar30() || "www.apple.com";
+            
+ 			
+			s.eVar31 = ametrics.getEvar31();
+
+            s.linkInternalFilters = "javascript:,store.apple.com,secure.store.apple.com,secure1.store.apple.com,secure2.store.apple.com,epp.apple.com,secure1.epp.apple.com,storeint.apple.com,secure1.storeint.apple.com,www.apple.com,#";
+
+            if (ametrics.appendEvents) {
+                s.events = ametrics.appendEvents(s.events);
+            }
+            if (ametrics.getPageLoadTime) {
+                s.eVar9 = ametrics.getPageLoadTime();
+            }
+
+            
+			
+            ametrics.mark();            
+
+            <!-- DO NOT ALTER ANYTHING BELOW THIS LINE ! -->
+            var s_code = s.t();if(s_code)document.write(s_code);
+
+</script> 
+   <!-- End SiteCatalyst code version: H.8. --> 
+  </div>
+  <!-- /.metrics --> 
+  <script>
+		if(!/dssid2=[a-zA-Z0-9-]+(;|$)/.test(document.cookie) || !/as_dc=[a-zA-Z0-9-]+(;|$)/.test(document.cookie))
+		{
+			Event.onDomReady(function() {
+				var ie = document.createElement("IMG");
+				ie.src = '/shop/dc';
+				ie.width = ie.height = 1;
+				ie.style.display = "none";
+				ie.alt = "";
+				document.body.appendChild(ie);
+			});	
+		}
+	</script> 
+  <div id="page"> 
+   <aside class="ac-gn-segmentbar" id="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }"></aside> 
+   <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"> 
+   <nav aria-label="Global Navigation" data-store-locale="us" data-store-api="http://www.apple.com/shop/bag/status" data-store-key="SJHJUH4YFCTTPD4F4" id="ac-globalnav" data-hires="false" data-analytics-region="global nav" lang="en-US" class="no-js" role="navigation" data-search-api="/search-services/suggestions/" data-search-locale="en_US"> 
+    <div class="ac-gn-content"> 
+     <ul class="ac-gn-header"> 
+      <li class="ac-gn-item ac-gn-menuicon"> <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span> </span> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span> </span> </label> <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"> <span class="ac-gn-menuanchor-label">Open Menu</span> </a> <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"> <span class="ac-gn-menuanchor-label">Close Menu</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-apple"> <a href="http://www.apple.com/" class="ac-gn-link ac-gn-link-apple" id="ac-gn-firstfocus-small" data-analytics-title="apple home" data-s-object-id="0f7213ba83780f871927f9e08204c04f" data-evar1="AOS: home/specialdeals |  | " data-evar30="home/specialdeals"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"> <a data-string-badge="Shopping Bag with Items" href="/shop/bag" data-analytics-title="bag" aria-label="Shopping Bag" class="ac-gn-link ac-gn-link-bag" data-analytics-click="bag"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+     </ul> 
+     <ul class="ac-gn-list"> 
+      <li class="ac-gn-item ac-gn-apple"> <a href="http://www.apple.com/" class="ac-gn-link ac-gn-link-apple" id="ac-gn-firstfocus" data-analytics-title="apple home" data-s-object-id="0f7213ba83780f871927f9e08204c04f" data-evar1="AOS: home/specialdeals |  | " data-evar30="home/specialdeals"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-mac"> <a href="http://www.apple.com/mac/" class="ac-gn-link ac-gn-link-mac" data-analytics-title="mac" data-s-object-id="0f7213ba83780f871927f9e08204c04f" data-evar1="AOS: home/specialdeals |  | " data-evar30="home/specialdeals"> <span class="ac-gn-link-text">Mac</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"> <a href="http://www.apple.com/ipad/" class="ac-gn-link ac-gn-link-ipad" data-analytics-title="ipad" data-s-object-id="0f7213ba83780f871927f9e08204c04f" data-evar1="AOS: home/specialdeals |  | " data-evar30="home/specialdeals"> <span class="ac-gn-link-text">iPad</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"> <a href="http://www.apple.com/iphone/" class="ac-gn-link ac-gn-link-iphone" data-analytics-title="iphone" data-s-object-id="0f7213ba83780f871927f9e08204c04f" data-evar1="AOS: home/specialdeals |  | " data-evar30="home/specialdeals"> <span class="ac-gn-link-text">iPhone</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-watch"> <a href="http://www.apple.com/watch/" class="ac-gn-link ac-gn-link-watch" data-analytics-title="watch" data-s-object-id="0f7213ba83780f871927f9e08204c04f" data-evar1="AOS: home/specialdeals |  | " data-evar30="home/specialdeals"> <span class="ac-gn-link-text">Watch</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-tv"> <a href="http://www.apple.com/tv/" class="ac-gn-link ac-gn-link-tv" data-analytics-title="tv" data-s-object-id="0f7213ba83780f871927f9e08204c04f" data-evar1="AOS: home/specialdeals |  | " data-evar30="home/specialdeals"> <span class="ac-gn-link-text">TV</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-music"> <a href="http://www.apple.com/music/" class="ac-gn-link ac-gn-link-music" data-analytics-title="music" data-s-object-id="0f7213ba83780f871927f9e08204c04f" data-evar1="AOS: home/specialdeals |  | " data-evar30="home/specialdeals"> <span class="ac-gn-link-text">Music</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-support"> <a href="http://www.apple.com/support/" class="ac-gn-link ac-gn-link-support" data-analytics-title="support" data-s-object-id="0f7213ba83780f871927f9e08204c04f" data-evar1="AOS: home/specialdeals |  | " data-evar30="home/specialdeals"> <span class="ac-gn-link-text">Support</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"> <a href="/search" data-analytics-title="search" aria-label="Search apple.com" class="ac-gn-link ac-gn-link-search" data-analytics-click="search"> <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"> <a data-string-badge="Shopping Bag with Items" href="/shop/bag" data-analytics-title="bag" aria-label="Shopping Bag" class="ac-gn-link ac-gn-link-bag" data-analytics-click="bag"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge" aria-hidden="true"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+     </ul> 
+     <aside role="search" class="ac-gn-searchview" id="ac-gn-searchview" data-analytics-region="search"> 
+      <div class="ac-gn-searchview-content"> 
+       <form method="get" action="/search" class="ac-gn-searchform" id="ac-gn-searchform"> 
+        <div class="ac-gn-searchform-wrapper"> 
+         <input autocapitalize="off" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" spellcheck="false" autocomplete="off" placeholder="Search apple.com" id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text"> 
+         <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav"> 
+         <button aria-label="Submit" class="ac-gn-searchform-submit" type="submit" id="ac-gn-searchform-submit"></button> 
+         <button aria-label="Clear Search" class="ac-gn-searchform-reset" type="reset" id="ac-gn-searchform-reset"></button> 
+        </div> 
+       </form> 
+       <aside data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" class="ac-gn-searchresults" id="ac-gn-searchresults" data-string-noresults="Hit enter to search."></aside> 
+      </div> 
+      <button aria-label="Close Search" class="ac-gn-searchview-close" id="ac-gn-searchview-close"> <span class="ac-gn-searchview-close-wrapper"> <span class="ac-gn-searchview-close-left"></span> <span class="ac-gn-searchview-close-right"></span> </span> </button> 
+     </aside> 
+     <aside class="ac-gn-bagview" data-analytics-region="bag"> 
+      <div class="ac-gn-bagview-scrim"> 
+       <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span> 
+      </div> 
+      <div class="ac-gn-bagview-content" id="ac-gn-bagview-content"> 
+      </div> 
+     </aside> 
+    </div> 
+   </nav> 
+   <div id="ac-gn-curtain" class="ac-gn-curtain"></div> 
+   <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div> 
+   <div class="localnav-wrapper localnav-platter gh-show-below"> 
+    <div class="localnav">
+     <h1 class="localnav-title">Refurbished and Clearance</h1>
+    </div> 
+   </div> 
+   <div id="main" role="main"> 
+    <div class="box lp-refurb"> 
+     <div class="box-content clearfix"> 
+      <!-- REFURBISHED - standard/home/specialdeals --> 
+      <!--
+Presentation Type: box
+CSS Class: lp-refurb
+--> 
+      <div class="box-content"> 
+       <div class="top-header"> 
+        <h2> Apple Certified. Good as new. </h2> 
+        <p> We test and certify all Apple refurbished products and include a 1-year warranty. </p> 
+       </div> 
+       <div class="refurb-nav equalize"> 
+        <ul> 
+         <li class="superlink"> <img class="icon ir" src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/i/co/icon/mac/icon-mac?wid=99&amp;hei=115&amp;fmt=png-alpha&amp;qlt=95&amp;.v=p6klD2" alt="" width="99" height="115" data-scale-params-2="wid=198&amp;hei=230&amp;fmt=png-alpha&amp;qlt=95&amp;.v=p6klD2"> 
+          <div class="copy"> 
+           <h2> Refurbished Mac </h2> 
+           <p> Shop Apple-certified Mac desktops and notebooks at once-in-a-lifetime prices. </p> 
+          </div> <a href="/shop/browse/home/specialdeals/mac" class="button superlink" data-s-object-id="5cd7cf5651feeb57b391fc92812593c4" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 0 | AOS: home/specialdeals/mac" data-evar30="home/specialdeals/main-1"> Shop now <span class="a11y"> Refurbished Mac </span> </a> </li> 
+         <li class="superlink"> <img class="icon ir" src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/i/co/icon/ipad/icon-ipad-special-deals?wid=99&amp;hei=115&amp;fmt=png-alpha&amp;qlt=95&amp;.v=VNjl72" alt="" width="99" height="115" data-scale-params-2="wid=198&amp;hei=230&amp;fmt=png-alpha&amp;qlt=95&amp;.v=VNjl72"> 
+          <div class="copy"> 
+           <h2> Refurbished iPad </h2> 
+           <p> Discover Apple-certified iPad products available with special pricing. </p> 
+          </div> <a href="/shop/browse/home/specialdeals/ipad" class="button superlink" data-s-object-id="3c7ee3b907356fafba8dbb8d817768ad" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 1 | AOS: home/specialdeals/ipad" data-evar30="home/specialdeals/main-1"> Shop now <span class="a11y"> Refurbished iPad </span> </a> </li> 
+         <li class="superlink"> <img class="icon ir" src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/i/co/icon/ipod/icon-ipod?wid=99&amp;hei=115&amp;fmt=png-alpha&amp;qlt=95&amp;.v=B4dl52" alt="" width="99" height="115" data-scale-params-2="wid=198&amp;hei=230&amp;fmt=png-alpha&amp;qlt=95&amp;.v=B4dl52"> 
+          <div class="copy"> 
+           <h2> Refurbished iPod </h2> 
+           <p> Find amazing deals on the Apple-certified iPod that you've always wanted. </p> 
+          </div> <a href="/shop/browse/home/specialdeals/ipod" class="button superlink" data-s-object-id="9bf2b17d11942e744d7face500bb8176" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 2 | AOS: home/specialdeals/ipod" data-evar30="home/specialdeals/main-1"> Shop now <span class="a11y"> Refurbished iPod </span> </a> </li> 
+         <li class="superlink"> <img class="icon ir" src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/i/co/icon/clearance/icon-clearance-101207?wid=99&amp;hei=115&amp;fmt=png-alpha&amp;qlt=95&amp;.v=gvLlJ3" alt="" width="99" height="115" data-scale-params-2="wid=198&amp;hei=230&amp;fmt=png-alpha&amp;qlt=95&amp;.v=gvLlJ3"> 
+          <div class="copy"> 
+           <h2> Clearance Items </h2> 
+           <p> Get discounts on new, unopened products from Apple and other manufacturers. </p> 
+          </div> <a href="/shop/browse/home/specialdeals/clearance" class="button superlink" data-s-object-id="ce5fcf2a5c8509373fa689610c686c2a" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 3 | AOS: home/specialdeals/clearance" data-evar30="home/specialdeals/main-1"> Shop now <span class="a11y"> Clearance Items </span> </a> </li> 
+        </ul> 
+       </div> 
+       <div class="two-col clearfix"> 
+        <div class="col"> 
+         <div class="col-content"> 
+          <!-- GUARANTEED APPLE QUALITY --> 
+          <h2> Guaranteed Apple quality. </h2> 
+          <div class="info">
+            Before we put a refurbished Mac, iPod, iPad, or Apple TV up for sale in Special Deals, it undergoes a rigorous refurbishment process to make sure it’s up to Apple’s tough quality standards. We back it with our standard one-year limited warranty. And you have the option of purchasing an AppleCare Product for it. 
+          </div> 
+          <div class="info-more"> 
+           <div> 
+            <img class="icon ir" src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/i/mg/img/apple/img-apple-certified?wid=173&amp;hei=40&amp;fmt=png-alpha&amp;qlt=95&amp;.v=7edkr3" alt="" width="173" height="40" data-scale-params-2="wid=346&amp;hei=80&amp;fmt=png-alpha&amp;qlt=95&amp;.v=7edkr3"> 
+            <span class="a11y"> Apple Certified </span> 
+           </div> 
+           <p class="title"> Get more info </p> 
+           <div class="info-more-link"> 
+            <a href="http://www.apple.com/legal/warranty" target="_blank" data-s-object-id="9d5551daaadc63e6e65ca2a841f99a5b" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 0 | AOS: legal/warranty" data-evar30="home/specialdeals/main-1"> One-year limited warranty &gt; </a> 
+           </div> 
+           <div class="info-more-link"> 
+            <a href="/shop/browse/home/specialdeals/refurbfaq_popup" target="popup-w700-h600" data-s-object-id="7c9e76dcdc284d4c3aaa6f06f68e2f30" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 1 | AOS: home/specialdeals/refurbfaq_popup" data-evar30="home/specialdeals/main-1"> Refurbishment process &gt; </a> 
+           </div> 
+           <div class="info-more-link last"> 
+            <a href="http://www.apple.com/support/products" target="_blank" data-s-object-id="f779118731ef538bc8d06b7790afabab" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 2 | AOS: support/products" data-evar30="home/specialdeals/main-1"> AppleCare Products &gt; </a> 
+           </div> 
+          </div> 
+          <img class="hero ir" src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/2/01/2013/special/2013-special-deals-landing-hero?wid=489&amp;hei=215&amp;fmt=png-alpha&amp;qlt=95&amp;.v=v-Pk_3" alt="" width="489" height="215" data-scale-params-2="wid=978&amp;hei=430&amp;fmt=png-alpha&amp;qlt=95&amp;.v=v-Pk_3"> 
+          <!-- /GUARANTEED APPLE QUALITY --> 
+          <!-- APPLE RECYCLING --> 
+          <div class="recycle"> 
+           <img class="ir" src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/r/ec/recycle/icon/recycle-icon?wid=70&amp;hei=69&amp;fmt=png-alpha&amp;qlt=95&amp;.v=6Orkv3" alt="" width="70" height="69" data-scale-params-2="wid=140&amp;hei=138&amp;fmt=png-alpha&amp;qlt=95&amp;.v=6Orkv3"> 
+           <div class="intro"> 
+            <h2> <img class="ir" src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/r/ec/recycle/title/recycle-title?wid=297&amp;hei=55&amp;fmt=png-alpha&amp;qlt=95&amp;.v=TESkF1" alt="" width="297" height="55" data-scale-params-2="wid=594&amp;hei=110&amp;fmt=png-alpha&amp;qlt=95&amp;.v=TESkF1"> <span class="a11y"> Get an Apple Gift Card for the value of your old computer. </span> </h2> 
+            <p> The Apple Recycling Program offers you an <br> environmentally responsible way to part with your old computer. Whether it’s a Mac or a PC, working or nonworking. It doesn’t matter. We’ll take it and<br> determine if it qualifies for reuse. If it does, that<br> means your computer has monetary value that we’ll<br> apply toward an Apple Gift Card.<sup>1</sup> You can use the gift<br> card for purchases at the Apple<br> Online Store or at any Apple Retail<br> Store.<sup>2</sup> If your computer doesn’t<br> qualify for reuse, we’ll recycle it<br> responsibly at no cost to you.<sup>3</sup> </p> 
+            <p> <a href="http://www.apple.com/recycling/computer" target="_blank" class="more" data-s-object-id="cb176f718061615c68e56339c71a05db" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 3 | AOS: recycling/computer" data-evar30="home/specialdeals/main-1"> Learn more </a> <span class="a11y"> Apple Recycling Program </span> </p> 
+           </div> 
+          </div> 
+          <!-- /APPLE RECYCLING --> 
+         </div> 
+        </div> 
+        <!-- "Our Latest Offers" section --> 
+        <div class="col"> 
+         <div class="col-content"> 
+          <h2> Our latest offers. </h2> 
+          <!-- START: PRODUCT 1 --> 
+          <div class="product superlink clearfix"> 
+           <div class="media-block"> 
+            <div class="media"> 
+             <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/r/fb/rfb/2013ipadair/rfb-2013ipadair-wifi-silver?wid=98&amp;hei=92&amp;fmt=png-alpha&amp;qlt=95&amp;.v=jOilF1" alt="" width="49" height="46"> 
+            </div> 
+            <div class="content"> 
+             <h3>Refurbished iPad Air Wi-Fi 16GB</h3> 
+             <p>Full 1-year warranty <br> Free shipping and free returns </p> 
+            </div> 
+           </div> 
+           <div class="price"> 
+            <ul> 
+             <li> 
+              <strike> 
+               <span class="a11y"> Previous price: </span> $399.00 
+              </strike> </li> 
+             <li> <span> <span class="a11y"> Refurbished price: </span> 
+               <!-- Condition to check if the page requested is other than step zero page --> 
+               <!-- In pages other than step zero pages, we display price and payment options --> $279.00 
+               <!-- IPT text for apple care plus --> 
+               <!-- When the section is captured it is added to the request scope. Later components can use as:ifSection to analyze if this bit wa rendered --> 
+               <!-- The actual use case is that on an upper level container we set a class only if something was actually rendered on this section, and that helps with the CSS display --> 
+               <!-- This prevents us from having to replay all the conditions on the upper level container (and remembering to update that every time we change something) --> 
+               <!-- Moved/copied the Product Price Financing part below for both cases --> 
+               <!-- Check if the requested page is not a PDP --> 
+               <!-- The only difference we will see is, the capture section is different in both, it is ASCProductPrice_financing for non-PDP--> 
+               <!-- The way to display PaymentOption details remain same for PDP and non-PDP --> 
+               <!-- If the requested page is a step zero page, we are required to display only the PaymentOption details, Price fee and education financing details details on the country --> 
+               <!-- Price will be displayed separately from astro tag price --> </span> </li> 
+            </ul> 
+            <a href="/shop/product/FD788/refurbished-ipad-air-wi-fi-16gb-silver" class="button small superlink" data-s-object-id="535d7552f86d220d36139e9a164d2ff2" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 0 | Refurbished iPad Air Wi-Fi 16GB - Silver | FD788" data-evar30="home/specialdeals/main-1"> Buy Now <span class="a11y"> Refurbished iPad Air Wi-Fi 16GB - Silver </span> </a> 
+           </div> 
+          </div> 
+          <!-- END: PRODUCT 1 --> 
+          <!-- START: PRODUCT 2 --> 
+          <div class="product superlink clearfix"> 
+           <div class="media-block"> 
+            <div class="media"> 
+             <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/r/fb/rfb/ipad/rfb-ipad-air-gold-wifi-2014?wid=98&amp;hei=92&amp;fmt=png-alpha&amp;qlt=95&amp;.v=89Gkl2" alt="" width="49" height="46"> 
+            </div> 
+            <div class="content"> 
+             <h3>Refurbished iPad Air 2 Wi-Fi 16GB</h3> 
+             <p>Full 1-year warranty <br> Free shipping and free returns </p> 
+            </div> 
+           </div> 
+           <div class="price"> 
+            <ul> 
+             <li> 
+              <strike> 
+               <span class="a11y"> Previous price: </span> $499.00 
+              </strike> </li> 
+             <li> <span> <span class="a11y"> Refurbished price: </span> 
+               <!-- Condition to check if the page requested is other than step zero page --> 
+               <!-- In pages other than step zero pages, we display price and payment options --> $339.00 
+               <!-- IPT text for apple care plus --> 
+               <!-- When the section is captured it is added to the request scope. Later components can use as:ifSection to analyze if this bit wa rendered --> 
+               <!-- The actual use case is that on an upper level container we set a class only if something was actually rendered on this section, and that helps with the CSS display --> 
+               <!-- This prevents us from having to replay all the conditions on the upper level container (and remembering to update that every time we change something) --> 
+               <!-- Moved/copied the Product Price Financing part below for both cases --> 
+               <!-- Check if the requested page is not a PDP --> 
+               <!-- The only difference we will see is, the capture section is different in both, it is ASCProductPrice_financing for non-PDP--> 
+               <!-- The way to display PaymentOption details remain same for PDP and non-PDP --> 
+               <!-- If the requested page is a step zero page, we are required to display only the PaymentOption details, Price fee and education financing details details on the country --> 
+               <!-- Price will be displayed separately from astro tag price --> </span> </li> 
+            </ul> 
+            <a href="/shop/product/FH0W2/refurbished-ipad-air-2-wi-fi-16gb-gold" class="button small superlink" data-s-object-id="79856fec51ace2782d5ef1778cf89ed8" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 1 | Refurbished iPad Air 2 Wi-Fi 16GB - Gold | FH0W2" data-evar30="home/specialdeals/main-1"> Buy Now <span class="a11y"> Refurbished iPad Air 2 Wi-Fi 16GB - Gold </span> </a> 
+           </div> 
+          </div> 
+          <!-- END: PRODUCT 2 --> 
+          <!-- START: PRODUCT 3 --> 
+          <div class="product superlink clearfix"> 
+           <div class="media-block"> 
+            <div class="media"> 
+             <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/r/fb/rfb/ipad/rfb-ipad-air-gold-wifi-2014?wid=98&amp;hei=92&amp;fmt=png-alpha&amp;qlt=95&amp;.v=89Gkl2" alt="" width="49" height="46"> 
+            </div> 
+            <div class="content"> 
+             <h3>Refurbished iPad Air 2 Wi-Fi 64GB</h3> 
+             <p>Full 1-year warranty <br> Free shipping and free returns </p> 
+            </div> 
+           </div> 
+           <div class="price"> 
+            <ul> 
+             <li> 
+              <strike> 
+               <span class="a11y"> Previous price: </span> $599.00 
+              </strike> </li> 
+             <li> <span> <span class="a11y"> Refurbished price: </span> 
+               <!-- Condition to check if the page requested is other than step zero page --> 
+               <!-- In pages other than step zero pages, we display price and payment options --> $419.00 
+               <!-- IPT text for apple care plus --> 
+               <!-- When the section is captured it is added to the request scope. Later components can use as:ifSection to analyze if this bit wa rendered --> 
+               <!-- The actual use case is that on an upper level container we set a class only if something was actually rendered on this section, and that helps with the CSS display --> 
+               <!-- This prevents us from having to replay all the conditions on the upper level container (and remembering to update that every time we change something) --> 
+               <!-- Moved/copied the Product Price Financing part below for both cases --> 
+               <!-- Check if the requested page is not a PDP --> 
+               <!-- The only difference we will see is, the capture section is different in both, it is ASCProductPrice_financing for non-PDP--> 
+               <!-- The way to display PaymentOption details remain same for PDP and non-PDP --> 
+               <!-- If the requested page is a step zero page, we are required to display only the PaymentOption details, Price fee and education financing details details on the country --> 
+               <!-- Price will be displayed separately from astro tag price --> </span> </li> 
+            </ul> 
+            <a href="/shop/product/FH182/refurbished-ipad-air-2-wi-fi-64gb-gold" class="button small superlink" data-s-object-id="c00d244230b21eccad7e071b6e51ce97" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 2 | Refurbished iPad Air 2 Wi-Fi 64GB - Gold | FH182" data-evar30="home/specialdeals/main-1"> Buy Now <span class="a11y"> Refurbished iPad Air 2 Wi-Fi 64GB - Gold </span> </a> 
+           </div> 
+          </div> 
+          <!-- END: PRODUCT 3 --> 
+          <!-- START: PRODUCT 4 --> 
+          <div class="product superlink clearfix"> 
+           <div class="media-block"> 
+            <div class="media"> 
+             <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/r/ef/refurb/2015/refurb-2015-mba-13-gallery?wid=98&amp;hei=92&amp;fmt=png-alpha&amp;qlt=95&amp;.v=1GRkV2" alt="" width="49" height="46"> 
+            </div> 
+            <div class="content"> 
+             <h3> Refurbished 13.3-inch MacBook Air 1.6GHz Dual-core Intel Core i5 </h3> 
+             <p> Full 1-year warranty <br> Free shipping and free returns </p> 
+            </div> 
+           </div> 
+           <div class="price"> 
+            <ul> 
+             <li> 
+              <strike> 
+               <span class="a11y"> Previous price: </span> $1,199.00 
+              </strike> </li> 
+             <li> <span> <span class="a11y"> Refurbished price: </span> 
+               <!-- Condition to check if the page requested is other than step zero page --> 
+               <!-- In pages other than step zero pages, we display price and payment options --> $1,019.00 
+               <!-- IPT text for apple care plus --> 
+               <!-- When the section is captured it is added to the request scope. Later components can use as:ifSection to analyze if this bit wa rendered --> 
+               <!-- The actual use case is that on an upper level container we set a class only if something was actually rendered on this section, and that helps with the CSS display --> 
+               <!-- This prevents us from having to replay all the conditions on the upper level container (and remembering to update that every time we change something) --> 
+               <!-- Moved/copied the Product Price Financing part below for both cases --> 
+               <!-- Check if the requested page is not a PDP --> 
+               <!-- The only difference we will see is, the capture section is different in both, it is ASCProductPrice_financing for non-PDP--> 
+               <!-- The way to display PaymentOption details remain same for PDP and non-PDP --> 
+               <!-- If the requested page is a step zero page, we are required to display only the PaymentOption details, Price fee and education financing details details on the country --> 
+               <!-- Price will be displayed separately from astro tag price --> </span> </li> 
+            </ul> 
+            <a href="/shop/product/FJVG2/refurbished-133-inch-macbook-air-16ghz-dual-core-intel-core-i5" class="button small superlink" data-s-object-id="012d076e053ebdfad2795c036239f152" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 3 | Refurbished 13.3-inch MacBook Air 1.6GHz Dual-core Intel Core i5 | FJVG2" data-evar30="home/specialdeals/main-1"> Buy Now <span class="a11y"> Refurbished 13.3-inch MacBook Air 1.6GHz Dual-core Intel Core i5 </span> </a> 
+           </div> 
+          </div> 
+          <!-- END: PRODUCT 4 --> 
+          <!-- START: PRODUCT 6 --> 
+          <div class="product superlink clearfix"> 
+           <div class="media-block"> 
+            <div class="media"> 
+             <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/r/ef/refurb/2015/refurb-2015-mbpro-13-gallery?wid=98&amp;hei=92&amp;fmt=png-alpha&amp;qlt=95&amp;.v=BL_kF0" alt="" width="49" height="46"> 
+            </div> 
+            <div class="content"> 
+             <h3> Refurbished 13.3-inch MacBook Pro 2.7GHz Dual-core Intel i5 with Retina Display </h3> 
+             <p> Full 1-year warranty <br> Free shipping and free returns </p> 
+            </div> 
+           </div> 
+           <div class="price"> 
+            <ul> 
+             <li> 
+              <strike> 
+               <span class="a11y"> Previous price: </span> $1,299.00 
+              </strike> </li> 
+             <li> <span> <span class="a11y"> Refurbished price: </span> 
+               <!-- Condition to check if the page requested is other than step zero page --> 
+               <!-- In pages other than step zero pages, we display price and payment options --> $1,099.00 
+               <!-- IPT text for apple care plus --> 
+               <!-- When the section is captured it is added to the request scope. Later components can use as:ifSection to analyze if this bit wa rendered --> 
+               <!-- The actual use case is that on an upper level container we set a class only if something was actually rendered on this section, and that helps with the CSS display --> 
+               <!-- This prevents us from having to replay all the conditions on the upper level container (and remembering to update that every time we change something) --> 
+               <!-- Moved/copied the Product Price Financing part below for both cases --> 
+               <!-- Check if the requested page is not a PDP --> 
+               <!-- The only difference we will see is, the capture section is different in both, it is ASCProductPrice_financing for non-PDP--> 
+               <!-- The way to display PaymentOption details remain same for PDP and non-PDP --> 
+               <!-- If the requested page is a step zero page, we are required to display only the PaymentOption details, Price fee and education financing details details on the country --> 
+               <!-- Price will be displayed separately from astro tag price --> </span> </li> 
+            </ul> 
+            <a href="/shop/product/FF839/refurbished-133-inch-macbook-pro-27ghz-dual-core-intel-i5-with-retina-display" class="button small superlink" data-s-object-id="9be00de0f50fbc211879293266a1b778" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 4 | Refurbished 13.3-inch MacBook Pro 2.7GHz Dual-core Intel i5 with Retina Display | FF839" data-evar30="home/specialdeals/main-1"> Buy Now <span class="a11y"> Refurbished 13.3-inch MacBook Pro 2.7GHz Dual-core Intel i5 with Retina Display </span> </a> 
+           </div> 
+          </div> 
+          <!-- END: PRODUCT 6 --> 
+          <!-- START: PRODUCT 7 --> 
+          <div class="product superlink clearfix"> 
+           <div class="media-block"> 
+            <div class="media"> 
+             <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/r/ef/refurb/imac/refurb-imac-retina-2014-gallery-yosemite?wid=98&amp;hei=92&amp;fmt=png-alpha&amp;qlt=95&amp;.v=w_Jlj1" alt="" width="49" height="46"> 
+            </div> 
+            <div class="content"> 
+             <h3> Refurbished 27-inch iMac 3.5GHz Quad-core Intel Core i5 with Retina display </h3> 
+             <p> Full 1-year warranty <br> Free shipping and free returns </p> 
+            </div> 
+           </div> 
+           <div class="price"> 
+            <ul> 
+             <li> 
+              <strike> 
+               <span class="a11y"> Previous price: </span> $2,199.00 
+              </strike> </li> 
+             <li> <span> <span class="a11y"> Refurbished price: </span> 
+               <!-- Condition to check if the page requested is other than step zero page --> 
+               <!-- In pages other than step zero pages, we display price and payment options --> $1,769.00 
+               <!-- IPT text for apple care plus --> 
+               <!-- When the section is captured it is added to the request scope. Later components can use as:ifSection to analyze if this bit wa rendered --> 
+               <!-- The actual use case is that on an upper level container we set a class only if something was actually rendered on this section, and that helps with the CSS display --> 
+               <!-- This prevents us from having to replay all the conditions on the upper level container (and remembering to update that every time we change something) --> 
+               <!-- Moved/copied the Product Price Financing part below for both cases --> 
+               <!-- Check if the requested page is not a PDP --> 
+               <!-- The only difference we will see is, the capture section is different in both, it is ASCProductPrice_financing for non-PDP--> 
+               <!-- The way to display PaymentOption details remain same for PDP and non-PDP --> 
+               <!-- If the requested page is a step zero page, we are required to display only the PaymentOption details, Price fee and education financing details details on the country --> 
+               <!-- Price will be displayed separately from astro tag price --> </span> </li> 
+            </ul> 
+            <a href="/shop/product/FF886/refurbished-27-inch-imac-35GHz-quad-core-intel-core-i5-with-retina-display" class="button small superlink" data-s-object-id="2a2ba514d9af14012615bf2cd931573b" data-evar1="AOS: home/specialdeals | main-1 | Astro Link | 5 | Refurbished 27-inch iMac 3.5GHz Quad-core Intel Core i5 with Retina display | FF886" data-evar30="home/specialdeals/main-1"> Buy Now <span class="a11y"> Refurbished 27-inch iMac 3.5GHz Quad-core Intel Core i5 with Retina display </span> </a> 
+           </div> 
+          </div> 
+          <!-- END: PRODUCT 7 --> 
+         </div> 
+        </div> 
+        <!-- /"Our Latest Offers" section --> 
+       </div> 
+      </div> 
+      <!-- /REFURBISHED - standard/home/specialdeals -  --> 
+     </div>
+     <!-- /.box-content --> 
+    </div>
+    <!-- /.box --> 
+    <div class="footnotes"> 
+     <ol> 
+      <li>Value to be determined by a third-party vendor PowerON.</li> 
+      <li>Restrictions apply. Please see <a href="http://www.apple.com/legal/sales_policies/retail_us.html" target="_blank" data-s-object-id="815a11c382c08429c398dec3077812ae" data-evar1="AOS: home/specialdeals | main-2 | Astro Link | 0 | AOS: legal/sales_policies/retail_us.html" data-evar30="home/specialdeals/main-2">Apple Retail Store Purchase Policies</a> for more details.</li> 
+      <li>Only the following qualify for free recycling: any Mac computer; a PC being recycled as part of the purchase of a new Mac. You can recycle a PC without purchasing a new Mac for a fee of $30.</li> 
+     </ol> 
+    </div> 
+   </div>
+   <!-- /#main --> 
+   <div class="as-footnotes as-globalfooter-transparent"> 
+    <div class="as-footnotes-content"> 
+     <div class="as-footnotes-sosumi"> 
+      <div class="footnotes"> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <footer class="as-globalfooter as-globalfooter-transparent"> 
+    <div class="as-globalfooter-content"> 
+     <div class="as-globalfooter-breadcrumbs"> 
+      <a href="http://www.apple.com/" class="as-globalfooter-breadcrumbs-home"> <span aria-hidden="true" class="as-globalfooter-breadcrumbs-homeicon icon-apple icon-standalone"></span> <span class="as-globalfooter-breadcrumbs-homelabel"> Apple </span> <span class="as-globalfooter-breadcrumbs-homechevron"></span> </a> 
+      <div class="as-globalfooter-breadcrumbs-path"> 
+       <ol class="as-globalfooter-breadcrumbs-list"> 
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="as-globalfooter-breadcrumbs-item"> <span itemprop="title" class="breadcrumbs-title">Special Deals</span> </li> 
+       </ol> 
+      </div> 
+     </div> 
+     <nav role="navigation" aria-label="More Apple Store Links"> 
+      <div class="as-globalfooter-directory as-globalfooter-with-5columns"> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> Shop and Learn </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/mac/" data-s-object-id="ea08c2b98bfa492f164632090b42873a" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 0 | Mac" data-evar30="home/specialdeals/Footer_Navigation"> Mac <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/ipad/" data-s-object-id="cd2bbb7ef76f4620bb0a3669110196ab" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 1 | iPad" data-evar30="home/specialdeals/Footer_Navigation"> iPad <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/iphone/" data-s-object-id="4e08e48d9684077c3a3a84e352f055dc" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 2 | iPhone" data-evar30="home/specialdeals/Footer_Navigation"> iPhone <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/watch/" data-s-object-id="30c7367f354ed068def7bc55a94017e1" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 3 | Watch" data-evar30="home/specialdeals/Footer_Navigation"> Watch <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/tv/" data-s-object-id="4f3257e29610288eb453edd91792139a" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 4 | TV" data-evar30="home/specialdeals/Footer_Navigation"> TV <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/music" data-s-object-id="8457907f4ffe1310030ea04831ee260c" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 5 | Music" data-evar30="home/specialdeals/Footer_Navigation"> Music <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/itunes" data-s-object-id="4d7b64f86527add3b5b26a8d82582765" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 6 | iTunes" data-evar30="home/specialdeals/Footer_Navigation"> iTunes <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/ipod" data-s-object-id="77008c5f5e6e8420ab1112c9398fe736" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 7 | iPod" data-evar30="home/specialdeals/Footer_Navigation"> iPod <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/accessories/all-accessories" data-s-object-id="394a25cd3877424b23b023faee89fb95" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 8 | Accessories" data-evar30="home/specialdeals/Footer_Navigation"> Accessories <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/gift-cards" data-s-object-id="7ab496df2ce042c27945fb7d50819862" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 9 | Gift Cards" data-evar30="home/specialdeals/Footer_Navigation"> Gift Cards <span class="a11y">(Shop and Learn)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> Apple Store </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail" data-s-object-id="000f70cfe7450d4db7b8e6bab82c6af3" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 0 | Find a Store" data-evar30="home/specialdeals/Footer_Navigation"> Find a Store <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail/geniusbar" data-s-object-id="dc749f792edb7e3e66c6fd70c261ed99" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 1 | Genius Bar" data-evar30="home/specialdeals/Footer_Navigation"> Genius Bar <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail/learn" data-s-object-id="98f3a184d631bdcff7c001230710b050" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 2 | Workshops and Learning" data-evar30="home/specialdeals/Footer_Navigation"> Workshops and Learning <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail/learn/youth" data-s-object-id="648a089e2254429eb65545adaf2d7d64" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 3 | Youth Programs" data-evar30="home/specialdeals/Footer_Navigation"> Youth Programs <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="https://itunes.apple.com/us/app/apple-store/id375380948?mt=8" data-s-object-id="9b41e2110b9289b574c420cb744f1dab" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 4 | Apple Store App" data-evar30="home/specialdeals/Footer_Navigation"> Apple Store App <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/home/specialdeals" data-s-object-id="ef65e8400c2bebc4f65faf68fdc21cbb" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 5 | Refurbished" data-evar30="home/specialdeals/Footer_Navigation"> Refurbished <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/finance/PaypalFinancingLandingPage" data-s-object-id="7e74c1798b44d4c97b2ffe4a3c0d9b22" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 6 | Financing" data-evar30="home/specialdeals/Footer_Navigation"> Financing <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/reuse_and_recycle" data-s-object-id="88137700fc2262475134da2b0e6e3e7b" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 7 | Reuse and Recycling" data-evar30="home/specialdeals/Footer_Navigation"> Reuse and Recycling <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="https://secure.store.apple.com/order/list" data-s-object-id="e1a218b1396ea0f9b9f8003d827746ee" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 8 | Order Status" data-evar30="home/specialdeals/Footer_Navigation"> Order Status <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/help" data-s-object-id="2bc15df4672850804c5a09a9589aef35" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 9 | Shopping Help" data-evar30="home/specialdeals/Footer_Navigation"> Shopping Help <span class="a11y">(Apple Store)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> For Education </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/education" data-s-object-id="6b1e48d80b0a738b78ebf66fda449ffb" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 0 | Apple and Education" data-evar30="home/specialdeals/Footer_Navigation"> Apple and Education <span class="a11y">(For Education)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/home/education_routing" data-s-object-id="1f36db69e9a04ffcd1e792ad5017df15" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 1 | Shop for College" data-evar30="home/specialdeals/Footer_Navigation"> Shop for College <span class="a11y">(For Education)</span> </a> </li> 
+         </ul> 
+        </div> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> For Business </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section2"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/iphone/business" data-s-object-id="39a61d061f4769eb35a45b97fc04d802" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 0 | iPhone in Business" data-evar30="home/specialdeals/Footer_Navigation"> iPhone in Business <span class="a11y">(For Business)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/ipad/business" data-s-object-id="a20842136b5d64356a247df94b379110" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 1 | iPad in Business" data-evar30="home/specialdeals/Footer_Navigation"> iPad in Business <span class="a11y">(For Business)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/business/mac" data-s-object-id="1a47cf806774b9754fab5c582cbc3698" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 2 | Mac in Business" data-evar30="home/specialdeals/Footer_Navigation"> Mac in Business <span class="a11y">(For Business)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail/business" data-s-object-id="9aab31ddbe64f376be2f4ce2d8689cf1" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 3 | Shop for Your Business" data-evar30="home/specialdeals/Footer_Navigation"> Shop for Your Business <span class="a11y">(For Business)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> Account </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="https://appleid.apple.com" data-s-object-id="7e025222ec6cda81891856347b4fb1d8" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 0 | Manage Your Apple ID" data-evar30="home/specialdeals/Footer_Navigation"> Manage Your Apple ID <span class="a11y">(Account)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/account/home" data-s-object-id="f13c3635e361a7aa5e6a868c36799330" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 1 | Apple Store Account" data-evar30="home/specialdeals/Footer_Navigation"> Apple Store Account <span class="a11y">(Account)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.icloud.com" data-s-object-id="29c6b342094c4ca3daa3d2913dd38c8e" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 2 | iCloud.com" data-evar30="home/specialdeals/Footer_Navigation"> iCloud.com <span class="a11y">(Account)</span> </a> </li> 
+         </ul> 
+        </div> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> Apple Values </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section2"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/environment" data-s-object-id="5a2feef960821085ff096503bdc4c45e" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 0 | Environment" data-evar30="home/specialdeals/Footer_Navigation"> Environment <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/supplier-responsibility" data-s-object-id="510a88893f88bed2f51a4429882e47a5" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 1 | Supplier Responsibility" data-evar30="home/specialdeals/Footer_Navigation"> Supplier Responsibility <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/accessibility" data-s-object-id="21f1694d21ef2a237d053529dcb63c58" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 2 | Accessibility" data-evar30="home/specialdeals/Footer_Navigation"> Accessibility <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/privacy" data-s-object-id="15826ccf4c2ce861f7eaaadf4abc5376" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 3 | Privacy" data-evar30="home/specialdeals/Footer_Navigation"> Privacy <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/diversity" data-s-object-id="29df1ac7d8e11195b7ff9f77a38c626a" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 4 | Inclusion and Diversity" data-evar30="home/specialdeals/Footer_Navigation"> Inclusion and Diversity <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/education/connectED" data-s-object-id="0c87ea185b899ac0e81cb29599ccde29" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 5 | ConnectED" data-evar30="home/specialdeals/Footer_Navigation"> ConnectED <span class="a11y">(Apple Values)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> About Apple </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/about" data-s-object-id="e066d06912255b9fa683e6e50e9f4c0c" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 0 | Apple Info" data-evar30="home/specialdeals/Footer_Navigation"> Apple Info <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/jobs/us" data-s-object-id="456871688be9641b923efd41a447e47b" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 1 | Job Opportunities" data-evar30="home/specialdeals/Footer_Navigation"> Job Opportunities <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/pr" data-s-object-id="599e05b63fb8a71dcc4d091af36a5202" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 2 | Press Info" data-evar30="home/specialdeals/Footer_Navigation"> Press Info <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="https://investor.apple.com" data-s-object-id="e974869af7e5bbb2e2ad18e07b12d791" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 3 | Investors" data-evar30="home/specialdeals/Footer_Navigation"> Investors <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/apple-events" data-s-object-id="1ba6fe9a308f48b57a5c0654af584aef" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 4 | Events" data-evar30="home/specialdeals/Footer_Navigation"> Events <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/hotnews" data-s-object-id="b95ba1ca023a7cfcd61e9ad9243f0fa9" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 5 | Hot News" data-evar30="home/specialdeals/Footer_Navigation"> Hot News <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/legal" data-s-object-id="d0438a3ac7ee3b7bb48ff5fa7c2b6d75" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 6 | Legal" data-evar30="home/specialdeals/Footer_Navigation"> Legal <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/contact" data-s-object-id="54787465f839519cd21589bfb47eb5c0" data-evar1="AOS: home/specialdeals |  | Footer Navigation | 7 | Contact Apple" data-evar30="home/specialdeals/Footer_Navigation"> Contact Apple <span class="a11y">(About Apple)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </nav> 
+     <div id="as-globalfooter-extended"> 
+      <div class="as-globalfooter-shop"> 
+       <p>More ways to shop: <span class="nowrap">Visit an <a href="http://www.apple.com/retail" data-s-object-id="4e95c127ac4468303b4abb2a22493f91" data-evar1="AOS: home/specialdeals |  | Astro Link | 0 | AOS: retail" data-evar30="home/specialdeals/Astro_Link">Apple Store</a></span>, <span class="nowrap">call 1-800-MY-APPLE, or <a href="https://locate.apple.com" data-s-object-id="2aaab0233d698cc96d52908cac544534" data-evar1="AOS: home/specialdeals |  | Astro Link | 1 | AOS: locate.apple.com" data-evar30="home/specialdeals/Astro_Link">find a reseller</a></span>.</p> 
+       <script>
+				Event.onLoad(function () {
+					apple.fcs.storeFcsData();
+	  			});
+			</script> 
+      </div> 
+      <div class="as-globalfooter-locale"> 
+       <a class="as-globalfooter-locale-link as-globalfooter-locale-country" href="http://www.apple.com/choose-your-country" data-s-object-id="82acc8483779675c4af09201b4779708" data-evar1="AOS: home/specialdeals |  | Navigation Footer | 0 | Country Selector" data-evar30="home/specialdeals/Navigation_Footer"> <img class="ir as-globalfooter-locale-flag ir as-globalfooter-locale-flag ir" src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/c/ou/country/icon/country-icon-us?wid=16&amp;hei=16&amp;fmt=png-alpha&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=O8hjZ3" alt="" width="16" height="16" data-scale-params-2="wid=32&amp;hei=32&amp;fmt=png-alpha&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=O8hjZ3"> <span class="as-globalfooter-locale-name">United States</span> </a> 
+      </div> 
+      <div class="as-globalfooter-legal"> 
+       <p> Copyright © 2016 Apple Inc. All rights reserved. </p> 
+       <p> <a class="as-globalfooter-legal-link" href="http://www.apple.com/privacy">Privacy Policy</a> <a class="as-globalfooter-legal-link" href="http://www.apple.com/legal/terms/site.html">Terms of Use</a> <a class="as-globalfooter-legal-link" href="/shop/open/salespolicies">Sales and Refunds</a> 
+        <!-- /.sosumi --> <a class="as-globalfooter-legal-link" href="/shop/browse/sitemap" data-s-object-id="206564611940c02321ce4e8ff28eba8e" data-evar1="AOS: home/specialdeals |  | Navigation Footer | 3 | Sitemap" data-evar30="home/specialdeals/Navigation_Footer"> Site Map </a> </p> 
+      </div> 
+     </div>
+     <!-- /.as-globalfooter-extended" --> 
+    </div>
+    <!-- /.as-globalfooter-content" --> 
+   </footer>
+   <!--/footer" --> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{WebOverlay}}">
+		
+			<div class="overlay" tabindex="-1" {{#if isAriaDialog}}role=alertdialog aria-describedby=overlayContent{{uid}}    aria-labelledby=overlayHeading{{uid}}{{/if}}><span class="chrome tl"></span><span class="chrome tr"></span><span class="chrome top"></span><span class="chrome left"></span><span class="chrome right"></span><span class="chrome bottom"></span><span class="chrome bl"></span><span class="chrome br"></span><span class="chrome center"></span><div class="container"><div class="content" id="overlayContent{{uid}}" style="{{{as.WebOverlay.contentSize width height}}}">{{#if contentIsHtml}}{{{content}}}{{else}}{{#if contentIsTemplate}}{{{as.include content}}}{{else}}{{content}}{{/if}}{{/if}}</div>{{#if recoveryOptions.length}}<ul class="buttons recoveryOptions">{{#recoveryOptions}}<li><button {{data 'recoveryOption'}}>{{text}}</button></li>{{/recoveryOptions}}</ul>{{/if}}</div>{{#if canClose}}<button class="close">{{close}}</button>{{/if}}</div>
+		
+	</script> 
+   <!-- /.apple-footer --> 
+   <script>dciddstr = 'c595c7c0076df5f00149e0c5ac53f0628fc261fd59644ddbed6868f326b47ee9c7e4b906ec262002277599dc8dcff6981fda91417077562bf50cedd2d57cb651399bdbe0bd6dcf3e7cad45e1f6da878b4cc66b84013df6a45b52acde28b8e3d43c209fc0b1aa616c5c94d6ea04cf1888d35e222340dfc8e9601b3ff14fb869fc09e4d9b46d50c5a66a080948d6872628e4a60b568a9bd6ffebde6a66e192549291e8cdf7d21bbea18ad913edb17a0897eefcdb640f8803fcc74933a3e9494d5ef8529f5d204b8406fe97cef825ffa79289d463794cc296765841eeeaa3b0b2aecb8b83c643ad5f013a3f7e413285075a510014f487a5a9020fc08a2a19be7e2ebce622682c0cbd126bdf6386107bd1d6d3465767757b60658833865d702fffe2662ebc863489a7925009a675a5f039a024a6de0054901eedea60be52d5fef3177ff6861456703a50e4a35aec8ff5bb5b96ff961f3c69d98d642e33eda6086ba8cd4d0ede74e7b75966c91f2ecbe19bae28b5ce511daf07e09dcc2fbec9c55924204732331867d56f81b4338b8ea744ef10366f87fd82004d69cec21ef12baa41f6bd402ff424d2f2eb0a918960d4baf4bdfff7136869130acde10ebea2818005419b5ef179b093c7fc207a0c00859630a0a635dee6371dd1e27d9f881368ec2ba4d947868542dadfefbf9ef4fe1f38fa4d08ac1e36d4c0ef92c2846bc81dff4ce9fe0694f7286f2e81d2699c89d0a85fb1eb3e656e1b917075c6ff96ba485e909af219eaea9f5dcb5b7cab966c9445128b5d479ae8c636d6fa967c4464e7c20b83b02d3f56b8855ad128ba86666fd6f08e77a345d62debc75d32ce3789049a515bcb2391b57ea044c28d8fccc6a1eb3a27e9d147402d39f53458677eb5a55ab27b6d867399a843ecb800204d913256822aca0ea5f41d3ec24009a5c1cb8bdfc31d420acb132f3a3411a28700476c63a66585abe6ff382d0b33cbe63b2305296deb4bed8bb4075c873e852628c3f2235476903b3e3c836ae7c2a68e3c7691ef53dc4dd9bdf9422a';</script> 
+   <script>dciddstr = '087f9fdb8ee1fd5df8841c233eb415853d8416ebec997d09b1e2bbb75cfa537f4c4e8c118a89efbe9d6d0494cf36bb0158363ee1e7e5d510961e6ebd8404db473c6a40c9d53a3f12e5153ee88776b12bbf6e0e0d2bbfcb6b52298532ef2e0ba3ca6b227d064c536ee7bcfe20c8d76766fa001b5c4ddbdfe39bb9ccd649091372cf434b3c8013d7ba0386d5ad3a9a6997539d07218d9f4d35310ae8ff1cc9addc934ee41164779dda02748c7620fdf21a038f18a81da079fd282df30b97cb50a3b5741aef18a948112144909fa1fda5ac6e0008652208b5d8d8298e5f007d7f499d9d9ce63e20154be51c32673868157ead83b30bb16b7ee500f107d17bf11b9be8a18e9551643b0432cf286a64052989913f9983ad077a5904c8d3b4d7bf7b30ead1bf19ce1c3bf693bc5cda08f0fda80e6839554fe6e456a5d49574588b82dbcf595ec50c575876e1bf8e0078b881c412a01ae6d17f9627636a6dba9abc736a8e121ad112add04c55ad5bbb335916468102f55555ca542be9faa79bba0a5254ed33feb2461c9c87219b395e0ace875640b7fa33c84122fed86a20ae8148a36732ce77275d5c8ddfa52b95e5a8fe99963ba2a28d1dd4636bbe8d22fa4d3ad383d22ba94f7bcbea13bb4ce839721ecf68a2a49b288e9271dcd12397e276399b78e385c6bb35079da342a77d2bc337e456127cfa0dcb2658fbc819d476cc1df1a948654762a97e8637266ab56d3bbd1d7cc0d946e1ccffabad8cb2f98e0ff79f2ee53604e8346e30295b72feb7489a6e8fde40b57072302e4db95e1013d71baf8d1af9d2edcc5fff0294557f659c62476698c2562734dd75f00ea44f087e3458e0f6c1a717790afd594b2828783ea8b55e7c9a7e262b0e63cc147cdaf4720a13cb421b6df301434b151747041e3a10851012cc463614f0aece08169e2afe256c884cdf20c43dec670e0576a5b4221194404b592757595780b6dbe6c0720867b0bd1f3d0b877d53742231eea5afa203e2ed422ff0c2b45f94855f0e39c652a152c81f8a18c70c09a5';</script> 
+  </div>
+  <!-- /#page -->   
+ </body>
+</html>

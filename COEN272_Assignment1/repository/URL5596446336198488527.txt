@@ -1,0 +1,1018 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=8; IE=9"> 
+  <meta charset="utf-8"> 
+  <meta name="Author" content="Apple Inc."> 
+  <meta name="robots" content="noodp"> 
+  <link rel="canonical" href="http://www.apple.com/ipad-pro/"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalnav/2.0/en_US/styles/ac-globalnav.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalfooter/2.0/en_US/styles/ac-globalfooter.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/localnav/3.0/styles/ac-localnav.built.css"> 
+  <title>iPad Pro - Apple</title> 
+  <meta name="Description" content="iPad Pro delivers epic power, now in 12.9-inch and 9.7-inch sizes. Discover the A9X Chip, Advanced Retina display, 12MP iSight camera, and more."> 
+  <meta property="og:url" content="http://www.apple.com/ipad-pro/"> 
+  <meta property="og:title" content="iPad Pro"> 
+  <meta property="og:description" content="iPad Pro delivers epic power, now in 12.9-inch and 9.7-inch sizes. Discover the A9X Chip, Advanced Retina display, 12MP iSight camera, and more."> 
+  <meta property="og:site_name" content="Apple"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:image" content="http://images.apple.com/ipad-pro/images/og.jpg?201604012321"> 
+  <meta property="og:locale" content="en_US"> 
+  <meta property="al:ios:app_name" content="Apple Store"> 
+  <meta property="al:ios:app_store_id" content="375380948"> 
+  <meta property="al:ios:url" content="http://www.apple.com/us/xc/ipad_pro/product?cid=AOS_ASA"> 
+  <meta property="analytics-track" content="iPad&nbsp;Pro - Index"> 
+  <meta property="analytics-s-channel" content="ipadpro"> 
+  <meta property="analytics-s-bucket-0" content="appleglobal,appleusipadpro,appleusipadtab"> 
+  <meta property="analytics-s-bucket-1" content="apple{COUNTRY_CODE}global,apple{COUNTRY_CODE}ipadpro,apple{COUNTRY_CODE}ipadtab"> 
+  <meta property="analytics-s-bucket-2" content="apple{COUNTRY_CODE}global"> 
+  <meta property="analytics-s-bucket-store" content="applestoreww,applestoreamr,applestoreus"> 
+  <link rel="stylesheet" href="/wss/fonts/?family=Myriad+Set+Pro&amp;v=2" type="text/css" media="all"> 
+  <link rel="stylesheet" href="/wss/fonts/?family=Apple+Icons&amp;v=1" type="text/css" media="all"> 
+  <link rel="stylesheet" href="http://images.apple.com/v/ipad-pro/d/built/styles/main.built.css"> 
+  <link rel="stylesheet" href="http://images.apple.com/v/ipad-pro/d/built/styles/overview.built.css"> 
+  <script src="http://images.apple.com/v/ipad-pro/d/built/scripts/head.built.js" type="text/javascript" charset="utf-8"></script> 
+ </head> 
+ <body class="ac-gn-current-ipad page-overview"> 
+  <aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }"></aside> 
+  <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"> 
+  <nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-US" data-store-key="SFX9YPYY9PPXCU9KH" data-store-locale="us" data-store-api="/[storefront]/shop/bag/status" data-search-locale="en_US" data-search-api="/search-services/suggestions/"> 
+   <div class="ac-gn-content"> 
+    <ul class="ac-gn-header"> 
+     <li class="ac-gn-item ac-gn-menuicon"> <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span> </span> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span> </span> </label> <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"> <span class="ac-gn-menuanchor-label">Open Menu</span> </a> <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"> <span class="ac-gn-menuanchor-label">Close Menu</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <ul class="ac-gn-list"> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-mac"> <a class="ac-gn-link ac-gn-link-mac" href="/mac/" data-analytics-title="mac"> <span class="ac-gn-link-text">Mac</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"> <a class="ac-gn-link ac-gn-link-ipad" href="/ipad/" data-analytics-title="ipad"> <span class="ac-gn-link-text">iPad</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"> <a class="ac-gn-link ac-gn-link-iphone" href="/iphone/" data-analytics-title="iphone"> <span class="ac-gn-link-text">iPhone</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-watch"> <a class="ac-gn-link ac-gn-link-watch" href="/watch/" data-analytics-title="watch"> <span class="ac-gn-link-text">Watch</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-tv"> <a class="ac-gn-link ac-gn-link-tv" href="/tv/" data-analytics-title="tv"> <span class="ac-gn-link-text">TV</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-music"> <a class="ac-gn-link ac-gn-link-music" href="/music/" data-analytics-title="music"> <span class="ac-gn-link-text">Music</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-support"> <a class="ac-gn-link ac-gn-link-support" href="/support/" data-analytics-title="support"> <span class="ac-gn-link-text">Support</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"> <a class="ac-gn-link ac-gn-link-search" href="/us/search" data-analytics-title="search" data-analytics-click="search" aria-label="Search apple.com"> <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge" aria-hidden="true"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"> 
+     <div class="ac-gn-searchview-content"> 
+      <form id="ac-gn-searchform" class="ac-gn-searchform" action="/us/search" method="get"> 
+       <div class="ac-gn-searchform-wrapper"> 
+        <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" name="" placeholder="Search apple.com" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false"> 
+        <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav"> 
+        <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Submit"></button> 
+        <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Clear Search"></button> 
+       </div> 
+      </form> 
+      <aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" data-string-noresults="Hit enter to search."></aside> 
+     </div> 
+     <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search"> <span class="ac-gn-searchview-close-wrapper"> <span class="ac-gn-searchview-close-left"></span> <span class="ac-gn-searchview-close-right"></span> </span> </button> 
+    </aside> 
+    <aside class="ac-gn-bagview" data-analytics-region="bag"> 
+     <div class="ac-gn-bagview-scrim"> 
+      <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span> 
+     </div> 
+     <div class="ac-gn-bagview-content" id="ac-gn-bagview-content"> 
+     </div> 
+    </aside> 
+   </div> 
+  </nav> 
+  <div id="ac-gn-curtain" class="ac-gn-curtain"></div> 
+  <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div> 
+  <script type="text/javascript" src="/ac/globalnav/2.0/en_US/scripts/ac-globalnav.built.js"></script> 
+  <script src="/metrics/ac-analytics/1.1/scripts/ac-analytics.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="/metrics/ac-analytics/1.1/scripts/auto-init.js" type="text/javascript" charset="utf-8"></script> 
+  <input type="checkbox" id="ac-ln-menustate" class="ac-ln-menustate"> 
+  <nav id="ac-localnav" class="no-js " lang="en-US" role="navigation" data-analytics-region="local nav" data-sticky> 
+   <div class="ac-ln-wrapper"> 
+    <div class="ac-ln-background"></div> 
+    <div class="ac-ln-content"> 
+     <h2 class="ac-ln-title"> <a href="/ipad-pro/" class="ac-ln-title-logo" data-analytics-title="product index">iPad Pro</a> </h2> 
+     <div class="ac-ln-menu"> 
+      <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open"> <span class="ac-ln-menucta-anchor-label">Open Menu</span> </a> 
+      <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close"> <span class="ac-ln-menucta-anchor-label">Close Menu</span> </a> 
+      <div class="ac-ln-menu-tray menu-tray-float"> 
+       <ul class="ac-ln-menu-items"> 
+        <li class="ac-ln-menu-item"> <a href="/ipad-pro/experience/" class="ac-ln-menu-link" data-analytics-title="experience">Experience</a> </li> 
+        <li class="ac-ln-menu-item"> <a href="/ipad-pro/specs/" class="ac-ln-menu-link" data-analytics-title="specs">Tech Specs</a> </li> 
+       </ul> 
+      </div> 
+      <div class="ac-ln-actions ac-ln-actions-center"> 
+       <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true"> 
+        <label for="ac-ln-menustate" class="ac-ln-menucta"> <span class="ac-ln-menucta-chevron"></span> </label> 
+       </div> 
+       <div class="ac-ln-action ac-ln-action-button"> 
+        <a href="/us/shop/goto/ipad_pro/select" class="ac-ln-button">Buy</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </nav> 
+  <label id="ac-ln-curtain" for="ac-ln-menustate"></label> 
+  <script type="text/javascript" src="/ac/localnav/3.0/scripts/ac-localnav.built.js"></script> 
+  <main class="main" role="main" data-page-type="overview"> 
+   <section id="section-hero" class="section section-hero" data-analytics-section-engagement="name:hero"> 
+    <div class="section-content"> 
+     <h1 class="elevated-headline text-center">iPad Pro</h1> 
+     <h2 class="elevated-subhead text-center">Super. Computer.<br>Now&nbsp;in&nbsp;two&nbsp;sizes.</h2> 
+     <p class="elevated-intro more-links text-center"> <a class="watch-the-film icon icon-playcircle icon-after" id="watch-the-film" data-analytics-id="watch-the-film" href="http://images.apple.com/media/us/ipad-pro/2016/8242d954_d694_42b8_b6b7_a871bba6ed54/films/feature/ipadpro-9-7inch-feature-cc-us-20160321_r848-9dwc.mov">Watch the film</a> <a href="/apple-events/march-2016/" class="more">Watch the keynote</a> </p> 
+     <figure id="intro-wrapper" class="image-hero-fallback pre-intro" data-component-list="ScrollAnimation" data-sa-options="{&quot;durationOffset&quot;: -246}"> 
+      <div id="big-shadow-intro-wrapper">
+       <figure class="image-hero-big-shadow shadow" data-animate="{&quot;fadeFrom&quot;: {&quot;l&quot;: 0.75, &quot;s&quot;: 0.75}, &quot;fadeTo&quot;: {&quot;l&quot;:0.15, &quot;s&quot;:0.3} }"></figure>
+      </div> 
+      <div id="big-intro-wrapper"> 
+       <figure id="hero-big" class="image-hero-big" data-animate="{&quot;translateTo&quot;: {&quot;l&quot;: [0,-30], &quot;m&quot;: [0,-20], &quot;s&quot;: [0,-15] }}" data-masked> 
+        <div id="small-shadow-intro-wrapper"> 
+         <figure class="image-hero-casting-shadow shadow" data-animate="{&quot;translateTo&quot;: {&quot;l&quot;: [0,-40], &quot;m&quot;: [0,-30], &quot;s&quot;: [0,-15] }, &quot;fadeFrom&quot;: 0.5, &quot;fadeTo&quot;: 0.03}"></figure> 
+        </div> 
+       </figure> 
+      </div> 
+      <div id="small-intro-wrapper"> 
+       <figure id="hero-small" class="image-hero-small right bottom" data-animate="{&quot;translateTo&quot;: {&quot;l&quot;: [0,-70] , &quot;m&quot;: [0,-50] , &quot;s&quot;: [0,-30] }}" data-masked></figure> 
+      </div> 
+      <div id="pencil-intro-wrapper"> 
+       <figure class="image-hero-pencil" data-animate="{&quot;translateTo&quot;: {&quot;l&quot;: [0,-25], &quot;m&quot;: [0, -18], &quot;s&quot;: [0,-13] }}" data-masked></figure> 
+      </div> 
+     </figure> 
+     <p class="intro large-10 large-center large-text-center small-12">iPad&nbsp;Pro is more than the next generation of iPad — it’s&nbsp;an uncompromising vision of personal computing for the modern world. It puts incredible power that leaps past most portable PCs at your fingertips. It makes even complex work as natural as touching, swiping, or writing with a pencil. And whether you choose the 12.9-inch model or the new 9.7-inch model, iPad Pro is more capable, versatile, and portable than anything that’s come before. In a word,&nbsp;super.</p> 
+    </div> 
+   </section> 
+   <section id="section-display" class="section section-display" data-analytics-section-engagement="name:display"> 
+    <div class="section-content section-content-top"> 
+     <div class="section-display-hero"> 
+      <p class="large-3 medium-3 small-12 smallblock-copy ipad-pro-12-9-copy" data-component-list="SlideIn"> <span class="smallblock-headline">12.9-inch iPad Pro</span> An epic screen that turns advanced&nbsp;tasks into brilliant, immersive&nbsp;experiences. <a id="video-2" class="watch-the-film icon icon-playcircle icon-after" href="http://images.apple.com/media/us/ipad-pro/2015/7d9c7133-1f96-46ef-b8a7-bb968f96cd34/films/feature/ipad-pro-feature-cc-us-20150909_r848-9dwc.mov">Watch the film</a> </p> 
+      <p class="large-3 medium-4 small-12 smallblock-copy ipad-pro-9-7-copy" data-component-list="SlideIn"> <span class="smallblock-headline">9.7-inch iPad Pro</span> Incredibly portable, with an unprecedented combination of versatility and&nbsp;performance. </p> 
+      <figure id="display-section-hardware" class="progressive-image progressive-image-animated image-retina-display-fallback" data-component-list="ScrollAnimation"> 
+       <figure class="image-shadow-wrapper-12-9 shadow" data-animate="{&quot;fadeFrom&quot;: {&quot;l&quot;: 0.50, &quot;s&quot;:0.6}, &quot;fadeTo&quot;: 0.03}"></figure> 
+       <figure class="image-shadow-wrapper-9-7 shadow" data-animate="{&quot;fadeFrom&quot;: {&quot;l&quot;: 0.03, &quot;s&quot;: 0.5}, &quot;fadeTo&quot;: {&quot;l&quot;:0.50, &quot;s&quot;: 0.03} }"></figure> 
+       <figure class="progressive-image progressive-image-animated image-retina-display-12-9" data-animate="{&quot;translateFrom&quot;: {&quot;l&quot;: [0,50], &quot;m&quot;: [0, 30], &quot;s&quot;: [0,-20] }}" data-masked></figure> 
+       <figure class="progressive-image progressive-image-animated image-retina-display-9-7" data-animate="{&quot;translateTo&quot;: {&quot;l&quot;: [0,50], &quot;m&quot;: [0, 30], &quot;s&quot;: [0,-20] }}" data-masked></figure> 
+      </figure> 
+     </div> 
+     <div class="column large-12"> 
+      <h2 class="section-headline large-6 medium-10 medium-centered small-12"> <span class="eyebrow">Retina Display</span> An awesome display of&nbsp;progress. </h2> 
+      <p class="column elevated-copy large-6 medium-10 medium-centered small-12">The key to the iPad experience is the display. It’s how you interact using Multi-Touch, and how you view content in spectacular detail. So we created our most vivid Retina display ever. The 12.9?inch iPad Pro has the highest resolution of any iOS device. And the new 9.7-inch iPad Pro screen —&nbsp;our most advanced display — is the brightest and least reflective in the&nbsp;world.</p> 
+      <div class="column large-5 large-offset-1 medium-10 medium-centered small-12 section-badges" data-component-list="IconBadge"> 
+       <div class="row sub-section-badges"> 
+        <figure class="image-icon-animation image-icon-animation--9-7"> 
+         <figure class="image-icon-9-7"> 
+          <span class="image-icon-text caption-copy"> <span class="caption-copy-wrapper"> <span class="copy"> <span class="number">9.7<span class="units">''</span></span> </span> </span> </span> 
+         </figure> 
+         <figure class="image-icon-12-9"></figure> 
+        </figure> 
+        <figure class="badge-animation badge"> 
+         <div class="badge-content"> 
+          <span class="badge-large"> 2048<span class="badge-half">×</span><span class="badge-text-1-offset">1536</span> </span> 
+          <span class="badge-small">screen resolution</span> 
+         </div> 
+        </figure> 
+       </div> 
+       <div class="row sub-section-badges"> 
+        <figure class="image-icon-animation image-icon-animation--12-9"> 
+         <figure class="image-icon-12-9"> 
+          <span class="image-icon-text caption-copy"> <span class="caption-copy-wrapper"> <span class="copy"> <span class="number">12.9<span class="units">''</span></span></span> </span> </span>  
+         </figure> 
+         <figure class="image-icon-9-7"></figure> 
+        </figure> 
+        <figure class="badge-animation badge"> 
+         <div class="badge-content"> 
+          <span class="badge-large"> 2732<span class="badge-half">×</span>2048 </span> 
+          <span class="badge-small">screen resolution</span> 
+         </div> 
+        </figure> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section id="section-white-balance" class="section section-white-balance section-fixed-height-grid" data-analytics-section-engagement="name:white-balance"> 
+    <div class="section-content"> 
+     <div class="row first"> 
+      <div class="column large-6 medium-12"> 
+       <figure class="progressive-image progressive-image-animated image-background image-color"> 
+        <figure id="genuine-green" class="progressive-image progressive-image-animated image-screen image-hardware-genuine-green"></figure> 
+       </figure> 
+      </div> 
+      <div class="column copy large-6 medium-12"> 
+       <div class="copy-center-wrapper"> 
+        <div class="copy-text"> 
+         <h3 class="subsection-headline">A color standard big enough for Hollywood.</h3> 
+         <p class="body-copy">The 9.7-inch iPad Pro display uses the same color space as the digital cinema industry. This wider color gamut gives iPad&nbsp;Pro up to 25 percent greater color saturation than previous iPad models. So colors are more vivid, true to life, and&nbsp;engaging.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="row"> 
+      <div class="column large-6 medium-12 large-push-6 medium-push-0"> 
+       <div class="background-gallery-wrapper" data-background-gallery data-component-list="BackgroundGallery"> 
+        <div id="gallery-backgrounds" class="gallery-backgrounds" data-backgrounds> 
+         <figure id="image-living-room" class="progressive-image progressive-image-animated image-living-room" data-ac-gallery-item></figure> 
+         <figure id="image-park" class="progressive-image progressive-image-animated image-park" data-ac-gallery-item></figure> 
+        </div> 
+        <div class="hardware-wrapper"> 
+         <div id="gallery-hardware" class="gallery-hardware" data-hardware> 
+          <figure id="image-living-room-hardware" class="image-hardware image-living-room-hardware-fallback" data-ac-gallery-item> 
+           <figure class="image-living-room-hardware" data-masked></figure> 
+          </figure> 
+          <figure id="image-park-hardware" class="image-hardware image-park-hardware-fallback" data-ac-gallery-item> 
+           <figure class="image-park-hardware" data-masked></figure> 
+          </figure> 
+         </div> 
+         <div id="gallery-screens" class="gallery-screens" data-screens> 
+          <figure id="image-living-room-screen" class="progressive-image progressive-image-animated image-screen image-living-room-screen" data-ac-gallery-item></figure> 
+          <figure id="image-park-screen" class="progressive-image progressive-image-animated image-screen image-park-screen" data-ac-gallery-item></figure> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="column copy large-6 medium-12 large-pull-6 medium-pull-0"> 
+       <div class="copy-center-wrapper"> 
+        <div class="copy-text"> 
+         <h3 class="subsection-headline">See things in the best possible light. Whatever the&nbsp;lighting.</h3> 
+         <p class="body-copy">People love using iPad everywhere. That’s why the new 9.7?inch iPad Pro has a True Tone display. It uses advanced four-channel ambient light sensors to automatically adapt the color and intensity of the display to match the light in your environment. Which means reading is more natural and comfortable — almost like looking at a sheet of&nbsp;paper.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section id="section-audio" class="section section-audio" data-analytics-section-engagement="name:audio"> 
+    <div class="section-content"> 
+     <div class="row"> 
+      <div class="column large-5 large-push-7 medium-10 medium-centered medium-push-0 small-12 section-offset-copy"> 
+       <h2 class="section-headline"> <span class="eyebrow">Four Speaker Audio</span> No matter how you turn it, you’ll want to turn it&nbsp;up. </h2> 
+       <p class="elevated-copy">With a high-fidelity speaker in each corner, iPad&nbsp;Pro creates a rich, wide, and detailed soundstage. It automatically adjusts the orientation of the high frequencies to the topmost speakers, no matter how you’re holding it. So whether you’re playing a game or watching a movie, you — and your ears — will be completely&nbsp;immersed.</p> 
+       <div class="column-captionblock"> 
+        <a href="https://itunes.apple.com/us/movie/mad-max-fury-road/id990549112" class="caption-headline">Mad Max: Fury Road</a> 
+        <span class="caption-copy icon icon-after icon-external">is available on iTunes</span> 
+       </div> 
+       <div class="speaker-turn"> 
+        <div class="icon-wrapper" data-component-list="SpeakerEngagement"> 
+         <div id="speakers" class="neutral">
+          <svg id="animation" class="animation" width="270" height="184" data-lgheight="184" data-lgwidth="270" data-medheight="126" data-medwidth="224" data-smheight="126" data-smwidth="224" viewbox="0 -8 295 204">
+           <circle fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="46.2" cy="94" r="1.3"></circle>
+           <path fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M147.5,23c51,0,92.9,0,93,0c0.1,0,0.4,0.1,0.5,0.1c0.1,0,0.3,0.2,0.4,0.2c0.1,0.1,0.2,0.2,0.3,0.4s0.1,0.3,0.1,0.4c0,0.1,0,0.2,0,0.3c0,0.1,0,31.4,0,69.6s0,69.6,0,69.6c0,0.1,0,0.2,0,0.3c0,0.1-0.1,0.2-0.1,0.4c-0.1,0.1-0.2,0.3-0.3,0.4c-0.1,0.1-0.3,0.2-0.4,0.2c-0.1,0-0.3,0.1-0.5,0.1c-0.1,0-42,0-93,0s-92.8,0-92.9,0c-0.1,0-0.2,0-0.3,0s-0.2-0.1-0.4-0.1c-0.1-0.1-0.3-0.2-0.4-0.3c-0.1-0.1-0.2-0.3-0.2-0.4c0-0.1-0.1-0.3-0.1-0.5c0-0.1,0-31.5,0-69.7s0-69.6,0-69.7c0-0.1,0.1-0.4,0.1-0.5c0-0.1,0.2-0.3,0.2-0.4c0.1-0.1,0.2-0.2,0.4-0.3c0.1-0.1,0.3-0.1,0.4-0.1c0.1,0,0.2,0,0.3,0S96.5,23,147.5,23z"></path>
+           <circle fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="248.7" cy="94" r="3.9"></circle>
+           <polygon fill="none" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="244.8,172.2 245.8,172.2 246.7,172.2 247.5,172.2 248.2,172.1 248.8,172.1 249.5,172 250.1,172 251.1,171.7 252.1,171.3 253,170.8 253.8,170.1 254.5,169.3 255,168.4 255.4,167.4 255.6,166.4 255.7,165.8 255.8,165.2 255.8,164.5 255.8,163.8 255.8,163.1 255.8,162.2 255.8,161.1 255.8,26.9 255.8,25.8 255.8,24.9 255.8,24.2 255.8,23.5 255.8,22.8 255.7,22.2 255.6,21.6 255.4,20.6 255,19.6 254.5,18.7 253.8,17.9 253,17.2 252.1,16.7 251.1,16.3 250.1,16 249.5,16 248.8,15.9 248.2,15.9 247.5,15.8 246.7,15.8 245.8,15.8 244.8,15.8 50.2,15.8 49.2,15.8 48.3,15.8 47.5,15.8 46.8,15.9 46.2,15.9 45.5,16 44.9,16 43.9,16.3 42.9,16.7 42,17.2 41.2,17.9 40.5,18.7 40,19.6 39.6,20.6 39.4,21.6 39.3,22.2 39.2,22.8 39.2,23.5 39.2,24.2 39.2,24.9 39.2,25.8 39.2,26.9 39.2,161.1 39.2,162.2 39.2,163.1 39.2,163.8 39.2,164.5 39.2,165.2 39.3,165.8 39.4,166.4 39.6,167.4 40,168.4 40.5,169.3 41.2,170.1 42,170.8 42.9,171.3 43.9,171.7 44.9,172 45.5,172 46.2,172.1 46.8,172.1 47.5,172.2 48.3,172.2 49.2,172.2 50.2,172.2"></polygon>
+           <g>
+            <defs>
+             <path id="mask" d="M48.3,176.2l-0.9,0l-0.8,0l-0.7,0l-0.8-0.1l-0.9-0.1l-1.5-0.4l-1.5-0.6l-1.5-0.9l-1.3-1.1l-1.1-1.3l-0.9-1.5l-0.6-1.5l-0.4-1.5l-0.1-0.9l-0.1-0.8l0-0.8l0-0.8l0-0.8l0-2l0-136.2l0-0.9l0-0.8l0-0.7l0.1-0.8l0.1-0.9l0.4-1.5l0.6-1.5l0.9-1.5l1.1-1.3l1.3-1.1l1.5-0.9l1.5-0.6l1.5-0.3l0.9-0.1l0.8-0.1l0.8,0l0.8,0l0.8,0l2,0l196.5,0l0.9,0l0.8,0l0.7,0l0.8,0.1l0.9,0.1l1.5,0.3l1.5,0.6l1.5,0.9l1.3,1.1l1.1,1.3l0.9,1.5l0.6,1.5l0.4,1.5l0.1,0.9l0.1,0.8l0,0.8l0,0.8l0,0.8l0,2l0,136.2l0,0.9l0,0.8l0,0.7l-0.1,0.8l-0.1,0.9l-0.4,1.5l-0.6,1.5l-0.9,1.5l-1.1,1.3l-1.3,1.1l-1.5,0.9l-1.5,0.6l-1.5,0.4l-0.9,0.1l-0.8,0.1l-0.8,0l-0.8,0l-0.8,0l-0.9,0L48.3,176.2z M-13.4,211.7h321.9V-23.7H-13.4V211.7z"></path>
+            </defs>
+            <clippath id="clip">
+             <use xlink:href="#mask" overflow="visible"></use>
+            </clippath>
+           </g>
+           <g id="topLeft">
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="30.9" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="30.9" r="0" class="wave treb"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="30.9" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="30.9" r="0" class="wave treb"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="30.9" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="30.9" r="0" class="wave treb"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="30.9" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="30.9" r="0" class="wave treb"></circle>
+           </g>
+           <g id="botLeft">
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="157.1" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="157.1" r="0" class="wave treb"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="157.1" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="157.1" r="0" class="wave treb"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="157.1" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="157.1" r="0" class="wave treb"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="157.1" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.2" cy="157.1" r="0" class="wave treb"></circle>
+           </g>
+           <g id="topRight">
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="30.9" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="30.9" r="0" class="wave treb"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="30.9" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="30.9" r="0" class="wave treb"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="30.9" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="30.9" r="0" class="wave treb"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="30.9" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="30.9" r="0" class="wave treb"></circle>
+           </g>
+           <g id="botRight">
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="157.1" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="157.1" r="0" class="wave treb"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="157.1" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="157.1" r="0" class="wave treb"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="157.1" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="157.1" r="0" class="wave treb"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="157.1" r="0" class="wave bass"></circle>
+            <circle clip-path="url(#clip)" fill="none" stroke="#333333" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="255.8" cy="157.1" r="0" class="wave treb"></circle>
+           </g>
+          </svg>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <figure id="audio-section-hardware" class="image-speaker-audio-fallback" data-component-list="ScrollAnimation"> 
+       <figure class="image-speaker-audio-shadow shadow" data-animate="{&quot;fadeFrom&quot;: 0.03, &quot;fadeTo&quot;: 0.5}"></figure> 
+       <figure class="progressive-image progressive-image-animated image-speaker-audio" data-animate="{&quot;translateFrom&quot;: {&quot;l&quot;: [0,-80], &quot;m&quot;: [0,-60], &quot;s&quot;: [0,-30] }}" data-grid data-masked></figure> 
+      </figure> 
+     </div> 
+    </div> 
+   </section> 
+   <section id="section-performance" class="section section-performance" data-analytics-section-engagement="name:performance"> 
+    <div class="section-content"> 
+     <div class="row"> 
+      <div class="column large-6 medium-10 medium-centered small-12 section-copy-offset"> 
+       <h2 class="section-headline"> <span class="eyebrow">A9X Chip</span> Faster than a speeding&nbsp;laptop. </h2> 
+       <div class="large-10 medium-12 section-copy"> 
+        <p class="elevated-copy">The 64-bit A9X chip gives iPad&nbsp;Pro the power to easily take on tasks once reserved for workstations and PCs. Not to mention tasks you’d never consider doing on a PC. Despite this barrier-breaking performance, the A9X&nbsp;chip’s efficient architecture enables up to 10 hours of battery&nbsp;life.<sup>1</sup></p> 
+        <div class="row section-badges" data-component-list="IconBadge"> 
+         <div class="sub-section-badges"> 
+          <figure class="badge badge-animation"> 
+           <div class="badge-content" role="text"> 
+            <span class="badge-large"><span class="badge-medium-edge">A9X</span></span> 
+            <span class="badge-small">chip</span> 
+           </div> 
+          </figure> 
+         </div> 
+         <div class="sub-section-badges"> 
+          <figure class="badge badge-animation"> 
+           <div class="badge-content" role="text"> 
+            <span class="badge-large"><span class="badge-medium-edge">M9</span></span> 
+            <span class="badge-small">coprocessor</span> 
+           </div> 
+          </figure> 
+         </div> 
+         <div class="sub-section-badges"> 
+          <figure class="badge badge-animation"> 
+           <div class="badge-content" role="text"> 
+            <span class="badge-small">Up to</span> 
+            <span class="badge-large"><span class="badge-medium-edge">10</span><span class="badge-half"> hr</span></span> 
+            <span class="badge-small">battery life</span> 
+           </div> 
+          </figure> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <figure id="performance-section-hardware" class="image-performance-fallback" data-component-list="ScrollAnimation"> 
+       <figure class="progressive-image progressive-image-animated image-performance-ipad-pro-bottom"></figure> 
+       <figure class="progressive-image progressive-image-animated image-performance-ipad-pro" data-animate="{&quot;translateFrom&quot;: {&quot;l&quot;: [0,85], &quot;m&quot;: [0,55], &quot;s&quot;: [0,35] }}" data-grid data-masked></figure> 
+      </figure> 
+     </div> 
+     <div class="row section-iconcolumns"> 
+      <div class="row"> 
+       <div class="column large-4 medium-10 medium-centered small-12"> 
+        <div class="row"> 
+         <div class="column-icon"> 
+          <div class="column medium-2 small-12"> 
+           <figure class="progressive-image progressive-image-animated icon-a9x"></figure> 
+          </div> 
+          <div class="column medium-10 small-12"> 
+           <h3 class="subsection-headline">Quicker&nbsp;work.</h3> 
+           <p class="body-copy large-12 medium-12">With up to 1.8 times the CPU performance of iPad&nbsp;Air&nbsp;2, the A9X&nbsp;chip delivers incredible responsiveness. Even complex actions like editing 4K&nbsp;video happen immediately and with unparalleled&nbsp;smoothness.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="column large-4 medium-10 medium-centered small-12"> 
+        <div class="column-icon"> 
+         <div class="row"> 
+          <div class="column medium-2 small-12"> 
+           <figure class="progressive-image progressive-image-animated icon-play"></figure> 
+          </div> 
+          <div class="column medium-10 small-12"> 
+           <h3 class="subsection-headline">More beautiful&nbsp;play.</h3> 
+           <p class="body-copy large-11 medium-12">iPad&nbsp;Pro offers up to double the graphics performance of iPad&nbsp;Air&nbsp;2. That means it can render incredibly detailed visuals, fluid animations, and effects so real, you’ll lose yourself in your favorite apps and&nbsp;games.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="column large-4 medium-10 medium-centered small-12"> 
+        <div class="column-icon"> 
+         <div class="row"> 
+          <div class="column medium-2 small-12"> 
+           <figure class="progressive-image progressive-image-animated icon-metal"></figure> 
+          </div> 
+          <div class="column medium-10 small-12"> 
+           <h3 class="subsection-headline">A game changer.</h3> 
+           <p class="body-copy large-11 medium-12">Metal optimizes CPU and graphics like nothing else. So&nbsp;developers can design even more highly immersive console-style games and blazing-fast&nbsp;apps.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="slide-gallery-wrapper" data-component-list="SlideGallery"> 
+     <div id="gallery-performance" class="gallery-performance" data-slide-gallery> 
+      <div class="gallery-content" id="gallery-performance-1" data-ac-gallery-item> 
+       <div class="gallery-content-wrapper"> 
+        <figure class="image-hardware"> 
+         <figure class="image-screen image-screen-performance-1"></figure> 
+        </figure> 
+       </div> 
+      </div> 
+      <div class="gallery-content" id="gallery-performance-2" data-ac-gallery-item> 
+       <div class="gallery-content-wrapper"> 
+        <figure class="image-hardware"> 
+         <figure class="image-screen image-screen-performance-2"></figure> 
+        </figure> 
+       </div> 
+      </div> 
+      <div class="gallery-content" id="gallery-performance-3" data-ac-gallery-item> 
+       <div class="gallery-content-wrapper"> 
+        <figure class="image-hardware"> 
+         <figure class="image-screen image-screen-performance-3"></figure> 
+        </figure> 
+       </div> 
+      </div> 
+      <div class="gallery-content" id="gallery-performance-4" data-ac-gallery-item> 
+       <div class="gallery-content-wrapper"> 
+        <figure class="image-hardware"> 
+         <figure class="image-screen image-screen-performance-4"></figure> 
+        </figure> 
+       </div> 
+      </div> 
+      <div class="gallery-content" id="gallery-performance-5" data-ac-gallery-item> 
+       <div class="gallery-content-wrapper"> 
+        <figure class="image-hardware"> 
+         <figure class="image-screen image-screen-performance-5"></figure> 
+        </figure> 
+       </div> 
+      </div> 
+      <nav class="paddlenav paddlenav-framed paddlenav-onhover paddlenav-short"> 
+       <ul> 
+        <li><button class="paddlenav-arrow paddlenav-arrow-previous" aria-label="Previous" data-ac-gallery-previous-trigger="gallery-performance"></button></li> 
+        <li><button class="paddlenav-arrow paddlenav-arrow-next" aria-label="Next" data-ac-gallery-next-trigger="gallery-performance"></button></li> 
+       </ul> 
+      </nav> 
+     </div> 
+     <div id="gallery-performance-captions" class="gallery-performance-captions" data-captions-gallery> 
+      <div id="gallery-performance-captions-1" data-captions-gallery-item> 
+       <figcaption class="caption"> 
+        <figure class="icon-performance-1"></figure> 
+        <div class="caption-text"> 
+         <h4 class="bold-title">AutoCAD 360</h4> 
+         <a class="icon icon-after icon-external" href="https://itunes.apple.com/us/app/autocad-360/id393149734?mt=8">View in the App Store</a> 
+        </div> 
+       </figcaption> 
+      </div> 
+      <div id="gallery-performance-captions-2" data-captions-gallery-item> 
+       <figcaption class="caption"> 
+        <figure class="icon-performance-2"></figure> 
+        <div class="caption-text"> 
+         <h4 class="bold-title">AG Drive</h4> 
+         <a class="icon icon-after icon-external" href="https://itunes.apple.com/us/app/ag-drive/id789356890?mt=8">View in the App Store</a> 
+        </div> 
+       </figcaption> 
+      </div> 
+      <div id="gallery-performance-captions-3" data-captions-gallery-item> 
+       <figcaption class="caption"> 
+        <figure class="icon-performance-3"></figure> 
+        <div class="caption-text"> 
+         <h4 class="bold-title">GarageBand</h4> 
+         <a class="icon icon-after icon-external" href="https://itunes.apple.com/us/app/garageband/id408709785?mt=8">View in the App Store</a> 
+        </div> 
+       </figcaption> 
+      </div> 
+      <div id="gallery-performance-captions-4" data-captions-gallery-item> 
+       <figcaption class="caption"> 
+        <figure class="icon-performance-4"></figure> 
+        <div class="caption-text"> 
+         <h4 class="bold-title">Concepts: Smarter Sketching, Design &amp; CAD for Architecture &amp; Illustration</h4> 
+         <a class="icon icon-after icon-external" href="https://itunes.apple.com/us/app/concepts-smarter-sketching/id560586497?mt=8">View in the App Store</a> 
+        </div> 
+       </figcaption> 
+      </div> 
+      <div id="gallery-performance-captions-5" data-captions-gallery-item> 
+       <figcaption class="caption"> 
+        <figure class="icon-performance-5"></figure> 
+        <div class="caption-text"> 
+         <h4 class="bold-title">Canva - Graphic Design &amp; Photo Editing</h4> 
+         <a class="icon icon-after icon-external" href="https://itunes.apple.com/us/app/canva-graphic-design-photo/id897446215?mt=8">View in the App Store</a> 
+        </div> 
+       </figcaption> 
+      </div> 
+     </div> 
+     <nav class="dotnav large-centered large-9 small-12"> 
+      <ul> 
+       <li><a href="#gallery-performance-1" class="dotnav-item" data-ac-gallery-trigger="gallery-performance-1">Item 1</a></li> 
+       <li><a href="#gallery-performance-2" class="dotnav-item" data-ac-gallery-trigger="gallery-performance-2">Item 2</a></li> 
+       <li><a href="#gallery-performance-3" class="dotnav-item" data-ac-gallery-trigger="gallery-performance-3">Item 3</a></li> 
+       <li><a href="#gallery-performance-4" class="dotnav-item" data-ac-gallery-trigger="gallery-performance-4">Item 4</a></li> 
+       <li><a href="#gallery-performance-5" class="dotnav-item" data-ac-gallery-trigger="gallery-performance-5">Item 5</a></li> 
+      </ul> 
+     </nav> 
+    </div>  
+   </section> 
+   <section id="section-keyboard" class="section section-keyboard" data-analytics-section-engagement="name:keyboard"> 
+    <div class="section-content"> 
+     <div class="row"> 
+      <div class="column large-5 medium-10 medium-centered small-12 small-offset-0 section-copy-offset" data-analytics-region="learn more"> 
+       <h2 class="section-headline"> <span class="eyebrow">Smart Keyboard for iPad Pro</span> Type. On a totally new type of&nbsp;keyboard. </h2> 
+       <p class="elevated-copy">Whichever iPad Pro you choose, there’s a Smart Keyboard that fits.<sup>2</sup> By combining new technologies and materials, we created a portable keyboard that’s unbelievably thin and even doubles as a lightweight yet durable iPad cover. And thanks to the Smart Connector, there are no cords, pairing, or plugs. Just attach and start&nbsp;typing.</p> 
+       <a href="/smart-keyboard/" class="more elevated-copy">Learn more about the Smart&nbsp;Keyboard</a> 
+      </div> 
+      <figure id="keyboard-section-hardware" class="image-keyboard-fallback" data-component-list="ScrollAnimation"> 
+       <figure class="progressive-image progressive-image-animated image-hardware" data-keyboardsnap="true" data-animate="{&quot;translateFrom&quot;:{&quot;l&quot;: [0,-100], &quot;m&quot;: [0,-80], &quot;s&quot;: [0,-60] }, &quot;translateTo&quot;:{&quot;l&quot;: [0,0], &quot;m&quot;: [0,0], &quot;s&quot;: [0,0] }}" data-masked></figure> 
+       <figure class="progressive-image progressive-image-animated image-keyboard-base" data-masked></figure> 
+      </figure> 
+     </div> 
+    </div> 
+   </section> 
+   <section id="section-pencil" class="section section-pencil" data-analytics-section-engagement="name:pencil"> 
+    <div class="section-content"> 
+     <div class="row"> 
+      <figure id="pencil-section-hardware" class="image-pencil-fallback" data-component-list="ScrollAnimation"> 
+       <figure class="image-ipad-shadow-combined shadow" data-animate="{&quot;fadeFrom&quot;: {&quot;l&quot;:0.03, &quot;s&quot;:0.10}, &quot;fadeTo&quot;: 0.5}"></figure> 
+       <figure class="progressive-image progressive-image-animated image-pencil-ipad-pro-combined" data-animate="{&quot;translateFrom&quot;: {&quot;l&quot;: [0,-60], &quot;m&quot;: [0,-45], &quot;s&quot;: [0,-35] }}" data-masked></figure> 
+      </figure> 
+      <div class="column large-5 large-last medium-10 medium-centered small-12 section-copy-offset" data-analytics-region="learn more"> 
+       <h2 class="section-headline"> <span class="eyebrow">Apple&nbsp;Pencil for iPad Pro</span> Completely familiar. <br class="hide-for-small">Entirely revolutionary. </h2> 
+       <p class="elevated-copy">Apple&nbsp;Pencil feels incredibly responsive from the moment you pick it&nbsp;up.<sup>2</sup> It’s sensitive to both tilt and pressure, allowing you to create a range of artistic effects. And with its pixel-perfect precision, Apple Pencil opens up new creative&nbsp;possibilities.</p> 
+       <a href="/apple-pencil/" class="more elevated-copy">Learn more about Apple&nbsp;Pencil</a> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section id="section-cameras" class="section section-cameras" data-analytics-section-engagement="name:cameras"> 
+    <div class="section-content"> 
+     <div class="row"> 
+      <div class="column large-6 medium-10 medium-centered medium-push-0 small-12 section-offset-copy"> 
+       <h2 class="section-headline"> <span class="eyebrow">iSight and FaceTime HD Cameras</span> Capture every detail in greater&nbsp;detail. </h2> 
+       <p class="elevated-copy">iPad Pro has remarkable cameras on both the front and the back. The 12.9?inch model’s 8?megapixel iSight camera lets you shoot beautiful photos and video. The 9.7?inch iPad Pro comes with a 12?megapixel iSight camera, which can capture 4K video, 240?fps slo-mo videos, and Live Photos. It’s also the first iPad with True Tone flash, so skin tones look great regardless of&nbsp;lighting.</p> 
+       <p class="elevated-copy">Things are sharper on the other side of iPad Pro, too. The front-facing FaceTime&nbsp;HD camera’s latest sensor makes video calls more lifelike. And on the 9.7-inch iPad Pro, the 5-megapixel FaceTime HD camera features Retina Flash with True Tone for gorgeous&nbsp;selfies.</p> 
+       <div class="section-badges row" data-component-list="IconBadge"> 
+        <div class="column large-12 sub-section-badges"> 
+         <figure class="image-icon-animation image-icon-animation--9-7"> 
+          <figure class="image-icon-9-7"> 
+           <span class="image-icon-text caption-copy"> <span class="caption-copy-wrapper"> <span class="copy"> <span class="number">9.7<span class="units">''</span></span></span> </span> </span>  
+          </figure> 
+          <figure class="progressive-image progressive-image-animated image-icon-12-9"></figure> 
+         </figure> 
+         <figure class="badge-animation badge"> 
+          <div class="badge-content" role="text"> 
+           <span class="badge-large"><span class="badge-medium-edge badge-text-1-offset">12</span><span class="badge-half">MP</span></span> 
+           <span class="badge-small">iSight camera</span> 
+          </div> 
+         </figure> 
+         <figure class="badge-animation badge"> 
+          <div class="badge-content" role="text"> 
+           <span class="badge-large"><span class="badge-medium-edge">5</span><span class="badge-half">MP</span></span> 
+           <span class="badge-small">FaceTime HD camera</span> 
+          </div> 
+         </figure> 
+        </div> 
+        <div class="column large-12 sub-section-badges"> 
+         <figure class="image-icon-animation image-icon-animation--12-9"> 
+          <figure class="image-icon-12-9"> 
+           <span class="image-icon-text caption-copy"> <span class="caption-copy-wrapper"> <span class="copy"> <span class="number">12.9<span class="units">''</span></span></span> </span> </span>  
+          </figure> 
+          <figure class="image-icon-9-7"></figure> 
+         </figure> 
+         <figure class="badge-animation badge"> 
+          <div class="badge-content" role="text"> 
+           <span class="badge-large"><span class="badge-medium-edge">8</span><span class="badge-half">MP</span></span> 
+           <span class="badge-small">iSight camera</span> 
+          </div> 
+         </figure> 
+         <figure class="badge-animation badge"> 
+          <div class="badge-content" role="text"> 
+           <span class="badge-large"><span class="badge-medium-edge badge-text-1-offset">1.2</span><span class="badge-half">MP</span></span> 
+           <span class="badge-small">FaceTime HD camera</span> 
+          </div> 
+         </figure> 
+        </div> 
+       </div> 
+      </div> 
+      <figure id="cameras-section-hardware" class="image-cameras-fallback" data-component-list="ScrollAnimation"> 
+       <figure id="image-cameras-ipad-facing-left-combined" class="progressive-image progressive-image-animated image-cameras-ipad-facing-left-combined"></figure> 
+       <figure id="image-cameras-ipad-facing-right" class="progressive-image progressive-image-animated image-cameras-ipad-facing-right" data-animate="{&quot;translateTo&quot;: {&quot;l&quot;: [0,55], &quot;m&quot;: [0,45], &quot;s&quot;: [0,30] }}" data-xgrid data-masked></figure> 
+       <div class="image-cameras-ipad-facing-left-shadow shadow" data-animate="{&quot;fadeFrom&quot;: {&quot;l&quot;:0.50, &quot;s&quot;:0.50}, &quot;fadeTo&quot;: {&quot;l&quot;:0.03, &quot;s&quot;:0.20}}"></div> 
+       <div class="image-cameras-ipad-facing-right-shadow shadow" data-animate="{&quot;fadeFrom&quot;: {&quot;l&quot;:0.03, &quot;s&quot;:0.20}, &quot;fadeTo&quot;: {&quot;l&quot;:0.50, &quot;s&quot;:0.50}}"></div> 
+      </figure> 
+     </div> 
+    </div> 
+   </section> 
+   <section id="section-design" class="section section-design" data-analytics-section-engagement="name:design"> 
+    <div class="section-content"> 
+     <div class="row"> 
+      <div class="column large-5 large-push-7 medium-10 medium-centered medium-push-0 small-12 section-copy-offset"> 
+       <div class="row"> 
+        <div class="row"> 
+         <div class="column"> 
+          <h2 class="section-headline"> <span class="eyebrow">Design</span> Incredible power has never been so easy to&nbsp;handle. </h2> 
+          <p class="elevated-copy">Even though iPad Pro can handle tasks usually reserved for PCs, it’s lighter than any PC could hope to be. The 9.7-inch iPad Pro packs heavyweight performance into less than a pound. The 12.9-inch iPad&nbsp;Pro is thinner than iPhone&nbsp;6s and weighs just over a pound and a half. And thanks to the aluminum unibody, both sizes feel reassuringly solid in the&nbsp;hand.</p> 
+         </div> 
+        </div> 
+        <div class="section-badges" data-component-list="IconBadge"> 
+         <div class="row"> 
+          <div class="column large-12 sub-section-badges"> 
+           <figure class="image-icon-animation image-icon-animation--9-7"> 
+            <figure class="image-icon-9-7"> 
+             <span class="image-icon-text caption-copy"> <span class="caption-copy-wrapper"> <span class="copy"> <span class="number">9.7<span class="units">''</span></span></span> </span> </span>  
+            </figure> 
+            <figure class="image-icon-12-9"></figure> 
+           </figure> 
+           <figure class="badge-animation badge badge-sub-size"> 
+            <div class="badge-content" role="text"> 
+             <span class="badge-large"><span class="badge-medium-edge">6.1</span></span> 
+             <span class="badge-small">mm thin</span> 
+            </div> 
+           </figure> 
+           <figure class="badge-animation badge badge-sub-size"> 
+            <div class="badge-content" role="text"> 
+             <span class="badge-large"><span class="badge-medium-edge">0.96</span></span> 
+             <span class="badge-small">pound</span> 
+            </div> 
+           </figure> 
+          </div> 
+          <div class="column large-12 sub-section-badges"> 
+           <figure class="image-icon-animation image-icon-animation--12-9"> 
+            <figure class="image-icon-12-9"> 
+             <span class="image-icon-text caption-copy"> <span class="caption-copy-wrapper"> <span class="copy"> <span class="number">12.9<span class="units">''</span></span></span> </span> </span>  
+            </figure> 
+            <figure class="image-icon-9-7"></figure> 
+           </figure> 
+           <figure class="badge-animation badge badge-sub-size"> 
+            <div class="badge-content" role="text"> 
+             <span class="badge-large"><span class="badge-medium-edge">6.9</span></span> 
+             <span class="badge-small">mm thin</span> 
+            </div> 
+           </figure> 
+           <figure class="badge-animation badge badge-sub-size"> 
+            <div class="badge-content" role="text"> 
+             <span class="badge-large"><span class="badge-medium-edge badge-text-1-offset">1.57</span></span> 
+             <span class="badge-small">pounds</span> 
+            </div> 
+           </figure> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <figure id="design-section-hardware" class="image-design-fallback" data-component-list="ScrollAnimation"> 
+       <figure class="image-design-shadow shadow" data-animate="{&quot;fadeFrom&quot;: 0.03, &quot;fadeTo&quot;: 0.5}"></figure> 
+       <figure id="rose-gold-design" class="progressive-image progressive-image-animated image-design-ipad-pro-rose-gold combined" data-xgrid data-masked></figure> 
+       <figure id="space-gray-design" class="progressive-image progressive-image-animated image-design-ipad-pro-space-gray combined" data-animate="{&quot;translateTo&quot;: {&quot;l&quot;:[0,25], &quot;m&quot;:[0,20], &quot;s&quot;: [0,10]}, &quot;translateFrom&quot;: {&quot;l&quot;: [0,-25], &quot;m&quot;: [0,-20], &quot;s&quot;: [0,-10] }}" data-xgrid data-masked></figure> 
+       <figure id="gold-design" class="progressive-image progressive-image-animated image-design-ipad-pro-gold combined" data-animate="{&quot;translateTo&quot;:{&quot;l&quot;:[0,50], &quot;m&quot;:[0,40], &quot;s&quot;: [0,20]}, &quot;translateFrom&quot;: {&quot;l&quot;: [0,-50], &quot;m&quot;: [0,-40], &quot;s&quot;: [0,-20] }}" data-xgrid data-masked></figure> 
+       <figure id="silver-design" class="progressive-image progressive-image-animated image-design-ipad-pro-silver combined" data-animate="{&quot;translateTo&quot;:{&quot;l&quot;:[0,75], &quot;m&quot;:[0,60], &quot;s&quot;: [0,30]}, &quot;translateFrom&quot;: {&quot;l&quot;: [0,-75], &quot;m&quot;: [0,-60], &quot;s&quot;: [0,-30] }}" data-xgrid data-masked></figure> 
+      </figure> 
+     </div> 
+    </div> 
+   </section> 
+   <section id="section-extra-features" class="section section-extra-features" data-analytics-section-engagement="name:extra-features"> 
+    <div class="section-content"> 
+     <div class="row"> 
+      <div class="column first large-6 medium-10 medium-centered small-12"> 
+       <div class="column-wrapper"> 
+        <figure class="progressive-image progressive-image-animated image-icon-wi-fi"></figure> 
+        <h2 class="section-headline"> <span class="eyebrow">Wi-Fi and LTE</span> Fast wireless connectivity. </h2> 
+        <p class="elevated-copy">iPad&nbsp;Pro can connect to the fastest Wi-Fi or cellular networks so you can surf the web, stream movies and share documents from virtually anywhere. With the Wi-Fi + Cellular model, you can also make phone and FaceTime calls — or even create a hotspot — with your existing data plan. And the new 9.7?inch iPad&nbsp;Pro features LTE Advanced, enabling up to 50&nbsp;percent faster cellular&nbsp;connections.<sup>3</sup></p> 
+       </div> 
+       <div class="column-wrapper section-badges" data-component-list="IconBadge"> 
+        <div class="row sub-section-badges"> 
+         <figure class="image-icon-animation image-icon-animation--9-7"> 
+          <figure class="image-icon-9-7"> 
+           <span class="image-icon-text caption-copy"> <span class="caption-copy-wrapper"> <span class="copy"> <span class="number">9.7<span class="units">''</span></span></span> </span> </span>  
+          </figure> 
+          <figure class="image-icon-12-9"></figure> 
+         </figure> 
+         <figure class="badge-animation badge badge-sub-size"> 
+          <div class="badge-content"> 
+           <span class="badge-small">Supports</span> 
+           <span class="badge-large"><span class="badge-medium-edge">23</span></span> 
+           <span class="badge-small">LTE bands</span> 
+          </div> 
+         </figure> 
+         <figure class="badge-animation badge badge-sub-size"> 
+          <div class="badge-content"> 
+           <span class="badge-small">Up to</span> 
+           <span class="badge-large"><span class="badge-medium-edge">300</span></span> 
+           <span class="badge-small">Mbps via LTE&nbsp;Advanced</span> 
+          </div> 
+         </figure> 
+        </div> 
+        <div class="row sub-section-badges"> 
+         <figure class="image-icon-animation image-icon-animation--12-9"> 
+          <figure class="image-icon-12-9"> 
+           <span class="image-icon-text caption-copy"> <span class="caption-copy-wrapper"> <span class="copy"> <span class="number">12.9<span class="units">''</span></span></span> </span> </span>  
+          </figure> 
+          <figure class="image-icon-9-7"></figure> 
+         </figure> 
+         <figure class="badge-animation badge badge-sub-size"> 
+          <div class="badge-content"> 
+           <span class="badge-small">Supports</span> 
+           <span class="badge-large"><span class="badge-medium-edge">20</span></span> 
+           <span class="badge-small">LTE bands</span> 
+          </div> 
+         </figure> 
+         <figure class="badge-animation badge badge-sub-size"> 
+          <div class="badge-content"> 
+           <span class="badge-small">Up to</span> 
+           <span class="badge-large"><span class="badge-medium-edge badge-text-1-offset">150</span></span> 
+           <span class="badge-small">Mbps via LTE</span> 
+          </div> 
+         </figure> 
+        </div> 
+       </div> 
+       <div class="column-wrapper" data-analytics-region="learn more"> 
+        <p class="elevated-copy"><span class="bold-copy">Apple SIM. So many ways to stay connected.</span> All&nbsp;Wi?Fi + Cellular models are unlocked, so you can pop in a SIM card anytime to get connected. For added convenience, an Apple SIM comes installed on the 12.9?inch iPad&nbsp;Pro in a number of countries. And the 9.7?inch iPad&nbsp;Pro with an embedded Apple SIM is available all over the world.<sup>4</sup> So it’s easy to purchase a cellular data plan right on your iPad with no long-term commitment. Happy&nbsp;travels.</p> 
+        <a href="/ipad/apple-sim/" class="more elevated-copy">Learn more about Apple SIM</a> 
+       </div> 
+      </div> 
+      <div class="column large-5 large-offset-1 medium-10 medium-offset-0 medium-centered small-12"> 
+       <div class="column-wrapper reverse-order-top"> 
+        <figure class="progressive-image progressive-image-animated image-icon-touch-id"></figure> 
+        <h2 class="section-headline"> <span class="eyebrow">Touch ID</span> The password is&nbsp;you. </h2> 
+        <p class="elevated-copy">iPad&nbsp;Pro uses Touch&nbsp;ID technology to turn your fingerprint into an unforgettable password. So&nbsp;you can unlock your device with just a touch. You can also make secure purchases in iTunes, iBooks, and the App&nbsp;Store. And with Apple&nbsp;Pay, you can make purchases within your apps easily and&nbsp;securely.</p> 
+       </div> 
+       <div class="column reverse-order-bottom"> 
+        <figure id="sim-section-hardware" class="image-sim-fallback" data-component-list="ScrollAnimation"> 
+         <figure class="progressive-image progressive-image-animated image-sim-shadow" data-animate="{&quot;fadeFrom&quot;: 0.03, &quot;fadeTo&quot;: 0.5}"></figure> 
+         <figure class="progressive-image progressive-image-animated image-sim" data-animate="{&quot;translateFrom&quot;: {&quot;l&quot;: [0,-50], &quot;m&quot;: [0,-40], &quot;s&quot;: [0,-20] }}" data-masked></figure> 
+        </figure> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section id="section-ios-9" class="section section-ios-9" data-analytics-section-engagement="name:ios-9"> 
+    <div class="section-content"> 
+     <div class="row"> 
+      <div class="column large-5 large-push-7 medium-6 medium-push-6 small-12 small-push-0 section-copy-offset" data-analytics-region="learn more"> 
+       <h2 class="section-headline"> <span class="eyebrow">iOS 9</span> A better experience with every&nbsp;touch. </h2> 
+       <p class="elevated-copy">iOS&nbsp;9 is the world’s most advanced, intuitive, and secure mobile operating system. From powerful multitasking features to Night Shift and News, iOS&nbsp;9 is designed to help you get the most out of&nbsp;iPad.</p> 
+       <a href="/ios/" class="more elevated-copy">Learn more about iOS 9</a> 
+      </div> 
+     </div> 
+     <figure id="ios-section-hardware" class="image-ios-9-fallback" data-component-list="ScrollAnimation SyncedMediaObject"> 
+      <figure class="image-ios-9-facing-left-shadow shadow" data-animate="{&quot;fadeFrom&quot;: 0.03, &quot;fadeTo&quot;: 0.5}"></figure> 
+      <figure class="progressive-image progressive-image-animated image-ios-9-facing-combined"> 
+       <div class="mediaObject-container" data-mediaobject="{&quot;locale&quot;:&quot;us&quot;, &quot;name&quot;:&quot;overview/touch_facing_right&quot;, &quot;type&quot;:&quot;video&quot;, &quot;decorator&quot;:&quot;trigger&quot;}" data-mediaobject-synced-trigger data-masked> 
+        <figure class="mediaObject-startframe"></figure> 
+       </div> 
+      </figure> 
+      <figure class="progressive-image progressive-image-animated image-ios-9-facing-left" data-animate="{&quot;translateFrom&quot;: {&quot;l&quot;: [0,-100], &quot;m&quot;: [0,-80], &quot;s&quot;: [0,-30] }}" data-masked> 
+       <div class="mediaObject-container" data-mediaobject="{&quot;locale&quot;:&quot;us&quot;, &quot;name&quot;:&quot;overview/touch_facing_left&quot;, &quot;type&quot;:&quot;video&quot;, &quot;decorator&quot;:&quot;trigger&quot;}" data-mediaobject-synced-responder data-masked> 
+        <figure class="mediaObject-startframe" data-masked></figure> 
+       </div> 
+      </figure> 
+     </figure> 
+    </div> 
+   </section> 
+   <section id="section-expand" class="section section-expand section-fixed-height-grid" data-analytics-section-engagement="name:expand"> 
+    <div class="section-content row"> 
+     <div class="column large-6 medium-12"> 
+      <figure class="progressive-image progressive-image-animated image-expand"></figure> 
+     </div> 
+     <div class="column copy large-6 medium-12"> 
+      <div class="copy-center-wrapper"> 
+       <div class="copy-text"> 
+        <h3 class="subsection-headline">Great ways to expand what’s possible with iPad&nbsp;Pro.</h3> 
+        <p class="body-copy">You can get even more creative and productive with accessories designed especially for the scale, capabilities, and power of iPad Pro. Explore the range of covers, keyboards, and&nbsp;more.</p> 
+        <a href="/us/shop/goto/ipad_accessories" class="more">Shop accessories for iPad</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section id="section-next" class="section section-next" data-analytics-region="router" data-analytics-section-engagement="name:next-router"> 
+    <a class="block-link" href="/ipad-pro/experience/"> 
+     <div class="overlay"></div> 
+     <figure class="progressive-image progressive-image-animated image-touch-fallback"></figure> 
+     <div class="mediaObject-container" data-mediaobject="{&quot;locale&quot;:&quot;us&quot;, &quot;name&quot;:&quot;overview/next&quot;, &quot;type&quot;:&quot;video&quot;, &quot;decorator&quot;:&quot;looping&quot;}" data-component-list="MediaObject"> 
+      <figure class="mediaObject-startframe"></figure> 
+      <figure class="mediaObject-posterframe"></figure> 
+     </div> 
+     <div class="section-content"> 
+      <div class="section-content-wrapper"> 
+       <h3 class="section-headline large-6 medium-9 small-12">See how iPad Pro can&nbsp;be your next&nbsp;computer.</h3> 
+       <p class="learn">Learn more about the iPad&nbsp;Pro&nbsp;<span class="more">experience</span></p>
+      </div> 
+     </div>  </a> 
+   </section> 
+  </main> 
+  <footer id="ac-globalfooter" class="no-js" lang="en-US" data-analytics-region="global footer" role="contentinfo" aria-labelledby="ac-gf-label"> 
+   <div class="ac-gf-content"> 
+    <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2> 
+    <section class="ac-gf-buystrip" data-analytics-region="buy strip"> 
+     <section class="ac-gf-buystrip-hero"> 
+      <a href="/ipad/compare/" class="ac-gf-block"> 
+       <div class="ac-gf-buystrip-hero-block"> 
+        <h4 class="ac-gf-buystrip-hero-title">iPad Pro</h4> 
+        <p class="ac-gf-buystrip-hero-cta ac-gf-block-link ac-gf-more">Compare iPad models</p> 
+       </div> 
+       <figure class="ac-gf-buystrip-hero-product buystrip-product"></figure> </a> 
+     </section> 
+     <div class="ac-gf-buystrip-info with-4-columns"> 
+      <section class="ac-gf-buystrip-info-column ac-gf-buystrip-info-shipping" data-analytics-region="shipping"> 
+       <div class="ac-gf-buystrip-info-content"> 
+        <figure class="ac-gf-buystrip-info-icon ac-gf-buystrip-info-icon-shipping"></figure> 
+        <h5 class="ac-gf-buystrip-info-title">Free two-day delivery</h5> 
+        <p class="ac-gf-buystrip-info-copy">On in-stock items ordered by 5pm.</p> 
+        <a href="/us/shop/goto/shipping_and_returns" class="ac-gf-buystrip-info-cta ac-gf-more">Learn more</a> 
+       </div> 
+      </section> 
+      <section class="ac-gf-buystrip-info-column ac-gf-buystrip-info-retail" data-analytics-region="retail"> 
+       <div class="ac-gf-buystrip-info-content"> 
+        <figure class="ac-gf-buystrip-info-icon ac-gf-buystrip-info-icon-retail"></figure> 
+        <h5 class="ac-gf-buystrip-info-title">Pick up at the Apple Store today.</h5> 
+        <p class="ac-gf-buystrip-info-copy">Buy online and pick up available items in an hour.</p> 
+        <a href="/us/shop/goto/shipping_and_returns" class="ac-gf-buystrip-info-cta ac-gf-more">Learn more</a> 
+       </div> 
+      </section> 
+      <section class="ac-gf-buystrip-info-column ac-gf-buystrip-info-financing" data-analytics-region="financing"> 
+       <div class="ac-gf-buystrip-info-content"> 
+        <figure class="ac-gf-buystrip-info-icon ac-gf-buystrip-info-icon-financing"></figure> 
+        <h5 class="ac-gf-buystrip-info-title">Special financing</h5> 
+        <p class="ac-gf-buystrip-info-copy">Apply for special financing plus rewards.</p> 
+        <a href="/us/shop/goto/payment_plan" class="ac-gf-buystrip-info-cta ac-gf-more">Learn more</a> 
+       </div> 
+      </section> 
+      <section class="ac-gf-buystrip-info-column ac-gf-buystrip-info-help" data-analytics-region="help"> 
+       <div class="ac-gf-buystrip-info-content"> 
+        <figure class="ac-gf-buystrip-info-icon ac-gf-buystrip-info-icon-help"></figure> 
+        <h5 class="ac-gf-buystrip-info-title">Get help buying</h5> 
+        <p class="ac-gf-buystrip-info-copy">Have a question? Call a Specialist or chat online.</p> 
+        <p class="ac-gf-buystrip-info-caption">Call 1-800-MY-APPLE.</p> 
+        <a href="/us/shop/goto/chat/start?pg=COM:ipad-pro&amp;ap=COM" class="ac-gf-buystrip-info-cta ac-gf-buystrip-info-cta-chat ac-gf-more">Chat now</a> 
+       </div> 
+      </section> 
+     </div> 
+    </section> 
+    <section class="ac-gf-sosumi"> 
+     <ol> 
+      <li>Battery life varies by use and configuration; see <a href="/batteries/">www.apple.com/batteries</a> for more information.</li> 
+      <li>Sold separately.</li> 
+      <li>Data plan required. LTE Advanced and LTE are available in select markets and through select carriers. Speeds are based on theoretical throughput and vary based on site conditions and carrier. For details on LTE support, contact your carrier and see&nbsp;<a href="/ipad/LTE/">www.apple.com/ipad/LTE</a>.</li> 
+      <li>Embedded Apple SIM in iPad Pro (9.7-inch) may be disabled when purchased from some carriers. See your carrier for details. Apple SIM and embedded Apple SIM not available in China.</li> 
+     </ol> 
+     <ul> 
+      <li><a href="https://itunes.apple.com/us/movie/mad-max-fury-road/id990549112"><em>Mad Max: Fury Road</em></a> is available on iTunes. <a href="https://itunes.apple.com/us/movie/mad-max-fury-road/id990549112"><em>Mad Max: Fury Road</em></a> © 2015 Warner Bros. Feature Productions Pty Limited. All rights reserved.</li> 
+      <li>Some features may not be available for all countries or all areas. <a href="https://www.apple.com/ios/feature-availability/">Click here</a> to see complete list.</li> 
+     </ul> 
+    </section> 
+    <nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation"> 
+     <a href="/" class="home ac-gf-breadcrumbs-home"> <span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true">?</span> <span class="ac-gf-breadcrumbs-home-label">Apple</span> <span class="ac-gf-breadcrumbs-home-chevron"></span> <span class="ac-gf-breadcrumbs-home-mask"></span> </a> 
+     <div class="ac-gf-breadcrumbs-path"> 
+      <ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList"> 
+       <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem"><a class="ac-gf-breadcrumbs-link" href="/ipad/" property="item" typeof="WebPage"><span property="name">iPad</span></a>
+        <meta property="position" content="1"></li> 
+       <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem"><span property="name">iPad Pro</span>
+        <meta property="position" content="2"></li> 
+      </ol> 
+     </div> 
+    </nav> 
+    <nav class="ac-gf-directory with-5-columns" aria-label="Apple Directory" role="navigation"> 
+     <!--googleoff: all--> 
+     <div class="ac-gf-directory-column">
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-products"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-products"> <h3 class="ac-gf-directory-column-section-title">Shop and Learn</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-products" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/mac/">Mac</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/">iPad</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/">iPhone</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/watch/">Watch</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/tv/">TV</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/music/">Music</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/itunes/">iTunes</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipod/">iPod</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/buy_accessories">Accessories</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/giftcards">Gift Cards</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column">
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-storeservices"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-storeservices"> <h3 class="ac-gf-directory-column-section-title">Apple Store</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-storeservices" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/">Find a Store</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/geniusbar/">Genius Bar</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/">Workshops and Learning</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/youth/">Youth Programs</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://itunes.apple.com/app/apple-store/id375380948?mt=8">Apple Store App</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/special_deals">Refurbished</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/payment_plan">Financing</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/reuse_and_recycle">Reuse and Recycling</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Order Status</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/help">Shopping Help</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-education"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-education"> <h3 class="ac-gf-directory-column-section-title">For Education</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-education" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/">Apple and Education</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/educationrouting">Shop for College</a></li> 
+       </ul> 
+      </div> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-business"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-business"> <h3 class="ac-gf-directory-column-section-title">For Business</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-business" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/business/">iPhone in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/business/">iPad in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/business/mac/">Mac in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/business/">Shop for Your Business</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-accounts"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-accounts"> <h3 class="ac-gf-directory-column-section-title">Account</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-accounts" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://appleid.apple.com/us/">Manage Your Apple ID</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Apple Store Account</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://www.icloud.com">iCloud.com</a></li> 
+       </ul> 
+      </div> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-responsibility"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-responsibility"> <h3 class="ac-gf-directory-column-section-title">Apple Values</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-responsibility" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/environment/">Environment</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/supplier-responsibility/">Supplier Responsibility</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/accessibility/">Accessibility</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/privacy/">Privacy</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/diversity/">Inclusion and Diversity</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/connectED/">Education</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-about"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-about"> <h3 class="ac-gf-directory-column-section-title">About Apple</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-about" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/about/">Apple Info</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://www.apple.com/jobs/us/">Job Opportunities</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/pr/">Press Info</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://investor.apple.com">Investors</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/apple-events/">Events</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/hotnews/">Hot News</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/contact/">Contact Apple</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <!--googleon: all--> 
+    </nav> 
+    <section class="ac-gf-footer" vocab="http://schema.org/" typeof="Organization"> 
+     <div class="ac-gf-footer-shop" x-ms-format-detection="none">
+       More ways to shop: Visit an 
+      <a href="/retail/">Apple Store</a>, 
+      <span class="nowrap">call 1-800-MY-APPLE, or <a href="https://locate.apple.com/">find a reseller</a></span>. 
+     </div> 
+     <div class="ac-gf-footer-locale"> 
+      <a class="ac-gf-footer-locale-link" href="/choose-your-country/" title="Choose your country or region" aria-label="United States. Choose your country or region"><span class="ac-gf-footer-locale-flag" data-hires="false"></span>United States</a> 
+     </div> 
+     <div class="ac-gf-footer-legal"> 
+      <div class="ac-gf-footer-legal-copyright">
+       Copyright © 2016 Apple Inc. All rights reserved.
+      </div> 
+      <div class="ac-gf-footer-legal-links"> 
+       <a class="ac-gf-footer-legal-link" href="/privacy/privacy-policy/">Privacy Policy</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/internet-services/terms/site.html">Terms of Use</a> 
+       <a class="ac-gf-footer-legal-link" href="/us/shop/goto/help/sales_refunds">Sales and Refunds</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/">Legal</a> 
+       <a class="ac-gf-footer-legal-link" href="/sitemap/">Site Map</a> 
+      </div> 
+     </div> 
+     <meta content="Apple" property="name"> 
+     <meta content="1-800-692-7753" property="telephone"> 
+    </section> 
+    <script type="text/javascript" src="/ac/globalfooter/2.0/en_US/scripts/ac-globalfooter.built.js"></script> 
+   </div> 
+  </footer> 
+  <!-- Basic Crossfade --> 
+  <script type="x-fragment-shader" class="shader" id="crossfade-shader">
+		varying vec2 vUV;
+		uniform float progress;
+		uniform vec4 colorOne;
+		uniform vec4 colorTwo;
+
+		void main() {
+			gl_FragColor = mix(colorOne, colorTwo,  progress );
+		}
+	</script> 
+  <script src="http://images.apple.com/v/ipad-pro/d/built/scripts/main.built.js" type="text/javascript" charset="utf-8"></script>   
+ </body>
+</html>

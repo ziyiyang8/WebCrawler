@@ -1,0 +1,960 @@
+<!doctype html>
+<html class="en-us amr nojs en us" lang="en-US">
+ <head> 
+  <meta name="viewport" content="width=1024"> 
+  <title>Apple for Education - Apple</title> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta http-equiv="Set-Cookie" content="as_sfa=Mnx1cy1oZWR8dXN8fGVuX1VTfGVkdUluZC1oaWdoZXJFZC1kaXNjb3VudGVkfGludGVybmV0fDF8MHwx; path=/; domain=.apple.com; expires=Thu, 09-Apr-2026 04:40:24 GMT;"> 
+  <meta name="description" content="Buy the perfect gear for the classroom and beyond. College students, faculty, and staff save with education pricing."> 
+  <meta name="robots" content="NOODP"> 
+  <link rel="canonical" href="http://www.apple.com/us-hed/shop"> 
+  <!--[if lt IE 8]><!--> 
+  <script>
+		// Check for min browser support
+	    (function(loc, hasNoNativeQuerySelector, hasNoUbwCookie, ubwURL){
+	        if (hasNoNativeQuerySelector && hasNoUbwCookie && (loc.href != ubwURL) ) { loc.href = ubwURL; }
+	    })(window.location, !document.querySelector, window.document.cookie.indexOf('bwarn=') === -1, "http://www.apple.com/us-hed/shop/unsupported");
+	</script> 
+  <!--<![endif]--> 
+  <script>
+	//replace nojs class with js on html element
+	(function(html){
+		html.className = html.className.replace(/\bnojs\b/,'js')
+	})(document.documentElement);
+</script> 
+  <!--[if gte IE 9]><!--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/base-flex.css" media="screen, print"> 
+  <!--<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/base-flex-ie8.css" media="screen, print" />
+<![endif]--> 
+  <!--[if gte IE 9]><!--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/home-flex.css" media="screen, print"> 
+  <!--<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/home-flex-ie8.css" media="screen, print" />
+<![endif]--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/Catalog/global/css/web/merch/merch.css" media="screen, print"> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/Catalog/global/css/web/merch/merch-tools.css" media="screen, print"> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/shop/rs-external/rel/us/external.css" media=""> 
+  <link rel="stylesheet" href="https://www.apple.com/wss/fonts?family=Myriad+Set+Pro&amp;weights=200,400,500,600,700&amp;v=1" media=""> 
+  <script>
+		window.irOn=true;
+	</script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-external/rel/external.js"></script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/base-flex.js"></script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/home-flex.js"></script> 
+  <script>
+		// Emits an extra bit to let FE know whether AI feedback is enabled.
+		Event.onLoad(window.apple.ai.init);
+	</script> 
+  <script>
+    window.chatButtonConfig = {
+        "disablePageLoadCall": true,
+        "onDemandChatType": true,
+        "availURL": "http://www.apple.com/us-hed/shop/button_availability?cs=product+selection&seg=education&css=home&pg=AOS%3A+home",
+        "infoURL": "http://www.apple.com/us-hed/shop/client_info_chat"
+    };
+
+    window.chatConfig = {"chat":{"page":[{"name":"WEB_CHAT_COUNTRY","value":"us"},{"name":"WEB_CHAT_LANGUAGE","value":"en"},{"name":"WEB_CHAT_GEO","value":"amr"},{"name":"WEB_CHAT_SEGMENT","value":"education"},{"name":"WEB_CHAT_SECTION","value":"product selection"},{"name":"WEB_CHAT_SUBSECTION","value":"home"},{"name":"WEB_CHAT_ORDERNUMBER","value":null},{"name":"WEB_CHAT_REFER","value":"AOS: home"}]}};
+</script> 
+  <script type="text/mustache" id="{{chatForm}}">
+
+<form id="chatForm" action="{{url}}" target="chatWin" method="post">
+{{#inputs}}
+<input type={{type}} name="{{name}}" id="{{id}}" value="{{value}}" {{data "input"}} />
+{{/inputs}}
+</form>
+</script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/chat.js"></script> 
+  <script>
+		if(!/dssid2/.test(document.cookie) || !/as_dc/.test(document.cookie))
+		{
+			Event.onDomReady(function() {
+				var ie = document.createElement("IMG");
+				ie.src = '/us-hed/shop/dc';
+				ie.width = ie.height = 1;
+				ie.style.display = "none";
+				ie.alt = "";
+				document.body.appendChild(ie);
+			});
+		}
+</script> 
+ </head> 
+ <body class="as-theme-white-translucent as-home"> 
+  <script>
+		window.as = window.as || {};
+		window.as.isFlex = true;
+	</script> 
+  <div class="metrics"> 
+   <noscript> 
+    <img src="http://metrics.apple.com/b/ss/applestoreWW,appleglobal,applestoreAMR,applestoreus/1/H.8--NS/0?pageName=No-Script:AOS%3A+home" height="1" width="1" alt=""> 
+   </noscript> 
+   <script>
+
+            var s_account = "applestoreWW,appleglobal,applestoreAMR,applestoreus";
+    </script> 
+   <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/omniture.js"></script> 
+   <script>
+
+
+        var ametrics = new apple.metrics.Metrics({
+            isHome: true,
+            storeId: "wCAT7CDH47KD47PY9",
+            evarDataNodes: true
+        });
+		
+		
+		if (!ametrics.getVar) {
+  				 ametrics.getVar = ametrics.getPageLoadMetricsDataForVariable || function() {return '';};
+			}
+
+        
+        <!-- Page identification tags -->
+        s.pageName = ametrics.pageName("AOS: home");
+        s.server = "a10188562";
+        s.hier1 = "home";
+        s.charSet = "UTF-8";
+        s.currencyCode = "USD";
+
+       
+        
+        s.prop4 = "D=g";
+        s.prop5 = navigator.platform + ((window.devicePixelRatio || 0) >= 2 ? " 2x" : "");
+        s.prop5 = s.prop5.toLowerCase();
+        s.prop8 = "AOS: home";
+        s.prop19 = "AOS: US Education: home";
+        s.prop20 = "AOS: US Education";
+
+
+
+		s.prop37 = ametrics.getProp37() || "";
+        s.prop40 = "10081";
+
+
+        s.prop42 = ametrics.getProp42();
+        
+        s.eVar20 = "" || ametrics.getVar('eVar20'); 
+        
+
+
+            s.products = ametrics.getProducts() || ametrics.appendEVar31("");
+
+            
+            if (s.events == "event4") {
+                s.events = "";
+            }
+
+
+            s.eVar1 = ametrics.getEvar1() || "";
+            s.eVar2 = "";
+            s.eVar3 = "AOS: US EDULNDIVIDUAL HIGHERED";
+            s.eVar4 = "D=pageName";
+
+
+        s.eVar19 = "D=c19";
+
+  
+
+        s.linkInternalFilters = "javascript:,store.apple.com,secure.store.apple.com,secure1.store.apple.com,secure2.store.apple.com,epp.apple.com,secure1.epp.apple.com,storeint.apple.com,secure1.storeint.apple.com,www.apple.com,#";
+
+        
+        if (ametrics.appendEvents) {
+            s.events = ametrics.appendEvents(s.events);
+        }
+        if (ametrics.getPageLoadTime) {
+            s.eVar9 = ametrics.getPageLoadTime();
+        }
+
+
+        ametrics.mark();
+
+        <!-- DO NOT ALTER ANYTHING BELOW THIS LINE ! -->
+        var s_code = s.t();
+        if (s_code)document.write(s_code);
+
+    </script> 
+  </div> 
+  <script>
+		if(!/dssid2/.test(document.cookie) || !/as_dc/.test(document.cookie))
+		{
+			Event.onDomReady(function() {
+				var ie = document.createElement("IMG");
+				ie.src = '/us-hed/shop/dc';
+				ie.width = ie.height = 1;
+				ie.style.display = "none";
+				ie.alt = "";
+				document.body.appendChild(ie);
+			});
+		}
+</script> 
+  <div id="page"> 
+   <aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }" data-redirect=""></aside> 
+   <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"> 
+   <nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-US" data-store-key="SJHJUH4YFCTTPD4F4" data-store-locale="us" data-store-api="http://www.apple.com/us-hed/shop/bag/status" data-search-locale="en_US" data-search-api="/search-services/suggestions/"> 
+    <div class="ac-gn-content"> 
+     <ul class="ac-gn-header"> 
+      <li class="ac-gn-item ac-gn-menuicon"> <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span> </span> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span> </span> </label> <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"> <span class="ac-gn-menuanchor-label">Open Menu</span> </a> <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"> <span class="ac-gn-menuanchor-label">Close Menu</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple " href="http://www.apple.com/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"> <a class="ac-gn-link ac-gn-link-bag " href="/us-hed/shop/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+     </ul> 
+     <ul class="ac-gn-list"> 
+      <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple " href="http://www.apple.com/" data-analytics-title="apple home" id="ac-gn-firstfocus"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-mac"> <a class="ac-gn-link ac-gn-link-mac " href="http://www.apple.com/mac/" data-analytics-title="mac"> <span class="ac-gn-link-text">Mac</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"> <a class="ac-gn-link ac-gn-link-ipad " href="http://www.apple.com/ipad/" data-analytics-title="ipad"> <span class="ac-gn-link-text">iPad</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"> <a class="ac-gn-link ac-gn-link-iphone " href="http://www.apple.com/iphone/" data-analytics-title="iphone"> <span class="ac-gn-link-text">iPhone</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-watch"> <a class="ac-gn-link ac-gn-link-watch " href="http://www.apple.com/watch/" data-analytics-title="watch"> <span class="ac-gn-link-text">Watch</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-tv"> <a class="ac-gn-link ac-gn-link-tv " href="http://www.apple.com/tv/" data-analytics-title="tv"> <span class="ac-gn-link-text">TV</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-music"> <a class="ac-gn-link ac-gn-link-music " href="http://www.apple.com/music/" data-analytics-title="music"> <span class="ac-gn-link-text">Music</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-support"> <a class="ac-gn-link ac-gn-link-support " href="http://www.apple.com/support/" data-analytics-title="support"> <span class="ac-gn-link-text">Support</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"> <a class="ac-gn-link ac-gn-link-search " href="/us-hed/search" data-analytics-title="search" data-analytics-click="search" aria-label="Search apple.com"> <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"> <a class="ac-gn-link ac-gn-link-bag " href="/us-hed/shop/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge" aria-hidden="true"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+     </ul> 
+     <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"> 
+      <div class="ac-gn-searchview-content"> 
+       <form id="ac-gn-searchform" class="ac-gn-searchform" action="/us-hed/search" method="get"> 
+        <div class="ac-gn-searchform-wrapper"> 
+         <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" name="" placeholder="Search apple.com" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false"> 
+         <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav"> 
+         <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Submit"></button> 
+         <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Clear Search"></button> 
+        </div> 
+       </form> 
+       <aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" data-string-noresults="Hit enter to search."></aside> 
+      </div> 
+      <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search"> <span class="ac-gn-searchview-close-wrapper"> <span class="ac-gn-searchview-close-left"></span> <span class="ac-gn-searchview-close-right"></span> </span> </button> 
+     </aside> 
+     <aside class="ac-gn-bagview" data-analytics-region="bag"> 
+      <div class="ac-gn-bagview-scrim"> 
+       <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span> 
+      </div> 
+      <div class="ac-gn-bagview-content" id="ac-gn-bagview-content"> 
+      </div> 
+     </aside> 
+    </div> 
+   </nav> 
+   <div id="ac-gn-curtain" class="ac-gn-curtain"></div> 
+   <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div> 
+   <div role="main"> 
+    <div class="as-l-fullwidth as-scalableimage as-segment-banner as-segment-banner-overlaycontent"> 
+     <div class="as-scalableimage-bg"> 
+      <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/bb/segment-bb-education-201508?wid=1440&amp;hei=689&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=1Tqkh2" class="ir " alt="" width="1440" height="689" data-scale-params-2="wid=2880&amp;hei=1378&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=1Tqkh2"> 
+     </div> 
+     <div class="as-scalableimage-content as-l-container as-segment-banner-content"> 
+      <p>Find the perfect gear for the classroom and beyond.</p> 
+     </div> 
+    </div> 
+    <div class="as-segment-banner-footer large-6 small-10 large-centered small-centered">
+     <p> With the right Apple products, there’s no limit to what you can accomplish. Education pricing is available to college students, students accepted into college, parents buying for college students, teachers, lecturers and staff at all levels. And you can find a range of content that covers every subject, from great collections of apps to countless free learning resources.*</p>
+    </div> 
+    <div class="as-pinwheel as-productgrid" data-id="main4" data-theme="Mac" data-template="ProductGrid-flex"> 
+     <div class="as-pinwheel-header"> 
+      <h2 class="as-pinwheel-title">Mac</h2> 
+      <p class="as-pinwheel-tagline">Save on all Mac models and on AppleCare.</p> 
+     </div> 
+     <div class="as-pinwheel-table"> 
+      <div class="as-productgrid-row"> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-macbook-201509?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=7l9lx0" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=7l9lx0"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-mac/macbook" data-slot-name="main4" data-display-name="MacBook" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="MACBOOK"><span>MacBook</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$1249</span> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-macbook-air-201509?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=cMUkX3" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=cMUkX3"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-mac/macbook-air/macbook-air" data-slot-name="main4" data-display-name="MacBook Air" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="MACBOOKAIR"><span>MacBook Air</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$849</span> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-macbook-pro-201509?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=15tlt1" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=15tlt1"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-mac/macbook-pro" data-slot-name="main4" data-display-name="MacBook Pro" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="MACBOOKPRO"><span>MacBook Pro</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$999</span> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="as-productgrid-row"> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-imac-201509?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=r61lj1" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=r61lj1"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-mac/imac/imac" data-slot-name="main4" data-display-name="iMac" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="IMAC"><span>iMac</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$1049</span> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-mac-pro-201508?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=kUTkx0" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=kUTkx0"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-mac/mac-pro" data-slot-name="main4" data-display-name="Mac Pro" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="MACPRO"><span>Mac Pro</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$2799</span> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-mac-mini-201508?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=0bSkB0" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=0bSkB0"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-mac/mac-mini" data-slot-name="main4" data-display-name="Mac mini" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="MACMINI"><span>Mac mini</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$479</span> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script>
+            new as.EqualizerByGroup('.as-productgrid[data-id=main4] .as-productgrid-row', {
+                selector: '.as-pinwheel-info'
+            });
+        </script> 
+    <div class="as-pinwheel as-productgrid" data-id="main6" data-theme="Apple Watch" data-template="ProductGrid-flex"> 
+     <div class="as-pinwheel-header"> 
+      <h2 class="as-pinwheel-title">Apple Watch</h2> 
+     </div> 
+     <div class="as-pinwheel-table"> 
+      <div class="as-productgrid-row"> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-watch-sport-201603?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=7afl70" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=7afl70"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-watch/apple-watch-sport" data-slot-name="main6" data-display-name="Apple Watch Sport" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="APPLE_WATCH_SPORT"><span>Apple Watch Sport</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$299</span> 
+             </div> 
+            </div> 
+            <a href="/us-hed/shop/buy-watch/apple-watch-sport" data-slot-name="main6" data-feature-name="Astro Link" data-display-name="AOS: home/shop_watch/family/apple_watch_sport" class="superlink as-pinwheel-infolink">Explore the collection <span class="icon icon-more" aria-hidden="true"></span> <span class="a11y"> Apple Watch Sport</span></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-watch-201603?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=wablj2" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=wablj2"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-watch/apple-watch" data-slot-name="main6" data-display-name="Apple Watch" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="APPLE_WATCH_STD"><span>Apple Watch</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$549</span> 
+             </div> 
+            </div> 
+            <a href="/us-hed/shop/buy-watch/apple-watch" data-slot-name="main6" data-feature-name="Astro Link" data-display-name="AOS: home/shop_watch/family/apple_watch" class="superlink as-pinwheel-infolink">Explore the collection <span class="icon icon-more" aria-hidden="true"></span> <span class="a11y"> Apple Watch</span></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-watch-edition-201603?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=KXNkj0" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=KXNkj0"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-watch/apple-watch-edition" data-slot-name="main6" data-display-name="Apple Watch Edition" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="APPLE_WATCH_EDITION"><span>Apple Watch Edition</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$10,000</span> 
+             </div> 
+            </div> 
+            <a href="/us-hed/shop/buy-watch/apple-watch-edition" data-slot-name="main6" data-feature-name="Astro Link" data-display-name="AOS: home/shop_watch/family/apple_watch_edition" class="superlink as-pinwheel-infolink">Explore the collection <span class="icon icon-more" aria-hidden="true"></span> <span class="a11y"> Apple Watch Edition</span></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="as-productgrid-row"> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-watch-hermes-201510?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=sZlk_1" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=sZlk_1"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-watch/apple-watch-hermes" data-slot-name="main6" data-display-name="Apple Watch Hermès" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="APPLE_WATCH_HERMES"><span>Apple Watch Hermès</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$1100</span> 
+             </div> 
+            </div> 
+            <a href="/us-hed/shop/buy-watch/apple-watch-hermes" data-slot-name="main6" data-feature-name="Astro Link" data-display-name="AOS: home/shop_watch/family/apple_watch_hermes" class="superlink as-pinwheel-infolink">Explore the collection <span class="icon icon-more" aria-hidden="true"></span> <span class="a11y"> Apple Watch Hermès</span></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+        </div> 
+       </div> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script>
+            new as.EqualizerByGroup('.as-productgrid[data-id=main6] .as-productgrid-row', {
+                selector: '.as-pinwheel-info'
+            });
+        </script> 
+    <div class="as-pinwheel as-productgrid" data-id="main7" data-theme="iPad" data-template="ProductGrid-flex"> 
+     <div class="as-pinwheel-header"> 
+      <h2 class="as-pinwheel-title">iPad</h2> 
+      <p class="as-pinwheel-tagline">Get education pricing on all iPad models.</p> 
+     </div> 
+     <div class="as-pinwheel-table"> 
+      <div class="as-productgrid-row"> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-ipad-pro-201603?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=pafln3" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=pafln3"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-ipad/ipad-pro" data-slot-name="main7" data-display-name="iPad Pro" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="IPADPRO2015_MAIN"><span>iPad Pro</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$579</span> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-ipad-air2-201603?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=T12lX0" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=T12lX0"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-ipad/ipad-air-2" data-slot-name="main7" data-display-name="iPad Air 2" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="IPADAIR2014"><span>iPad Air 2</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$379</span> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-ipad-mini-4-201603?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=3aPkz2" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=3aPkz2"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-ipad/ipad-mini-4" data-slot-name="main7" data-display-name="iPad&nbsp;mini&nbsp;4" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="IPADMINI2015"><span>iPad&nbsp;mini&nbsp;4</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$379</span> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="as-productgrid-row"> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+         <div class="as-pinwheel-table"> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-image"> 
+            <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/hero/segment-hero-ipad-mini-2-201603?wid=400&amp;hei=300&amp;fmt=png-alpha&amp;qlt=95&amp;.v=WuSkx0" class="ir as-pinwheel-image-hero" alt="" width="400" height="300" data-scale-params-2="wid=800&amp;hei=600&amp;fmt=png-alpha&amp;qlt=95&amp;.v=WuSkx0"> 
+           </div> 
+          </div> 
+          <div class="as-pinwheel-grid-row"> 
+           <div class="as-pinwheel-info"> 
+            <div class="as-pinwheel-tiletitle"> 
+             <a href="/us-hed/shop/buy-ipad/ipad-mini-2" data-slot-name="main7" data-display-name="iPad mini 2" class="as-pinwheel-tilelink as-util-superlink-link" data-part-number="IPADMINI2013"><span>iPad mini 2</span></a> 
+            </div> 
+            <div class="as-pinwheel-price"> 
+             <div class="as-pinwheel-pricecurrent">
+               From 
+              <span>$259</span> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+        </div> 
+       </div> 
+       <div class="large-4"> 
+        <div class="as-pinwheel-tile as-util-superlink"> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script>
+            new as.EqualizerByGroup('.as-productgrid[data-id=main7] .as-productgrid-row', {
+                selector: '.as-pinwheel-info'
+            });
+        </script> 
+    <div class="as-ribbon as-container row  CSS class: as-segment-ribbon" data-events="event52" data-template="RibbonContainer_2T-flex"> 
+     <div class="as-l-container as-ribbon-container"> 
+      <div class="column as-ribbon-column large-6 small-12 small-offset-0"> 
+       <div class="large-10 large-centered small-11 small-centered"> 
+        <div class=" superlink"> 
+         <div class="as-ribbon-title"> 
+          <a href="http://www.apple.com/financing/education.html" data-slot-name="main9" data-feature-name="Astro Link" data-display-name="AOS: financing/education.html" class="as-ribbon-link">Special financing</a> 
+         </div> 
+         <div class="as-ribbon-subtitle">
+           Apply for special financing plus rewards. 
+         </div> 
+         <a href="/us-hed/shop/browse/education_payment_plan" data-slot-name="main9" data-feature-name="Astro Link" data-display-name="AOS: education_payment_plan" class="more">Learn more<span class="a11y">Student Financing</span></a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="column as-ribbon-column large-6 small-12"> 
+       <div class="large-10 large-centered small-11 small-centered"> 
+        <div class=" superlink"> 
+         <div class="as-ribbon-title"> 
+          <a href="http://www.apple.com/support/products" data-slot-name="main9" data-feature-name="Astro Link" data-display-name="AOS: support/products" class="as-ribbon-link">AppleCare Protection Plan</a> 
+         </div> 
+         <div class="as-ribbon-subtitle">
+           Extend your hardware coverage and support. Save on AppleCare for your Mac or Apple display. 
+         </div> 
+         <a href="/us-hed/shop/browse/home/applecare" data-slot-name="main9" data-feature-name="Astro Link" data-display-name="AOS: home/applecare" class="more"><span>Learn more</span><span class="a11y"> AppleCare Protection Plan</span></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="as-l-fullwidth as-scalableimage as-segment-banner as-segment-banner-overlaycontent as-segment-banner-simple"> 
+     <div class="as-scalableimage-bg"> 
+      <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/bb/segment-bb-accessories-201508?wid=1440&amp;hei=572&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=gWBkV2" class="ir " alt="" width="1440" height="572" data-scale-params-2="wid=2880&amp;hei=1144&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=gWBkV2"> 
+     </div> 
+     <div class="as-scalableimage-content as-l-container as-segment-banner-content"> 
+      <p>Accessories</p> 
+      <span class="tagline">Carefully selected to help you get the most from your Apple products.</span> 
+      <a href="/us-hed/shop/accessories/all-accessories" data-slot-name="main10" data-feature-name="Astro Link" data-display-name="AOS: home/shop_accessories/all_accessories" class="more tagline"><span>Shop now</span></a> 
+     </div> 
+    </div> 
+    <div class="as-l-fullwidth " data-events="event52"> 
+     <div> 
+      <div class="pd-billboard pd-edu-segments-201508-apps"> 
+       <div class="pd-l-plate"> 
+        <div class="pd-billboard-header"> 
+         <h2>Great ways to bring learning to life.</h2> 
+        </div> 
+        <div class="pd-billboard-subheader"> 
+         <h3 class="pd-font-52-200 pd-billboard-subheader-apps"><img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/icon/segment-icon-apps-201508?wid=45&amp;hei=45&amp;fmt=jpeg&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=gjIkd2" alt="" width="45" height="45" data-scale-params-2="wid=90&amp;hei=90&amp;fmt=jpeg&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=gjIkd2" class="pd-billboard-icon ir"> Apps</h3> 
+         <p class="pd-font-32-200-24 pd-billboard-tagline">A world of possibilities.</p> 
+        </div> 
+        <div class="pd-billboard-hero"> 
+         <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/apps/segment-apps-bb-hero-201508?wid=1440&amp;hei=572&amp;fmt=jpeg&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=WYal10" alt="" width="1440" height="572" data-scale-params-2="wid=2880&amp;hei=1144&amp;fmt=jpeg&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=WYal10" class="pd-billboard-icon ir"> 
+        </div> 
+        <div class="pd-billboard-info"> 
+         <p class="pd-billboard-subcopy">With Mac and iPad, you have access to powerful free apps — including Pages, Numbers and Keynote — to help you create and present your best work in more engaging ways. And we’ve made it easy for you to find educational apps for every class with our curated collections.</p> 
+         <p class="pd-billboard-link"> <a href="http://appstore.com/education" data-slot-name="main11" data-feature-name="Astro Link" data-display-name="AOS: appstore.com/education" class="more">View the education collections<span class="a11y">Apps</span></a> </p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="as-l-fullwidth " data-events="event52"> 
+     <div> 
+      <div class="pd-billboard pd-edu-segments-201508-ibooks"> 
+       <div class="pd-l-plate"> 
+        <div class="pd-billboard-subheader"> 
+         <h3 class="pd-font-52-200  pd-billboard-subheader-ibooks"><img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/icon/segment-icon-ibooks-201508?wid=45&amp;hei=45&amp;fmt=jpeg&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=Z3Pkh0" alt="" width="45" height="45" data-scale-params-2="wid=90&amp;hei=90&amp;fmt=jpeg&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=Z3Pkh0" class="pd-billboard-icon ir"> iBooks</h3> 
+         <p class="pd-font-32-200-24 pd-billboard-tagline">A more immersive way to study.</p> 
+        </div> 
+        <div class="pd-billboard-hero"> 
+         <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segement/ibooks/segement-ibooks-bb-hero-201508?wid=1440&amp;hei=572&amp;fmt=jpeg&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=Y7_kD1" alt="" width="1440" height="572" data-scale-params-2="wid=2880&amp;hei=1144&amp;fmt=jpeg&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=Y7_kD1" class="pd-billboard-icon ir"> 
+        </div> 
+        <div class="pd-billboard-info"> 
+         <p class="pd-billboard-subcopy">iBooks is stacked with materials to help you learn everything from life sciences to literature. Discover classic novels, biographies, reference guides and textbooks from major education publishers — many of them free. iBooks is available free on the App Store.</p> 
+         <p class="pd-billboard-link"> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=136548" data-slot-name="main12" data-feature-name="Astro Link" data-display-name="AOS: itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping" class="more">Browse iBooks<span class="a11y">iBooks</span></a> </p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="as-l-fullwidth " data-events="event52"> 
+     <div> 
+      <div class="pd-billboard pd-edu-segments-201508-itunesu"> 
+       <div class="pd-l-plate"> 
+        <div class="pd-billboard-subheader"> 
+         <h3 class="pd-font-52-200 pd-billboard-subheader-itunesu"><img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/icon/segment-icon-itunesu-201508?wid=45&amp;hei=45&amp;fmt=jpeg&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=tqWkP1" alt="" width="45" height="45" data-scale-params-2="wid=90&amp;hei=90&amp;fmt=jpeg&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=tqWkP1" class="pd-billboard-icon ir"> iTunes U</h3> 
+         <p class="pd-font-32-200-24 pd-billboard-tagline">All your courses right where you want them.</p> 
+        </div> 
+        <div class="pd-billboard-hero"> 
+         <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/itunes/segment-itunes-bb-hero-201508?wid=1440&amp;hei=572&amp;fmt=jpeg&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=RL3l50" alt="" width="1440" height="572" data-scale-params-2="wid=2880&amp;hei=1144&amp;fmt=jpeg&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=RL3l50" class="pd-billboard-icon ir"> 
+        </div> 
+        <div class="pd-billboard-info"> 
+         <p class="pd-billboard-subcopy">With the iTunes U app, you can enroll in a course and access all your assignments, class materials, and study notes right on your iPad. And you have access to countless learning resources on the world’s largest digital catalog of education content. All free.</p> 
+         <p class="pd-billboard-link"> <a href="http://itunes.com/itunesu" data-slot-name="main13" data-feature-name="Astro Link" data-display-name="AOS: itunes.com/itunesu" class="more">Browse the iTunes U catalog<span class="a11y">iTunes U</span></a> </p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="as-ribbon as-container row  as-segment-ribbon" data-events="event52" data-template="RibbonContainer_2T-flex"> 
+     <div class="as-l-container as-ribbon-container"> 
+      <div class="column as-ribbon-column large-6 small-12 small-offset-0"> 
+       <div class="large-10 large-centered small-11 small-centered"> 
+        <div class=" superlink"> 
+         <div class="as-ribbon-title"> 
+          <span class="as-ribbon-iconwrapper"> <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/icon/segment-icon-opportunities-201510?wid=43&amp;hei=52&amp;fmt=png-alpha&amp;qlt=95&amp;.v=DzFjj1" alt="" width="43" height="52" data-scale-params-2="wid=86&amp;hei=104&amp;fmt=png-alpha&amp;qlt=95&amp;.v=DzFjj1" class="as-ribbon-icon ir"> </span> 
+          <a href="http://www.apple.com/jobs/us/students.html" data-slot-name="main14" data-feature-name="Astro Link" data-display-name="AOS: www.apple.com/jobs/us/students.html" class="as-ribbon-link"><span>Opportunities at Apple</span></a> 
+         </div> 
+         <div class="as-ribbon-subtitle"> 
+          <span>Be part of Apple while you’re still getting your degree — become an AppleCare Advisor, work at the Apple Store, join as an intern, or apply for a scholarship.</span> 
+         </div> 
+         <a href="http://www.apple.com/jobs/us/students.html" data-slot-name="main14" data-feature-name="Astro Link" data-display-name="AOS: www.apple.com/jobs/us/students.html" class="more"><span>Find opportunities at Apple</span></a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="column as-ribbon-column large-6 small-12"> 
+       <div class="large-10 large-centered small-11 small-centered"> 
+        <div class=" superlink"> 
+         <span class="as-ribbon-icon"> <img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/s/eg/segment/icon/segment-icon-workshop-201508?wid=35&amp;hei=30&amp;fmt=png-alpha&amp;qlt=95&amp;.v=6OSjX2" alt="" width="35" height="30" data-scale-params-2="wid=70&amp;hei=60&amp;fmt=png-alpha&amp;qlt=95&amp;.v=6OSjX2" class="ir"> </span> 
+         <a href="http://www.apple.com/retail/learn" data-slot-name="main14" data-feature-name="Astro Link" data-display-name="AOS: retail/learn" class="as-ribbon-title as-ribbon-link"><span>Free workshops</span></a> 
+         <div class="as-ribbon-subtitle"> 
+          <span>The Apple Store is the best place to learn about your new Apple products. We offer free workshops to help you take your skills to the next level.</span> 
+         </div> 
+         <a href="http://www.apple.com/retail/learn" data-slot-name="main14" data-feature-name="Astro Link" data-display-name="AOS: retail/learn" class="more"><span>Find a workshop</span></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="as-ribbon as-container row  as-segment-ribbon" data-events="event52" data-template="RibbonContainer_1T-flex"> 
+     <div class="column as-ribbon-column large-12 small-12 small-offset-0"> 
+      <div class="as-ribbon-container large-10 large-centered small-11 small-centered"> 
+       <div class=" superlink"> 
+        <div class="large-10 large-centered small-10 small-centered"> 
+         <h2 class="as-ribbon-title"> Buy for your institution </h2> 
+         <div class="as-ribbon-subtitle">
+           We’ve made it easy for schools and universities to make volume purchases. Call 1-800-MY-APPLE to work with an Apple representative or shop online. 
+         </div> 
+         <a href="http://www.apple.com/education/pricelists" data-slot-name="main15" data-feature-name="Astro Link" data-display-name="AOS: www.apple.com/education/pricelists" class="superlink more">Shop the Apple Store for Education Institutions<span class="a11y">Apple Store App </span></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="as-footnotes "> 
+    <div class="as-footnotes-content"> 
+     <div class="as-footnotes-sosumi"> 
+      <div class="footnotes"> 
+       <div class="footnotes">
+         *Quantity limits apply. Visit 
+        <a href="/us-hed/shop/browse/open/salespolicies/edu" data-slot-name="disclaimerText" data-feature-name="Astro Link" data-display-name="AOS: open/salespolicies/edu" target="popup-w522-h660">Sales &amp; Refund Policy</a> for full terms and conditions. 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <footer class="as-globalfooter" id="apple-footer"> 
+    <div class="as-globalfooter-content"> 
+     <div class="as-globalfooter-breadcrumbs"> 
+      <a href="http://www.apple.com/" data-feature-name="Breadcrumb" data-display-name="Apple" class="as-globalfooter-breadcrumbs-home" data-autom="footer"><span class="as-globalfooter-breadcrumbs-homeicon icon-apple icon-standalone" aria-hidden="true"></span><span class="as-globalfooter-breadcrumbs-homelabel">Apple</span><span class="as-globalfooter-breadcrumbs-homechevron"></span></a> 
+      <div class="as-globalfooter-breadcrumbs-path"> 
+       <ol class="as-globalfooter-breadcrumbs-list" role="navigation" aria-label="Breadcrumbs"> 
+        <li class="as-globalfooter-breadcrumbs-item" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"> <span itemprop="title">Apple Store</span> </li> 
+       </ol> 
+      </div> 
+     </div> 
+     <nav role="navigation" aria-label="More Apple Store Links"> 
+      <div class="as-globalfooter-directory as-globalfooter-with-5columns"> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <h2 class="as-globalfooter-directory-title" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="Shop and Learn" data-asext-action="expand" data-asext-action-toggle="collapse">Shop and Learn</h2> 
+         <button data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="Shop and Learn" data-asext-action="expand" data-asext-action-toggle="collapse" class="as-globalfooter-toggler" aria-expanded="false" aria-controls="section-one">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section-one"> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/mac/" data-slot-name="section1" data-feature-name="Footer Navigation" data-display-name="Mac" class="as-globalfooter-directory-link" data-autom="footer"> Mac </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/ipad/" data-slot-name="section1" data-feature-name="Footer Navigation" data-display-name="iPad" class="as-globalfooter-directory-link" data-autom="footer"> iPad </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/iphone/" data-slot-name="section1" data-feature-name="Footer Navigation" data-display-name="iPhone" class="as-globalfooter-directory-link" data-autom="footer"> iPhone </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/watch/" data-slot-name="section1" data-feature-name="Footer Navigation" data-display-name="Watch" class="as-globalfooter-directory-link" data-autom="footer"> Watch </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/tv/" data-slot-name="section1" data-feature-name="Footer Navigation" data-display-name="TV" class="as-globalfooter-directory-link" data-autom="footer"> TV </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/music/" data-slot-name="section1" data-feature-name="Footer Navigation" data-display-name="Music" class="as-globalfooter-directory-link" data-autom="footer"> Music </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/itunes/" data-slot-name="section1" data-feature-name="Footer Navigation" data-display-name="iTunes" class="as-globalfooter-directory-link" data-autom="footer"> iTunes </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/ipod/" data-slot-name="section1" data-feature-name="Footer Navigation" data-display-name="iPod" class="as-globalfooter-directory-link" data-autom="footer"> iPod </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="/us-hed/shop/accessories/all-accessories" data-slot-name="section1" data-feature-name="Footer Navigation" data-display-name="Accessories" class="as-globalfooter-directory-link" data-autom="footer"> Accessories </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="/us-hed/shop/browse/home/giftcards" data-slot-name="section1" data-feature-name="Footer Navigation" data-display-name="Gift Cards" class="as-globalfooter-directory-link" data-autom="footer"> Gift Cards </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <h2 class="as-globalfooter-directory-title" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="Apple Store" data-asext-action="expand" data-asext-action-toggle="collapse">Apple Store</h2> 
+         <button data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="Apple Store" data-asext-action="expand" data-asext-action-toggle="collapse" class="as-globalfooter-toggler" aria-expanded="false" aria-controls="section-two">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section-two"> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/retail" data-slot-name="section2" data-feature-name="Footer Navigation" data-display-name="Find a Store" class="as-globalfooter-directory-link" data-autom="footer"> Find a Store </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/retail/geniusbar" data-slot-name="section2" data-feature-name="Footer Navigation" data-display-name="Genius Bar" class="as-globalfooter-directory-link" data-autom="footer"> Genius Bar </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/retail/learn" data-slot-name="section2" data-feature-name="Footer Navigation" data-display-name="Workshops and Learning" class="as-globalfooter-directory-link" data-autom="footer"> Workshops and Learning </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/retail/learn/youth" data-slot-name="section2" data-feature-name="Footer Navigation" data-display-name="Youth Programs" class="as-globalfooter-directory-link" data-autom="footer"> Youth Programs </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="https://itunes.apple.com/us/app/apple-store/id375380948?mt=8" data-slot-name="section2" data-feature-name="Footer Navigation" data-display-name="Apple Store App" class="as-globalfooter-directory-link" data-autom="footer"> Apple Store App </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="/us-hed/shop/browse/home/specialdeals" data-slot-name="section2" data-feature-name="Footer Navigation" data-display-name="Refurbished" class="as-globalfooter-directory-link" data-autom="footer"> Refurbished </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="/us-hed/shop/browse/education_payment_plan" data-slot-name="section2" data-feature-name="Footer Navigation" data-display-name="Financing" class="as-globalfooter-directory-link" data-autom="footer"> Financing </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="/us-hed/shop/browse/reuse_and_recycle" data-slot-name="section2" data-feature-name="Footer Navigation" data-display-name="Reuse and Recycling" class="as-globalfooter-directory-link" data-autom="footer"> Reuse and Recycling </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="https://secure.store.apple.com/us-hed/order/list" data-slot-name="section2" data-feature-name="Footer Navigation" data-display-name="Order Status" class="as-globalfooter-directory-link" data-autom="footer"> Order Status </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="/us-hed/shop/help" data-slot-name="section2" data-feature-name="Footer Navigation" data-display-name="Shopping Help" class="as-globalfooter-directory-link" data-autom="footer"> Shopping Help </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <h2 class="as-globalfooter-directory-title" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="For Education" data-asext-action="expand" data-asext-action-toggle="collapse">For Education</h2> 
+         <button data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="For Education" data-asext-action="expand" data-asext-action-toggle="collapse" class="as-globalfooter-toggler" aria-expanded="false" aria-controls="section-three-0">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section-three-0"> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/education" data-slot-name="section3" data-feature-name="Footer Navigation" data-display-name="Apple and Education" class="as-globalfooter-directory-link" data-autom="footer"> Apple and Education </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="/us-hed/shop/browse/home/education_routing" data-slot-name="section3" data-feature-name="Footer Navigation" data-display-name="Shop for College" class="as-globalfooter-directory-link" data-autom="footer"> Shop for College </a> </li> 
+         </ul> 
+        </div> 
+        <div class="as-globalfooter-directory-section"> 
+         <h2 class="as-globalfooter-directory-title" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="For Business" data-asext-action="expand" data-asext-action-toggle="collapse">For Business</h2> 
+         <button data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="For Business" data-asext-action="expand" data-asext-action-toggle="collapse" class="as-globalfooter-toggler" aria-expanded="false" aria-controls="section-three-1">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section-three-1"> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/iphone/business" data-slot-name="section3" data-feature-name="Footer Navigation" data-display-name="iPhone in Business" class="as-globalfooter-directory-link" data-autom="footer"> iPhone in Business </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/ipad/business" data-slot-name="section3" data-feature-name="Footer Navigation" data-display-name="iPad in Business" class="as-globalfooter-directory-link" data-autom="footer"> iPad in Business </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/business/mac" data-slot-name="section3" data-feature-name="Footer Navigation" data-display-name="Mac in Business" class="as-globalfooter-directory-link" data-autom="footer"> Mac in Business </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/retail/business" data-slot-name="section3" data-feature-name="Footer Navigation" data-display-name="Shop for Your Business" class="as-globalfooter-directory-link" data-autom="footer"> Shop for Your Business </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <h2 class="as-globalfooter-directory-title" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="Account" data-asext-action="expand" data-asext-action-toggle="collapse">Account</h2> 
+         <button data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="Account" data-asext-action="expand" data-asext-action-toggle="collapse" class="as-globalfooter-toggler" aria-expanded="false" aria-controls="section-four-0">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section-four-0"> 
+          <li class="as-globalfooter-directory-item"> <a href="https://appleid.apple.com" data-slot-name="section4" data-feature-name="Footer Navigation" data-display-name="Manage Your Apple ID" class="as-globalfooter-directory-link" data-autom="footer"> Manage Your Apple ID </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="/us-hed/shop/browse/account/home" data-slot-name="section4" data-feature-name="Footer Navigation" data-display-name="Apple Store Account" class="as-globalfooter-directory-link" data-autom="footer"> Apple Store Account </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="https://www.icloud.com" data-slot-name="section4" data-feature-name="Footer Navigation" data-display-name="iCloud.com" class="as-globalfooter-directory-link" data-autom="footer"> iCloud.com </a> </li> 
+         </ul> 
+        </div> 
+        <div class="as-globalfooter-directory-section"> 
+         <h2 class="as-globalfooter-directory-title" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="Apple Values" data-asext-action="expand" data-asext-action-toggle="collapse">Apple Values</h2> 
+         <button data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="Apple Values" data-asext-action="expand" data-asext-action-toggle="collapse" class="as-globalfooter-toggler" aria-expanded="false" aria-controls="section-four-1">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section-four-1"> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/environment" data-slot-name="section4" data-feature-name="Footer Navigation" data-display-name="Environment" class="as-globalfooter-directory-link" data-autom="footer"> Environment </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/supplier-responsibility" data-slot-name="section4" data-feature-name="Footer Navigation" data-display-name="Supplier Responsibility" class="as-globalfooter-directory-link" data-autom="footer"> Supplier Responsibility </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/accessibility" data-slot-name="section4" data-feature-name="Footer Navigation" data-display-name="Accessibility" class="as-globalfooter-directory-link" data-autom="footer"> Accessibility </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/privacy" data-slot-name="section4" data-feature-name="Footer Navigation" data-display-name="Privacy" class="as-globalfooter-directory-link" data-autom="footer"> Privacy </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/diversity" data-slot-name="section4" data-feature-name="Footer Navigation" data-display-name="Inclusion and Diversity" class="as-globalfooter-directory-link" data-autom="footer"> Inclusion and Diversity </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/education/connectED" data-slot-name="section4" data-feature-name="Footer Navigation" data-display-name="Education" class="as-globalfooter-directory-link" data-autom="footer"> Education </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <h2 class="as-globalfooter-directory-title" data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="About Apple" data-asext-action="expand" data-asext-action-toggle="collapse">About Apple</h2> 
+         <button data-asext-evar="eVar6" data-asext-feature="footer" data-asext-part="About Apple" data-asext-action="expand" data-asext-action-toggle="collapse" class="as-globalfooter-toggler" aria-expanded="false" aria-controls="section-five">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section-five"> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/about" data-slot-name="section5" data-feature-name="Footer Navigation" data-display-name="Apple Info" class="as-globalfooter-directory-link" data-autom="footer"> Apple Info </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/jobs/us" data-slot-name="section5" data-feature-name="Footer Navigation" data-display-name="Job Opportunities" class="as-globalfooter-directory-link" data-autom="footer"> Job Opportunities </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/pr" data-slot-name="section5" data-feature-name="Footer Navigation" data-display-name="Press Info" class="as-globalfooter-directory-link" data-autom="footer"> Press Info </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://investor.apple.com" data-slot-name="section5" data-feature-name="Footer Navigation" data-display-name="Investors" class="as-globalfooter-directory-link" data-autom="footer"> Investors </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/apple-events" data-slot-name="section5" data-feature-name="Footer Navigation" data-display-name="Events" class="as-globalfooter-directory-link" data-autom="footer"> Events </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/hotnews" data-slot-name="section5" data-feature-name="Footer Navigation" data-display-name="Hot News" class="as-globalfooter-directory-link" data-autom="footer"> Hot News </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/legal" data-slot-name="section5" data-feature-name="Footer Navigation" data-display-name="Legal" class="as-globalfooter-directory-link" data-autom="footer"> Legal </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a href="http://www.apple.com/contact" data-slot-name="section5" data-feature-name="Footer Navigation" data-display-name="Contact Apple" class="as-globalfooter-directory-link" data-autom="footer"> Contact Apple </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </nav> 
+     <div class="as-globalfooter-extended"> 
+      <div class="as-globalfooter-shop"> 
+       <p>More ways to shop: <span class="nowrap">Visit an <a href="http://www.apple.com/retail" data-slot-name="footerConfig" data-feature-name="Footer Navigation" data-display-name="Apple Store">Apple Store</a></span>, <span class="nowrap">call <span>1-800-MY-APPLE</span>, or <a href="https://locate.apple.com" data-slot-name="footerConfig" data-feature-name="Footer Navigation" data-display-name="find a reseller">find a reseller</a></span>.</p> 
+      </div> 
+      <div class="as-globalfooter-locale"> 
+       <a href="http://www.apple.com/choose-your-country" data-slot-name="footerConfig" data-feature-name="Footer Navigation" data-display-name="Country Selector" class="as-globalfooter-locale-link as-globalfooter-locale-country" data-autom="footer"><img src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/c/ou/country/icon/country-icon-us?wid=16&amp;hei=16&amp;fmt=png-alpha&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=O8hjZ3" class="ir as-globalfooter-locale-flag" alt="" width="16" height="16" data-scale-params-2="wid=32&amp;hei=32&amp;fmt=png-alpha&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=O8hjZ3"> <span class="as-globalfooter-locale-name">United States</span> </a> 
+      </div> 
+      <div class="as-globalfooter-legal"> 
+       <p> Copyright © 2016 Apple Inc. All rights reserved. </p> 
+       <p> <a href="http://www.apple.com/privacy" data-slot-name="footerConfig" data-feature-name="Footer Navigation" data-display-name="Privacy Policy" class="as-globalfooter-legal-link" data-autom="footer">Privacy Policy</a><a href="http://www.apple.com/legal/internet-services/terms/site.html" data-slot-name="footerConfig" data-feature-name="Footer Navigation" data-display-name="Terms of Use" class="as-globalfooter-legal-link" data-autom="footer">Terms of Use</a><a href="http://store.apple.com/us/browse/open/salespolicies/edu" data-slot-name="footerConfig" data-feature-name="Footer Navigation" data-display-name="Sales and Refunds" class="as-globalfooter-legal-link" target="popup-w550-h600" data-autom="footer">Sales and Refunds</a><a href="/us-hed/shop/browse/sitemap" data-slot-name="footerConfig" data-feature-name="Footer Navigation" data-display-name="Sitemap" class="as-globalfooter-legal-link" data-autom="footer">Site Map</a> </p> 
+      </div> 
+     </div> 
+    </div> 
+   </footer> 
+  </div> 
+  <script>dciddstr = '5c28c2aca44576427e78ee1a4941a3b507e88b7e0eb3861138ebea7555632d20df4fc116d0ad5a35f73d7772618e44f4e7b631daf786da105e0296a4f0fcc614d0dc9a1169881d84f3b04b350e4d73fa8f11e9378a22136459f2de33259048ce736ecd07b033fa3494a2fd16c4904236b27c4a52282b2e49f80717f13358e48b5fab5c54bb24457068079a8423d741a7c5875d56cc563f103b8f2f399c9f1bd359134ff5ae8353387e6db2a9f0e0d1052a866b41500181f59f42c0a5e977d0fa5caa008521fdc002c0d894ba2c49150d2caa63cb8d2868decde98fad1537d2ca78167bac3ee00f0fe5f27d5c5625e0542eaf397a99cb28b207768a73cdbf21b77b77c254aa81b892d630859544738ac9edcaf4ccd09f65e47d12a210932d60c7b544b7b174d27d400c31c5bf18ae9f21126bbfe3b6a446e593e4e9bf5e38beb71154b6cf78652d09ad482f7d19f36f468aeea362bccf2946b53ddf8787b8e60ec6c6d328ecac8a58272df8e2d2f3e2a53aec1ea2c6367c5d5db94318c27d49779da9c4eae4cb9604388c734f5e304421596577c9b2ec57ca2ff8442cc8488571ab89adfa5c89104937abc22e4cdeeb8524b9355db509ae6b12627b5a0eb904a3a80595f985e8ce48c19bddab26c49fd73579084af3984a128ac957baddc07f077d7c0068f5e3adff31d66e2a4b1a85ef75afc14784cec98107543e4a5898e503971f373c4d30a34918546849ba006253f55b208b4890b685c9bf609abf9eec260260c4306802867513e340106654a6cb841127d8af0434b5a215c749f69d51ce80de34cafffa710219dce8cac9aa98beb4140a5d11d4';</script> 
+  <script type="text/mustache" id="{{OverlayComponent}}">
+<materializer data-uid='{{dataUid}}-mat'
+                data-shown='{materializerShown}'
+                data-show-done='{dataShowDone}'
+                data-hide-done='{dataHideDone}'
+                class='ase-overlay-materializer{{#if dataSheet}} ase-overlay-sheetmaterializer ase-overlay-materializersheet{{/if}}'>
+    {{#if dataHasScreen}}
+        <computed-height data-type="document" data-recompute="{recomputeScreen}"
+                        class="ase-overlay-screen" data-property="min-height"></computed-height>
+    {{/if}}
+    <div class="ase-overlay {{#if dataSheet}}ase-overlay-sheet{{else}}ase-overlay-popup{{/if}}"
+         {{#if dataAriaLabelledby}}aria-labelledby={{dataAriaLabelledby}}{{/if}}
+                 role="dialog" tabindex="-1">
+        <content />
+    </div>
+</materializer>
+
+</script>   
+ </body>
+</html>

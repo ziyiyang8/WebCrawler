@@ -1,0 +1,800 @@
+<!doctype html>
+<html lang="en-US" class="en-us amr nojs en us">
+ <head> 
+  <meta name="viewport" content="width=1024"> 
+  <!-- Dynamic page title (extracted from the node, product, etc.) --> 
+  <title>Apple Help - Payment, Financing, Refunds and VAT  - Apple</title> 
+  <meta charset="utf-8"> 
+  <meta name="applicable-device" content="pc,mobile"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta http-equiv="Set-Cookie" content="as_sfa=Mnx1c3x1c3x8ZW5fVVN8Y29uc3VtZXJ8aW50ZXJuZXR8MHwwfDE=; path=/; domain=.apple.com; expires=Thu, 09-Apr-2026 04:38:17 GMT;"> 
+  <!-- Simple meta information about the page (in case some non-google search engine or social sharing partner is interested) --> 
+  <meta name="description" content="Find out about financing, payment methods, refunds, promotions, rebates, coupons, VAT and invoicing with the payments help section."> 
+  <meta name="robots" content="NOODP"> 
+  <link rel="canonical" href="http://www.apple.com/shop/help/payments"> 
+  <script>
+		
+		if ( /(iPad).*OS [7-9].*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) )
+		{
+			var headNode = document.getElementsByTagName("head")[0];
+			var sbNode = document.createElement('meta');
+			sbNode.name = 'apple-itunes-app';
+			sbNode.content = 'app-id=375380948, app-argument=http%3A%2F%2Fwww.apple.com%2Fshop%2Fhelp%2Fpayments';
+			headNode.appendChild(sbNode);
+		}
+		
+		else if ( /(iPhone|iPod).*OS [6-9].*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) )
+		{
+			var headNode = document.getElementsByTagName("head")[0];
+			var sbNode = document.createElement('meta');
+			sbNode.name = 'apple-itunes-app';
+			sbNode.content = 'app-id=375380948, app-argument=http%3A%2F%2Fwww.apple.com%2Fshop%2Fhelp%2Fpayments';
+			headNode.appendChild(sbNode);
+		}
+		
+	</script> 
+  <script>
+	//replace nojs class with js on html element
+	(function(html){
+		html.className = html.className.replace(/\bnojs\b/,'js')
+	})(document.documentElement);
+</script> 
+  <!--[if gte IE 9]><!--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/base.css" media="screen, print"> 
+  <!--<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/base-ie8.css" media="screen, print" />
+<![endif]--> 
+  <!--[if gte IE 9]><!--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/help.css" media="screen, print"> 
+  <!--<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/help-ie8.css" media="screen, print" />
+<![endif]--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/Catalog/regional/amr/css/aos-overrides.css" media="screen, print"> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/Catalog/US/Images/css/aos-local.css" media=""> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-external/rel/us/external.css" media="screen, print"> 
+  <link rel="stylesheet" href="https://www.apple.com/wss/fonts?family=Myriad+Set+Pro&amp;weights=200,400,500,600,700&amp;v=1" media=""> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-external/rel/external.js"></script> 
+  <script>
+	window.irOn=true;
+</script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/base.js"></script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/help.js"></script> 
+  <script>
+	// Emits an extra bit to let FE know whether AI feedback is enabled.
+	Event.onLoad(window.apple.ai.init);
+</script> 
+  <script>
+        
+				window.chatButtonConfig = {
+					'disablePageLoadCall': false,
+					'onDemandChatType': false,
+					'infoURL': "http://www.apple.com/shop/client_info_chat",
+					'availURL': "http://www.apple.com/shop/button_availability?cs=product+selection&seg=consumer&css=payments&pg=AOS%3A+help/payments"
+				};
+			
+			
+			window.chatConfig = {"chat":{"page":[{"name":"WEB_CHAT_COUNTRY","value":"us"},{"name":"WEB_CHAT_LANGUAGE","value":"en"},{"name":"WEB_CHAT_GEO","value":"amr"},{"name":"WEB_CHAT_SEGMENT","value":"consumer"},{"name":"WEB_CHAT_SECTION","value":"product selection"},{"name":"WEB_CHAT_SUBSECTION","value":"payments"},{"name":"WEB_CHAT_ORDERNUMBER","value":""},{"name":"WEB_CHAT_REFER","value":"AOS: help/payments"}]}};
+													
+	</script> 
+  <!-- Template Based Off a Fragment --> 
+  <script type="text/mustache" id="{{chatForm}}">
+		
+			<form id="chatForm" action="{{url}}" target="chatWin" method="post">{{#inputs}}<input type={{type}} name="{{name}}" id="{{id}}" value="{{value}}" {{data "input"}} />{{/inputs}}</form>
+		
+	</script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/chat.js"></script> 
+ </head> 
+ <body class="ns"> 
+  <div class="metrics"> 
+   <!-- SiteCatalyst code version: H.8. Copyright 1997-2006 Omniture, Inc. More info available at http://www.omniture.com --> 
+   <noscript> 
+    <img alt="" width="1" height="1" src="http://metrics.apple.com/b/ss/applestoreWW,appleglobal,applestoreAMR,applestoreus/1/H.8--NS/0?pageName=No-Script:AOS%3A+help%2Fpayments"> 
+   </noscript> 
+   <script>
+            
+            var s_account = "applestoreWW,appleglobal,applestoreAMR,applestoreus";
+        </script> 
+   <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-web/rel/omniture.js"></script> 
+   <script>
+
+	
+
+            var ametrics = new apple.metrics.Metrics({
+                isHome: false,
+                storeId: "wHF2F2PHCCCX72KDY",
+                evarDataNodes: true
+            });
+
+			if (!ametrics.getVar) {
+  				 ametrics.getVar = ametrics.getPageLoadMetricsDataForVariable || function() {return '';};
+			}
+			
+            
+            <!-- Page identification tags -->
+            
+            
+            s.pageName = ametrics.pageName("AOS: help/payments");
+                        
+                        
+            s.server = "m10088660";
+            s.hier1 = "help/payments";
+            s.charSet = "UTF-8";
+            s.currencyCode = "USD";
+            
+            s.prop4 = "D=g";
+            s.prop5 = navigator.platform + ((window.devicePixelRatio || 0) >= 2 ? " 2x" : "");
+            s.prop5 = s.prop5.toLowerCase();
+            
+            s.prop8 = "AOS: Help";
+            
+            s.prop19 = "AOS: US Consumer: help/payments";
+            s.prop20 = "AOS: US Consumer";
+            
+            
+            
+            
+            
+            
+          
+            
+            
+            
+            
+            s.prop37 = ametrics.getProp37() || "";
+            s.prop40 = "10078";
+            
+            s.prop42 = ametrics.getProp42();
+            <!--  Changing to test the defensive code -->
+            s.eVar20 =  "" || ametrics.getVar('eVar20');
+            
+            
+            
+            
+            
+            
+                        
+            
+
+            
+                 s.products = ametrics.getProducts() || "";
+                s.events = "";
+            
+
+            
+
+            
+                s.eVar1 = ametrics.getEvar1() || "";
+                s.eVar2 = "";
+                s.eVar3 = "AOS: US Consumer";
+                s.eVar4 = "D=pageName"; 
+            
+            
+            
+			
+            
+
+            s.eVar19 = "D=c19";
+            
+            
+            
+            
+            
+                        
+			
+            
+                s.eVar30 = ametrics.getEvar30() || "www.apple.com";
+            
+ 			
+			s.eVar31 = ametrics.getEvar31();
+
+            s.linkInternalFilters = "javascript:,store.apple.com,secure.store.apple.com,secure1.store.apple.com,secure2.store.apple.com,epp.apple.com,secure1.epp.apple.com,storeint.apple.com,secure1.storeint.apple.com,www.apple.com,#";
+
+            if (ametrics.appendEvents) {
+                s.events = ametrics.appendEvents(s.events);
+            }
+            if (ametrics.getPageLoadTime) {
+                s.eVar9 = ametrics.getPageLoadTime();
+            }
+
+            
+			
+            ametrics.mark();            
+
+            <!-- DO NOT ALTER ANYTHING BELOW THIS LINE ! -->
+            var s_code = s.t();if(s_code)document.write(s_code);
+
+</script> 
+   <!-- End SiteCatalyst code version: H.8. --> 
+  </div>
+  <!-- /.metrics --> 
+  <script>
+		if(!/dssid2=[a-zA-Z0-9-]+(;|$)/.test(document.cookie) || !/as_dc=[a-zA-Z0-9-]+(;|$)/.test(document.cookie))
+		{
+			Event.onDomReady(function() {
+				var ie = document.createElement("IMG");
+				ie.src = '/shop/dc';
+				ie.width = ie.height = 1;
+				ie.style.display = "none";
+				ie.alt = "";
+				document.body.appendChild(ie);
+			});	
+		}
+	</script> 
+  <div id="page" class="clearfix"> 
+   <aside class="ac-gn-segmentbar" id="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }"></aside> 
+   <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"> 
+   <nav aria-label="Global Navigation" data-store-locale="us" data-store-api="http://www.apple.com/shop/bag/status" data-store-key="SJHJUH4YFCTTPD4F4" id="ac-globalnav" data-hires="false" data-analytics-region="global nav" lang="en-US" class="no-js" role="navigation" data-search-api="/search-services/suggestions/" data-search-locale="en_US"> 
+    <div class="ac-gn-content"> 
+     <ul class="ac-gn-header"> 
+      <li class="ac-gn-item ac-gn-menuicon"> <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span> </span> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span> </span> </label> <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"> <span class="ac-gn-menuanchor-label">Open Menu</span> </a> <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"> <span class="ac-gn-menuanchor-label">Close Menu</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-apple"> <a href="http://www.apple.com/" class="ac-gn-link ac-gn-link-apple" id="ac-gn-firstfocus-small" data-analytics-title="apple home" data-s-object-id="e44860df12b3dd9bb00b8e29dba76094" data-evar1="AOS: help/payments |  | " data-evar30="help/payments"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"> <a data-string-badge="Shopping Bag with Items" href="/shop/bag" data-analytics-title="bag" aria-label="Shopping Bag" class="ac-gn-link ac-gn-link-bag" data-analytics-click="bag"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+     </ul> 
+     <ul class="ac-gn-list"> 
+      <li class="ac-gn-item ac-gn-apple"> <a href="http://www.apple.com/" class="ac-gn-link ac-gn-link-apple" id="ac-gn-firstfocus" data-analytics-title="apple home" data-s-object-id="e44860df12b3dd9bb00b8e29dba76094" data-evar1="AOS: help/payments |  | " data-evar30="help/payments"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-mac"> <a href="http://www.apple.com/mac/" class="ac-gn-link ac-gn-link-mac" data-analytics-title="mac" data-s-object-id="e44860df12b3dd9bb00b8e29dba76094" data-evar1="AOS: help/payments |  | " data-evar30="help/payments"> <span class="ac-gn-link-text">Mac</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"> <a href="http://www.apple.com/ipad/" class="ac-gn-link ac-gn-link-ipad" data-analytics-title="ipad" data-s-object-id="e44860df12b3dd9bb00b8e29dba76094" data-evar1="AOS: help/payments |  | " data-evar30="help/payments"> <span class="ac-gn-link-text">iPad</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"> <a href="http://www.apple.com/iphone/" class="ac-gn-link ac-gn-link-iphone" data-analytics-title="iphone" data-s-object-id="e44860df12b3dd9bb00b8e29dba76094" data-evar1="AOS: help/payments |  | " data-evar30="help/payments"> <span class="ac-gn-link-text">iPhone</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-watch"> <a href="http://www.apple.com/watch/" class="ac-gn-link ac-gn-link-watch" data-analytics-title="watch" data-s-object-id="e44860df12b3dd9bb00b8e29dba76094" data-evar1="AOS: help/payments |  | " data-evar30="help/payments"> <span class="ac-gn-link-text">Watch</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-tv"> <a href="http://www.apple.com/tv/" class="ac-gn-link ac-gn-link-tv" data-analytics-title="tv" data-s-object-id="e44860df12b3dd9bb00b8e29dba76094" data-evar1="AOS: help/payments |  | " data-evar30="help/payments"> <span class="ac-gn-link-text">TV</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-music"> <a href="http://www.apple.com/music/" class="ac-gn-link ac-gn-link-music" data-analytics-title="music" data-s-object-id="e44860df12b3dd9bb00b8e29dba76094" data-evar1="AOS: help/payments |  | " data-evar30="help/payments"> <span class="ac-gn-link-text">Music</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-support"> <a href="http://www.apple.com/support/" class="ac-gn-link ac-gn-link-support" data-analytics-title="support" data-s-object-id="e44860df12b3dd9bb00b8e29dba76094" data-evar1="AOS: help/payments |  | " data-evar30="help/payments"> <span class="ac-gn-link-text">Support</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"> <a href="/search" data-analytics-title="search" aria-label="Search apple.com" class="ac-gn-link ac-gn-link-search" data-analytics-click="search"> <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span> </a> </li> 
+      <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"> <a data-string-badge="Shopping Bag with Items" href="/shop/bag" data-analytics-title="bag" aria-label="Shopping Bag" class="ac-gn-link ac-gn-link-bag" data-analytics-click="bag"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge" aria-hidden="true"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+     </ul> 
+     <aside role="search" class="ac-gn-searchview" id="ac-gn-searchview" data-analytics-region="search"> 
+      <div class="ac-gn-searchview-content"> 
+       <form method="get" action="/search" class="ac-gn-searchform" id="ac-gn-searchform"> 
+        <div class="ac-gn-searchform-wrapper"> 
+         <input autocapitalize="off" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" spellcheck="false" autocomplete="off" placeholder="Search apple.com" id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text"> 
+         <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav"> 
+         <button aria-label="Submit" class="ac-gn-searchform-submit" type="submit" id="ac-gn-searchform-submit"></button> 
+         <button aria-label="Clear Search" class="ac-gn-searchform-reset" type="reset" id="ac-gn-searchform-reset"></button> 
+        </div> 
+       </form> 
+       <aside data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" class="ac-gn-searchresults" id="ac-gn-searchresults" data-string-noresults="Hit enter to search."></aside> 
+      </div> 
+      <button aria-label="Close Search" class="ac-gn-searchview-close" id="ac-gn-searchview-close"> <span class="ac-gn-searchview-close-wrapper"> <span class="ac-gn-searchview-close-left"></span> <span class="ac-gn-searchview-close-right"></span> </span> </button> 
+     </aside> 
+     <aside class="ac-gn-bagview" data-analytics-region="bag"> 
+      <div class="ac-gn-bagview-scrim"> 
+       <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span> 
+      </div> 
+      <div class="ac-gn-bagview-content" id="ac-gn-bagview-content"> 
+      </div> 
+     </aside> 
+    </div> 
+   </nav> 
+   <div id="ac-gn-curtain" class="ac-gn-curtain"></div> 
+   <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div> 
+   <div class="localnav-wrapper localnav-headless gh-show-below"> 
+    <div class="localnav"></div> 
+   </div> 
+   <div id="primary" role="main"> 
+    <div class="box help-content"> 
+     <div class="box-content clearfix"> 
+      <!-- TITLE-TOPICS --> 
+      <div id="main-content-top">
+       <a name="payment"></a> 
+       <div class="titlestub-wrap"> 
+        <div class="titlestub"> 
+         <h1><span>Payment &amp; Pricing</span></h1> 
+         <p>Read about the variety of payment options offered on the Apple Online Store, and how the tax on your order is calculated. Also, get more information about special pricing, offers, promotions, and other great deals with limited time availability.</p>
+        </div> 
+       </div> 
+       <div class="topic-area"> 
+        <p>Choose a topic:</p> 
+        <ul class="topics"> 
+         <li><a href="#payments">Payment</a></li> 
+         <li><a href="#tax">Tax</a></li> 
+         <li><a href="#education">Education Pricing</a></li> 
+         <li><a href="#government">U.S. Government Pricing</a></li> 
+         <li><a href="#promotions">Promotions, Rebates, and Coupons</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <!-- Last Edited by Cindy 11/11/15 for radar 23502250 --> 
+      <div class="topic">
+       <a name="payments"></a> 
+       <h3>Payment</h3> 
+       <h4>Payment methods</h4> 
+       <p>The Apple Online Store accepts a variety of payment methods. Click on a payment method below to learn more:</p> 
+       <ul> 
+        <li><a href="#creditus">Credit Cards or Debit Cards</a></li> 
+        <li><a href="#paypal">PayPal</a></li> 
+        <li><a href="http://store.apple.com/us/instant_credit">Barclaycard Visa with Apple Rewards</a></li> 
+        <li><a href="http://www.apple.com/financing/leases/commercial" data-s-object-id="93b202c9a8eac213e774eed51bac65ca" data-evar1="AOS: help/payments | center-2 | Astro Link | 0 | AOS: financing/leases/commercial" data-evar30="help/payments/center-2">Apple Business Lease</a> (AFS Commercial Credit)</li> 
+        <li><a href="#applecard">Apple Store Gift Card</a></li> 
+       </ul> 
+       <p><strong>Note</strong>: Business lease, wire transfers, cashier's checks, and money orders are ineligible payment methods for pickup items. </p> 
+       <p>Some payment types are ineligible for orders shipping to multiple addresses. If you are using an ineligible payment type for an order shipping to multiple addresses, you will need to change the payment method, or ship your order to a single address. </p> 
+       <p>Some customers may qualify for other forms of payment. Please call an Apple Store Specialist at 1-800-MY-APPLE for more information.</p> 
+       <p><b>Using more than one payment card</b></p> 
+       <p>You can also combine payment methods to pay for your purchase. Choose from the following combinations of credit cards and Apple Store Gift Cards: </p>
+       <ul> 
+        <li><b>Credit card(s)</b> - up to two</li> 
+        <li><b>Apple Store Gift Card(s)</b> - up to eight</li> 
+        <li><b>Apple Store Gift Card(s)</b> + <b>one credit card</b></li> 
+       </ul> 
+       <p></p> 
+       <p> During checkout, if you are paying with a gift card issued by a credit card company, you can combine it with one credit card. </p> 
+       <a name="creditus"></a>
+       <h4>Credit Cards or Debit Cards</h4> 
+       <p><b>Troubleshooting credit card &amp; debit card payment errors</b></p> 
+       <ul> 
+        <li>If your card is new or recently reissued, make sure it has been activated.</li> 
+        <li>Double check the card type (for example, American Express), the account number and expiration date.</li> 
+        <li>Remove dashes or spaces from the account number.</li> 
+        <li>If everything seems to be correct, call the card issuer's customer service 800 number on the back of your card. Your credit card company may need to speak with you before they authorize your purchase.</li> 
+       </ul> 
+       <p><b>Account verification</b></p> 
+       <p>To prevent any unnecessary delays processing your order, please ensure that the billing addresses on your order matches the information on your credit card account. If you have recently moved or are unsure whether you receive your credit card statement at your work or home address, please contact your card-issuing bank using the 800 number on the back of your credit card to confirm.</p> 
+       <p><b>Security codes</b></p> 
+       <p>The card security code is a unique three or four digit number printed on the front (American Express) or back (Discover/MasterCard/Visa) of your card, in addition to the account number.</p> 
+       <p>American Express:</p> 
+       <p><img src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/Catalog/US/Images/creditcardfront.jpg" data-evar1="AOS: "> </p> 
+       <p>Discover/MasterCard/Visa:</p> 
+       <p><img src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/Catalog/US/Images/creditcardback.jpg" data-evar1="AOS: "> </p> 
+       <p><b>Daily spending limits for Debit Cards</b></p> 
+       <p>Most debit and check cards have daily spending limits that may substantially delay the processing of an order, even if there is enough money in an account. When using a debit card, funds are immediately reserved in your bank account at the time you place your order. Please consult your card-issuing bank for information about your daily spending limits if you are having trouble placing your order.</p> 
+       <p><b>When Apple charges your account</b></p> 
+       <p>When you place an order, Apple will contact your credit or debit card's issuing bank to confirm it is a valid account. Apple requests an authorization, which holds the funds for the full or partial purchase amount. As Apple prepares your items, authorized funds will be unavailable and may display as "pending" on your credit or debit card's online statement.</p> 
+       <p>If you are shipping an item, your card will only be charged after the item has shipped. For pickup items, you will be billed before your item is ready for pick up. If your order contains multiple items, you may see multiple charges on your credit or debit card statement. </p> 
+       <p>If you cancel your order before your items are billed, any authorizations placed on your credit card account can take up to 30 days to expire and any authorizations placed on your debit card account can take up to 10 days to expire. Contact your financial institution for their specific timeframes.</p> 
+       <p><b>Credit cards accepted</b></p> 
+       <div> 
+        <p>In the U.S., we accept: </p>
+        <ul> 
+         <li>American Express</li> 
+         <li>Discover </li> 
+         <li>MasterCard</li> 
+         <li>Visa</li> 
+        </ul> 
+        <p></p> 
+        <p>If you are paying for your order with an international Visa, MasterCard, or American Express credit card,&nbsp;please note that the purchase price may fluctuate with exchange rates. In addition, your bank or credit card issuer may also charge you foreign&nbsp;conversion charges and fees, which may also increase the overall cost of your purchase. Please contact your bank or credit card issuer&nbsp;regarding these fees.</p> 
+        <p> Any gift card issued by a credit card company can be used as a method of payment on the Apple Online Store. During checkout, if you are paying with a gift card issued by a credit card company, you can combine it with one credit card. </p> 
+       </div> 
+       <!-- Removed R02 1/20/2014 - J.A.  --> 
+       <!-- Removed 3/12/2014 - T.W.  --> 
+       <a name="paypal"></a>
+       <h4>PayPal</h4> 
+       <p>When you place an order with PayPal you will be redirected to the PayPal website.&nbsp;There you will then need to login with your PayPal username and password.&nbsp;Before completing the order, check whether the total amount and billing details are correct.</p> 
+       <p>Even if you are not an existing PayPal customer, you can choose this payment method for todays purchase and either set up a new account or pay as a guest.</p> 
+       <p>If your order consists of multiple deliveries, your PayPal account will be charged separately for each shipment.</p> 
+       <a name="applecard"></a>
+       <h4>Apple Store Gift Card</h4> 
+       <p> You can redeem an Apple Store Gift Card at the online Apple Store, by calling 1-800-MY-APPLE, or at any Apple Store. Apple Store Gift Cards can be used only in the United States. With the exception of gift cards, certificates, and iTunes downloads and/or subscriptions, you can purchase just about anything sold by Apple, including products from both Apple and third-party makers. </p> 
+       <p> You can use up to eight Apple Store Gift Cards at the Apple Online Store or if placing an order over the phone at 1-800-MY-APPLE. You can combine your Apple Store Gift Card(s) with one credit card to pay for your purchase. Simply enter or provide the PIN. On the plastic gift cards, the PIN you need to use can be found on the back under the scratch off area. On the electronic Apple Store Gift Cards, the PIN can be found on the email below the image of the card. Please keep the card in your possession until the order has been processed and delivered. </p> 
+       <p> The Apple Store Gift Card is subject to applicable terms and conditions.For more information about how to redeem your Apple Store Gift Cards, visit <a href="http://store.apple.com/us/browse/home/giftcards/redeem">How to Redeem Apple Store Gift Cards</a>. To purchase an Apple Store Gift Card, <a href="/shop/browse/home/giftcards" data-s-object-id="aa6abbd1240b415b4680379acb7d972d" data-evar1="AOS: help/payments | center-2 | Astro Link | 1 | AOS: home/giftcards" data-evar30="help/payments/center-2">click here</a>. </p> 
+       <p class="toplink"><a href="#help-nav">Return to top</a></p> 
+      </div> 
+      <div class="topic">
+       <a name="tax"></a> 
+       <h3>Tax</h3> 
+       <h4>Tax rate</h4> 
+       <p>In accordance with state and local law, your Apple Online Store purchases will be taxed using the applicable sales tax or seller's use tax rate for your shipping address, or the Apple Store address where the item is picked up. </p> 
+       <p>The tax listed during checkout is only an estimate. In California and Rhode Island, sales tax is collected on the unbundled price of the iPhone.</p> 
+       <p>Your invoice will reflect the final total tax, which includes state and local taxes, as well as any applicable rebates or fees.</p> 
+       <h4>Tax-exempt orders</h4> 
+       <p>To place an order on behalf of a tax-exempt organization or individual, please call an Apple Store Specialist at 1-800-MY-APPLE. You will need to provide proof of state tax-exempt status for the state where the product is being shipped. The organization or individual name on the order must exactly match the state tax-exempt certificate. Federal tax exemption certificates are not applicable. </p> 
+       <p class="toplink"><a href="#help-nav">Return to top</a></p> 
+      </div> 
+      <div class="topic">
+       <a name="education"></a> 
+       <h3>Education Pricing</h3> 
+       <p>Apple offers special pricing to students, teachers, administrators, and staff members. We also offer special pricing for home-schooling programs, pre-kindergarten, and purchases made on behalf of students. </p> 
+       <p>If you live in the U.S., visit the <a href="/shop/browse/home/findyourschool" data-s-object-id="67cd8539fabf6dc7a674c321ddfee8fa" data-evar1="AOS: help/payments | center-2 | Astro Link | 2 | AOS: home/findyourschool" data-evar30="help/payments/center-2">U.S. Apple Store for Education</a> to place your order for reduced prices on the full range of Mac computers, plus select third-party products. Please note that only orders placed on your country's Apple Online Store for Education site are eligible for the special education pricing.</p> 
+       <p class="toplink"><a href="#help-nav">Return to top</a></p> 
+      </div> 
+      <div class="topic">
+       <a name="government"></a> 
+       <h3>U.S. Government Pricing</h3> 
+       <p>Apple offers special pricing to local, state, and federal government employees and agencies. Visit our online <a href="http://www.apple.com/r/store/government" target="_blank" data-s-object-id="97d62ceab346a90c8ae8624b1df3efdc" data-evar1="AOS: help/payments | center-2 | Astro Link | 3 | AOS: r/store/government" data-evar30="help/payments/center-2">Apple Government Stores</a> to view reduced prices. Please note that only orders placed on our online <a href="http://www.apple.com/r/store/government" target="_blank" data-s-object-id="aa41b4cc3aa2990e4c008aedf5dd3bf5" data-evar1="AOS: help/payments | center-2 | Astro Link | 4 | AOS: r/store/government" data-evar30="help/payments/center-2">Apple Government Stores</a> are eligible for the government pricing. </p> 
+       <h4><u>Shop for yourself</u></h4> 
+       <p><b>Federal Employee Store</b></p> 
+       <p>Apple's <a href="http://store.apple.com/us_epp_55499" target="_blank">Federal Government Employee Purchase Program</a> offers special pricing for the following U.S. Federal Government employees who want to purchase Apple products for personal use:</p> 
+       <ul> 
+        <li>Current and retired </li> 
+        <li>Contractors</li> 
+        <li>Family members</li> 
+       </ul> 
+       <p>Current, former, retired members, and family members of the following government entities are eligible:</p> 
+       <ul> 
+        <li>U.S. Military</li> 
+        <li>National Guard</li> 
+        <li>Reserve</li> 
+       </ul> 
+       <p><b>State and Local Government Employees</b></p> 
+       <p>Apple's <a href="http://store.apple.com/us_epp_67909" target="_blank">State and Local Government Employee Purchase Program</a> offers special pricing for employees of State and Local Government Agencies who want to purchase Apple products for personal use. </p> 
+       <h4><u>Shop for your agency</u></h4> 
+       <p><b>GSA Schedule and Federal Contracts</b></p> 
+       <p><a href="http://www.apple.com/r/store/government/reseller.html" target="_blank" data-s-object-id="36c30d0bcd0776e26bcc67f35489b500" data-evar1="AOS: help/payments | center-2 | Astro Link | 5 | AOS: r/store/government/reseller.html" data-evar30="help/payments/center-2">Purchase Apple products on GSA schedules</a> or other government contracts. </p> 
+       <p><b>Federal SmartPay Store</b></p> 
+       <p>Use Apple's <a href="http://www.apple.com/r/store/government/smartpay.html" target="_blank" data-s-object-id="f6a59765af153c36ecf08dcd4bc21081" data-evar1="AOS: help/payments | center-2 | Astro Link | 6 | AOS: r/store/government/smartpay.html" data-evar30="help/payments/center-2">Federal SmartPay Store</a> to purchase Apple and third-party products using a federally issued SmartPay credit card. </p> 
+       <p><b>State and Local Government Store</b></p> 
+       <p>Use Apple's <a href="http://www.apple.com/r/store/government/statelocal.html" target="_blank" data-s-object-id="1d45b7fd6ac4dcf5fa589a2631bb05db" data-evar1="AOS: help/payments | center-2 | Astro Link | 7 | AOS: r/store/government/statelocal.html" data-evar30="help/payments/center-2">State and Local Government Store</a> to purchase Apple and third-party products using terms with Apple or via procurement card. </p> 
+       <p class="toplink"><a href="#help-nav">Return to top</a></p> 
+      </div> 
+      <div class="topic">
+       <a name="promotions"></a> 
+       <h3>Promotions, Rebates, <br>and Coupons</h3> 
+       <p>Visit the <a href="http://www.apple.com/promo" target="_blank" data-s-object-id="80bead8e08da3a604a7451180f47394d" data-evar1="AOS: help/payments | center-2 | Astro Link | 8 | AOS: promo" data-evar30="help/payments/center-2">Product Promotions</a> homepage for a list of limited-time offers. You can also view the <a href="http://www.apple.com/promo/faq.html" target="_blank" data-s-object-id="81537d2dbe9bc7330c784cf7fda17577" data-evar1="AOS: help/payments | center-2 | Astro Link | 9 | AOS: promo/faq.html" data-evar30="help/payments/center-2">Product Promotions FAQ</a> to learn more about how to qualify, request an Apple rebate, and any Terms and Conditions for each promotion.</p> 
+       <p>Promotional pricing is usually applied either at the time of your online purchase, or as a rebate after you receive your product. Rebates may also be available as a special offer from leading Macintosh software and accessory manufacturers, as well as from Apple directly. </p> 
+       <h4>Check Eligibility &amp; Request a Rebate</h4> 
+       <p>To determine eligibility or to request an Apple rebate, visit the <a href="http://www.apple.com/promo" target="_blank" data-s-object-id="990aad8b4658f0ffecbe9aaa46f2c061" data-evar1="AOS: help/payments | center-2 | Astro Link | 10 | AOS: promo" data-evar30="help/payments/center-2">Product Promotions</a> homepage and view the <a href="http://www.apple.com/promo/faq.html" target="_blank" data-s-object-id="cd9d70c0ac4d0b9f125ef8f4638f1a5c" data-evar1="AOS: help/payments | center-2 | Astro Link | 11 | AOS: promo/faq.html" data-evar30="help/payments/center-2">Product Promotions FAQ</a>. </p> 
+       <h4>Check the status of a rebate</h4> 
+       <p>Once you have submitted the requested proof of purchase documents for your rebate, you can <a href="http://www.apple.com/promo/rebate/status.html" target="_blank" data-s-object-id="58cf6eb33e5bd03da605b833fc4d8c3c" data-evar1="AOS: help/payments | center-2 | Astro Link | 12 | AOS: promo/rebate/status.html" data-evar30="help/payments/center-2">check your rebate status</a> online. You'll need some combination of the following pieces of information:</p> 
+       <ol> 
+        <li>Claim number</li> 
+        <li>Email address</li> 
+        <li>Daytime Phone</li> 
+       </ol> 
+       <p>Be sure the information entered is exactly as submitted with your rebate claim.</p> 
+       <h4>Stay in the know</h4> 
+       <p>Want to be informed of new promotions and receive eCoupons? <a href="http://mynews.apple.com/cgi-bin/WebObjects/Subscriptions.woa?locale=en_US&amp;pagename=subscribe&amp;subcode=all" target="_blank">Subscribe to eNews</a>.</p> 
+       <p class="toplink"><a href="#help-nav">Return to top</a></p> 
+      </div> 
+      <!-- BLANK --> 
+      <!-- BLANK --> 
+      <!-- BLANK --> 
+      <!-- BLANK --> 
+     </div>
+     <!-- /.box-content --> 
+    </div>
+    <!-- /.box --> 
+   </div>
+   <!-- /#primary --> 
+   <div id="navigation" class="rail"> 
+    <a name="help-nav"></a> 
+    <!-- Left slots --> 
+    <div class="box help-categories list-of-links"> 
+     <div class="title-bar"> 
+      <h2> Help Topics </h2> 
+     </div>
+     <!-- /.title-bar --> 
+     <div class="box-content clearfix"> 
+      <!-- <h2>Help Categories</h2> --> 
+      <div class="box navigation-list list-of-links help-categories"> 
+       <ul> 
+        <li><a href="/shop/help/your_account" data-s-object-id="7eee24c083279372d18ad4b1c76b445e" data-evar1="AOS: help/payments | left-1 | Astro Link | 0 | AOS: help/your_account" data-evar30="help/payments/left-1">Your Account</a></li> 
+        <li><a href="/shop/help/returns_refund" data-s-object-id="6933747f4f94cb0f41458bb0fa0164f5" data-evar1="AOS: help/payments | left-1 | Astro Link | 1 | AOS: help/returns_refund" data-evar30="help/payments/left-1">Returns &amp; Refunds</a></li> 
+        <li><a href="/shop/help/viewing_changing_orders" data-s-object-id="01c32a31e80323ee2a5b93c8cfd1493d" data-evar1="AOS: help/payments | left-1 | Astro Link | 2 | AOS: help/viewing_changing_orders" data-evar30="help/payments/left-1">Viewing &amp; Changing Orders</a></li> 
+        <li><a href="/shop/help/payments" data-s-object-id="3a6eec5f2d28a0564f1de3973e681ae6" data-evar1="AOS: help/payments | left-1 | Astro Link | 3 | AOS: help/payments" data-evar30="help/payments/left-1">Payment &amp; Pricing</a></li> 
+        <li><a href="/shop/help/shipping_delivery" data-s-object-id="3eeace7fd8ddd55f00ed75f687c10a57" data-evar1="AOS: help/payments | left-1 | Astro Link | 4 | AOS: help/shipping_delivery" data-evar30="help/payments/left-1">Shipping &amp; Pickup</a></li> 
+        <li><a href="/shop/help/iphone" data-s-object-id="eb4fb4dc4a840cdd635acf9d42047c16" data-evar1="AOS: help/payments | left-1 | Astro Link | 5 | AOS: help/iphone" data-evar30="help/payments/left-1">iPhone</a></li> 
+        <li><a href="/shop/help/downloadable_software" data-s-object-id="d780ec5fbb54a4c58428f156a46748ec" data-evar1="AOS: help/payments | left-1 | Astro Link | 6 | AOS: help/downloadable_software" data-evar30="help/payments/left-1">Apple Software</a></li> 
+        <li><a href="/shop/help/recycle" data-s-object-id="53dce0e9d1eda8deae33e5cf38ca3e44" data-evar1="AOS: help/payments | left-1 | Astro Link | 7 | AOS: help/recycle" data-evar30="help/payments/left-1">Apple Recycling Program</a></li> 
+        <li><a href="/shop/help/online_store_exclusives" data-s-object-id="6c119d2ae643f0a21c2ee0f931c120ca" data-evar1="AOS: help/payments | left-1 | Astro Link | 8 | AOS: help/online_store_exclusives" data-evar30="help/payments/left-1">Online Store Exclusives</a></li> 
+        <li><a href="/shop/help/gifting" data-s-object-id="c116c089d59cfd07458708df517b04ce" data-evar1="AOS: help/payments | left-1 | Astro Link | 9 | AOS: help/gifting" data-evar30="help/payments/left-1">Gifting</a></li> 
+        <li><a href="/shop/help/shopping_experience" data-s-object-id="1a3e798ea6488fd7a8bc44a47edda703" data-evar1="AOS: help/payments | left-1 | Astro Link | 10 | AOS: help/shopping_experience" data-evar30="help/payments/left-1">Shopping Experience</a></li> 
+        <li><a href="/shop/help/questions_and_answers" data-s-object-id="2be1b872c70a8497f447c73b05979094" data-evar1="AOS: help/payments | left-1 | Astro Link | 11 | AOS: help/questions_and_answers" data-evar30="help/payments/left-1">Questions &amp; Answers</a></li> 
+        <li><a href="/shop/help/policies" data-s-object-id="a63e4d3d70eff9e70d120d0c05ff185d" data-evar1="AOS: help/payments | left-1 | Astro Link | 12 | AOS: help/policies" data-evar30="help/payments/left-1">Policies</a></li> 
+        <li><a href="/shop/help/print_products" data-s-object-id="8208001790f93bad7a84f020d6cace5b" data-evar1="AOS: help/payments | left-1 | Astro Link | 13 | AOS: help/print_products" data-evar30="help/payments/left-1">Apple Print Products</a></li> 
+        <!-- <li><a href="http://store.apple.com" astro:id="link" astro:url="node:standard/help/whatsnew">What’s New</a></li> --> 
+       </ul> 
+      </div> 
+     </div>
+     <!-- /.box-content --> 
+    </div>
+    <!-- /.box --> 
+    <div class="box quick-links list-of-links"> 
+     <div class="title-bar"> 
+      <h2> Quick Links </h2> 
+     </div>
+     <!-- /.title-bar --> 
+     <div class="box-content clearfix"> 
+      <!-- <h2>Quick Links</h2> --> 
+      <div class="box navigation-list list-of-links help-categories"> 
+       <ul> 
+        <li><a href="http://www.apple.com/support/">Product Support</a></li> 
+        <li><a href="http://www.apple.com/support/aperture/customerservice/">Aperture Support</a></li> 
+        <li><a href="http://www.apple.com/support/iphoto/customerservice/">iPhoto Support</a></li> 
+        <li><a href="http://www.apple.com/support/itunes/store/">iTunes Support</a></li> 
+        <li><a href="http://www.apple.com/support/icloud/">iCloud Support</a></li> 
+        <li><a href="http://www.apple.com/support/quicktime/">QuickTime Support</a></li> 
+       </ul>
+      </div> 
+     </div>
+     <!-- /.box-content --> 
+    </div>
+    <!-- /.box --> 
+   </div>
+   <!-- /#navigation --> 
+   <div class="as-footnotes as-globalfooter-transparent"> 
+    <div class="as-footnotes-content"> 
+     <div class="as-footnotes-sosumi"> 
+      <div class="footnotes"> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <footer class="as-globalfooter as-globalfooter-transparent"> 
+    <div class="as-globalfooter-content"> 
+     <div class="as-globalfooter-breadcrumbs"> 
+      <a href="http://www.apple.com/" class="as-globalfooter-breadcrumbs-home"> <span aria-hidden="true" class="as-globalfooter-breadcrumbs-homeicon icon-apple icon-standalone"></span> <span class="as-globalfooter-breadcrumbs-homelabel"> Apple </span> <span class="as-globalfooter-breadcrumbs-homechevron"></span> </a> 
+      <div class="as-globalfooter-breadcrumbs-path"> 
+       <ol class="as-globalfooter-breadcrumbs-list"> 
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="as-globalfooter-breadcrumbs-item"> <a itemprop="url" class="as-globalfooter-breadcrumbs-link" href="/shop/help" data-s-object-id="cb3b893a9b8ed393b512e459a0a0c8e0" data-evar1="AOS: help/payments |  | Breadcrumb | 1 | Help" data-evar30="help/payments/Breadcrumb"> <span itemprop="title">Help</span> </a> </li> 
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="as-globalfooter-breadcrumbs-item"> <span itemprop="title" class="breadcrumbs-title">Payment &amp; Pricing</span> </li> 
+       </ol> 
+      </div> 
+     </div> 
+     <nav role="navigation" aria-label="More Apple Store Links"> 
+      <div class="as-globalfooter-directory as-globalfooter-with-5columns"> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> Shop and Learn </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/mac/" data-s-object-id="c2a21526618de143d3977206ff4a9450" data-evar1="AOS: help/payments |  | Footer Navigation | 0 | Mac" data-evar30="help/payments/Footer_Navigation"> Mac <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/ipad/" data-s-object-id="97dc15606ee077bd12ae59dd9dd03f5d" data-evar1="AOS: help/payments |  | Footer Navigation | 1 | iPad" data-evar30="help/payments/Footer_Navigation"> iPad <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/iphone/" data-s-object-id="a182407e027d1f15b61789f0d624ce54" data-evar1="AOS: help/payments |  | Footer Navigation | 2 | iPhone" data-evar30="help/payments/Footer_Navigation"> iPhone <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/watch/" data-s-object-id="313c44f50a40e19b6e3dc5f7420c3790" data-evar1="AOS: help/payments |  | Footer Navigation | 3 | Watch" data-evar30="help/payments/Footer_Navigation"> Watch <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/tv/" data-s-object-id="c335cf313c1d79eb45d96a16a5258194" data-evar1="AOS: help/payments |  | Footer Navigation | 4 | TV" data-evar30="help/payments/Footer_Navigation"> TV <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/music" data-s-object-id="277c6ea3ec19b26a0ede3e31099f43ca" data-evar1="AOS: help/payments |  | Footer Navigation | 5 | Music" data-evar30="help/payments/Footer_Navigation"> Music <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/itunes" data-s-object-id="7145cdf22f58aacb4cda9c417fa08b47" data-evar1="AOS: help/payments |  | Footer Navigation | 6 | iTunes" data-evar30="help/payments/Footer_Navigation"> iTunes <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/ipod" data-s-object-id="0ae2b6dff7da6b3a224c144b72f5ac12" data-evar1="AOS: help/payments |  | Footer Navigation | 7 | iPod" data-evar30="help/payments/Footer_Navigation"> iPod <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/accessories/all-accessories" data-s-object-id="58a7fb4e4bca15d93ad518ae2452e1c3" data-evar1="AOS: help/payments |  | Footer Navigation | 8 | Accessories" data-evar30="help/payments/Footer_Navigation"> Accessories <span class="a11y">(Shop and Learn)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/gift-cards" data-s-object-id="234011ddbbf43bab147682b0fd4e3627" data-evar1="AOS: help/payments |  | Footer Navigation | 9 | Gift Cards" data-evar30="help/payments/Footer_Navigation"> Gift Cards <span class="a11y">(Shop and Learn)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> Apple Store </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail" data-s-object-id="824bef8fdf9c7c5c062bdb2276047caa" data-evar1="AOS: help/payments |  | Footer Navigation | 0 | Find a Store" data-evar30="help/payments/Footer_Navigation"> Find a Store <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail/geniusbar" data-s-object-id="72f87831ad60bf81d5823adf4aefae3a" data-evar1="AOS: help/payments |  | Footer Navigation | 1 | Genius Bar" data-evar30="help/payments/Footer_Navigation"> Genius Bar <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail/learn" data-s-object-id="4e865b9a0b8a557707bcb4ed23876ba4" data-evar1="AOS: help/payments |  | Footer Navigation | 2 | Workshops and Learning" data-evar30="help/payments/Footer_Navigation"> Workshops and Learning <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail/learn/youth" data-s-object-id="54d4019080ead31d5cb6c31c1084106f" data-evar1="AOS: help/payments |  | Footer Navigation | 3 | Youth Programs" data-evar30="help/payments/Footer_Navigation"> Youth Programs <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="https://itunes.apple.com/us/app/apple-store/id375380948?mt=8" data-s-object-id="c2431b88b7fd45ea68904dbd8793e4a6" data-evar1="AOS: help/payments |  | Footer Navigation | 4 | Apple Store App" data-evar30="help/payments/Footer_Navigation"> Apple Store App <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/home/specialdeals" data-s-object-id="a8b096bb6e8c41186f64f65c7f3d01a0" data-evar1="AOS: help/payments |  | Footer Navigation | 5 | Refurbished" data-evar30="help/payments/Footer_Navigation"> Refurbished <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/finance/PaypalFinancingLandingPage" data-s-object-id="6082864ac0743151c048e5d0cb15a60c" data-evar1="AOS: help/payments |  | Footer Navigation | 6 | Financing" data-evar30="help/payments/Footer_Navigation"> Financing <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/reuse_and_recycle" data-s-object-id="fd9d55e9d84f28821739cdbfdcf39c1c" data-evar1="AOS: help/payments |  | Footer Navigation | 7 | Reuse and Recycling" data-evar30="help/payments/Footer_Navigation"> Reuse and Recycling <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="https://secure.store.apple.com/order/list" data-s-object-id="e8fa99ed1ede9fe420df832eb8eebc53" data-evar1="AOS: help/payments |  | Footer Navigation | 8 | Order Status" data-evar30="help/payments/Footer_Navigation"> Order Status <span class="a11y">(Apple Store)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/help" data-s-object-id="acc97965da2ec678d8b9ab59d48708e7" data-evar1="AOS: help/payments |  | Footer Navigation | 9 | Shopping Help" data-evar30="help/payments/Footer_Navigation"> Shopping Help <span class="a11y">(Apple Store)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> For Education </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/education" data-s-object-id="61ef06302466ab4ef72e8f51717d5108" data-evar1="AOS: help/payments |  | Footer Navigation | 0 | Apple and Education" data-evar30="help/payments/Footer_Navigation"> Apple and Education <span class="a11y">(For Education)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/home/education_routing" data-s-object-id="c37e534bdf5432dbc8b386fa66a6d06b" data-evar1="AOS: help/payments |  | Footer Navigation | 1 | Shop for College" data-evar30="help/payments/Footer_Navigation"> Shop for College <span class="a11y">(For Education)</span> </a> </li> 
+         </ul> 
+        </div> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> For Business </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section2"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/iphone/business" data-s-object-id="e83dfec2e49c528a8b7e29d6227957f8" data-evar1="AOS: help/payments |  | Footer Navigation | 0 | iPhone in Business" data-evar30="help/payments/Footer_Navigation"> iPhone in Business <span class="a11y">(For Business)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/ipad/business" data-s-object-id="193dd06bf95ef28254ab87aa19b74fb8" data-evar1="AOS: help/payments |  | Footer Navigation | 1 | iPad in Business" data-evar30="help/payments/Footer_Navigation"> iPad in Business <span class="a11y">(For Business)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/business/mac" data-s-object-id="93a3e652803768e52ebc615a2d5f8701" data-evar1="AOS: help/payments |  | Footer Navigation | 2 | Mac in Business" data-evar30="help/payments/Footer_Navigation"> Mac in Business <span class="a11y">(For Business)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/retail/business" data-s-object-id="87c4b4a3125d69d5d6c807cb03230fd3" data-evar1="AOS: help/payments |  | Footer Navigation | 3 | Shop for Your Business" data-evar30="help/payments/Footer_Navigation"> Shop for Your Business <span class="a11y">(For Business)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> Account </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="https://appleid.apple.com" data-s-object-id="7020235d1a768f091ac4109abb2af0a3" data-evar1="AOS: help/payments |  | Footer Navigation | 0 | Manage Your Apple ID" data-evar30="help/payments/Footer_Navigation"> Manage Your Apple ID <span class="a11y">(Account)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="/shop/browse/account/home" data-s-object-id="fdfae667ab55412980a59970a6d00a28" data-evar1="AOS: help/payments |  | Footer Navigation | 1 | Apple Store Account" data-evar30="help/payments/Footer_Navigation"> Apple Store Account <span class="a11y">(Account)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.icloud.com" data-s-object-id="38f0d7a10c66cf781f66879e39814235" data-evar1="AOS: help/payments |  | Footer Navigation | 2 | iCloud.com" data-evar30="help/payments/Footer_Navigation"> iCloud.com <span class="a11y">(Account)</span> </a> </li> 
+         </ul> 
+        </div> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> Apple Values </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section2"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/environment" data-s-object-id="36a47f9aad033613a2003a2b20b07ed2" data-evar1="AOS: help/payments |  | Footer Navigation | 0 | Environment" data-evar30="help/payments/Footer_Navigation"> Environment <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/supplier-responsibility" data-s-object-id="806a3ef83ea978943d8d80e3489eac75" data-evar1="AOS: help/payments |  | Footer Navigation | 1 | Supplier Responsibility" data-evar30="help/payments/Footer_Navigation"> Supplier Responsibility <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/accessibility" data-s-object-id="a80382a39ed493a23df5a2cd7389776c" data-evar1="AOS: help/payments |  | Footer Navigation | 2 | Accessibility" data-evar30="help/payments/Footer_Navigation"> Accessibility <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/privacy" data-s-object-id="0188f398de78edd2685ec2c75a84608c" data-evar1="AOS: help/payments |  | Footer Navigation | 3 | Privacy" data-evar30="help/payments/Footer_Navigation"> Privacy <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/diversity" data-s-object-id="6c5c743f0dc482c6d3115818862f5fd3" data-evar1="AOS: help/payments |  | Footer Navigation | 4 | Inclusion and Diversity" data-evar30="help/payments/Footer_Navigation"> Inclusion and Diversity <span class="a11y">(Apple Values)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/education/connectED" data-s-object-id="2b1bde35e5b7dfc1cc1806cc19000e5d" data-evar1="AOS: help/payments |  | Footer Navigation | 5 | ConnectED" data-evar30="help/payments/Footer_Navigation"> ConnectED <span class="a11y">(Apple Values)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as-globalfooter-directory-column"> 
+        <div class="as-globalfooter-directory-section"> 
+         <!-- as:ASTROContainer definition="[currentListOfLinks.header.html]" /--> 
+         <h2 class="as-globalfooter-directory-title"> About Apple </h2> 
+         <button data-asext-feature="footer" data-asext-action="expand" data-asext-part="header" data-asext-evar="eVar6" data-asext-action-toggle="collapse" aria-controls="section1" aria-expanded="false" class="as-globalfooter-toggler">+</button> 
+         <ul class="as-globalfooter-directory-list" id="section1"> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/about" data-s-object-id="585f916e833ee46af63adb9142d9cc19" data-evar1="AOS: help/payments |  | Footer Navigation | 0 | Apple Info" data-evar30="help/payments/Footer_Navigation"> Apple Info <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/jobs/us" data-s-object-id="2f921cfbcf3982e8073c91839c09d72e" data-evar1="AOS: help/payments |  | Footer Navigation | 1 | Job Opportunities" data-evar30="help/payments/Footer_Navigation"> Job Opportunities <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/pr" data-s-object-id="a4b4e87bddb16708f50c796f10710973" data-evar1="AOS: help/payments |  | Footer Navigation | 2 | Press Info" data-evar30="help/payments/Footer_Navigation"> Press Info <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="https://investor.apple.com" data-s-object-id="472e83ef90d0765106eb2b9f3be33c65" data-evar1="AOS: help/payments |  | Footer Navigation | 3 | Investors" data-evar30="help/payments/Footer_Navigation"> Investors <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/apple-events" data-s-object-id="3ebff92afaf02218cdde7bece1edb044" data-evar1="AOS: help/payments |  | Footer Navigation | 4 | Events" data-evar30="help/payments/Footer_Navigation"> Events <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/hotnews" data-s-object-id="ace7cbf6ba6e0622a26db5a15e4d5d1b" data-evar1="AOS: help/payments |  | Footer Navigation | 5 | Hot News" data-evar30="help/payments/Footer_Navigation"> Hot News <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/legal" data-s-object-id="e7d6d2acddb05dffae110649efb0c394" data-evar1="AOS: help/payments |  | Footer Navigation | 6 | Legal" data-evar30="help/payments/Footer_Navigation"> Legal <span class="a11y">(About Apple)</span> </a> </li> 
+          <li class="as-globalfooter-directory-item"> <a class="as-globalfooter-directory-link" href="http://www.apple.com/contact" data-s-object-id="7d961f08a59cc89632b521009058dd6d" data-evar1="AOS: help/payments |  | Footer Navigation | 7 | Contact Apple" data-evar30="help/payments/Footer_Navigation"> Contact Apple <span class="a11y">(About Apple)</span> </a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </nav> 
+     <div id="as-globalfooter-extended"> 
+      <div class="as-globalfooter-shop"> 
+       <p>More ways to shop: <span class="nowrap">Visit an <a href="http://www.apple.com/retail" data-s-object-id="d5b1cacff4d4505461ff55ac52f243c0" data-evar1="AOS: help/payments |  | Astro Link | 0 | AOS: retail" data-evar30="help/payments/Astro_Link">Apple Store</a></span>, <span class="nowrap">call 1-800-MY-APPLE, or <a href="https://locate.apple.com" data-s-object-id="c37bc69aa35acf14e4828a0b80129d03" data-evar1="AOS: help/payments |  | Astro Link | 1 | AOS: locate.apple.com" data-evar30="help/payments/Astro_Link">find a reseller</a></span>.</p> 
+       <script>
+				Event.onLoad(function () {
+					apple.fcs.storeFcsData();
+	  			});
+			</script> 
+      </div> 
+      <div class="as-globalfooter-locale"> 
+       <a class="as-globalfooter-locale-link as-globalfooter-locale-country" href="http://www.apple.com/choose-your-country" data-s-object-id="cdb205c3747d29d228f37e3b902e082b" data-evar1="AOS: help/payments |  | Navigation Footer | 0 | Country Selector" data-evar30="help/payments/Navigation_Footer"> <img class="ir as-globalfooter-locale-flag ir as-globalfooter-locale-flag ir" src="http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/c/ou/country/icon/country-icon-us?wid=16&amp;hei=16&amp;fmt=png-alpha&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=O8hjZ3" alt="" width="16" height="16" data-scale-params-2="wid=32&amp;hei=32&amp;fmt=png-alpha&amp;qlt=95&amp;op_sharpen=0&amp;resMode=bicub&amp;op_usm=0.5,0.5,0,0&amp;iccEmbed=0&amp;layer=comp&amp;.v=O8hjZ3"> <span class="as-globalfooter-locale-name">United States</span> </a> 
+      </div> 
+      <div class="as-globalfooter-legal"> 
+       <p> Copyright © 2016 Apple Inc. All rights reserved. </p> 
+       <p> <a class="as-globalfooter-legal-link" href="http://www.apple.com/privacy">Privacy Policy</a> <a class="as-globalfooter-legal-link" href="http://www.apple.com/legal/terms/site.html">Terms of Use</a> <a class="as-globalfooter-legal-link" href="/shop/open/salespolicies">Sales and Refunds</a> 
+        <!-- /.sosumi --> <a class="as-globalfooter-legal-link" href="/shop/browse/sitemap" data-s-object-id="c4e92e8e01ca15898a24afb0d1839113" data-evar1="AOS: help/payments |  | Navigation Footer | 3 | Sitemap" data-evar30="help/payments/Navigation_Footer"> Site Map </a> </p> 
+      </div> 
+     </div>
+     <!-- /.as-globalfooter-extended" --> 
+    </div>
+    <!-- /.as-globalfooter-content" --> 
+   </footer>
+   <!--/footer" --> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{WebOverlay}}">
+		
+			<div class="overlay" tabindex="-1" {{#if isAriaDialog}}role=alertdialog aria-describedby=overlayContent{{uid}}    aria-labelledby=overlayHeading{{uid}}{{/if}}><span class="chrome tl"></span><span class="chrome tr"></span><span class="chrome top"></span><span class="chrome left"></span><span class="chrome right"></span><span class="chrome bottom"></span><span class="chrome bl"></span><span class="chrome br"></span><span class="chrome center"></span><div class="container"><div class="content" id="overlayContent{{uid}}" style="{{{as.WebOverlay.contentSize width height}}}">{{#if contentIsHtml}}{{{content}}}{{else}}{{#if contentIsTemplate}}{{{as.include content}}}{{else}}{{content}}{{/if}}{{/if}}</div>{{#if recoveryOptions.length}}<ul class="buttons recoveryOptions">{{#recoveryOptions}}<li><button {{data 'recoveryOption'}}>{{text}}</button></li>{{/recoveryOptions}}</ul>{{/if}}</div>{{#if canClose}}<button class="close">{{close}}</button>{{/if}}</div>
+		
+	</script> 
+   <!-- /.apple-footer --> 
+   <script>dciddstr = '59b1b58d457f08fb593b5d9d9db11191daec42eaf199c4f5bd946a4e04dce04a208528d4dca732f2b30af66bda6ea36a38c1178d1901e26eb39d7caffc975253eab9c472fa780606087ab7af18d5c695c85a9233ce04e5b406f704266f5465b0cebcfda7ba903124e33829b433d61d64470e66c13c27c644ef4379a005384fcbe26dee9b6a578173155fc32ec60855d1424ba139416f04ddc8174790bcc9a46b865b4f8bfe46329c2c780afef605326c5ee199e4d63b8f01f88909555c92815d114e6c16a4777e8f89fecf017070c4b2879a05d2e02026e33dcb4dff1aa38a434984f7d3db176e17fc86750d0a1f755c082f8b7d923b7dee446674db3c595f56b37ddbaeeff765c8d6ce5f7db2d5b5c9e8f4e98c1ec2a07faa3f5268fee46a608a03c540c58b8b977e6187d9f7c8a61bc3a3cf9bf0e4ca517a6b2c78d12d1f14da37f739b2aaa8940621bc5a716a6a1aac2285c87812543bd35de28ef38fc6d61d044bb98d27d9e58a0f34f47f01548275df49453abfa6f4f34575b9c2f972be0aa422a89ac334a12dda22c062b1d84988cffd16cc932b6025439289774da323af651ba01000251fe1e9e47bbd66cc4b4f6f93425016438080c1ea92bba26e259f5ca5f4debe9854f399f9ef7967932de72622ca7524f4b32a31516ce47214a27c4a4307834727969de624f1f6ac1f7ce5eb7895be5afd68eea4875ee76eade8c7afc4cfbe19cd27ae8131b413e4cac2be962941a971589a628a6ea5e698e083af355f9634b50603d930b909232721b05a3d64082ef237a7f988c72df728d0605b2a6a89b60314b66c78de861f186cef1a57de5451e79eb3ccfc42fa3b6b4a8d918cba3f441d7ae8942f3da4effcc291ab75fc52a39fb706db442565ffa29870c220286f3cb294a0c0142438a54eebe5cd96';</script> 
+   <script>dciddstr = '97db0c7ff1cf090a5e88da51db69c47f8020aecc649be0fc44e13e7f94b5efe36dffab07a7122186140fae44777a4b00fdefb4a1e395bbd63c07a5c86c37a85ad41e88e566a8bcd8b924707af6c7b13abf503cc1bbf5ed64be7378f467c3dc032e204f0ef049da0af8c2c3db52e0591bcea7bcf5eb53c8602a78f085a6437707de295a96a2fe78f4def5ffb917d586505ca49cf4ae65afd7451d58ca1b44a3d90f640dd14f48e284cb84e4dcf36b12147e3bb319459d7032e8b0f67bc9144d8dc702c00451849319e6d41714dbb9cb5aa59af2f413597e149df5e54578588e9dd7b0ee3b7dec4c37e5f2172d6e941767c7e76813a3148b27346b67b18c82dd3bba01f76d0306353ca350ed10b2d06d7409958c76d20ee31ce9da082f653e71339dcad342f18fb16191149c52e2f5d7b933e24b40e71fc05ed9bf92b7ba41fa7491a820f0e43abaebe0a1c42ded1d0ca0006dc90691abfcb7e686010ccca25e04671549a33d287cd07c2c5abbc6450ec153310ad53b559cad38eb1140a86ed0cdef7b53e4684ccd0905c4e54587dd1acf5a309b2df1e2ccd8195059f6bd704dd112fdffc1beca8088abb8ef35a68663e601c0a92f2838c44319ec5c523f4ea4f1dbd47811f88570b976847a41b7e28619dc8ad3c3959c9d964558da7aba7c7eb17c6e469f299660c8c18d1e1edff313dfed5df70d10f8b68b3f44203ef89baa05288fda2f205729fd42b5821e61a387e5f8d76598a189a0427a7899d78f734f6b39a6e491a376a1ba672c72f814116c8b5e159d191db2046b6604b14730c236aa0beee2e45a62501717acdf2bc937db2bf2e22f0ea0ab9a880c94dd755f84c46c84f6afc9a7624987ce7a441cba8fe40b61a310156187da9cfbb24868baf2d51a06bbf3511ab3542ca033f6deb20c42448ea5';</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{WebOverlayError}}">
+		
+			<div class="blue-header-popup">    <div class="header">        <h2>${translate.overlay.error.header}</h2>    </div>    <div class="content clearfix">        <p><strong>${translate.overlay.error.description}</strong></p>        <div class="error-actions">            <button class="cancel continue"><span class="replaced">${translate.store.button_text.continue}</span></button>        </div>    </div>    <div class="footer empty-footer">        <p>&nbsp;</p>    </div></div>
+		
+	</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{Bubble}}">
+		
+			<div class="bubble {{#isBelow}}below{{/isBelow}}">    <span class="chrome tl"></span>    <span class="chrome tr"></span>    <span class="chrome top"></span>    <span class="chrome left"></span>    <span class="chrome right"></span>    <span class="chrome bottom"></span>    <span class="chrome bl"></span>    <span class="chrome br"></span>    <span class="chrome center"></span>    <div class="container" style="{{{as.WebOverlay.contentSize width height}}}">        <div class="content" id="overlayContent{{uid}}">            {{#if contentIsHtml}}                {{{content}}}            {{else}}                {{content}}            {{/if}}        </div>    </div>    <span class="chrome arrow"></span></div>
+		
+	</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{AsTextBoxMatcher}}">
+		
+			<ul role="listbox">{{#model}}    <li role="option" aria-selected="{{selected}}" class="item            {{#selected}}selected{{/selected}}" id="{{id}}" {{data 'item'}}>        <span title="{{item}}"><a>{{item}}</a></span>    </li>{{/model}}</ul>
+		
+	</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{OverlayComponent}}">
+		
+			<materializer data-uid='{{dataUid}}-mat'
+        data-shown    ='materializerShown'
+        data-show-done='dataShowDone'
+        data-hide-done='dataHideDone'
+        class='ase-overlay-materializer{{#if dataSheet}} ase-overlay-materializersheet{{/if}}'>
+    {{#if dataHasScreen}}
+        <computed-height data-type="document" data-recompute="recomputeScreen"
+                         class="ase-overlay-screen"></computed-height>
+    {{/if}}
+    <div class="ase-overlay {{#if dataSheet}}ase-overlay-sheet{{else}}ase-overlay-popup{{/if}}">
+        <content />
+    </div>
+</materializer>
+		
+	</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{InputPlaceholder}}">
+		
+			{{#if dataPlaceholder}}
+    <label {{#dataId}}for="{{.}}"{{/dataId}}>
+        {{dataPlaceholder}}
+    </label>
+{{/if}}
+{{#if dataTextarea}}
+    <textarea 
+        {{#dataId}}id="{{.}}"{{/dataId}}
+        {{#dataClass}}class="{{.}}"{{/dataClass}}
+        {{#dataDisabled}}disabled{{/dataDisabled}}
+        {{#dataAriaLabelledby}}aria-labelledby="{{.}}"{{/dataAriaLabelledby}}
+        {{#dataMaxlength}}maxlength="{{.}}"{{/dataMaxlength}}></textarea>
+{{else}}
+    <input
+        {{#dataId}}id="{{.}}"{{/dataId}}
+        {{#dataClass}}class="{{.}}"{{/dataClass}}
+        {{#dataDisabled}}disabled{{/dataDisabled}}
+        {{#dataAriaLabelledby}}aria-labelledby="{{.}}"{{/dataAriaLabelledby}}
+        {{#dataType}}type="{{.}}"{{/dataType}}
+        {{#dataPattern}}pattern="{{.}}"{{/dataPattern}}
+        {{#dataMaxlength}}maxlength="{{.}}"{{/dataMaxlength}} />
+{{/if}}
+		
+	</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{AutoComplete}}">
+		
+			<input  type="text" role="combobox"
+
+    aria-owns="{{dataUid}}_nl_ml"
+    aria-autocomplete="list"
+    aria-expanded="{{menuShowing}}"
+    {{#selId}}aria-activedescendant='{{.}}'{{/selId}}
+
+    value="{{chosenValue}}"
+    data-ase-nl-input="{{dataUid}}_nl"
+
+    {{#dataInputId}}          id="{{.}}"{{/dataInputId}}
+    {{#dataInputClass}}       class="{{.}}"{{/dataInputClass}}
+    {{#dataInputName}}        name="{{.}}"{{/dataInputName}}
+    {{#dataInputMaxlength}}   maxlength="{{.}}"{{/dataInputMaxlength}}
+    {{#dataInputPlaceholder}} placeholder="{{.}}"{{/dataInputPlaceholder}}
+    {{#dataInputAutocomplete}}autocomplete="{{.}}"{{/dataInputAutocomplete}}
+/>
+
+<navigable-list id="{{dataUid}}_nl" data-uid="{{dataUid}}_nl"
+        data-shown="menuShowing" data-selected="selected"
+        data-value="chosenValue"
+        {{#if dataUpdateOnNavigation}}data-update-on-navigation{{/if}} >
+    <ul>{{#results}}
+        <li id="{{dataUid}}_li_{{i}}" data-ase-nl-item="{{i}}" 
+                role="option" aria-selected="false">
+            <span class="ase-autocomplete-start">{{#if vStart}}{{vStart}}{{/if}}</span>{{#if vMatch}}<{{dataHighlightOnMatch}} class="ase-autocomplete-match {{dataHighlightClass}}">{{vMatch}}</{{dataHighlightOnMatch}}>{{/if}}{{#if vEnd}}<span class="ase-autocomplete-end">{{vEnd}}</span>{{/if}}
+        </li>
+    {{/results}}</ul>
+</navigable-list>
+		
+	</script> 
+   <!-- Template Based Off a Fragment --> 
+   <script type="text/mustache" id="{{NavigableList}}">
+		
+			<materializer data-uid="{{dataUid}}_ml" role="listbox" id="{{dataUid}}_ml"
+    data-shown="dataShown">
+        <content/>
+</materializer>
+		
+	</script> 
+  </div>
+  <!-- /#page --> 
+  <script>
+   (function (window, $, as, can, undefined) {
+            /*for NPI overlay focus */
+            can.view.attr("data-focus-when", function( el, attrData ) {
+                var handler = function(ev, newVal, oldVal){
+                    if (newVal) {
+                        setTimeout(function() { el.focus(); }, 1000);
+                    }
+                };
+
+                var attrValues = el.getAttribute("data-focus-when").split(',');
+                var itemsFocusInCompute = [];
+                for(var i=0; i<attrValues.length; i+=1){
+                    var focusInCompute = attrData.scope.compute(attrValues[i]);
+                    focusInCompute.bind("change", handler);
+                    itemsFocusInCompute.push(focusInCompute);
+                }
+
+                $(el).bind("remove", function(){
+                    for(var i=0; i<itemsFocusInCompute.length; i+=1){
+                        itemsFocusInCompute[i].unbind(handler);
+                    }
+                });
+            });
+            window.ctrl = new as.OrbitParser();
+            window.ctrl.processUrlData({"h":{"aos-csrf":"t"},"url":"/shop/postalLookupHelp"});
+    }(window, jQuery, as, can));
+  </script>   
+ </body>
+</html>

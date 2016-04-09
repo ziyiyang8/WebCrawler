@@ -1,0 +1,407 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9"> 
+  <meta charset="utf-8"> 
+  <meta name="Author" content="Apple Inc."> 
+  <meta name="robots" content="noodp"> 
+  <link rel="canonical" href="http://www.apple.com/choose-your-country/"> 
+  <meta name="viewport" content="width=1024"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalnav/2.0/en_US/styles/ac-globalnav.fixed.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalfooter/2.0/en_US/styles/ac-globalfooter.fixed.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/localnav/3.0/styles/ac-localnav.fixed.built.css"> 
+  <title>Choose your country or region - Apple</title> 
+  <meta name="omni_page" content="Choose your country"> 
+  <meta name="Description" content=""> 
+  <script src="http://images.apple.com/global/scripts/lib/prototype.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/global/scripts/lib/scriptaculous.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/global/scripts/lib/sizzle.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/global/scripts/browserdetect.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/global/scripts/apple_core.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/global/scripts/search_decorator.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/global/ac_base/ac_base.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/global/scripts/feedstatistics.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/global/ac_retina/ac_retina.js" type="text/javascript" charset="utf-8"></script> 
+  <link rel="stylesheet" href="/wss/fonts?family=Myriad+Set+Pro&amp;v=1" type="text/css"> 
+  <link rel="stylesheet" href="http://images.apple.com/global/styles/blackout.css" type="text/css"> 
+  <link rel="stylesheet" href="http://images.apple.com/global/styles/base.css" type="text/css"> 
+  <link rel="stylesheet" href="http://images.apple.com/choose-your-country/styles/countries.css" type="text/css"> 
+ </head> 
+ <body class="ac-platter-content ac-nav-margin"> 
+  <aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }"></aside> 
+  <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"> 
+  <nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-US" data-store-key="SFX9YPYY9PPXCU9KH" data-store-locale="us" data-store-api="/[storefront]/shop/bag/status" data-search-locale="en_US" data-search-api="/search-services/suggestions/"> 
+   <div class="ac-gn-content"> 
+    <ul class="ac-gn-header"> 
+     <li class="ac-gn-item ac-gn-menuicon"> <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span> </span> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span> </span> </label> <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"> <span class="ac-gn-menuanchor-label">Open Menu</span> </a> <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"> <span class="ac-gn-menuanchor-label">Close Menu</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <ul class="ac-gn-list"> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-mac"> <a class="ac-gn-link ac-gn-link-mac" href="/mac/" data-analytics-title="mac"> <span class="ac-gn-link-text">Mac</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"> <a class="ac-gn-link ac-gn-link-ipad" href="/ipad/" data-analytics-title="ipad"> <span class="ac-gn-link-text">iPad</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"> <a class="ac-gn-link ac-gn-link-iphone" href="/iphone/" data-analytics-title="iphone"> <span class="ac-gn-link-text">iPhone</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-watch"> <a class="ac-gn-link ac-gn-link-watch" href="/watch/" data-analytics-title="watch"> <span class="ac-gn-link-text">Watch</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-tv"> <a class="ac-gn-link ac-gn-link-tv" href="/tv/" data-analytics-title="tv"> <span class="ac-gn-link-text">TV</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-music"> <a class="ac-gn-link ac-gn-link-music" href="/music/" data-analytics-title="music"> <span class="ac-gn-link-text">Music</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-support"> <a class="ac-gn-link ac-gn-link-support" href="/support/" data-analytics-title="support"> <span class="ac-gn-link-text">Support</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"> <a class="ac-gn-link ac-gn-link-search" href="/us/search" data-analytics-title="search" data-analytics-click="search" aria-label="Search apple.com"> <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge" aria-hidden="true"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"> 
+     <div class="ac-gn-searchview-content"> 
+      <form id="ac-gn-searchform" class="ac-gn-searchform" action="/us/search" method="get"> 
+       <div class="ac-gn-searchform-wrapper"> 
+        <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" name="" placeholder="Search apple.com" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false"> 
+        <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav"> 
+        <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Submit"></button> 
+        <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Clear Search"></button> 
+       </div> 
+      </form> 
+      <aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" data-string-noresults="Hit enter to search."></aside> 
+     </div> 
+     <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search"> <span class="ac-gn-searchview-close-wrapper"> <span class="ac-gn-searchview-close-left"></span> <span class="ac-gn-searchview-close-right"></span> </span> </button> 
+    </aside> 
+    <aside class="ac-gn-bagview" data-analytics-region="bag"> 
+     <div class="ac-gn-bagview-scrim"> 
+      <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span> 
+     </div> 
+     <div class="ac-gn-bagview-content" id="ac-gn-bagview-content"> 
+     </div> 
+    </aside> 
+   </div> 
+  </nav> 
+  <div id="ac-gn-curtain" class="ac-gn-curtain"></div> 
+  <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div> 
+  <script type="text/javascript" src="/ac/globalnav/2.0/en_US/scripts/ac-globalnav.built.js"></script> 
+  <!-- SiteCatalyst code version: H.8. Copyright 1997-2006 Omniture, Inc. --> 
+  <div id="top" data-analytics-locale="us"> 
+   <script type="text/javascript">
+/* RSID: */
+
+var s_account="appleglobal,appleusother"
+
+</script> 
+   <script type="text/javascript" src="http://images.apple.com/metrics/scripts/s_code_h.js"></script> 
+   <script type="text/javascript">
+
+s.pageName=AC.Tracking.pageName()+" (us)";
+
+	s.channel="www.us.choose-your-country"
+
+
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code = s.t();</script> 
+   <!-- End SiteCatalyst code version: H.8. --> 
+  </div> 
+  <div id="productheader" data-hires="true"> 
+   <h2><img src="http://images.apple.com/choose-your-country/images/title-chooseyourcountry.png" width="416" height="32" alt="Choose your country or region"></h2> 
+  </div> 
+  <div id="main"> 
+   <div class="content selfclear" id="content" data-hires="true"> 
+    <div class="section selfclear" id="africa_mideast"> 
+     <h2>Africa, Middle East, and India</h2> 
+     <ul> 
+      <li><a href="/am/"> <img src="http://images.apple.com/global/elements/flags/30x30/armenia.png" width="30" height="30" alt=""> <span><span>Armenia</span></span> </a></li> 
+      <li><a href="/bh/"> <img src="http://images.apple.com/global/elements/flags/30x30/bahrain.png" width="30" height="30" alt=""> <span><span>Bahrain</span></span> </a></li> 
+      <li><a href="/bw/"> <img src="http://images.apple.com/global/elements/flags/30x30/botswana.png" width="30" height="30" alt=""> <span><span>Botswana</span></span> </a></li> 
+      <li><a href="/cm/"> <img src="http://images.apple.com/global/elements/flags/30x30/cameroon.png" width="30" height="30" alt=""> <span><span>Cameroun</span></span> </a></li> 
+      <li><a href="/cf/"> <img src="http://images.apple.com/global/elements/flags/30x30/central_african_republic.png" width="30" height="30" alt=""> <span><span>République Centrafricaine</span></span> </a></li> 
+      <li><a href="/ci/"> <img src="http://images.apple.com/global/elements/flags/30x30/cote_divoire.png" width="30" height="30" alt=""> <span><span>Côte d'Ivoire</span></span> </a></li> 
+      <li class="clear"><a href="/eg/"> <img src="http://images.apple.com/global/elements/flags/30x30/egypt.png" width="30" height="30" alt=""> <span><span>Egypt</span></span> </a></li> 
+      <li><a href="/gw/"> <img src="http://images.apple.com/global/elements/flags/30x30/guinea_bissau.png" width="30" height="30" alt=""> <span><span>Guinea-Bissau</span></span> </a></li> 
+      <li><a href="/gn/"> <img src="http://images.apple.com/global/elements/flags/30x30/guinea.png" width="30" height="30" alt=""> <span><span>Guinée</span></span> </a></li> 
+      <li><a href="/gq/"> <img src="http://images.apple.com/global/elements/flags/30x30/equatorial_guinea.png" width="30" height="30" alt=""> <span><span>Guinée Equatoriale</span></span> </a></li> 
+      <li><a href="/in/"> <img src="http://images.apple.com/global/elements/flags/30x30/india.png" width="30" height="30" alt=""> <span><span>India</span></span> </a></li> 
+      <li><a href="/il/"> <img src="http://images.apple.com/global/elements/flags/30x30/israel.png" width="30" height="30" alt=""> <span><span>Israel</span></span> </a></li> 
+      <li class="clear"><a href="/jo/"> <img src="http://images.apple.com/global/elements/flags/30x30/jordan.png" width="30" height="30" alt=""> <span><span>Jordan</span></span> </a></li> 
+      <li><a href="/ke/"> <img src="http://images.apple.com/global/elements/flags/30x30/kenya.png" width="30" height="30" alt=""> <span><span>Kenya</span></span> </a></li> 
+      <li><a href="/kw/"> <img src="http://images.apple.com/global/elements/flags/30x30/kuwait.png" width="30" height="30" alt=""> <span><span>Kuwait</span></span> </a></li> 
+      <li><a href="/mg/"> <img src="http://images.apple.com/global/elements/flags/30x30/madagascar.png" width="30" height="30" alt=""> <span><span>Madagascar</span></span> </a></li> 
+      <li><a href="/ml/"> <img src="http://images.apple.com/global/elements/flags/30x30/mali.png" width="30" height="30" alt=""> <span><span>Mali</span></span> </a></li> 
+      <li><a href="/ma/"> <img src="http://images.apple.com/global/elements/flags/30x30/morocco.png" width="30" height="30" alt=""> <span><span>Maroc</span></span> </a></li> 
+      <li class="clear"><a href="/mu/"> <img src="http://images.apple.com/global/elements/flags/30x30/mauritius.png" width="30" height="30" alt=""> <span><span>Maurice</span></span> </a></li> 
+      <li><a href="/mz/"> <img src="http://images.apple.com/global/elements/flags/30x30/mozambique.png" width="30" height="30" alt=""> <span><span>Mozambique</span></span> </a></li> 
+      <li><a href="/ne/"> <img src="http://images.apple.com/global/elements/flags/30x30/niger.png" width="30" height="30" alt=""> <span><span>Niger</span></span> </a></li> 
+      <li><a href="/ng/"> <img src="http://images.apple.com/global/elements/flags/30x30/nigeria.png" width="30" height="30" alt=""> <span><span>Nigeria</span></span> </a></li> 
+      <li><a href="/om/"> <img src="http://images.apple.com/global/elements/flags/30x30/oman.png" width="30" height="30" alt=""> <span><span>Oman</span></span> </a></li> 
+      <li><a href="/qa/"> <img src="http://images.apple.com/global/elements/flags/30x30/qatar.png" width="30" height="30" alt=""> <span><span>Qatar</span></span> </a></li> 
+      <li class="clear"><a href="/sa/"> <img src="http://images.apple.com/global/elements/flags/30x30/saudi_arabia.png" width="30" height="30" alt=""> <span><span>Saudi Arabia</span></span> </a></li> 
+      <li><a href="/sn/"> <img src="http://images.apple.com/global/elements/flags/30x30/senegal.png" width="30" height="30" alt=""> <span><span>Sénégal</span></span> </a></li> 
+      <li><a href="/za/"> <img src="http://images.apple.com/global/elements/flags/30x30/south_africa.png" width="30" height="30" alt=""> <span><span>South Africa</span></span> </a></li> 
+      <li><a href="/tn/"> <img src="http://images.apple.com/global/elements/flags/30x30/tunisia.png" width="30" height="30" alt=""> <span><span>Tunisie</span></span> </a></li> 
+      <li><a href="/ug/"> <img src="http://images.apple.com/global/elements/flags/30x30/uganda.png" width="30" height="30" alt=""> <span><span>Uganda</span></span> </a></li> 
+      <li><a href="/ae/"> <img src="http://images.apple.com/global/elements/flags/30x30/united_arab_emirates.png" width="30" height="30" alt=""> <span><span>United Arab Emirates</span></span> </a></li> 
+     </ul> 
+    </div>
+    <!--/africa_mideast--> 
+    <div class="section selfclear" id="asia_pacific"> 
+     <h2>Asia Pacific</h2> 
+     <ul> 
+      <li><a href="/au/"> <img src="http://images.apple.com/global/elements/flags/30x30/australia.png" width="30" height="30" alt=""> <span><span>Australia</span></span> </a></li> 
+      <li><a href="/cn/"> <img src="http://images.apple.com/global/elements/flags/30x30/china.png" width="30" height="30" alt=""> <span><span>??</span></span> </a></li> 
+      <li><a href="/hk/en/"> <img src="http://images.apple.com/global/elements/flags/30x30/hong_kong.png" width="30" height="30" alt=""> <span><span>Hong Kong (English)</span></span> </a></li> 
+      <li><a href="/hk/"> <img src="http://images.apple.com/global/elements/flags/30x30/hong_kong.png" width="30" height="30" alt=""> <span><span>??</span></span> </a></li> 
+      <li><a href="/id/"> <img src="http://images.apple.com/global/elements/flags/30x30/indonesia.png" width="30" height="30" alt=""> <span><span>Indonesia</span></span> </a></li> 
+      <li><a href="/jp/"> <img src="http://images.apple.com/global/elements/flags/30x30/japan.png" width="30" height="30" alt=""> <span><span>??</span></span> </a></li> 
+      <li class="clear"><a href="/kr/"> <img src="http://images.apple.com/global/elements/flags/30x30/south_korea.png" width="30" height="30" alt=""> <span><span>????</span></span> </a></li> 
+      <li><a href="/my/"> <img src="http://images.apple.com/global/elements/flags/30x30/malaysia.png" width="30" height="30" alt=""> <span><span>Malaysia</span></span> </a></li> 
+      <li><a href="/nz/"> <img src="http://images.apple.com/global/elements/flags/30x30/new_zealand.png" width="30" height="30" alt=""> <span><span>New Zealand</span></span> </a></li> 
+      <li><a href="/ph/"> <img src="http://images.apple.com/global/elements/flags/30x30/philippines.png" width="30" height="30" alt=""> <span><span>Philippines</span></span> </a></li> 
+      <li><a href="/sg/"> <img src="http://images.apple.com/global/elements/flags/30x30/singapore.png" width="30" height="30" alt=""> <span><span>Singapore</span></span> </a></li> 
+      <li><a href="/tw/"> <img src="http://images.apple.com/global/elements/flags/30x30/taiwan.png" width="30" height="30" alt=""> <span><span>??</span></span> </a></li> 
+      <li class="clear"><a href="/th/"> <img src="http://images.apple.com/global/elements/flags/30x30/thailand.png" width="30" height="30" alt=""> <span><span>???</span></span> </a></li> 
+      <li><a href="/vn/"> <img src="http://images.apple.com/global/elements/flags/30x30/vietnam.png" width="30" height="30" alt=""> <span><span>Vietnam</span></span> </a></li> 
+     </ul> 
+    </div>
+    <!--/asia_pacific--> 
+    <div class="section selfclear" id="europe"> 
+     <h2>Europe</h2> 
+     <ul> 
+      <li><a href="/benl/"> <img src="http://images.apple.com/global/elements/flags/30x30/belgium.png" width="30" height="30" alt=""> <span><span>België</span></span> </a></li> 
+      <li><a href="/befr/"> <img src="http://images.apple.com/global/elements/flags/30x30/belgium.png" width="30" height="30" alt=""> <span><span>Belgique</span></span> </a></li> 
+      <li><a href="/bg/"> <img src="http://images.apple.com/global/elements/flags/30x30/bulgaria.png" width="30" height="30" alt=""> <span><span>????????</span></span> </a></li> 
+      <li><a href="/cz/"> <img src="http://images.apple.com/global/elements/flags/30x30/czech_republic.png" width="30" height="30" alt=""> <span><span>?eská republika</span></span> </a></li> 
+      <li><a href="/dk/"> <img src="http://images.apple.com/global/elements/flags/30x30/denmark.png" width="30" height="30" alt=""> <span><span>Danmark</span></span> </a></li> 
+      <li><a href="/de/"> <img src="http://images.apple.com/global/elements/flags/30x30/germany.png" width="30" height="30" alt=""> <span><span>Deutschland</span></span> </a></li> 
+      <li class="clear"><a href="/ee/"> <img src="http://images.apple.com/global/elements/flags/30x30/estonia.png" width="30" height="30" alt=""> <span><span>Eesti</span></span> </a></li> 
+      <li><a href="/es/"> <img src="http://images.apple.com/global/elements/flags/30x30/spain.png" width="30" height="30" alt=""> <span><span>España</span></span> </a></li> 
+      <li><a href="/fr/"> <img src="http://images.apple.com/global/elements/flags/30x30/france.png" width="30" height="30" alt=""> <span><span>France</span></span> </a></li> 
+      <li><a href="/gr/"> <img src="http://images.apple.com/global/elements/flags/30x30/greece.png" width="30" height="30" alt=""> <span><span>??????</span></span> </a></li> 
+      <li><a href="/hr/"> <img src="http://images.apple.com/global/elements/flags/30x30/croatia.png" width="30" height="30" alt=""> <span><span>Hrvatska</span></span> </a></li> 
+      <li><a href="/ie/"> <img src="http://images.apple.com/global/elements/flags/30x30/ireland.png" width="30" height="30" alt=""> <span><span>Ireland</span></span> </a></li> 
+      <li class="clear"><a href="/it/"> <img src="http://images.apple.com/global/elements/flags/30x30/italy.png" width="30" height="30" alt=""> <span><span>Italia</span></span> </a></li> 
+      <li><a href="/lv/"> <img src="http://images.apple.com/global/elements/flags/30x30/latvia.png" width="30" height="30" alt=""> <span><span>Latvija</span></span> </a></li> 
+      <li><a href="/li/"> <img src="http://images.apple.com/global/elements/flags/30x30/liechtenstein.png" width="30" height="30" alt=""> <span><span>Liechtenstein</span></span> </a></li> 
+      <li><a href="/lt/"> <img src="http://images.apple.com/global/elements/flags/30x30/lithuania.png" width="30" height="30" alt=""> <span><span>Lietuva</span></span> </a></li> 
+      <li><a href="/lu/"> <img src="http://images.apple.com/global/elements/flags/30x30/luxembourg.png" width="30" height="30" alt=""> <span><span>Luxembourg</span></span> </a></li> 
+      <li><a href="/mk/"> <img src="http://images.apple.com/global/elements/flags/30x30/macedonia.png" width="30" height="30" alt=""> <span><span>Macedonia</span></span> </a></li> 
+      <li class="clear"><a href="/hu/"> <img src="http://images.apple.com/global/elements/flags/30x30/hungary.png" width="30" height="30" alt=""> <span><span>Magyarország</span></span> </a></li> 
+      <li><a href="/mt/"> <img src="http://images.apple.com/global/elements/flags/30x30/malta.png" width="30" height="30" alt=""> <span><span>Malta</span></span> </a></li> 
+      <li><a href="/md/"> <img src="http://images.apple.com/global/elements/flags/30x30/moldova.png" width="30" height="30" alt=""> <span><span>Moldova</span></span> </a></li> 
+      <li><a href="/me/"> <img src="http://images.apple.com/global/elements/flags/30x30/montenegro.png" width="30" height="30" alt=""> <span><span>Montenegro</span></span> </a></li> 
+      <li><a href="/nl/"> <img src="http://images.apple.com/global/elements/flags/30x30/netherlands.png" width="30" height="30" alt=""> <span><span>Nederland</span></span> </a></li> 
+      <li><a href="/no/"> <img src="http://images.apple.com/global/elements/flags/30x30/norway.png" width="30" height="30" alt=""> <span><span>Norge</span></span> </a></li> 
+      <li class="clear"><a href="/at/"> <img src="http://images.apple.com/global/elements/flags/30x30/austria.png" width="30" height="30" alt=""> <span><span>Österreich</span></span> </a></li> 
+      <li><a href="/pl/"> <img src="http://images.apple.com/global/elements/flags/30x30/poland.png" width="30" height="30" alt=""> <span><span>Polska</span></span> </a></li> 
+      <li><a href="/pt/"> <img src="http://images.apple.com/global/elements/flags/30x30/portugal.png" width="30" height="30" alt=""> <span><span>Portugal</span></span> </a></li> 
+      <li><a href="/ro/"> <img src="http://images.apple.com/global/elements/flags/30x30/romania.png" width="30" height="30" alt=""> <span><span>România</span></span> </a></li> 
+      <li><a href="/ru/"> <img src="http://images.apple.com/global/elements/flags/30x30/russia.png" width="30" height="30" alt=""> <span><span>??????</span></span> </a></li> 
+      <li><a href="/sk/"> <img src="http://images.apple.com/global/elements/flags/30x30/slovak_republic.png" width="30" height="30" alt=""> <span><span>Slovensko</span></span> </a></li> 
+      <li class="clear"><a href="/si/"> <img src="http://images.apple.com/global/elements/flags/30x30/slovenia.png" width="30" height="30" alt=""> <span><span>Slovenia</span></span> </a></li> 
+      <li><a href="/chde/"> <img src="http://images.apple.com/global/elements/flags/30x30/switzerland.png" width="30" height="30" alt=""> <span><span>Schweiz</span></span> </a></li> 
+      <li><a href="/chfr/"> <img src="http://images.apple.com/global/elements/flags/30x30/switzerland.png" width="30" height="30" alt=""> <span><span>Suisse</span></span> </a></li> 
+      <li><a href="/fi/"> <img src="http://images.apple.com/global/elements/flags/30x30/finland.png" width="30" height="30" alt=""> <span><span>Suomi</span></span> </a></li> 
+      <li><a href="/se/"> <img src="http://images.apple.com/global/elements/flags/30x30/sweden.png" width="30" height="30" alt=""> <span><span>Sverige</span></span> </a></li> 
+      <li><a href="/tr/"> <img src="http://images.apple.com/global/elements/flags/30x30/turkey.png" width="30" height="30" alt=""> <span><span>Türkiye</span></span> </a></li> 
+      <li><a href="/uk/"> <img src="http://images.apple.com/global/elements/flags/30x30/united_kingdom.png" width="30" height="30" alt=""> <span><span>UK</span></span> </a></li> 
+     </ul> 
+    </div>
+    <!--/europe--> 
+    <div class="section selfclear" id="latin_america"> 
+     <h2>Latin America and the Caribbean</h2> 
+     <ul> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/anguilla.png" width="30" height="30" alt=""> <span><span>Anguilla</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/antigua.png" width="30" height="30" alt=""> <span><span>Antigua &amp; Barbuda</span></span> </a></li> 
+      <li><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/argentina.png" width="30" height="30" alt=""> <span><span>Argentina</span></span> </a></li>
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/barbados.png" width="30" height="30" alt=""> <span><span>Barbados</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/belize.png" width="30" height="30" alt=""> <span><span>Belize</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/bermuda.png" width="30" height="30" alt=""> <span><span>Bermuda</span></span> </a></li> 
+      <li class="clear"><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/bolivia.png" width="30" height="30" alt=""> <span><span>Bolivia</span></span> </a></li> 
+      <li><a href="/br/"> <img src="http://images.apple.com/global/elements/flags/30x30/brazil.png" width="30" height="30" alt=""> <span><span>Brasil</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/british_virgin_islands.png" width="30" height="30" alt=""> <span><span>British Virgin Islands</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/cayman_islands.png" width="30" height="30" alt=""> <span><span>Cayman Islands</span></span> </a></li> 
+      <li><a href="/cl/"> <img src="http://images.apple.com/global/elements/flags/30x30/chile.png" width="30" height="30" alt=""> <span><span>Chile</span></span> </a></li> 
+      <li><a href="/co/"> <img src="http://images.apple.com/global/elements/flags/30x30/colombia.png" width="30" height="30" alt=""> <span><span>Colombia</span></span> </a></li> 
+      <li class="clear"><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/costa_rica.png" width="30" height="30" alt=""> <span><span>Costa Rica</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/dominica.png" width="30" height="30" alt=""> <span><span>Dominica</span></span> </a></li> 
+      <li><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/dominican_republic.png" width="30" height="30" alt=""> <span><span>República Dominicana</span></span> </a></li> 
+      <li><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/ecuador.png" width="30" height="30" alt=""> <span><span>Ecuador</span></span> </a></li> 
+      <li><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/el_salvador.png" width="30" height="30" alt=""> <span><span>El Salvador</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/grenada.png" width="30" height="30" alt=""> <span><span>Grenada</span></span> </a></li> 
+      <li class="clear"><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/guatemala.png" width="30" height="30" alt=""> <span><span>Guatemala</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/guyana.png" width="30" height="30" alt=""> <span><span>Guyana</span></span> </a></li> 
+      <li><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/honduras.png" width="30" height="30" alt=""> <span><span>Honduras</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/jamaica.png" width="30" height="30" alt=""> <span><span>Jamaica</span></span> </a></li> 
+      <li><a href="/mx/"> <img src="http://images.apple.com/global/elements/flags/30x30/mexico.png" width="30" height="30" alt=""> <span><span>México</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/montserrat.png" width="30" height="30" alt=""> <span><span>Montserrat</span></span> </a></li> 
+      <li class="clear"><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/nicaragua.png" width="30" height="30" alt=""> <span><span>Nicaragua</span></span> </a></li> 
+      <li><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/panama.png" width="30" height="30" alt=""> <span><span>Panamá</span></span> </a></li> 
+      <li><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/paraguay.png" width="30" height="30" alt=""> <span><span>Paraguay</span></span> </a></li> 
+      <li><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/peru.png" width="30" height="30" alt=""> <span><span>Perú</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/st_kitts_nevis.png" width="30" height="30" alt=""> <span><span>St. Kitts &amp; Nevis</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/st_lucia.png" width="30" height="30" alt=""> <span><span>St. Lucia</span></span> </a></li> 
+      <li class="clear"><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/st_vincent.png" width="30" height="30" alt=""> <span><span>St. Vincent &amp; The Grenadines</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/suriname.png" width="30" height="30" alt=""> <span><span>Suriname</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/bahamas.png" width="30" height="30" alt=""> <span><span>The Bahamas</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/trinidad.png" width="30" height="30" alt=""> <span><span>Trinidad &amp; Tobago</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/turks_caicos.png" width="30" height="30" alt=""> <span><span>Turks &amp; Caicos</span></span> </a></li> 
+      <li><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/uruguay.png" width="30" height="30" alt=""> <span><span>Uruguay</span></span> </a></li> 
+      <li class="clear"><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/venezuela.png" width="30" height="30" alt=""> <span><span>Venezuela</span></span> </a></li> 
+      <li><a href="/la/" class="la"> <img src="http://images.apple.com/global/elements/flags/30x30/generic.png" width="30" height="30" alt=""> <span><span>América Latina y&nbsp;el Caribe (español)</span></span> </a></li> 
+      <li><a href="/lae/" class="lae"> <img src="http://images.apple.com/global/elements/flags/30x30/generic.png" width="30" height="30" alt=""> <span><span>Latin America and the Caribbean (English)</span></span> </a></li> 
+     </ul> 
+    </div>
+    <!--/latin_america--> 
+    <div class="section selfclear" id="north_america"> 
+     <h2>The United States, Canada, and Puerto Rico</h2> 
+     <ul> 
+      <li><a href="/ca/"> <img src="http://images.apple.com/global/elements/flags/30x30/canada.png" width="30" height="30" alt=""> <span><span>Canada (English)</span></span> </a></li> 
+      <li><a href="/ca/fr/"> <img src="http://images.apple.com/global/elements/flags/30x30/canada.png" width="30" height="30" alt=""> <span><span>Canada (Français)</span></span> </a></li> 
+      <li><a href="/lae/"> <img src="http://images.apple.com/global/elements/flags/30x30/puerto_rico.png" width="30" height="30" alt=""> <span><span>Puerto Rico (English)</span></span> </a></li> 
+      <li><a href="/la/"> <img src="http://images.apple.com/global/elements/flags/30x30/puerto_rico.png" width="30" height="30" alt=""> <span><span>Puerto Rico (español)</span></span> </a></li> 
+      <li><a href="/"> <img src="http://images.apple.com/global/elements/flags/30x30/usa.png" width="30" height="30" alt=""> <span><span>United States</span></span> </a></li> 
+     </ul> 
+    </div>
+    <!--/north_america--> 
+   </div>
+   <!--/content--> 
+  </div>
+  <!--/main--> 
+  <footer id="ac-globalfooter" class="no-js" lang="en-US" data-analytics-region="global footer" role="contentinfo" aria-labelledby="ac-gf-label"> 
+   <div class="ac-gf-content"> 
+    <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2> 
+    <nav class="ac-gf-directory with-5-columns" aria-label="Apple Directory" role="navigation"> 
+     <!--googleoff: all--> 
+     <div class="ac-gf-directory-column">
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-products"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-products"> <h3 class="ac-gf-directory-column-section-title">Shop and Learn</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-products" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/mac/">Mac</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/">iPad</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/">iPhone</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/watch/">Watch</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/tv/">TV</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/music/">Music</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/itunes/">iTunes</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipod/">iPod</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/buy_accessories">Accessories</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/giftcards">Gift Cards</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column">
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-storeservices"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-storeservices"> <h3 class="ac-gf-directory-column-section-title">Apple Store</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-storeservices" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/">Find a Store</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/geniusbar/">Genius Bar</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/">Workshops and Learning</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/youth/">Youth Programs</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://itunes.apple.com/app/apple-store/id375380948?mt=8">Apple Store App</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/special_deals">Refurbished</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/payment_plan">Financing</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/reuse_and_recycle">Reuse and Recycling</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Order Status</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/help">Shopping Help</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-education"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-education"> <h3 class="ac-gf-directory-column-section-title">For Education</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-education" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/">Apple and Education</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/educationrouting">Shop for College</a></li> 
+       </ul> 
+      </div> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-business"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-business"> <h3 class="ac-gf-directory-column-section-title">For Business</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-business" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/business/">iPhone in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/business/">iPad in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/business/mac/">Mac in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/business/">Shop for Your Business</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-accounts"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-accounts"> <h3 class="ac-gf-directory-column-section-title">Account</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-accounts" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://appleid.apple.com/us/">Manage Your Apple ID</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Apple Store Account</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://www.icloud.com">iCloud.com</a></li> 
+       </ul> 
+      </div> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-responsibility"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-responsibility"> <h3 class="ac-gf-directory-column-section-title">Apple Values</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-responsibility" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/environment/">Environment</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/supplier-responsibility/">Supplier Responsibility</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/accessibility/">Accessibility</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/privacy/">Privacy</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/diversity/">Inclusion and Diversity</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/connectED/">Education</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-about"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-about"> <h3 class="ac-gf-directory-column-section-title">About Apple</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-about" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/about/">Apple Info</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://www.apple.com/jobs/us/">Job Opportunities</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/pr/">Press Info</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://investor.apple.com">Investors</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/apple-events/">Events</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/hotnews/">Hot News</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/contact/">Contact Apple</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <!--googleon: all--> 
+    </nav> 
+    <section class="ac-gf-footer" vocab="http://schema.org/" typeof="Organization"> 
+     <div class="ac-gf-footer-shop" x-ms-format-detection="none">
+       More ways to shop: Visit an 
+      <a href="/retail/">Apple Store</a>, 
+      <span class="nowrap">call 1-800-MY-APPLE, or <a href="https://locate.apple.com/">find a reseller</a></span>. 
+     </div> 
+     <div class="ac-gf-footer-locale"> 
+      <a class="ac-gf-footer-locale-link" href="/choose-your-country/" title="Choose your country or region" aria-label="United States. Choose your country or region"><span class="ac-gf-footer-locale-flag" data-hires="false"></span>United States</a> 
+     </div> 
+     <div class="ac-gf-footer-legal"> 
+      <div class="ac-gf-footer-legal-copyright">
+       Copyright © 2016 Apple Inc. All rights reserved.
+      </div> 
+      <div class="ac-gf-footer-legal-links"> 
+       <a class="ac-gf-footer-legal-link" href="/privacy/privacy-policy/">Privacy Policy</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/internet-services/terms/site.html">Terms of Use</a> 
+       <a class="ac-gf-footer-legal-link" href="/us/shop/goto/help/sales_refunds">Sales and Refunds</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/">Legal</a> 
+       <a class="ac-gf-footer-legal-link" href="/sitemap/">Site Map</a> 
+      </div> 
+     </div> 
+     <meta content="Apple" property="name"> 
+     <meta content="1-800-692-7753" property="telephone"> 
+    </section> 
+    <script type="text/javascript" src="/ac/globalfooter/2.0/en_US/scripts/ac-globalfooter.built.js"></script> 
+   </div> 
+  </footer>   
+ </body>
+</html>

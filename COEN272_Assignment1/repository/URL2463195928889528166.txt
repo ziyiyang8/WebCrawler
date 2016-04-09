@@ -1,0 +1,702 @@
+<!doctype html>
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9"> 
+  <meta charset="utf-8"> 
+  <meta name="Author" content="Apple Inc."> 
+  <meta name="robots" content="noodp"> 
+  <link rel="canonical" href="http://www.apple.com/mac/"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalnav/2.0/en_US/styles/ac-globalnav.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalfooter/2.0/en_US/styles/ac-globalfooter.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/localnav/3.0/styles/ac-localnav.built.css"> 
+  <title>Mac - Apple</title> 
+  <meta name="Description" content="Explore the world of Mac. Check out the new MacBook, iMac, Mac Pro, and more. Visit the Apple site to learn, buy, and get support."> 
+  <meta property="analytics-track" content="Mac - Index/Tab"> 
+  <meta property="analytics-s-channel" content="mac.tab+other"> 
+  <meta property="analytics-s-bucket-0" content="appleglobal,appleusmac"> 
+  <meta property="analytics-s-bucket-1" content="apple{COUNTRY_CODE}global,apple{COUNTRY_CODE}mac"> 
+  <meta property="analytics-s-bucket-2" content="apple{COUNTRY_CODE}global"> 
+  <meta property="analytics-s-bucket-store" content="applestoreww,applestoreamr,applestoreus"> 
+  <meta property="og:url" content="http://www.apple.com/mac/"> 
+  <meta property="og:image" content="http://images.apple.com/mac/home/images/social/macbook_mac_og.jpg?201602221609"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:site_name" content="Apple"> 
+  <meta property="al:ios:app_name" content="Apple Store"> 
+  <meta property="al:ios:app_store_id" content="375380948"> 
+  <meta property="al:ios:url" content="http://www.apple.com/us/xc/mac?cid=AOS_ASA"> 
+  <link rel="stylesheet" href="/wss/fonts?family=Myriad+Set+Pro&amp;v=1"> 
+  <link rel="stylesheet" href="http://images.apple.com/v/mac/home/s/styles/home.built.css" type="text/css"> 
+  <link rel="stylesheet" href="http://images.apple.com/mac/home/styles/home.built.css" type="text/css"> 
+  <link rel="stylesheet" href="http://images.apple.com/mac/home/styles/home.css" type="text/css"> 
+  <script src="http://images.apple.com/v/mac/home/s/scripts/head.built.js" type="text/javascript" charset="utf-8"></script> 
+ </head> 
+ <body class="page-home ac-gn-current-mac"> 
+  <aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }"></aside> 
+  <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"> 
+  <nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-US" data-store-key="SFX9YPYY9PPXCU9KH" data-store-locale="us" data-store-api="/[storefront]/shop/bag/status" data-search-locale="en_US" data-search-api="/search-services/suggestions/"> 
+   <div class="ac-gn-content"> 
+    <ul class="ac-gn-header"> 
+     <li class="ac-gn-item ac-gn-menuicon"> <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span> </span> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span> </span> </label> <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"> <span class="ac-gn-menuanchor-label">Open Menu</span> </a> <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"> <span class="ac-gn-menuanchor-label">Close Menu</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <ul class="ac-gn-list"> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-mac"> <a class="ac-gn-link ac-gn-link-mac" href="/mac/" data-analytics-title="mac"> <span class="ac-gn-link-text">Mac</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"> <a class="ac-gn-link ac-gn-link-ipad" href="/ipad/" data-analytics-title="ipad"> <span class="ac-gn-link-text">iPad</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"> <a class="ac-gn-link ac-gn-link-iphone" href="/iphone/" data-analytics-title="iphone"> <span class="ac-gn-link-text">iPhone</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-watch"> <a class="ac-gn-link ac-gn-link-watch" href="/watch/" data-analytics-title="watch"> <span class="ac-gn-link-text">Watch</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-tv"> <a class="ac-gn-link ac-gn-link-tv" href="/tv/" data-analytics-title="tv"> <span class="ac-gn-link-text">TV</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-music"> <a class="ac-gn-link ac-gn-link-music" href="/music/" data-analytics-title="music"> <span class="ac-gn-link-text">Music</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-support"> <a class="ac-gn-link ac-gn-link-support" href="/support/" data-analytics-title="support"> <span class="ac-gn-link-text">Support</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"> <a class="ac-gn-link ac-gn-link-search" href="/us/search" data-analytics-title="search" data-analytics-click="search" aria-label="Search apple.com"> <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge" aria-hidden="true"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"> 
+     <div class="ac-gn-searchview-content"> 
+      <form id="ac-gn-searchform" class="ac-gn-searchform" action="/us/search" method="get"> 
+       <div class="ac-gn-searchform-wrapper"> 
+        <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" name="" placeholder="Search apple.com" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false"> 
+        <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav"> 
+        <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Submit"></button> 
+        <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Clear Search"></button> 
+       </div> 
+      </form> 
+      <aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" data-string-noresults="Hit enter to search."></aside> 
+     </div> 
+     <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search"> <span class="ac-gn-searchview-close-wrapper"> <span class="ac-gn-searchview-close-left"></span> <span class="ac-gn-searchview-close-right"></span> </span> </button> 
+    </aside> 
+    <aside class="ac-gn-bagview" data-analytics-region="bag"> 
+     <div class="ac-gn-bagview-scrim"> 
+      <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span> 
+     </div> 
+     <div class="ac-gn-bagview-content" id="ac-gn-bagview-content"> 
+     </div> 
+    </aside> 
+   </div> 
+  </nav> 
+  <div id="ac-gn-curtain" class="ac-gn-curtain"></div> 
+  <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div> 
+  <script type="text/javascript" src="/ac/globalnav/2.0/en_US/scripts/ac-globalnav.built.js"></script> 
+  <script src="/metrics/ac-analytics/1.1/scripts/ac-analytics.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="/metrics/ac-analytics/1.1/scripts/auto-init.js" type="text/javascript" charset="utf-8"></script> 
+  <nav id="ac-familybrowser" class="ac-familybrowser" data-analytics-region="family browser"> 
+   <div class="ac-familybrowser-wrapper"> 
+    <ul class="ac-familybrowser-items"> 
+     <li class="ac-familybrowser-item macbook"> <a class="ac-familybrowser-link" href="/macbook/"> 
+       <figure class="ac-familybrowser-icon"></figure> <span class="ac-familybrowser-label">MacBook</span> </a> </li>
+     <!--
+					-->
+     <li class="ac-familybrowser-item macbook-air"> <a class="ac-familybrowser-link" href="/macbook-air/"> 
+       <figure class="ac-familybrowser-icon"></figure> <span class="ac-familybrowser-label">MacBook Air</span> </a> </li>
+     <!--
+					-->
+     <li class="ac-familybrowser-item macbook-pro"> <a class="ac-familybrowser-link" href="/macbook-pro/"> 
+       <figure class="ac-familybrowser-icon"></figure> <span class="ac-familybrowser-label">MacBook Pro</span> </a> </li>
+     <!--
+					-->
+     <li class="ac-familybrowser-item imac"> <a class="ac-familybrowser-link" href="/imac/"> 
+       <figure class="ac-familybrowser-icon"></figure> <span class="ac-familybrowser-label">iMac</span> </a> </li>
+     <!--
+					-->
+     <li class="ac-familybrowser-item mac-pro"> <a class="ac-familybrowser-link" href="/mac-pro/"> 
+       <figure class="ac-familybrowser-icon"></figure> <span class="ac-familybrowser-label">Mac Pro</span> </a> </li>
+     <!--
+					-->
+     <li class="ac-familybrowser-item mac-mini"> <a class="ac-familybrowser-link" href="/mac-mini/"> 
+       <figure class="ac-familybrowser-icon"></figure> <span class="ac-familybrowser-label">Mac mini</span> </a> </li>
+     <!--
+					-->
+     <li class="ac-familybrowser-item accessories"> <a class="ac-familybrowser-link" href="/us/shop/goto/mac/accessories"> 
+       <figure class="ac-familybrowser-icon"></figure> <span class="ac-familybrowser-label">Accessories</span> </a> </li>
+     <!--
+					-->
+     <li class="ac-familybrowser-item osx"> <a class="ac-familybrowser-link" href="/osx/"> 
+       <figure class="ac-familybrowser-icon"></figure> <span class="ac-familybrowser-label">OS&nbsp;X El&nbsp;Capitan</span> </a> </li>
+     <!--
+					-->
+     <li class="ac-familybrowser-item compare"> <a class="ac-familybrowser-link" href="/mac/compare/"> 
+       <figure class="ac-familybrowser-icon"></figure> <span class="ac-familybrowser-label">Compare</span> </a> </li> 
+    </ul> 
+    <div class="ac-familybrowser-paddles"> 
+     <button class="ac-familybrowser-paddle-left" aria-hidden="true" disabled> <span class="icon icon-standalone icon-chevronleft"></span> </button> 
+     <button class="ac-familybrowser-paddle-right" aria-hidden="true" disabled> <span class="icon icon-standalone icon-chevronright"></span> </button> 
+    </div> 
+   </div> 
+  </nav> 
+  <div id="main" class="main update" role="main" data-hires="true"> 
+   <h1 class="fp-pagetitle">Mac</h1> 
+   <section class="fp-product fp-product-imac section" data-analytics-section-engagement="name:imac"> 
+    <div class="fp-section-content row"> 
+     <div class="fp-product-content large-5 small-12 small-centered column" data-analytics-region="learn more"> 
+      <h2 class="fp-product-headline">iMac</h2> 
+      <p class="fp-product-subheadline">Retina. Now in colossal<br>and&nbsp;ginormous.</p> 
+      <span class="fp-moreblock fp-product-moreblock"> <a class="more" href="/imac/">Learn more</a> <a class="more" href="/us/shop/goto/imac/select/">Buy</a> </span> 
+     </div> 
+     <div class="large-12 medium-12 small-12 large-centered small-centered column"> 
+      <figure class="image-imac"></figure> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="fp-product fp-product-accessories section" data-analytics-section-engagement="name:accessories"> 
+    <div class="fp-section-content row"> 
+     <div class="fp-product-content large-8 medium-8 small-12 large-centered small-centered column" data-analytics-region="learn more"> 
+      <h2 class="fp-product-headline">Apple Accessories</h2> 
+      <p class="fp-product-subheadline">Redesigned.&nbsp;Rechargeable. Remarkable.</p> 
+      <span class="fp-moreblock fp-product-moreblock"> <a class="more" href="/magic-accessories/">Learn more</a> <a class="more" href="/us/shop/goto/mac/accessories">Buy</a> </span> 
+     </div> 
+     <div class="large-12 medium-9 small-12 column"> 
+      <div class="image-wrapper"> 
+       <figure class="image-magic-accessories"></figure> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="fp-product fp-product-macbook section" data-analytics-section-engagement="name:macbook"> 
+    <div class="fp-section-content fp-product-content" data-analytics-region="learn more"> 
+     <div class="fp-product-column large-4 large-offset-7 small-12 small-offset-0"> 
+      <h2 class="fp-product-headline">MacBook</h2> 
+      <p class="fp-product-subheadline">Light. Years ahead.</p> 
+      <span class="fp-moreblock fp-product-moreblock"> <a class="more" href="/macbook/">Learn more</a> <a class="more" href="/us/shop/goto/macbook">Buy</a> </span> 
+     </div> 
+     <figure class="image-macbook"></figure> 
+    </div> 
+   </section> 
+   <section class="fp-product fp-product-macbook-pro section" data-analytics-section-engagement="name:macbook_pro"> 
+    <div class="fp-section-content fp-product-content "> 
+     <div class="row" data-analytics-region="learn more"> 
+      <div class="large-7 medium-6 small-12 column"> 
+       <h2 class="fp-product-headline">MacBook Pro</h2> 
+       <p class="fp-product-subheadline">More power behind every&nbsp;pixel.</p> 
+       <span class="fp-moreblock fp-product-moreblock"> <a class="more" href="/macbook-pro/">Learn more</a> <a class="more" href="/us/shop/goto/macbookpro">Buy</a> </span> 
+      </div> 
+     </div> 
+     <figure class="image-macbookpro"></figure> 
+    </div> 
+   </section> 
+   <section class="fp-product fp-product-macbook-air section" data-analytics-section-engagement="name:macbook_air"> 
+    <div class="fp-section-content fp-product-content "> 
+     <div class="row" data-analytics-region="learn more"> 
+      <div class="large-8 medium-6 small-12 large-offset-4 medium-offset-5 small-offset-0 column"> 
+       <h2 class="fp-product-headline">MacBook Air</h2> 
+       <p class="fp-product-subheadline">All the power you want. All&nbsp;day&nbsp;long.</p> 
+       <span class="fp-moreblock fp-product-moreblock"> <a class="more" href="/macbook-air/">Learn more</a> <a class="more" href="/us/shop/goto/macbookair">Buy</a> </span> 
+       <figure class="image-macbookair small-only"></figure> 
+      </div> 
+     </div> 
+     <figure class="image-macbookair desktop-only"></figure> 
+    </div> 
+   </section> 
+   <section class="fp-compare section" data-analytics-section-engagement="name:compare"> 
+    <div class="fp-section-content"> 
+     <div class="fp-compare-content"> 
+      <figure class="fp-compare-image small-only"></figure> 
+      <h2 class="fp-secondary-headline">Compare Mac models.</h2> 
+      <a class="more" href="/mac/compare/">Find the best Mac for you</a> 
+      <figure class="fp-compare-image desktop-only"></figure> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="fp-shopstrip" data-analytics-section-engagement="name:shopstrip"> 
+    <div class="fp-section-content row" data-analytics-region="learn more"> 
+     <div class="fp-shopstrip-content column large-6 small-12"> 
+      <span class="fp-shopstrip-icon-headline"> 
+       <figure class="fp-shopstrip-icon icon-pickup"></figure> <h2 class="fp-shopstrip-headline">Pick up at the Apple Store today.</h2> </span> 
+      <p class="fp-shopstrip-copy">Buy online, pick up available items<br>in an hour.</p> 
+      <a class="more fp-shopstrip-more" href="/retail/personal-pickup/">Learn more</a> 
+     </div> 
+     <div class="fp-shopstrip-content column large-6 small-12"> 
+      <span class="fp-shopstrip-icon-headline"> 
+       <figure class="fp-shopstrip-icon icon-shipping"></figure> <h2 class="fp-shopstrip-headline">Get free two-day shipping.</h2> </span> 
+      <p class="fp-shopstrip-copy">Order any in-stock item by 5 p.m. EST,<br>Monday through Friday.</p> 
+      <a class="more fp-shopstrip-more" href="/us/shop/goto/shipping_and_returns">Learn more</a> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="fp-billboard fp-billboard-center fp-accessories" data-analytics-section-engagement="name:accessories"> 
+    <figure class="fp-billboard-image fp-accessories-image image-accessories-mac"></figure> 
+    <div class="fp-billboard-wrapper fp-accessories-wrapper" data-analytics-region="learn more"> 
+     <div class="fp-section-content"> 
+      <div class="fp-billboard-content"> 
+       <h3 class="fp-secondary-headline fp-accessories-headline">Accessories for Mac</h3> 
+       <span class="fp-moreblock"> <a class="more" href="/us/shop/goto/mac/accessories">Shop now</a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="fp-osx-and-icloud section" data-analytics-section-engagement="name:osx-icloud"> 
+    <div class="fp-section-content"> 
+     <div class="row"> 
+      <figure class="image-yosemite-icloud"></figure> 
+     </div> 
+     <div class="row product-features" data-analytics-region="learn more"> 
+      <div class="column osx"> 
+       <div class="fp-icon-heading"> 
+        <figure class="app-icon icon-osx"></figure> 
+        <h3 class="fp-icon-headline">OS&nbsp;X El&nbsp;Capitan</h3> 
+       </div> 
+       <div class="product-features-content"> 
+        <p class="copy">OS&nbsp;X is the operating system that powers everything you do on a Mac. With OS&nbsp;X El&nbsp;Capitan, it’s simple to do amazing things and delightful to do all the everyday things. And it works seamlessly with your apps and iOS devices.</p> 
+        <p><a class="more" href="/osx/">Learn more</a></p> 
+       </div> 
+      </div> 
+      <div class="column icloud"> 
+       <div class="fp-icon-heading"> 
+        <figure class="app-icon icon-icloud"></figure> 
+        <h3 class="fp-icon-headline">iCloud</h3> 
+       </div> 
+       <div class="product-features-content"> 
+        <p class="copy">With iCloud, you always have the latest versions of your most important things — like documents, apps, notes, and contacts — on whatever device you’re using.</p> 
+        <p><a class="more" href="/icloud/">Learn more</a></p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="fp-amazing-apps section" data-analytics-section-engagement="name:apps"> 
+    <div class="gallery-wrapper"> 
+     <section id="gallery-apps-built-in" class="ac-gallery-content gallery-apps-built-in gallery-toggle"> 
+      <div class="fp-section-content"> 
+       <div class="gallery-headline-copy"> 
+        <h3 class="fp-secondary-headline">Built-in Apps</h3> 
+        <p class="center-paragraph large-centered">Powerful creativity and productivity tools live inside every Mac — apps that help you explore, connect, and work more efficiently. Discover thousands more in the <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?id=&amp;mt=12&amp;ls=1">Mac&nbsp;App&nbsp;Store</a>.</p> 
+       </div> 
+       <nav class="ac-browser apps"> 
+        <div class="ac-browser-wrapper apps-wrapper"> 
+         <ul class="ac-browser-items apps-items"> 
+          <li class="ac-browser-item"> <a class="apps-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-photos"> 
+            <figure class="image-photos-nav"></figure> Photos </a> </li>
+          <!--
+									-->
+          <li class="ac-browser-item"> <a class="apps-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-imovie"> 
+            <figure class="image-imovie-nav"></figure> iMovie </a> </li>
+          <!--
+									-->
+          <li class="ac-browser-item"> <a class="apps-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-garageband"> 
+            <figure class="image-garageband-nav"></figure> GarageBand </a> </li>
+          <!--
+									-->
+          <li class="ac-browser-item"> <a class="apps-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-pages"> 
+            <figure class="image-pages-nav"></figure> Pages </a> </li>
+          <!--
+									-->
+          <li class="ac-browser-item"> <a class="apps-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-numbers"> 
+            <figure class="image-numbers-nav"></figure> Numbers </a> </li>
+          <!--
+									-->
+          <li class="ac-browser-item"> <a class="apps-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-keynote"> 
+            <figure class="image-keynote-nav"></figure> Keynote </a> </li>
+          <!--
+									-->
+          <li class="ac-browser-item"> <a class="apps-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-safari"> 
+            <figure class="image-safari-nav"></figure> Safari </a> </li> 
+         </ul> 
+         <div class="apps-paddles"> 
+          <button class="ac-browser-paddle-left apps-paddle-left" aria-hidden="true" disabled> <span class="icon icon-standalone icon-chevronleft"></span> </button> 
+          <button class="ac-browser-paddle-right apps-paddle-right" aria-hidden="true" disabled> <span class="icon icon-standalone icon-chevronright"></span> </button> 
+         </div> 
+        </div> 
+       </nav> 
+       <nav class="paddlenav small-only"> 
+        <ul> 
+         <li><a class="paddlenav-arrow paddlenav-arrow-left trigger-built-in" href="#gallery-built-in/previous" aria-label="Previous"></a></li> 
+         <li><a class="paddlenav-arrow paddlenav-arrow-right trigger-built-in" href="#gallery-built-in/next" aria-label="Next"></a></li> 
+        </ul> 
+       </nav> 
+       <div id="gallery-built-in" class="ac-gallery ac-gallery-nested ac-gallery-fade" data-analytics-region="learn more"> 
+        <section id="gallery-built-in-photos" class="ac-gallery-content row"> 
+         <div class="large-8 medium-6 small-12 column"> 
+          <figure class="image-bia-photos slide"></figure> 
+         </div> 
+         <div class="large-4 medium-5 medium-offset-1 small-12 small-offset-0 description column"> 
+          <figure class="image-section-photos-icon"></figure> 
+          <h4 class="fp-gallery-icon-headline">Photos</h4> 
+          <p>Keep your growing library organized and accessible. Perfect your images and create beautiful gifts for sharing. And with iCloud Photo Library, you can store a lifetime’s worth of photos and videos in the cloud.</p> 
+          <a href="/osx/photos/" class="icon icon-chevronright">Learn more</a> 
+         </div> 
+        </section> 
+        <section id="gallery-built-in-imovie" class="ac-gallery-content row"> 
+         <div class="large-8 medium-6 small-12 column"> 
+          <figure class="image-bia-imovie slide"></figure> 
+         </div> 
+         <div class="large-4 medium-5 medium-offset-1 small-12 small-offset-0 description column"> 
+          <figure class="image-section-imovie-icon"></figure> 
+          <h4 class="fp-gallery-icon-headline">iMovie</h4> 
+          <p>Tell stories like never before. Streamlined design and intuitive editing features make it easy to create beautiful HD movies and share your favorite moments. And with iCloud, you can enjoy them on all your devices.</p> 
+          <a href="/mac/imovie/" class="icon icon-chevronright">Learn more</a> 
+         </div> 
+        </section> 
+        <section id="gallery-built-in-garageband" class="ac-gallery-content row"> 
+         <div class="large-8 medium-6 small-12 column"> 
+          <figure class="image-bia-garageband slide"></figure> 
+         </div> 
+         <div class="large-4 medium-5 medium-offset-1 small-12 small-offset-0 description column"> 
+          <figure class="image-section-garageband-icon"></figure> 
+          <h4 class="fp-gallery-icon-headline">GarageBand</h4> 
+          <p>The easiest way to create great-sounding songs on your Mac. With an intuitive interface and access to a complete sound library, it’s never been easier to learn, play, record, and share music like a pro.</p> 
+          <a href="/mac/garageband/" class="icon icon-chevronright">Learn more</a> 
+         </div> 
+        </section> 
+        <section id="gallery-built-in-pages" class="ac-gallery-content row"> 
+         <div class="large-8 medium-6 small-12 column"> 
+          <figure class="image-bia-pages slide"></figure> 
+         </div> 
+         <div class="large-4 medium-5 medium-offset-1 small-12 small-offset-0 description column"> 
+          <figure class="image-section-pages-icon"></figure> 
+          <h4 class="fp-gallery-icon-headline">Pages</h4> 
+          <p>This powerful word processor gives you everything you need to create documents that look beautiful. And read beautifully. It lets you work seamlessly between Mac and iOS devices. And work effortlessly with people who use Microsoft Word.</p> 
+          <a href="/mac/pages/" class="icon icon-chevronright">Learn more</a> 
+         </div> 
+        </section> 
+        <section id="gallery-built-in-numbers" class="ac-gallery-content row"> 
+         <div class="large-8 medium-6 small-12 column"> 
+          <figure class="image-bia-numbers slide"></figure> 
+         </div> 
+         <div class="large-4 medium-5 medium-offset-1 small-12 small-offset-0 description column"> 
+          <figure class="image-section-numbers-icon"></figure> 
+          <h4 class="fp-gallery-icon-headline">Numbers</h4> 
+          <p>Create sophisticated spreadsheets with dramatic interactive charts, tables, and images that paint a revealing picture of your data. Work seamlessly between Mac and iOS devices. And work effortlessly with people who use Microsoft Excel.</p> 
+          <a href="/mac/numbers/" class="icon icon-chevronright">Learn more</a> 
+         </div> 
+        </section> 
+        <section id="gallery-built-in-keynote" class="ac-gallery-content row"> 
+         <div class="large-8 medium-6 small-12 column"> 
+          <figure class="image-bia-keynote slide"></figure> 
+         </div> 
+         <div class="large-4 medium-5 medium-offset-1 small-12 small-offset-0 description column"> 
+          <figure class="image-section-keynote-icon"></figure> 
+          <h4 class="fp-gallery-icon-headline">Keynote</h4> 
+          <p>Bring your ideas to life with beautiful presentations. Employ powerful tools and dazzling effects that keep your audience engaged. Work seamlessly between Mac and iOS devices. And work effortlessly with people who use Microsoft PowerPoint.</p> 
+          <a href="/mac/keynote/" class="icon icon-chevronright">Learn more</a> 
+         </div> 
+        </section> 
+        <section id="gallery-built-in-safari" class="ac-gallery-content row longest-content"> 
+         <div class="large-8 medium-6 small-12 column"> 
+          <figure class="image-bia-safari slide"></figure> 
+         </div> 
+         <div class="large-4 medium-5 medium-offset-1 small-12 small-offset-0 description column"> 
+          <figure class="image-section-safari-icon"></figure> 
+          <h4 class="fp-gallery-icon-headline">Safari</h4> 
+          <p>Safari has all kinds of innovative features that let you enjoy more of the web. Energy?saving technologies let you surf longer. Built-in privacy is stronger than ever. You can browse seamlessly across all your devices. And it’s easy to share your favorite pages.</p> 
+          <a href="/safari/" class="icon icon-chevronright">Learn more</a> 
+         </div> 
+        </section> 
+       </div> 
+       <nav class="dotnav"> 
+        <ul> 
+         <li><a class="dotnav-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-photos"></a></li> 
+         <li><a class="dotnav-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-imovie"></a></li> 
+         <li><a class="dotnav-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-garageband"></a></li> 
+         <li><a class="dotnav-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-pages"></a></li> 
+         <li><a class="dotnav-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-numbers"></a></li> 
+         <li><a class="dotnav-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-keynote"></a></li> 
+         <li><a class="dotnav-item trigger-built-in" href="#gallery-built-in/show/gallery-built-in-safari"></a></li> 
+        </ul> 
+       </nav> 
+      </div> 
+     </section> 
+    </div> 
+    <div class="gallery-wrapper"> 
+     <section id="gallery-apps-pro" class="ac-gallery-content gallery-apps-pro gallery-toggle"> 
+      <div class="fp-section-content"> 
+       <div class="gallery-headline-copy"> 
+        <h3 class="fp-secondary-headline">Pro Apps</h3> 
+        <p class="center-paragraph large-centered">For professionals ready to push their creativity, these industry-leading apps offer maximum control over editing, processing, and output of music and film.</p> 
+       </div> 
+       <nav class="ac-browser apps"> 
+        <div class="ac-browser-wrapper apps-wrapper"> 
+         <ul class="ac-browser-items apps-items"> 
+          <li class="ac-browser-item"> <a class="apps-item trigger-pro" href="#gallery-pro/show/gallery-pro-final-cut-pro"> 
+            <figure class="image-fcp-nav"></figure> Final Cut Pro X </a> </li>
+          <!--
+									-->
+          <li class="ac-browser-item"> <a class="apps-item trigger-pro" href="#gallery-pro/show/gallery-pro-logic-pro"> 
+            <figure class="image-lpx-nav"></figure> Logic Pro X </a> </li>
+          <!--
+									-->
+          <li class="ac-browser-item"> <a class="apps-item trigger-pro" href="#gallery-pro/show/gallery-pro-motion-5"> 
+            <figure class="image-motion-nav"></figure> Motion 5 </a> </li>
+          <!--
+									-->
+          <li class="ac-browser-item"> <a class="apps-item trigger-pro" href="#gallery-pro/show/gallery-pro-compressor-4"> 
+            <figure class="image-compressor-nav"></figure> Compressor 4 </a> </li>
+          <!--
+									-->
+          <li class="ac-browser-item"> <a class="apps-item trigger-pro" href="#gallery-pro/show/gallery-pro-mainstage-3"> 
+            <figure class="image-mainstage-nav"></figure> MainStage 3 </a> </li> 
+         </ul> 
+         <div class="apps-paddles"> 
+          <button class="ac-browser-paddle-left apps-paddle-left" aria-label="Previous" disabled><span class="icon icon-standalone icon-chevronleft"></span></button> 
+          <button class="ac-browser-paddle-right apps-paddle-right" aria-label="Next" disabled><span class="icon icon-standalone icon-chevronright"></span></button> 
+         </div> 
+        </div> 
+       </nav> 
+       <nav class="paddlenav small-only"> 
+        <ul> 
+         <li><a class="paddlenav-arrow paddlenav-arrow-left trigger-pro" href="#gallery-pro/previous" aria-label="Previous"></a></li> 
+         <li><a class="paddlenav-arrow paddlenav-arrow-right trigger-pro" href="#gallery-pro/next" aria-label="Next"></a></li> 
+        </ul> 
+       </nav> 
+       <div id="gallery-pro" class="ac-gallery ac-gallery-nested ac-gallery-fade" data-analytics-region="learn more"> 
+        <section id="gallery-pro-final-cut-pro" class="ac-gallery-content row longest-content"> 
+         <div class="large-8 large-push-4 medium-7 medium-push-5 small-12 small-push-0 column"> 
+          <figure class="image-proapps-fcp slide"></figure> 
+         </div> 
+         <div class="large-4 large-pull-8 medium-5 medium-pull-7 small-12 small-pull-0 description column"> 
+          <figure class="image-section-fcp-icon"></figure> 
+          <h4 class="fp-gallery-icon-headline">Final Cut Pro X</h4> 
+          <p class="large-10 medium-12">Built to meet the needs of today’s creative editors, Final Cut Pro offers revolutionary video editing, powerful media organization, and incredible performance for 4K video. You can work with extraordinary speed and precision, with more formats and footage than ever before.</p> 
+          <a href="/final-cut-pro/" class="icon icon-chevronright">Learn more</a> 
+         </div> 
+        </section> 
+        <section id="gallery-pro-logic-pro" class="ac-gallery-content row"> 
+         <div class="large-8 large-push-4 medium-7 medium-push-5 small-12 small-push-0 column"> 
+          <figure class="image-proapps-lpx slide"></figure> 
+         </div> 
+         <div class="large-4 large-pull-8 medium-5 medium-pull-7 small-12 small-pull-0 description column"> 
+          <figure class="image-section-lpx-icon"></figure> 
+          <h4 class="fp-gallery-icon-headline">Logic Pro X</h4> 
+          <p class="large-10 medium-12">Logic Pro puts a complete recording and MIDI production studio on your Mac, with everything you need to write, record, edit, and mix like never before. And with 64-bit architecture, you’ll have the power you need to handle projects of any size.</p> 
+          <a href="/logic-pro/" class="icon icon-chevronright">Learn more</a> 
+         </div> 
+        </section> 
+        <section id="gallery-pro-motion-5" class="ac-gallery-content row"> 
+         <div class="large-8 large-push-4 medium-7 medium-push-5 small-12 small-push-0 column"> 
+          <figure class="image-proapps-motion slide"></figure> 
+         </div> 
+         <div class="large-4 large-pull-8 medium-5 medium-pull-7 small-12 small-pull-0 description column"> 
+          <figure class="image-section-motion-icon"></figure> 
+          <h4 class="fp-gallery-icon-headline">Motion 5</h4> 
+          <p class="large-10 medium-12">Designed for video editors, Motion 5 lets you customize Final Cut Pro titles, transitions, and effects. Or create your own dazzling animations in 2D or 3D space, with real-time results as you work.</p> 
+          <a href="/final-cut-pro/motion/" class="icon icon-chevronright">Learn more</a> 
+         </div> 
+        </section> 
+        <section id="gallery-pro-compressor-4" class="ac-gallery-content row"> 
+         <div class="large-8 large-push-4 medium-7 medium-push-5 small-12 small-push-0 column"> 
+          <figure class="image-proapps-compressor slide"></figure> 
+         </div> 
+         <div class="large-4 large-pull-8 medium-5 medium-pull-7 small-12 small-pull-0 description column"> 
+          <figure class="image-section-compressor-icon"></figure> 
+          <h4 class="fp-gallery-icon-headline">Compressor 4</h4> 
+          <p class="large-10 medium-12">Add power and flexibility for exporting projects from Final Cut Pro. Customize output settings, work faster with distributed encoding, and tap into a comprehensive set of delivery features. Compressor is the perfect companion for custom encoding.</p> 
+          <a href="/final-cut-pro/compressor/" class="icon icon-chevronright">Learn more</a> 
+         </div> 
+        </section> 
+        <section id="gallery-pro-mainstage-3" class="ac-gallery-content row"> 
+         <div class="large-8 large-push-4 medium-7 medium-push-5 small-12 small-push-0 column"> 
+          <figure class="image-proapps-mainstage slide"></figure> 
+         </div> 
+         <div class="large-4 large-pull-8 medium-5 medium-pull-7 small-12 small-pull-0 description column"> 
+          <figure class="image-section-mainstage-icon"></figure> 
+          <h4 class="fp-gallery-icon-headline">MainStage 3</h4> 
+          <p class="large-10 medium-12">Take your Mac to the stage with a full-screen interface optimized for live performance, flexible hardware control, and a massive collection of plug-ins and sounds that are fully compatible with Logic Pro X.</p> 
+          <a href="/mainstage/" class="icon icon-chevronright">Learn more</a> 
+         </div> 
+        </section> 
+       </div> 
+       <nav class="dotnav"> 
+        <ul> 
+         <li><a class="dotnav-item trigger-pro" href="#gallery-pro/show/gallery-pro-final-cut-pro"></a></li> 
+         <li><a class="dotnav-item trigger-pro" href="#gallery-pro/show/gallery-pro-logic-pro"></a></li> 
+         <li><a class="dotnav-item trigger-pro" href="#gallery-pro/show/gallery-pro-motion-5"></a></li> 
+         <li><a class="dotnav-item trigger-pro" href="#gallery-pro/show/gallery-pro-compressor-4"></a></li> 
+         <li><a class="dotnav-item trigger-pro" href="#gallery-pro/show/gallery-pro-mainstage-3"></a></li> 
+        </ul> 
+       </nav> 
+      </div> 
+     </section> 
+    </div> 
+   </section> 
+   <section class="fp-billboard fp-billboard-left fp-billboard-inline-small fp-education section" data-analytics-section-engagement="name:education"> 
+    <figure class="fp-billboard-image image-macforeducation"></figure> 
+    <div class="fp-billboard-wrapper"> 
+     <div class="fp-section-content" data-analytics-region="learn more"> 
+      <div class="fp-billboard-content large-6 large-offset-1 small-12 small-offset-0"> 
+       <h3 class="fp-billboard-headline">Mac for Education</h3> 
+       <p class="fp-billboard-copy">Inspire creativity and curiosity in the classroom and beyond.</p> 
+       <span class="fp-moreblock fp-moreblock-left fp-billboard-moreblock"> <a class="more" href="/education/mac/">Learn about Mac in education</a> <a class="more" href="/us/shop/goto/educationrouting">Shop for college</a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="fp-billboard fp-billboard-right fp-billboard-inline-small fp-business section" data-analytics-section-engagement="name:business"> 
+    <figure class="fp-billboard-image image-macforbusiness"></figure> 
+    <div class="fp-billboard-wrapper"> 
+     <div class="fp-section-content" data-analytics-region="learn more"> 
+      <div class="fp-billboard-content large-6 large-offset-6 small-12 small-offset-0"> 
+       <h3 class="fp-billboard-headline">Mac for Business</h3> 
+       <p class="fp-billboard-copy">Get the power to take your business to the next level.</p> 
+       <span class="fp-moreblock fp-moreblock-left fp-billboard-moreblock"> <a class="more" href="/business/mac/">Learn about Mac in business</a> <a class="more" href="/retail/business/">Shop for your business</a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="fp-billboard fp-billboard-center fp-billboard-inline-small fp-workshops section" data-analytics-section-engagement="name:workshops"> 
+    <figure class="fp-billboard-image image-workshops-retail"></figure> 
+    <div class="fp-billboard-wrapper" data-analytics-region="learn more"> 
+     <div class="fp-section-content"> 
+      <div class="fp-billboard-content"> 
+       <h3 class="fp-billboard-headline">Get the most from Mac at free&nbsp;in-store workshops.</h3> 
+       <p class="fp-billboard-copy">Sign up for hands-on Apple Store workshops to learn the basics.&nbsp;Or&nbsp;take&nbsp;your&nbsp;Mac&nbsp;skills to the next level.</p> 
+       <span class="fp-moreblock fp-billboard-moreblock"> <a class="more" href="/retail/learn/">Find a store</a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div>
+  <!--/main--> 
+  <footer id="ac-globalfooter" class="no-js" lang="en-US" data-analytics-region="global footer" role="contentinfo" aria-labelledby="ac-gf-label"> 
+   <div class="ac-gf-content"> 
+    <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2> 
+    <nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation"> 
+     <a href="/" class="home ac-gf-breadcrumbs-home"> <span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true">?</span> <span class="ac-gf-breadcrumbs-home-label">Apple</span> <span class="ac-gf-breadcrumbs-home-chevron"></span> <span class="ac-gf-breadcrumbs-home-mask"></span> </a> 
+     <div class="ac-gf-breadcrumbs-path"> 
+      <ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList"> 
+       <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem"><span property="name">Mac</span>
+        <meta property="position" content="1"></li> 
+      </ol> 
+     </div> 
+    </nav> 
+    <nav class="ac-gf-directory with-5-columns" aria-label="Apple Directory" role="navigation"> 
+     <!--googleoff: all--> 
+     <div class="ac-gf-directory-column">
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-products"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-products"> <h3 class="ac-gf-directory-column-section-title">Shop and Learn</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-products" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/mac/">Mac</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/">iPad</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/">iPhone</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/watch/">Watch</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/tv/">TV</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/music/">Music</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/itunes/">iTunes</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipod/">iPod</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/buy_accessories">Accessories</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/giftcards">Gift Cards</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column">
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-storeservices"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-storeservices"> <h3 class="ac-gf-directory-column-section-title">Apple Store</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-storeservices" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/">Find a Store</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/geniusbar/">Genius Bar</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/">Workshops and Learning</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/youth/">Youth Programs</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://itunes.apple.com/app/apple-store/id375380948?mt=8">Apple Store App</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/special_deals">Refurbished</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/payment_plan">Financing</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/reuse_and_recycle">Reuse and Recycling</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Order Status</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/help">Shopping Help</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-education"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-education"> <h3 class="ac-gf-directory-column-section-title">For Education</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-education" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/">Apple and Education</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/educationrouting">Shop for College</a></li> 
+       </ul> 
+      </div> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-business"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-business"> <h3 class="ac-gf-directory-column-section-title">For Business</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-business" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/business/">iPhone in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/business/">iPad in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/business/mac/">Mac in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/business/">Shop for Your Business</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-accounts"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-accounts"> <h3 class="ac-gf-directory-column-section-title">Account</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-accounts" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://appleid.apple.com/us/">Manage Your Apple ID</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Apple Store Account</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://www.icloud.com">iCloud.com</a></li> 
+       </ul> 
+      </div> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-responsibility"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-responsibility"> <h3 class="ac-gf-directory-column-section-title">Apple Values</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-responsibility" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/environment/">Environment</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/supplier-responsibility/">Supplier Responsibility</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/accessibility/">Accessibility</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/privacy/">Privacy</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/diversity/">Inclusion and Diversity</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/connectED/">Education</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-about"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-about"> <h3 class="ac-gf-directory-column-section-title">About Apple</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-about" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/about/">Apple Info</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://www.apple.com/jobs/us/">Job Opportunities</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/pr/">Press Info</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://investor.apple.com">Investors</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/apple-events/">Events</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/hotnews/">Hot News</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/contact/">Contact Apple</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <!--googleon: all--> 
+    </nav> 
+    <section class="ac-gf-footer" vocab="http://schema.org/" typeof="Organization"> 
+     <div class="ac-gf-footer-shop" x-ms-format-detection="none">
+       More ways to shop: Visit an 
+      <a href="/retail/">Apple Store</a>, 
+      <span class="nowrap">call 1-800-MY-APPLE, or <a href="https://locate.apple.com/">find a reseller</a></span>. 
+     </div> 
+     <div class="ac-gf-footer-locale"> 
+      <a class="ac-gf-footer-locale-link" href="/choose-your-country/" title="Choose your country or region" aria-label="United States. Choose your country or region"><span class="ac-gf-footer-locale-flag" data-hires="false"></span>United States</a> 
+     </div> 
+     <div class="ac-gf-footer-legal"> 
+      <div class="ac-gf-footer-legal-copyright">
+       Copyright © 2016 Apple Inc. All rights reserved.
+      </div> 
+      <div class="ac-gf-footer-legal-links"> 
+       <a class="ac-gf-footer-legal-link" href="/privacy/privacy-policy/">Privacy Policy</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/internet-services/terms/site.html">Terms of Use</a> 
+       <a class="ac-gf-footer-legal-link" href="/us/shop/goto/help/sales_refunds">Sales and Refunds</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/">Legal</a> 
+       <a class="ac-gf-footer-legal-link" href="/sitemap/">Site Map</a> 
+      </div> 
+     </div> 
+     <meta content="Apple" property="name"> 
+     <meta content="1-800-692-7753" property="telephone"> 
+    </section> 
+    <script type="text/javascript" src="/ac/globalfooter/2.0/en_US/scripts/ac-globalfooter.built.js"></script> 
+   </div> 
+  </footer> 
+  <script src="http://images.apple.com/v/mac/home/s/scripts/home.built.js" type="text/javascript" charset="utf-8"></script>   
+ </body>
+</html>

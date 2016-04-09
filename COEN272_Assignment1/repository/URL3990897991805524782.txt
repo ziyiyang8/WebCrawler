@@ -1,0 +1,362 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" class="no-js">
+ <head> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9"> 
+  <meta http-equiv="Cache-Control" content="no-siteapp"> 
+  <meta name="viewport" content="width=1024"> 
+  <meta name="Category" content="Support"> 
+  <link rel="canonical" href="https://www.apple.com/support/"> 
+  <meta name="Keywords" content="Apple Support Homepage"> 
+  <title>Official Apple Support</title> 
+  <meta name="Description" content="The Apple support homepage is your starting point for help with Apple hardware and software products, featuring user forums, manuals, support downloads, tech specs, troubleshooting pages, and tutorials."> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="stylesheet" href="https://www.apple.com/wss/fonts/?family=Myriad+Set+Pro&amp;v=1" type="text/css" media="all"> 
+  <link rel="stylesheet" href="https://www.apple.com/ac/globalnav/2.0/en_US/styles/ac-globalnav.built.css" type="text/css" id="globalheader-stylesheet"> 
+  <link rel="stylesheet" href="http://images.apple.com/support/assets/ac-globalfooter/1/en_US/styles/ac-globalfooter.built.css" type="text/css"> 
+  <link rel="stylesheet" href="http://images.apple.com/support/assets/css/home/home-built.css" type="text/css"> 
+  <!--[if lt IE 9]><script src="/support/assets/scripts/global/html5shiv.js"></script><![endif]--> 
+  <script src="https://www.apple.com/global/scripts/lib/prototype.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="https://www.apple.com/global/scripts/lib/scriptaculous.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://www.apple.com/global/scripts/browserdetect.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="https://www.apple.com/global/scripts/apple_core.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/support/assets/scripts/global/ac-base.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://www.apple.com/global/ac_retina/ac_retina.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/support/assets/scripts/global/support.js" type="text/javascript" charset="utf-8"></script> 
+  <script type="text/javascript">
+   ACWPod.set("us~en");
+</script> 
+  <script src="http://images.apple.com/support/assets/scripts/global/screporting.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/support/assets/scripts/global/survey/accsoffer.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/support/assets/scripts/shared/expresslane/ac_expresslane.js" type="text/javascript" charset="utf-8"></script>
+  <script src="http://images.apple.com/support/assets/scripts/home/home.built.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/support/assets/scripts/global/page.exits.js" type="text/javascript" charset="utf-8"></script>
+  <script src="http://images.apple.com/support/assets/scripts/global/globalnavanalytics.js" type="text/javascript" charset="utf-8"></script> 
+ </head> 
+ <body> 
+  <aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }"></aside> 
+  <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"> 
+  <nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-US" data-store-key="S2A49YFKJF2JAT22K" data-store-locale="us" data-store-api="//www.apple.com/[storefront]/shop/bag/status" data-search-locale="en_US" data-search-api="//www.apple.com/search-services/suggestions/"> 
+   <div class="ac-gn-content"> 
+    <ul class="ac-gn-header"> 
+     <li class="ac-gn-item ac-gn-menuicon"> <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span> </span> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span> </span> </label> <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"> <span class="ac-gn-menuanchor-label">Open Menu</span> </a> <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"> <span class="ac-gn-menuanchor-label">Close Menu</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="//www.apple.com/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"> <a class="ac-gn-link ac-gn-link-bag" href="//www.apple.com/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <ul class="ac-gn-list"> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="//www.apple.com/" data-analytics-title="apple home" id="ac-gn-firstfocus"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-mac"> <a class="ac-gn-link ac-gn-link-mac" href="//www.apple.com/mac/" data-analytics-title="mac"> <span class="ac-gn-link-text">Mac</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"> <a class="ac-gn-link ac-gn-link-ipad" href="//www.apple.com/ipad/" data-analytics-title="ipad"> <span class="ac-gn-link-text">iPad</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"> <a class="ac-gn-link ac-gn-link-iphone" href="//www.apple.com/iphone/" data-analytics-title="iphone"> <span class="ac-gn-link-text">iPhone</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-watch"> <a class="ac-gn-link ac-gn-link-watch" href="//www.apple.com/watch/" data-analytics-title="watch"> <span class="ac-gn-link-text">Watch</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-tv"> <a class="ac-gn-link ac-gn-link-tv" href="//www.apple.com/tv/" data-analytics-title="tv"> <span class="ac-gn-link-text">TV</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-music"> <a class="ac-gn-link ac-gn-link-music" href="//www.apple.com/music/" data-analytics-title="music"> <span class="ac-gn-link-text">Music</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-support"> <a class="ac-gn-link ac-gn-link-support current" href="//www.apple.com/support/" data-analytics-title="support"> <span class="ac-gn-link-text">Support</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"> <a class="ac-gn-link ac-gn-link-search" href="https://support.apple.com/kb/index?page=search&amp;locale=en_US" data-analytics-title="search" data-analytics-click="search" aria-label="Search apple.com"> <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"> <a class="ac-gn-link ac-gn-link-bag" href="//www.apple.com/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge" aria-hidden="true"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"> 
+     <div class="ac-gn-searchview-content"> 
+      <form id="ac-gn-searchform" class="ac-gn-searchform" action="https://support.apple.com/kb/index" method="get"> 
+       <div class="ac-gn-searchform-wrapper"> 
+        <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" name="q" placeholder="Search apple.com" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false"> 
+        <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav_support"> 
+        <input type="hidden" name="type" value="organic"> 
+        <input type="hidden" name="page" value="search"> 
+        <input type="hidden" name="locale" value="en_US"> 
+        <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Submit"></button> 
+        <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Clear Search"></button> 
+       </div> 
+      </form> 
+      <aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" data-string-noresults="Hit enter to search."></aside> 
+     </div> 
+     <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search"> <span class="ac-gn-searchview-close-wrapper"> <span class="ac-gn-searchview-close-left"></span> <span class="ac-gn-searchview-close-right"></span> </span> </button> 
+    </aside> 
+    <aside class="ac-gn-bagview" data-analytics-region="bag"> 
+     <div class="ac-gn-bagview-scrim"> 
+      <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span> 
+     </div> 
+     <div class="ac-gn-bagview-content" id="ac-gn-bagview-content"> 
+     </div> 
+    </aside> 
+   </div> 
+  </nav> 
+  <div id="ac-gn-curtain" class="ac-gn-curtain"></div> 
+  <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div> 
+  <script type="text/javascript" src="http://images.apple.com/ac/globalnav/support/2.0/en_US/scripts/ac-globalnav.built.js"></script> 
+  <!-- SiteCatalyst code version: H.8. Copyright 1997-2006 Omniture, Inc. --> 
+  <div id="top" data-analytics-locale="us"> 
+   <script type="text/javascript">
+
+/* RSID: */
+
+var s_account="appleglobal,applesupport"
+
+</script> 
+   <script type="text/javascript" src="http://images.apple.com/metrics/scripts/s_code_h.js"></script> 
+   <script type="text/javascript">
+if (typeof SCReporting !== "undefined" ) {
+	if (SCReporting.prop1) { s.prop1 = SCReporting.prop1; 
+				s.contextData['custSupport'] = SCReporting.prop1 }
+	if (SCReporting.prop2) { s.prop2 = SCReporting.prop2; }
+	if (SCReporting.prop7) { s.prop7 = SCReporting.prop7; }
+	if (SCReporting.eVar5) { s.eVar5 = SCReporting.eVar5; }
+}
+
+var url=location.href;
+var pathArray = url.split('/');
+if (!s.prop1) {s.prop1 = pathArray[4]};
+if (!s.prop2) {s.prop2 = pathArray[5]};
+
+var len=url.indexOf('?');
+if (len==-1){len=url.length}
+s.prop4=url.substr(0,len);
+
+
+s.pageName=AC.Tracking.pageName()+" (us)";
+s.channel="www.us.support"
+
+
+if (!s.prop1 && s.pageName){
+	if (s.pageName.match(/acs::web::homepage/)){
+		s.prop1 = 'home';
+	}
+}
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code = s.t();</script> 
+   <!-- End SiteCatalyst code version: H.8. --> 
+  </div> 
+  <main id="container" role="main"> 
+   <div> 
+    <div class="Banner"> 
+     <div class="Banner-image"></div> 
+     <div class="Banner-content"> 
+      <h1 class="Banner-heading">Welcome to Apple Support</h1> 
+      <p class="Banner-description">We are here to help.</p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="ImageGrid"> 
+    <section class="ImageGrid-items"> 
+     <ul> 
+      <li> <a href="/support/watch/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/apple_watch_2x.png" width="200" height="200" alt=""> <p> Apple Watch <span class="a11y">Support</span> </p> </a> </li> 
+      <li> <a href="/support/iphone/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/iphone_2x.png" width="200" height="200" alt=""> <p> iPhone <span class="a11y">Support</span> </p> </a> </li> 
+      <li> <a href="/support/ipad/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/ipad_2x.png" width="200" height="200" alt=""> <p> iPad <span class="a11y">Support</span> </p> </a> </li> 
+      <li> <a href="/support/mac/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/imac_2x.png" width="200" height="200" alt=""> <p> Mac <span class="a11y">Support</span> </p> </a> </li> 
+      <li> <a href="/support/appletv/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/apple_tv_icon_2x.png" width="200" height="200" alt=""> <p> Apple TV <span class="a11y">Support</span> </p> </a> </li> 
+      <li> <a href="/support/itunes/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/itunes_2x.png" width="200" height="200" alt=""> <p> iTunes <span class="a11y">Support</span> </p> </a> </li> 
+     </ul> 
+    </section> 
+   </div> 
+   <div id="ProductsDrawer" class="ProductsDrawer"> 
+    <div id="ProductsDrawer--bottom" class="ProductsDrawer--bottom"> 
+     <div class="ProductsDrawer-button" id="ProductsDrawer-button"> 
+      <a href="#ProductsDrawer-items" class="ProductsDrawer-button-button" id="ProductsDrawer-button-button">More Products</a> 
+     </div> 
+     <section class="product-items" id="ProductsDrawer-items"> 
+      <ul> 
+       <li class="ProductsDrawer-product"> <a href="/support/music/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/applemusic_2x.png" width="160" height="160" alt=""> <p> Apple Music <span class="a11y">Support</span> </p> </a> </li> 
+       <li class="ProductsDrawer-product"> <a href="/support/apple-pay/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/apple_pay_icon_2x.png" width="160" height="160" alt=""> <p> Apple Pay <span class="a11y">Support</span> </p> </a> </li> 
+       <li class="ProductsDrawer-product"> <a href="/support/ipod/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/ipod_2x.png" width="160" height="160" alt=""> <p> iPod <span class="a11y">Support</span> </p> </a> </li> 
+       <li class="ProductsDrawer-product"> <a href="/support/icloud/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/icloud_2x.png" width="160" height="160" alt=""> <p> iCloud <span class="a11y">Support</span> </p> </a> </li> 
+       <li class="ProductsDrawer-product"> <a href="/support/airport/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/airport_2x.png" width="160" height="160" alt=""> <p> AirPort + Wi-Fi <span class="a11y">Support</span> </p> </a> </li> 
+       <li class="ProductsDrawer-product"> <a href="/support/osx/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/osx_2x.png" width="160" height="160" alt=""> <p> OS X <span class="a11y">Support</span> </p> </a> </li> 
+       <li class="ProductsDrawer-product"> <a href="/support/ios/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/ios_apps_2x.png" width="160" height="160" alt=""> <p> iOS Apps <span class="a11y">Support</span> </p> </a> </li> 
+       <li class="ProductsDrawer-product"> <a href="/support/pro-apps/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/pro_apps_2x.png" width="160" height="160" alt=""> <p> Pro Apps <span class="a11y">Support</span> </p> </a> </li> 
+       <li class="ProductsDrawer-product"> <a href="/support/applecare/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/applecare_products_2x.png" width="160" height="160" alt=""> <p> AppleCare <span class="a11y">Support</span> </p> </a> </li> 
+       <li class="ProductsDrawer-product"> <a href="/support/business-education/"> <img class="" src="http://images.apple.com/support/assets/images/home/2015/business_education_2x.png" width="160" height="160" alt=""> <p> Business &amp; Education <span class="a11y">Support</span> </p> </a> </li> 
+      </ul> 
+     </section> 
+    </div> 
+   </div> 
+   <div id="promos" class="promos promos--1up"> 
+    <div class="row"> 
+     <li class="promo"> 
+      <div class="promo-img"> 
+       <img class="" src="http://images.apple.com/support/assets/images/home/2015/promo_twitter_2x.png" width="150" height="130" alt="Apple Support is on Twitter"> 
+      </div> 
+      <div class="promo-block promo-block--communities"> 
+       <h2>Apple Support is on Twitter</h2> 
+       <p> We’re here to provide tips, tricks, and helpful information when you need it most. And if you have a question, we’re here to help with that too.</p> 
+       <a href="https://twitter.com/AppleSupport"><span class="block-link">Follow us on @AppleSupport<span class="icon icon-more" aria-hidden="true"></span></span></a> 
+      </div> </li> 
+    </div> 
+   </div> 
+   <div class="promos"> 
+    <div class="row"> 
+     <div class="promo promo--ios9"> 
+      <div class="promo-img"> 
+       <img class="" src="http://images.apple.com/support/assets/images/home/2015/find_my_device_promo_2x.png" width="280" height="168" alt=""> 
+      </div> 
+      <div class="promo-block"> 
+       <h2>Turn on Find&nbsp;My&nbsp;iPhone, iPad,&nbsp;and&nbsp;Mac</h2> 
+       <p>If your device ever goes missing, Find My iPhone can help you figure out where it is.</p> 
+       <a href="https://support.apple.com/en-us/HT205362"><span class="block-link">Set up now<span class="icon icon-more" aria-hidden="true"></span></span></a> 
+      </div> 
+     </div> 
+     <div class="promo"> 
+      <div class="promo-img"> 
+       <img class="appleid" src="http://images.apple.com/support/assets/images/home/2015/promo_appleid_2x.png" width="361" height="165" alt=""> 
+      </div> 
+      <div class="promo-block"> 
+       <h2>Apple ID</h2> 
+       <p>Find your Apple ID or password, manage multiple Apple IDs, and more. </p> 
+       <a href="/support/appleid/"><span class="block-link">Get help with Apple ID<span class="icon icon-more" aria-hidden="true"></span></span></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="promos" class="promos promos--1up"> 
+    <div class="row"> 
+     <div class="promo"> 
+      <div class="promo-img"> 
+       <img class="" src="http://images.apple.com/support/assets/images/home/2015/promo_communities_2x.png" width="150" height="130" alt=""> 
+      </div> 
+      <div class="promo-block promo-block--communities"> 
+       <h2>Apple Support Communities</h2> 
+       <p>Find and share solutions with fellow Apple users around the world. </p> 
+       <a href="https://discussions.apple.com/welcome"><span class="block-link">Join the conversation<span class="icon icon-more" aria-hidden="true"></span></span></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="disclaimer-content"> 
+    <div> 
+     <h2>Exchange and Repair Extension Programs</h2> 
+     <div> 
+      <ul> 
+       <li> <a href="/support/ac-wallplug-adapter/" class=""> Apple AC Wall Plug Adapter Recall Program</a> </li> 
+       <li> <a href="/support/usbc-chargecable/" class=""> Apple USB-C Charge Cable Replacement Program</a> </li> 
+       <li> <a href="/support/iphone6plus-isightcamera/" class=""> iSight Camera Replacement for iPhone 6 Plus</a> </li> 
+       <li> <a href="/support/beats-pillxl-recall/" class=""> Beats Pill XL Speaker Recall Program</a> </li> 
+       <li> <a href="/support/iphone5-sleepwakebutton/" class=""> iPhone 5 Sleep/Wake Button Replacement Program</a> </li> 
+       <li> <a href="exchange_repair/" class=""> All Programs</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="promos promos--aos"> 
+    <div class="row"> 
+     <div class="promo"> 
+      <div class="promo-img"> 
+       <img class="" src="http://images.apple.com/support/assets/images/home/2015/promo_cas4_2x.png" width="300" height="80" alt=""> 
+      </div> 
+      <div class="promo-block"> 
+       <h2>Contact Us</h2> 
+       <p>We’re here to help with all of your Apple products. From iPhone to iTunes, get support by phone, chat, or email, set up a repair, or make a Genius Bar appointment.</p> 
+       <a href="/support/contact/"><span class="block-link">Contact Support<span class="icon icon-more" aria-hidden="true"></span></span></a> 
+      </div> 
+     </div> 
+     <div class="promo right"> 
+      <div class="promo-img"> 
+       <img class="" src="http://images.apple.com/support/assets/images/home/2015/store_bag_icon_2x.png" width="72" height="72" alt=""> 
+      </div> 
+      <div class="promo-block"> 
+       <h2>Find Your Order</h2> 
+       <p>Check the status of your Apple Online Store order and track your shipment.</p> 
+       <a href="http://store.apple.com/us/account/home" onclick="SCReporting.trackClick('::aos promo link', 'http://store.apple.com/us/account/home', false, true)"><span class="block-link">View your orders<span class="icon icon-more" aria-hidden="true"></span></span></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </main> 
+  <footer id="ac-globalfooter" class="no-js" lang="en-US" data-analytics-region="global footer" role="contentinfo" aria-labelledby="ac-gf-label"> 
+   <div class="ac-gf-content"> 
+    <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2> 
+    <nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation"> 
+     <a href="/" class="home ac-gf-breadcrumbs-home"> <span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true">?</span> <span class="ac-gf-breadcrumbs-home-label">Apple</span> <span class="ac-gf-breadcrumbs-home-chevron"></span> <span class="ac-gf-breadcrumbs-home-mask"></span> </a> 
+     <div class="ac-gf-breadcrumbs-path"> 
+      <ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList"> 
+       <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem"> <span property="name">Support</span> 
+        <meta property="position" content="1"> </li> 
+      </ol> 
+     </div> 
+    </nav> 
+    <nav class="ac-gf-directory" aria-label="Apple Directory" role="navigation"> 
+     <!--googleoff: all--> 
+     <div class="ac-gf-directory-column"> 
+      <div class="ac-gf-directory-column-section"> 
+       <h3 class="ac-gf-directory-column-section-title">Service &amp; Support</h3> 
+       <button class="ac-gf-directory-column-section-toggler" aria-controls="service-section" aria-expanded="false">+</button> 
+       <ul class="ac-gf-directory-column-section-list" id="service-section"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="#checkcoverage">Check Service &amp; Support Coverage</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://checkrepair.apple.com">Check Repair Status</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/support/complimentary/">Complimentary Support</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/legal/warranty/">Hardware Warranties</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/legal/sla/">Software License Agreements</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/support/service/">Service Answer Center (FAQs)</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <div class="ac-gf-directory-column-section"> 
+       <h3 class="ac-gf-directory-column-section-title">Programs</h3> 
+       <button class="ac-gf-directory-column-section-toggler" aria-controls="programs-section" aria-expanded="false">+</button> 
+       <ul class="ac-gf-directory-column-section-list" id="programs-section"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/">Workshops</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://training.apple.com/">Apple Training</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/">Education Resources</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://consultants.apple.com/">Apple Consultants Network</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/support/programs/">Apple Service Programs</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <div class="ac-gf-directory-column-section"> 
+       <h3 class="ac-gf-directory-column-section-title">Resources</h3> 
+       <button class="ac-gf-directory-column-section-toggler" aria-controls="resources-section" aria-expanded="false">+</button> 
+       <ul class="ac-gf-directory-column-section-list" id="resources-section"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://support.apple.com/en_US/downloads">Downloads &amp; Updates</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://support.apple.com/en_US/manuals">Manuals</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://support.apple.com/en_US/specs">Tech Specs</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/support/systemstatus/">System Status</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/support/accessibility/">Accessibility</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/support/sitemap/">Support Site Map</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <div class="ac-gf-directory-column-section"> 
+       <h3 class="ac-gf-directory-column-section-title">Contact</h3> 
+       <button class="ac-gf-directory-column-section-toggler" aria-controls="contact-section" aria-expanded="false">+</button> 
+       <ul class="ac-gf-directory-column-section-list" id="contact-section"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://support.apple.com/kb/HE57">Support Phone Numbers</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://locate.apple.com">Apple Authorized Service Providers</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="#cas,prkeys:131629">iTunes Store Support</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://support.apple.com/kb/HT1937">Contact a Mobile Carrier</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <!--googleon: all--> 
+    </nav> 
+    <section class="ac-gf-footer" vocab="http://schema.org/" typeof="Organization"> 
+     <div class="ac-gf-footer-shop" x-ms-format-detection="none">
+       More ways to shop: Visit an 
+      <a href="/retail/">Apple Store</a>, 
+      <span class="nowrap">call 1-800-MY-APPLE, or <a href="https://locate.apple.com">find a reseller</a></span>. 
+     </div> 
+     <div class="ac-gf-footer-locale"> 
+      <a class="ac-gf-footer-locale-link" href="/support/country/" title="Choose your country or region" aria-label="United States. Choose your country or region"> <span class="ac-gf-footer-locale-flag"></span>United States</a> 
+     </div> 
+     <div class="ac-gf-footer-legal"> 
+      <div class="ac-gf-footer-legal-copyright">
+        Copyright © 2016 Apple Inc. All rights reserved. 
+      </div> 
+      <div class="ac-gf-footer-legal-links"> 
+       <a class="ac-gf-footer-legal-link" href="/privacy/privacy-policy/">Privacy Policy</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/">Terms of Use</a> 
+       <a class="ac-gf-footer-legal-link" href="/shop/goto/help/sales_refunds/">Sales and Refunds</a> 
+       <a class="ac-gf-footer-legal-link" href="/sitemap/">Site Map</a> 
+       <a class="ac-gf-footer-legal-link" href="/contact/">Contact Apple</a> 
+      </div> 
+     </div> 
+     <meta content="Apple" property="name"> 
+     <meta content="1-800-692-7753" property="telephone"> 
+    </section> 
+    <script src="http://images.apple.com/support/assets/ac-globalfooter/1/en_US/scripts/ac-globalfooter.built.js" type="text/javascript" charset="utf-8"></script> 
+   </div> 
+  </footer>   
+ </body>
+</html>

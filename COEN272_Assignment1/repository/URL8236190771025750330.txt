@@ -1,0 +1,267 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" class="no-js">
+ <head> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9"> 
+  <meta http-equiv="Cache-Control" content="no-siteapp"> 
+  <meta name="viewport" content="width=1024"> 
+  <meta name="Category" content="Support"> 
+  <link rel="canonical" href="https://www.apple.com/support/ac-wallplug-adapter/"> 
+  <title> Apple AC Wall Plug Adapter Recall Program - Apple Support</title> 
+  <meta name="Description" content=" Apple AC Wall Plug Adapter Recall Program"> 
+  <link rel="stylesheet" href="https://www.apple.com/wss/fonts/?family=Myriad+Set+Pro&amp;v=1" type="text/css" media="all"> 
+  <link rel="stylesheet" href="https://www.apple.com/ac/globalnav/2.0/en_US/styles/ac-globalnav.built.css" type="text/css"> 
+  <link rel="stylesheet" href="http://images.apple.com/support/assets/ac-globalfooter/1/en_US/styles/ac-globalfooter.built.css" type="text/css"> 
+  <link rel="stylesheet" href="http://images.apple.com/support/assets/css/global/base.css" type="text/css"> 
+  <link rel="stylesheet" href="http://images.apple.com/support/assets/css/global/support.css" type="text/css"> 
+  <link rel="stylesheet" href="http://images.apple.com/support/assets/css/layout/peripheral.css" type="text/css"> 
+  <!--[if lt IE 9]><script src="/support/assets/scripts/global/html5shiv.js"></script><![endif]--> 
+  <script src="https://www.apple.com/global/scripts/lib/prototype.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="https://www.apple.com/global/scripts/lib/scriptaculous.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="https://www.apple.com/global/scripts/lib/sizzle.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="https://www.apple.com/global/scripts/browserdetect.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="https://www.apple.com/global/scripts/apple_core.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="https://www.apple.com/global/scripts/search_decorator.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="https://www.apple.com/global/ac_base/ac_base.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="https://www.apple.com/global/ac_retina/ac_retina.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/support/assets/scripts/global/support.js" type="text/javascript" charset="utf-8"></script> 
+  <script type="text/javascript">ACWPod.set("us~en");</script> 
+  <script src="/support/assets/scripts/global/screporting.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="/support/assets/scripts/global/survey/accsoffer.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="/support/assets/scripts/shared/expresslane/ac_expresslane.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="/support/assets/scripts/global/globalnavanalytics.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/support/assets/scripts/shared/qp_dropdowns/dropdown.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/support/assets/scripts/shared/qp_dropdowns/acwalladapter_dropdown.js" type="text/javascript" charset="utf-8"></script> 
+ </head> 
+ <body> 
+  <aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }"></aside> 
+  <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"> 
+  <nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-US" data-store-key="S2A49YFKJF2JAT22K" data-store-locale="us" data-store-api="//www.apple.com/[storefront]/shop/bag/status" data-search-locale="en_US" data-search-api="//www.apple.com/search-services/suggestions/"> 
+   <div class="ac-gn-content"> 
+    <ul class="ac-gn-header"> 
+     <li class="ac-gn-item ac-gn-menuicon"> <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span> </span> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span> </span> </label> <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"> <span class="ac-gn-menuanchor-label">Open Menu</span> </a> <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"> <span class="ac-gn-menuanchor-label">Close Menu</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="//www.apple.com/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"> <a class="ac-gn-link ac-gn-link-bag" href="//www.apple.com/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <ul class="ac-gn-list"> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="//www.apple.com/" data-analytics-title="apple home" id="ac-gn-firstfocus"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-mac"> <a class="ac-gn-link ac-gn-link-mac" href="//www.apple.com/mac/" data-analytics-title="mac"> <span class="ac-gn-link-text">Mac</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"> <a class="ac-gn-link ac-gn-link-ipad" href="//www.apple.com/ipad/" data-analytics-title="ipad"> <span class="ac-gn-link-text">iPad</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"> <a class="ac-gn-link ac-gn-link-iphone" href="//www.apple.com/iphone/" data-analytics-title="iphone"> <span class="ac-gn-link-text">iPhone</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-watch"> <a class="ac-gn-link ac-gn-link-watch" href="//www.apple.com/watch/" data-analytics-title="watch"> <span class="ac-gn-link-text">Watch</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-tv"> <a class="ac-gn-link ac-gn-link-tv" href="//www.apple.com/tv/" data-analytics-title="tv"> <span class="ac-gn-link-text">TV</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-music"> <a class="ac-gn-link ac-gn-link-music" href="//www.apple.com/music/" data-analytics-title="music"> <span class="ac-gn-link-text">Music</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-support"> <a class="ac-gn-link ac-gn-link-support current" href="//www.apple.com/support/" data-analytics-title="support"> <span class="ac-gn-link-text">Support</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"> <a class="ac-gn-link ac-gn-link-search" href="https://support.apple.com/kb/index?page=search&amp;locale=en_US" data-analytics-title="search" data-analytics-click="search" aria-label="Search apple.com"> <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"> <a class="ac-gn-link ac-gn-link-bag" href="//www.apple.com/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge" aria-hidden="true"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"> 
+     <div class="ac-gn-searchview-content"> 
+      <form id="ac-gn-searchform" class="ac-gn-searchform" action="https://support.apple.com/kb/index" method="get"> 
+       <div class="ac-gn-searchform-wrapper"> 
+        <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" name="q" placeholder="Search apple.com" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false"> 
+        <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav_support"> 
+        <input type="hidden" name="type" value="organic"> 
+        <input type="hidden" name="page" value="search"> 
+        <input type="hidden" name="locale" value="en_US"> 
+        <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Submit"></button> 
+        <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Clear Search"></button> 
+       </div> 
+      </form> 
+      <aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" data-string-noresults="Hit enter to search."></aside> 
+     </div> 
+     <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search"> <span class="ac-gn-searchview-close-wrapper"> <span class="ac-gn-searchview-close-left"></span> <span class="ac-gn-searchview-close-right"></span> </span> </button> 
+    </aside> 
+    <aside class="ac-gn-bagview" data-analytics-region="bag"> 
+     <div class="ac-gn-bagview-scrim"> 
+      <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span> 
+     </div> 
+     <div class="ac-gn-bagview-content" id="ac-gn-bagview-content"> 
+     </div> 
+    </aside> 
+   </div> 
+  </nav> 
+  <div id="ac-gn-curtain" class="ac-gn-curtain"></div> 
+  <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div> 
+  <script type="text/javascript" src="http://images.apple.com/ac/globalnav/support/2.0/en_US/scripts/ac-globalnav.built.js"></script> 
+  <!-- SiteCatalyst code version: H.8. Copyright 1997-2006 Omniture, Inc. --> 
+  <div id="top" data-analytics-locale="us"> 
+   <script type="text/javascript">
+
+/* RSID: */
+
+var s_account="appleglobal,applesupport"
+
+</script> 
+   <script type="text/javascript" src="http://images.apple.com/metrics/scripts/s_code_h.js"></script> 
+   <script type="text/javascript">
+if (typeof SCReporting !== "undefined" ) {
+	if (SCReporting.prop1) { s.prop1 = SCReporting.prop1; 
+				s.contextData['custSupport'] = SCReporting.prop1 }
+	if (SCReporting.prop2) { s.prop2 = SCReporting.prop2; }
+	if (SCReporting.prop7) { s.prop7 = SCReporting.prop7; }
+	if (SCReporting.eVar5) { s.eVar5 = SCReporting.eVar5; }
+}
+
+var url=location.href;
+var pathArray = url.split('/');
+if (!s.prop1) {s.prop1 = pathArray[4]};
+if (!s.prop2) {s.prop2 = pathArray[5]};
+
+var len=url.indexOf('?');
+if (len==-1){len=url.length}
+s.prop4=url.substr(0,len);
+
+
+s.pageName=AC.Tracking.pageName()+" (us)";
+s.channel="www.us.support"
+
+
+if (!s.prop1 && s.pageName){
+	if (s.pageName.match(/acs::web::homepage/)){
+		s.prop1 = 'home';
+	}
+}
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code = s.t();</script> 
+   <!-- End SiteCatalyst code version: H.8. --> 
+  </div> 
+  <div id="container"> 
+   <div id="main"> 
+    <div id="service"> 
+     <h1>Apple AC Wall Plug Adapter Recall Program</h1> 
+     <div id="content" class="box"> 
+      <div id="section"> 
+       <div class="column first"> 
+        <div class="sidebar"> 
+         <div class="padtop30"></div> 
+         <img src="http://images.apple.com/support/assets/images/products/ac-wall-adapter/apple_logo.png" alt="" align="center" style="width:130px; height:130px; display: block; margin: 0 auto;"> 
+         <div class="padtop10"></div> 
+         <select style="display: block; margin: 0 auto;" id="country_nav"> <option selected>Please select a Country</option> <option value="/support/ac-wallplug-adapter/other_countries.html">Other countries</option> </select> 
+        </div> 
+       </div> 
+       <div class="column last"> 
+        <div id="welcome"> 
+         <p>Apple has determined that, in very rare cases, the two prong Apple AC wall plug adapters designed for use in Continental Europe, Australia, New Zealand, Korea, Argentina and Brazil may break and create a risk of electrical shock if touched. These wall plug adapters shipped from 2003 to 2015 with Mac and certain iOS devices, and were also included in the Apple World Travel Adapter Kit.</p> 
+         <p>Customer safety is always Apple's top priority, and we have voluntarily decided to exchange affected wall plug adapters with a new, redesigned adapter, free of charge. We encourage customers to exchange any affected parts using the process below.</p> 
+         <p>Note: Other wall plug adapters, including those designed for Canada, China, Hong Kong, Japan, United Kingdom, and United States and Apple USB power adapters are not affected by this program.</p> 
+         <h2>Identifying your wall plug adapter</h2> 
+         <p>Compare your adapter to the images below. An affected wall plug adapter has 4 or 5 characters or no characters on the inside slot where it attaches to an Apple power adapter. Redesigned adapters have a 3-letter regional code in the slot (EUR, KOR, AUS, ARG or BRA).</p> 
+         <p>&nbsp;</p> 
+         <table width="700" cellspacing="0" cellpadding="2" border="0"> 
+          <tbody> 
+           <tr> 
+            <td align="center"><b>Affected</b></td> 
+            <td align="center"><b>Redesigned</b></td> 
+           </tr> 
+           <tr valign="top"> 
+            <td align="center"><img src="http://images.apple.com/support/assets/images/products/ac-wall-adapter/affected_adapter.jpg" alt="Affected adapter detail" style="width:270px; height=200px; margin: 0 auto 0 70px;"></td> 
+            <td align="center"><img src="http://images.apple.com/support/assets/images/products/ac-wall-adapter/redesigned_adapter.jpg" alt="Redesigned adapter detail" style="width:270px; height=200px; margin: 0 auto 0 70px;"></td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <br> 
+         <br> 
+         <h2>Affected Adapter Prong Types</h2> 
+         <table width="700" cellspacing="0" cellpadding="5" border="1"> 
+          <tbody> 
+           <tr> 
+            <td align="center" width="25%"><img alt="European Adapter" src="http://images.apple.com/support/assets/images/products/ac-wall-adapter/eur_adapter.png"></td> 
+            <td align="center" width="25%"><img alt="Korean Adapter" src="http://images.apple.com/support/assets/images/products/ac-wall-adapter/kor_adapter.png"></td> 
+            <td align="center" width="25%"><img alt="Australian/Argentinian Adapter" src="http://images.apple.com/support/assets/images/products/ac-wall-adapter/aus_adapter.png"></td> 
+            <td align="center" width="25%"><img alt="Brazilian Adapter" src="http://images.apple.com/support/assets/images/products/ac-wall-adapter/bra_adapter.png"></td> 
+           </tr> 
+           <tr> 
+            <td>Round thin pins,<br>slightly slanted inward</td> 
+            <td>Round thick pins</td> 
+            <td>Flat angled blades</td> 
+            <td>Round thin pins</td> 
+           </tr> 
+           <tr> 
+            <td>Continental Europe</td> 
+            <td>Korea</td> 
+            <td>Australia<br>New Zealand<br>Argentina</td> 
+            <td>Brazil</td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p>Note: The countries and regions listed are some examples of supported locations for that adapter. Adapters may be used in additional countries. </p> 
+         <br> 
+         <h2>Exchange Process</h2> 
+         <p>Please choose one of the following options below. We will need to verify your Mac, iPad, iPhone or iPod serial number as part of the exchange process so please find your serial number in advance. <a href="https://support.apple.com/en-us/HT204308">Finding your device serial number</a> is easy. </p> 
+         <ul class="square"> 
+          <li>Exchange your adapter(s) at your local <a href="#cas,caller:rcon,pfc:PFC6004,cid:SC0999,sid:21335">Apple Store</a> (Genius Bar reservation recommended) or an <a href="https://locate.apple.com">Authorized Apple Service Provider</a>.</li> 
+          <li>Contact <a href="#cas,pfc:PFC6004,cid:SC0999,sid:21335">Apple Support</a>.</li> 
+         </ul> 
+         <br> 
+         <p>Customers who purchased a World Travel Adapter Kit should use&nbsp;one of the options&nbsp;above to exchange their affected parts.</p> 
+         <br> 
+         <h2>Additional Information</h2> 
+         <p>This program does not affect your statutory or warranty rights.</p> 
+         <p>If you believe you have paid for a replacement due to this issue, <a href="#cas,pfc:PFC6004,cid:SC0998,sid:21336">contact Apple</a> regarding a refund.</p> 
+         <p><a href="https://support.apple.com/en-us/HT204178">Learn more</a> about using Apple power adapters, cables, and duckheads with Apple products.</p> 
+         <br> 
+        </div> 
+        <div class="padtop10"> 
+        </div> 
+        <div class="qp-footnotes">
+          Information as of 2016-02-05 
+         <div class="clear"> 
+         </div> 
+        </div> 
+        <!--/#welcome--> 
+       </div> 
+       <!--/column last--> 
+      </div> 
+      <!--/section--> 
+     </div> 
+     <!--/content--> 
+    </div> 
+    <!--/#service--> 
+   </div> 
+   <!--/#main--> 
+  </div> 
+  <!-- --> 
+  <footer id="ac-globalfooter" class="no-js" lang="en-US" data-analytics-region="global footer" role="contentinfo" aria-labelledby="ac-gf-label"> 
+   <div class="ac-gf-content"> 
+    <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2> 
+    <nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation"> 
+     <a href="/" class="home ac-gf-breadcrumbs-home"> <span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true">?</span> <span class="ac-gf-breadcrumbs-home-label">Apple</span> <span class="ac-gf-breadcrumbs-home-chevron"></span> <span class="ac-gf-breadcrumbs-home-mask"></span> </a> 
+     <div class="ac-gf-breadcrumbs-path"> 
+      <ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList"> 
+       <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem"> <span property="name">Support</span> 
+        <meta property="position" content="1"> </li> 
+      </ol> 
+     </div> 
+    </nav> 
+    <section class="ac-gf-footer" vocab="http://schema.org/" typeof="Organization"> 
+     <div class="ac-gf-footer-shop" x-ms-format-detection="none">
+       More ways to shop: Visit an 
+      <a href="/retail/">Apple Store</a>, 
+      <span class="nowrap">call 1-800-MY-APPLE, or <a href="https://locate.apple.com">find a reseller</a></span>. 
+     </div> 
+     <div class="ac-gf-footer-locale"> 
+      <a class="ac-gf-footer-locale-link" href="/support/country/" title="Choose your country or region" aria-label="United States. Choose your country or region"> <span class="ac-gf-footer-locale-flag"></span>United States</a> 
+     </div> 
+     <div class="ac-gf-footer-legal"> 
+      <div class="ac-gf-footer-legal-copyright">
+        Copyright © 2016 Apple Inc. All rights reserved. 
+      </div> 
+      <div class="ac-gf-footer-legal-links"> 
+       <a class="ac-gf-footer-legal-link" href="/privacy/privacy-policy/">Privacy Policy</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/">Terms of Use</a> 
+       <a class="ac-gf-footer-legal-link" href="/shop/goto/help/sales_refunds/">Sales and Refunds</a> 
+       <a class="ac-gf-footer-legal-link" href="/sitemap/">Site Map</a> 
+       <a class="ac-gf-footer-legal-link" href="/contact/">Contact Apple</a> 
+      </div> 
+     </div> 
+     <meta content="Apple" property="name"> 
+     <meta content="1-800-692-7753" property="telephone"> 
+    </section> 
+    <script src="http://images.apple.com/support/assets/ac-globalfooter/1/en_US/scripts/ac-globalfooter.built.js" type="text/javascript" charset="utf-8"></script> 
+   </div> 
+  </footer>   
+ </body>
+</html>

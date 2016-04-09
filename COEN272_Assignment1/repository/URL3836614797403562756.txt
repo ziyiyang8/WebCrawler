@@ -1,0 +1,356 @@
+<!doctype html>
+<html lang="en-US" class="en-us amr nojs en us">
+ <head viewportcontent="width=device-width, initial-scale=1.0"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <!-- Dynamic page title (extracted from the node, product, etc.) --> 
+  <title>Sales Policies  - Apple</title> 
+  <meta charset="utf-8"> 
+  <meta name="applicable-device" content="pc,mobile"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta http-equiv="Set-Cookie" content="as_sfa=Mnx1c3x1c3x8ZW5fVVN8Y29uc3VtZXJ8aW50ZXJuZXR8MHwwfDE=; path=/; domain=.apple.com; expires=Thu, 09-Apr-2026 04:45:15 GMT;"> 
+  <!-- Simple meta information about the page (in case some non-google search engine or social sharing partner is interested) --> 
+  <meta name="description" content="Sales Policies"> 
+  <meta name="robots" content="noindex, follow, NOODP, NOYDIR"> 
+  <link rel="canonical" href="http://www.apple.com/shop/browse/open/salespolicies"> 
+  <script>
+		
+		if ( /(iPad).*OS [7-9].*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) )
+		{
+			var headNode = document.getElementsByTagName("head")[0];
+			var sbNode = document.createElement('meta');
+			sbNode.name = 'apple-itunes-app';
+			sbNode.content = 'app-id=375380948, app-argument=http%3A%2F%2Fwww.apple.com%2Fshop%2Fbrowse_wo%2Fopen%2Fsalespolicies';
+			headNode.appendChild(sbNode);
+		}
+		
+		else if ( /(iPhone|iPod).*OS [6-9].*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) )
+		{
+			var headNode = document.getElementsByTagName("head")[0];
+			var sbNode = document.createElement('meta');
+			sbNode.name = 'apple-itunes-app';
+			sbNode.content = 'app-id=375380948, app-argument=http%3A%2F%2Fwww.apple.com%2Fshop%2Fbrowse_wo%2Fopen%2Fsalespolicies';
+			headNode.appendChild(sbNode);
+		}
+		
+	</script> 
+  <script>
+	//replace nojs class with js on html element
+	(function(html){
+		html.className = html.className.replace(/\bnojs\b/,'js')
+	})(document.documentElement);
+</script> 
+  <!--[if gte IE 9]><!--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs/rel/base.css" media="screen, print"> 
+  <!--<![endif]--> 
+  <!--[if IE 8]>
+<link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs/rel/base-ie8.css" media="screen, print" />
+<![endif]--> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/Catalog/regional/amr/css/aos-overrides.css" media="screen, print"> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/Catalog/US/Images/css/aos-local.css" media=""> 
+  <link rel="stylesheet" href="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-external/rel/us/external.css" media="screen, print"> 
+  <link rel="stylesheet" href="https://www.apple.com/wss/fonts?family=Myriad+Set+Pro&amp;weights=200,400,500,600,700&amp;v=1" media=""> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs-external/rel/external.js"></script> 
+  <script>
+	window.irOn=true;
+</script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs/rel/bootstrap.js"></script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs/rel/coherent.js"></script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs/rel/apple.js"></script> 
+  <script>
+	// Emits an extra bit to let FE know whether AI feedback is enabled.
+	Event.onLoad(window.apple.ai.init);
+</script> 
+  <script>
+        
+				window.chatButtonConfig = {
+					'disablePageLoadCall': false,
+					'onDemandChatType': false,
+					'infoURL': "http://www.apple.com/shop/client_info_chat",
+					'availURL': "http://www.apple.com/shop/button_availability?cs=product+selection&seg=consumer&css=salespolicies&pg=AOS%3A+open/salespolicies"
+				};
+			
+			
+			window.chatConfig = {"chat":{"page":[{"name":"WEB_CHAT_COUNTRY","value":"us"},{"name":"WEB_CHAT_LANGUAGE","value":"en"},{"name":"WEB_CHAT_GEO","value":"amr"},{"name":"WEB_CHAT_SEGMENT","value":"consumer"},{"name":"WEB_CHAT_SECTION","value":"product selection"},{"name":"WEB_CHAT_SUBSECTION","value":"salespolicies"},{"name":"WEB_CHAT_ORDERNUMBER","value":""},{"name":"WEB_CHAT_REFER","value":"AOS: open/salespolicies"}]}};
+													
+	</script> 
+  <!-- Template Based Off a Fragment --> 
+  <script type="text/mustache" id="{{chatForm}}">
+		
+			<form id="chatForm" action="{{url}}" target="chatWin" method="post">{{#inputs}}<input type={{type}} name="{{name}}" id="{{id}}" value="{{value}}" {{data "input"}} />{{/inputs}}</form>
+		
+	</script> 
+  <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs/rel/chat.js"></script> 
+  <style>
+div.plain-header-popup h1 {
+width: 200px;
+height: 30px;
+background-size: 148px;
+}
+</style> 
+  <script> 
+window.isAppleStoreAppDisabled = true; 
+</script> 
+  <script>
+// resize to fit in ipad asa modal
+Event.onLoad(function() {
+	var ua = window.navigator.userAgent.toLowerCase(),
+	ipad =  /ipad os/.test(ua);
+
+	if (ipad) {
+	var viewport = document.querySelector("meta[name=viewport]");
+	viewport.setAttribute('content', 'width=540, initial-scale=1.0');
+	}
+});
+</script> 
+  <script>
+		Event.onLoad(function () {
+			if (coherent.Browser.MobileSafari || coherent.Browser.AppleStoreApp)
+				$('close').style.display = 'none';
+		});
+	</script> 
+ </head> 
+ <body> 
+  <div class="metrics"> 
+   <!-- SiteCatalyst code version: H.8. Copyright 1997-2006 Omniture, Inc. More info available at http://www.omniture.com --> 
+   <noscript> 
+    <img alt="" width="1" height="1" src="http://metrics.apple.com/b/ss/applestoreWW,appleglobal,applestoreAMR,applestoreus/1/H.8--NS/0?pageName=No-Script:AOS%3A+open%2Fsalespolicies"> 
+   </noscript> 
+   <script>
+            
+            var s_account = "applestoreWW,appleglobal,applestoreAMR,applestoreus";
+        </script> 
+   <script src="http://store.storeimages.cdn-apple.com/4973/store.apple.com/shop/rs/rel/omniture.js"></script> 
+   <script>
+
+	
+
+            var ametrics = new apple.metrics.Metrics({
+                isHome: false,
+                storeId: "wHF2F2PHCCCX72KDY",
+                evarDataNodes: true
+            });
+
+			if (!ametrics.getVar) {
+  				 ametrics.getVar = ametrics.getPageLoadMetricsDataForVariable || function() {return '';};
+			}
+			
+            
+            <!-- Page identification tags -->
+            
+            
+            s.pageName = ametrics.pageName("AOS: open/salespolicies");
+                        
+                        
+            s.server = "m10028660";
+            s.hier1 = "open/salespolicies";
+            s.charSet = "UTF-8";
+            s.currencyCode = "USD";
+            
+            s.prop4 = "D=g";
+            s.prop5 = navigator.platform + ((window.devicePixelRatio || 0) >= 2 ? " 2x" : "");
+            s.prop5 = s.prop5.toLowerCase();
+            
+            s.prop8 = "AOS: open";
+            
+            s.prop19 = "AOS: US Consumer: open/salespolicies";
+            s.prop20 = "AOS: US Consumer";
+            
+            
+            
+            
+            
+            
+          
+            
+            
+            
+            
+            s.prop37 = ametrics.getProp37() || "";
+            s.prop40 = "10078";
+            
+            s.prop42 = ametrics.getProp42();
+            <!--  Changing to test the defensive code -->
+            s.eVar20 =  "" || ametrics.getVar('eVar20');
+            
+            
+            
+            
+            
+            
+                        
+            
+
+            
+                 s.products = ametrics.getProducts() || "";
+                s.events = "";
+            
+
+            
+
+            
+                s.eVar1 = ametrics.getEvar1() || "";
+                s.eVar2 = "";
+                s.eVar3 = "AOS: US Consumer";
+                s.eVar4 = "D=pageName"; 
+            
+            
+            
+			
+            
+
+            s.eVar19 = "D=c19";
+            
+            
+            
+            
+            
+                        
+			
+            
+                s.eVar30 = ametrics.getEvar30() || "www.apple.com";
+            
+ 			
+			s.eVar31 = ametrics.getEvar31();
+
+            s.linkInternalFilters = "javascript:,store.apple.com,secure.store.apple.com,secure1.store.apple.com,secure2.store.apple.com,epp.apple.com,secure1.epp.apple.com,storeint.apple.com,secure1.storeint.apple.com,www.apple.com,#";
+
+            if (ametrics.appendEvents) {
+                s.events = ametrics.appendEvents(s.events);
+            }
+            if (ametrics.getPageLoadTime) {
+                s.eVar9 = ametrics.getPageLoadTime();
+            }
+
+            
+			
+            ametrics.mark();            
+
+            <!-- DO NOT ALTER ANYTHING BELOW THIS LINE ! -->
+            var s_code = s.t();if(s_code)document.write(s_code);
+
+</script> 
+   <!-- End SiteCatalyst code version: H.8. --> 
+  </div>
+  <!-- /.metrics --> 
+  <script>
+		if(!/dssid2=[a-zA-Z0-9-]+(;|$)/.test(document.cookie) || !/as_dc=[a-zA-Z0-9-]+(;|$)/.test(document.cookie))
+		{
+			Event.onDomReady(function() {
+				var ie = document.createElement("IMG");
+				ie.src = '/shop/dc';
+				ie.width = ie.height = 1;
+				ie.style.display = "none";
+				ie.alt = "";
+				document.body.appendChild(ie);
+			});	
+		}
+	</script> 
+  <div class="plain-header-popup" id="_top"> 
+   <div id="header" class="clearfix"> 
+    <h1><span class="replaced">Apple Store</span></h1> 
+    <p id="close"><a href="javascript:window.close();">Close</a></p> 
+   </div> 
+   <div id="content"> 
+    <div class="section"> 
+     <h2> SALES &amp; REFUND TERMS AND CONDITIONS (“TERMS”) </h2> 
+     <div class="subsection"> 
+      <!-- Last Edited by Lauren 1/20/16 for exp2://Ticket/26521884 --> 
+      <!-- Last Edited by Cesar 10/30/15 for radar 23109796 --> 
+      <!-- Updated on 04.20.2015 - Tiffany W. - Espresso 22613437 --> 
+      <div class="topic" id="topic-1"> 
+       <h4>U.S. Sales and Refund Policy</h4> 
+       <p>Thanks for shopping at Apple. We appreciate the fact that you like to buy the cool stuff we build. We also want to make sure you have a rewarding experience while you’re exploring, evaluating, and purchasing our products, whether you’re at the Apple Online Store, in an Apple Retail Store, or on the phone with the Apple Contact Center. (To make it visually easier on both of us, we’ll refer to these entities as the “Apple Store” in this policy.)</p> 
+       <br> 
+       <p>As with any shopping experience, there are terms and conditions that apply to transactions at an Apple Store. We’ll be as brief as our attorneys will allow. The main thing to remember is that by placing an order or making a purchase at an Apple Store, you agree to the terms set forth below along with Apple’s&nbsp;<a href="http://www.apple.com/privacy" target="_blank" data-s-object-id="2d5921e6bc4ae14fe6abbf68964c6921" data-evar1="AOS: open/salespolicies | popup-content-1 | Astro Link | 0 | AOS: privacy" data-evar30="open/salespolicies/popup-content-1">Privacy Policy</a>&nbsp;and <a href="http://www.apple.com/legal/internet-services/terms/site.html" target="_blank">Terms of Use</a>.</p> 
+      </div> 
+      <div class="topic" id="topic-2"> 
+       <h4>Standard Return Policy</h4> 
+       <p>We fundamentally believe you will be thrilled with the products you purchase from the Apple Store. That’s because we go out of our way to ensure that they’re designed and built to be just what you need. We understand, however, that sometimes a product may not be what you expected it to be. In that unlikely event, we invite you to review the following terms related to returning a&nbsp;product.</p> 
+       <br> 
+       <p>For any undamaged product, simply return it with its included accessories and packaging along with the original receipt (or gift receipt) within 14 days of the date you receive the product, and we’ll exchange it or offer a refund based upon the original payment method. In addition, please note the following:</p> 
+       <br> 
+       <ul> 
+        <li>Products can be returned only in the country in which they were originally purchased.</li> 
+        <li>The following products are not eligible for return: electronic software downloads, subscriptions to the Software-Up-To-Date program, Apple Store Gift Cards, and any Apple Developer Connection products.</li> 
+        <li>For returns to an Apple Retail Store for cash, cash equivalent, and check transactions over $750, Apple will mail a refund check to you within 10 business days.</li> 
+        <li>Should you wish to return ten or more of the same product, you must return to the Apple Store where originally purchased.</li> 
+        <li>In the case of items returned with a gift receipt, Apple will offer you an Apple Gift Card.</li> 
+        <li>Opened software cannot be returned if it contained a seal with the software license on the outside of the package and you could read the software license before opening its packaging. As an exception, you may return Apple-branded software if you do not agree to the licensing terms; however, you may not retain or otherwise use any copies of returned software.</li> 
+        <li>Apple provides security features to enable you to protect your product in case of loss or theft. &nbsp;If these features have been activated and cannot be disabled by the person in possession of the&nbsp;phone, Apple may refuse the return or exchange.</li> 
+        <li>For complete details on how to return a product purchased at the Apple Store please visit the <a href="/shop/help/returns_refund" target="_blank" data-s-object-id="38e0c8fc248add51e29795e40ee7d545" data-evar1="AOS: open/salespolicies | popup-content-1 | Astro Link | 1 | AOS: help/returns_refund" data-evar30="open/salespolicies/popup-content-1">Returns &amp; Refunds</a> page.</li> 
+       </ul> 
+      </div> 
+      <div class="topic" id="topic-3"> 
+       <h4>Return of AppleCare+ under an iPhone Upgrade Program</h4> 
+       <p>Should you return the AppleCare+ portion of your iPhone Upgrade Program, please note that you will lose your Upgrade Option as set forth under the terms of the <a href="https://www.apple.com/legal/sales-support/iphoneupgrade_us" target="_blank" data-s-object-id="cd2cc402ffd25c6479dd73cce9f8b4c6" data-evar1="AOS: open/salespolicies | popup-content-1 | Astro Link | 2 | AOS: www.apple.com/legal/sales-support/iphoneupgrade_us" data-evar30="open/salespolicies/popup-content-1">iPhone Upgrade Program</a>.</p> 
+      </div> 
+      <div class="topic" id="topic-4"> 
+       <h4>iPhone and iPad Returns – Wireless Service Cancellation</h4> 
+       <p>Wireless carriers have different service-cancellation policies. Returning your iPhone or iPad may not automatically cancel or reset your wireless account; you are responsible for your wireless service agreement and for any applicable fees associated with your wireless account. <strong>Please contact your wireless service provider for more information.</strong></p> 
+      </div> 
+      <div class="topic" id="topic-5"> 
+       <h4>Apple Watch Returns</h4> 
+       <p>Apple Watch from the Edition collection may only be returned or exchanged if it’s in its original, undamaged and unmarked condition after passing inspection at Apple’s offsite facility. Depending on your original form of tender, a check, wire transfer, or refund to your debit/credit card will be issued within 10 business days provided the returned item is in its original condition.</p> 
+      </div> 
+      <div class="topic" id="topic-6"> 
+       <h4>Additional Apple Product Terms</h4> 
+       <p>The purchase and use of Apple products are subject to additional terms and conditions found at <a href="https://www.apple.com/legal/sla" target="_blank" data-s-object-id="be2893a44ab58f685768dd5a144d5bed" data-evar1="AOS: open/salespolicies | popup-content-1 | Astro Link | 3 | AOS: www.apple.com/legal/sla" data-evar30="open/salespolicies/popup-content-1">https://www.apple.com/legal/sla/</a>&nbsp;and&nbsp;<a href="http://www.apple.com/legal/warranty" target="_blank" data-s-object-id="92070eeb29c33ba39693bee116c8135f" data-evar1="AOS: open/salespolicies | popup-content-1 | Astro Link | 4 | AOS: legal/warranty" data-evar30="open/salespolicies/popup-content-1">https://www.apple.com/legal/warranty/</a>.</p> 
+       <br> 
+       <p>Making unauthorized modifications to the software on an iPhone violates the iPhone software license agreement. The common term for modifying an iPhone is jail-breaking, with a particular emphasis on the second part of that term. That’s why we strongly, almost emphatically, recommend that you do not do so. Really. Should you be unable to use your iPhone due to an unauthorized software modification, its repair will not be covered under the warranty.</p> 
+      </div> 
+      <div class="topic" id="topic-7"> 
+       <h4>Pricing and Price Reductions/Corrections</h4> 
+       <p>Apple reserves the right to change prices for products displayed at/on the Apple Store at any time, and to correct pricing errors that may inadvertently occur. Additional information about pricing and sales tax is available on the&nbsp;<a href="/shop/help/payments" target="_blank" data-s-object-id="412080f97c7358143c45b8706d1d8a62" data-evar1="AOS: open/salespolicies | popup-content-1 | Astro Link | 5 | AOS: help/payments" data-evar30="open/salespolicies/popup-content-1">Payment &amp; Pricing</a>&nbsp;page. In the event you have been charged more than the posted price for a product in an Apple Retail Store, please see a Manager for a refund of the overcharge.</p> 
+       <p>Should Apple reduce its price on any Apple-branded product within 14 calendar days from the date you receive your product, feel free to visit an Apple Retail Store or contact the Apple Contact Center at 1-800-676-2775 to request a refund or credit of the difference between the price you were charged and the current selling price. To receive the refund or credit you must contact Apple within 14 calendar days of the price change. Please note that this excludes limited-time price reductions, such as those that occur during special sales events, such as Black Friday or Cyber Monday.</p> 
+       <p>Price protection is only available for up to 10 units of a particular product. Additionally, we may require that you have the product with you or otherwise have proof of possession when requesting price protection.</p> 
+       <p>Prices shown are in U.S. dollars. If you are paying for your order with an international Visa, MasterCard, or American Express credit card,&nbsp;please note that the purchase price may fluctuate with exchange rates. In addition, your bank or credit card issuer may also charge you foreign&nbsp;conversion charges and fees, which may also increase the overall cost of your purchase. Please contact your bank or credit card&nbsp;issuer regarding these fees.</p> 
+      </div> 
+      <div class="topic" id="topic-8"> 
+       <h4>Order Acceptance/Confirmation</h4> 
+       <p>Apple may, in its sole discretion, refuse or cancel any order and limit order quantity. Apple may also require additional qualifying information prior to accepting or processing any order. Once we receive your Online or Call Center order, we’ll provide you with an email order confirmation. Your receipt of an order confirmation, however, does not signify Apple’s acceptance of your order, nor does it constitute confirmation of our offer to sell; we are simply confirming that we received your order. The Apple Store reserves the right at any time after receiving your order to accept or decline your order for any reason. If Apple cancels an order after you have already been billed, Apple will refund the billed&nbsp;amount.</p> 
+      </div> 
+      <div class="topic" id="topic-9"> 
+       <h4>Shipping &amp; Delivery</h4> 
+       <p>Please review the&nbsp;<a href="/shop/help/shipping_delivery" target="_blank" data-s-object-id="45e40ed5f6b8cd15c31e6c070717a1c5" data-evar1="AOS: open/salespolicies | popup-content-1 | Astro Link | 6 | AOS: help/shipping_delivery" data-evar30="open/salespolicies/popup-content-1">Shipping &amp; Pickup</a>&nbsp;page to learn about how and when you will receive the products you purchased from&nbsp;the Apple Store. Since the actual delivery of your order can be impacted by many events beyond Apple’s control once&nbsp;it leaves our facilities, Apple cannot be held liable for late deliveries. We will, however, work with you to ensure a smooth delivery.</p> 
+      </div> 
+      <div class="topic" id="topic-10"> 
+       <h4>In-Store Pickup and Return</h4> 
+       <p>Apple offers in-store pickup for many of the items available on the Online Store. Certain products and payment methods, however, may not qualify for in-store pickup. Only you or the person designated by you may pick up the item(s) purchased. A government-issued photo ID and order number will be required for pickup. Apple will notify you when your order is ready and the date by which you need to pick up your items. We’ll also send you a reminder or two, just in case it slips your mind. If you don’t pick up your order, Apple may cancel it. Please visit <a href="/shop/help/shipping_delivery" target="_blank" data-s-object-id="87d276bede74313534fc8e22f6e6f663" data-evar1="AOS: open/salespolicies | popup-content-1 | Astro Link | 7 | AOS: help/shipping_delivery" data-evar30="open/salespolicies/popup-content-1">http://apple.com/us/shop/help/shipping_delivery</a>&nbsp;for complete details about in-store pickup.</p> 
+      </div> 
+      <div class="topic" id="topic-11"> 
+       <h4>Pickup Contact</h4> 
+       <p>If you select in-store pickup, you may designate a third party to pick up your order. You must provide the name and email address of the third party. Please note that certain products and payment methods are not eligible for in-store pickup by a third party. The third party will need to bring a government issued photo ID and order number for pickup. Apple is not responsible for actions taken by the third party once your item(s) have been picked up.</p> 
+      </div> 
+      <div class="topic" id="topic-12"> 
+       <h4>Consumers Only</h4> 
+       <p>The Apple Store sells and ships products to end-user customers only, and we reserve the right to refuse or cancel your order if we suspect you are purchasing products for resale.</p> 
+      </div> 
+      <div class="topic" id="topic-13"> 
+       <h4>U.S. Shipping Only</h4> 
+       <p>Products purchased online from Apple will only be shipped&nbsp;to addresses&nbsp;within the U.S. and are subject to U.S. and foreign export control laws&nbsp;and regulations. Products must be purchased, sold, exported, re-exported, transferred, and used in compliance with these export laws and&nbsp;regulations.&nbsp;To purchase Apple products online from outside of the U.S., please <a href="/shop/browse/open/country_selector" target="_blank" data-s-object-id="7de97d5bf08f653caeeef2369f441391" data-evar1="AOS: open/salespolicies | popup-content-1 | Astro Link | 0 | AOS: open/country_selector" data-evar30="open/salespolicies/popup-content-1">click&nbsp;here</a>&nbsp;for international store information.</p> 
+      </div> 
+      <div class="topic" id="topic-14"> 
+       <h4>Product Availability and Limitations</h4> 
+       <p>Given the popularity and/or supply constraints of some of our products, Apple may have to limit the number of products available for purchase. Trust us, we’re building them as fast as we can. Apple reserves the right to change quantities available for purchase at any time, even after you place an order. Furthermore, there may be occasions when Apple confirms your order but subsequently learns that it cannot supply the ordered product. In the event we cannot supply a product you ordered, Apple will cancel the order and refund your purchase price in full.</p> 
+      </div> 
+      <!--
+<div class="topic" id="topic-15">
+  <h4>Express Checkout</h4>
+  <p>The <a href="#" astro:id="link" astro:url="node:standard/help/payments" target="_blank">Payment & Pricing</a> page describes the various methods you can use to pay for products at the Apple Store. The Apple Online Store also allows you to pay via Express Checkout. By activating and using Express Checkout, you agree to all of the terms set forth in this Sales Policy. Please note that if you use a public computer or otherwise share a computer with other users, you should turn off Express Checkout when you leave the computer. Or you may end up buying far more than you expected.</p>
+</div>
+MobileMe, and the AppleCare Protection Plan).</p>
+					  
+				</div>				
+--> 
+      <div class="topic" id="topic-16"> 
+       <h4>Gift Cards</h4> 
+       <p>For Apple Store Gift Card Terms and Conditions, please visit <a href="https://www.apple.com/legal/giftcards/applestore/" target="_blank">https://www.apple.com/legal/giftcards/applestore/</a>.</p> 
+      </div> 
+     </div> 
+    </div>
+    <!-- close .section --> 
+   </div> 
+  </div>   
+ </body>
+</html>

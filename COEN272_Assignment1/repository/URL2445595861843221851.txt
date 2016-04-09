@@ -1,0 +1,742 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9"> 
+  <meta charset="utf-8"> 
+  <meta name="Author" content="Apple Inc."> 
+  <meta name="robots" content="noodp"> 
+  <link rel="canonical" href="http://www.apple.com/music/"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalnav/2.0/en_US/styles/ac-globalnav.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/globalfooter/2.0/en_US/styles/ac-globalfooter.built.css"> 
+  <link rel="stylesheet" type="text/css" href="/ac/localnav/3.0/styles/ac-localnav.built.css"> 
+  <title>Music - Apple</title> 
+  <meta property="analytics-track" content="Music - Index/Tab"> 
+  <meta property="analytics-s-channel" content="music"> 
+  <meta property="analytics-s-bucket-0" content="appleglobal,apple{COUNTRY_CODE}music"> 
+  <meta property="analytics-s-bucket-1" content="apple{COUNTRY_CODE}global,apple{COUNTRY_CODE}music"> 
+  <meta property="analytics-s-bucket-2" content="apple{COUNTRY_CODE}global"> 
+  <meta name="Description" content="Stream from the entire Apple Music library. Tune in to free, live, 24/7 radio led by Zane Lowe. See and hear artist videos, audio, clips, and photos."> 
+  <meta property="og:url" content="http://www.apple.com/music/"> 
+  <meta property="og:title" content="Music"> 
+  <meta property="og:description" content="Stream from the entire Apple Music library. Tune in to free, live, 24/7 radio led by Zane Lowe. See and hear artist videos, audio, clips, and photos."> 
+  <meta property="og:image" content="http://images.apple.com/music/overview/images/og_image.jpg?201603281247"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:site_name" content="Apple"> 
+  <meta property="og:locale" content="en_US"> 
+  <link rel="stylesheet" href="/wss/fonts/?family=Myriad+Set+Pro&amp;v=1" type="text/css" media="all"> 
+  <link rel="stylesheet" href="http://images.apple.com/v/music/b/styles/music.built.css"> 
+  <link rel="stylesheet" href="http://images.apple.com/music/styles/music.built.css"> 
+  <link rel="stylesheet" href="http://images.apple.com/v/music/b/styles/overview.built.css"> 
+  <link rel="stylesheet" href="http://images.apple.com/music/styles/overview.built.css"> 
+  <link rel="stylesheet" href="http://images.apple.com/v/music/b/styles/giftcards.built.css"> 
+  <script src="http://images.apple.com/v/music/b/scripts/head.built.js" type="text/javascript" charset="utf-8"></script> 
+ </head> 
+ <body class="ac-gn-current-music"> 
+  <aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }"></aside> 
+  <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"> 
+  <nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-US" data-store-key="SFX9YPYY9PPXCU9KH" data-store-locale="us" data-store-api="/[storefront]/shop/bag/status" data-search-locale="en_US" data-search-api="/search-services/suggestions/"> 
+   <div class="ac-gn-content"> 
+    <ul class="ac-gn-header"> 
+     <li class="ac-gn-item ac-gn-menuicon"> <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span> </span> <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"> <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span> </span> </label> <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"> <span class="ac-gn-menuanchor-label">Open Menu</span> </a> <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"> <span class="ac-gn-menuanchor-label">Close Menu</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <ul class="ac-gn-list"> 
+     <li class="ac-gn-item ac-gn-apple"> <a class="ac-gn-link ac-gn-link-apple" href="/" data-analytics-title="apple home" id="ac-gn-firstfocus"> <span class="ac-gn-link-text">Apple</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-mac"> <a class="ac-gn-link ac-gn-link-mac" href="/mac/" data-analytics-title="mac"> <span class="ac-gn-link-text">Mac</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"> <a class="ac-gn-link ac-gn-link-ipad" href="/ipad/" data-analytics-title="ipad"> <span class="ac-gn-link-text">iPad</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"> <a class="ac-gn-link ac-gn-link-iphone" href="/iphone/" data-analytics-title="iphone"> <span class="ac-gn-link-text">iPhone</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-watch"> <a class="ac-gn-link ac-gn-link-watch" href="/watch/" data-analytics-title="watch"> <span class="ac-gn-link-text">Watch</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-tv"> <a class="ac-gn-link ac-gn-link-tv" href="/tv/" data-analytics-title="tv"> <span class="ac-gn-link-text">TV</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-music"> <a class="ac-gn-link ac-gn-link-music" href="/music/" data-analytics-title="music"> <span class="ac-gn-link-text">Music</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-support"> <a class="ac-gn-link ac-gn-link-support" href="/support/" data-analytics-title="support"> <span class="ac-gn-link-text">Support</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"> <a class="ac-gn-link ac-gn-link-search" href="/us/search" data-analytics-title="search" data-analytics-click="search" aria-label="Search apple.com"> <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com</span> </a> </li> 
+     <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"> <a class="ac-gn-link ac-gn-link-bag" href="/us/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Shopping Bag" data-string-badge="Shopping Bag with Items"> <span class="ac-gn-link-text">Shopping Bag</span> <span class="ac-gn-bag-badge" aria-hidden="true"></span> </a> <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span> </li> 
+    </ul> 
+    <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"> 
+     <div class="ac-gn-searchview-content"> 
+      <form id="ac-gn-searchform" class="ac-gn-searchform" action="/us/search" method="get"> 
+       <div class="ac-gn-searchform-wrapper"> 
+        <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" name="" placeholder="Search apple.com" data-placeholder-long="Search for Products, Stores, and Help" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false"> 
+        <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav"> 
+        <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Submit"></button> 
+        <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Clear Search"></button> 
+       </div> 
+      </form> 
+      <aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" data-string-noresults="Hit enter to search."></aside> 
+     </div> 
+     <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search"> <span class="ac-gn-searchview-close-wrapper"> <span class="ac-gn-searchview-close-left"></span> <span class="ac-gn-searchview-close-right"></span> </span> </button> 
+    </aside> 
+    <aside class="ac-gn-bagview" data-analytics-region="bag"> 
+     <div class="ac-gn-bagview-scrim"> 
+      <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span> 
+     </div> 
+     <div class="ac-gn-bagview-content" id="ac-gn-bagview-content"> 
+     </div> 
+    </aside> 
+   </div> 
+  </nav> 
+  <div id="ac-gn-curtain" class="ac-gn-curtain"></div> 
+  <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div> 
+  <script type="text/javascript" src="/ac/globalnav/2.0/en_US/scripts/ac-globalnav.built.js"></script> 
+  <script src="/metrics/ac-analytics/1.1/scripts/ac-analytics.js" type="text/javascript" charset="utf-8"></script> 
+  <input type="checkbox" id="ac-ln-menustate" class="ac-ln-menustate"> 
+  <nav id="ac-localnav" class="no-js ac-ln-switch" lang="en-US" role="navigation" data-analytics-region="local nav" data-sticky> 
+   <div class="ac-ln-wrapper"> 
+    <div class="ac-ln-background"></div> 
+    <div class="ac-ln-content"> 
+     <h2 class="ac-ln-title"> <a href="/music/" data-analytics-title="product index"><span>Apple Music</span></a> </h2> 
+     <div class="ac-ln-menu"> 
+      <div class="ac-ln-menu-tray"> 
+       <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open"> <span class="ac-ln-menucta-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close"> <span class="ac-ln-menucta-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-ln-menu-items"> 
+        <li class="ac-ln-menu-item"> <a href="/music/discover/" class="ac-ln-menu-link localnav-link" data-jump-section-name="discover" data-analytics-title="discover">Discover</a> </li> 
+        <li class="ac-ln-menu-item"> <a href="/music/radio/" class="ac-ln-menu-link localnav-link" data-jump-section-name="radio" data-analytics-title="radio">Radio</a> </li> 
+        <li class="ac-ln-menu-item"> <a href="/music/connect/" class="ac-ln-menu-link localnav-link" data-jump-section-name="connect" data-analytics-title="connect">Connect</a> </li> 
+        <li class="ac-ln-menu-item"> <a href="/music/guided-tours/" class="ac-ln-menu-link localnav-link" data-jump-section-name="guided-tours" data-analytics-title="guided-tours">Guided Tours</a> </li> 
+        <li class="ac-ln-menu-item"> <a href="/music/membership/" class="ac-ln-menu-link localnav-link" data-jump-section-name="membership" data-analytics-title="membership">Membership</a> </li> 
+       </ul> 
+      </div> 
+      <div class="ac-ln-actions ac-ln-actions-center"> 
+       <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true"> 
+        <label for="ac-ln-menustate" class="ac-ln-menucta"> <span class="ac-ln-menucta-chevron"></span> </label> 
+       </div> 
+       <div class="ac-ln-action ac-ln-action-button"> 
+        <a class="ac-ln-button" href="http://itunes.apple.com/subscribe?app=music&amp;at=1000l4QJ&amp;ct=subscribe&amp;itscg=1002" data-analytics-title="buy apple music">Try <span class="ac-ln-action-product">Apple Music</span></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </nav> 
+  <label id="ac-ln-curtain" for="ac-ln-menustate"></label> 
+  <script type="text/javascript" src="/ac/localnav/3.0/scripts/ac-localnav.built.js"></script> 
+  <main class="main page-overview" role="main" data-page-type="overview"> 
+   <section class="section section-dark section-hero section-hero-overview" data-section-type="OverviewHeroSection" data-analytics-section-engagement="name:hero"> 
+    <div class="section-background"> 
+     <div class="section-bleed"> 
+      <video tabindex="-1" src="http://images.apple.com/media/us/music/2015/758e7234_576d_4c94_8dc0_54994631d0fb/overview/hero.mp4"></video> 
+      <div class="video-fade"></div> 
+     </div> 
+    </div> 
+    <div class="section-foreground"> 
+     <div class="hero-headline"> 
+      <div class="section-image"></div> 
+      <div class="section-content"> 
+       <h1 class="hero-copy">Free, three-month trial of Apple&nbsp;Music now available.<sup>1</sup></h1> 
+       <p> <a href="http://itunes.apple.com/subscribe?app=music&amp;at=1000l4QJ&amp;ct=1&amp;itscg=1002" class="icon icon-external">Start your free trial now</a> <a href="/music/guided-tours/" class="icon icon-chevronright">Watch the Guided Tours</a> </p> 
+      </div> 
+      <span class="icon icon-paddledown" aria-hidden="true">&nbsp;</span> 
+     </div> 
+     <div class="hero-intro"> 
+      <div class="section-content"> 
+       <h2 class="intro-headline"> All the ways you love&nbsp;music. <br class="small-hide"> All&nbsp;in one&nbsp;place. </h2> 
+       <p class="intro-copy"> We are profoundly passionate about music.&nbsp;It’s a force that’s driven and inspired&nbsp;us&nbsp;from day one. So we’ve set out to make it better. To&nbsp;bring you more&nbsp;music than ever with access to over 30 million songs for just $9.99 a&nbsp;month,&nbsp;or $14.99 for your family.<sup>2</sup> To give you personal recommendations from&nbsp;people who know and love music.&nbsp;To deepen the connection between&nbsp;artists and fans. To&nbsp;reimagine radio with a 24/7, global station. <br class="small-hide"> This is Apple&nbsp;Music. And&nbsp;it’s just the&nbsp;beginning. <br><br> <a href="http://itunes.apple.com/subscribe?app=music&amp;at=1000l4QJ&amp;ct=subscribe&amp;itscg=1002" class="icon icon-external">Start your free, three-month trial</a> <a href="/music/membership/" class="more">Learn more about Membership</a> </p> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section tabindex="0" class="section section-pink section-fullheight section-foryou" data-jump-section-name="discover" data-section-type="OverviewForYouSection" data-analytics-section-engagement="name:for-you"> 
+    <div class="section-background"> 
+     <div class="section-bleed"> 
+      <ul class="bubbles"> 
+       <li class="bubble" data-nth-child="0"><span class="bubble-copy">JOHN LEGEND</span></li> 
+       <li class="bubble bubble-large" data-nth-child="1"><span class="bubble-copy">ONE REPUBLIC</span></li> 
+       <li class="bubble bubble-large" data-nth-child="2"><span class="bubble-copy">DRAKE</span></li> 
+       <li class="bubble bubble-large" data-nth-child="3"><span class="bubble-copy">IMAGINE DRAGONS</span></li> 
+       <li class="bubble" data-nth-child="4"><span class="bubble-copy">SAM HUNT</span></li> 
+       <li class="bubble" data-nth-child="5"><span class="bubble-copy">JASON DERULO</span></li> 
+       <li class="bubble" data-nth-child="6"><span class="bubble-copy">CHRIS BROWN</span></li> 
+       <li class="bubble bubble-large" data-nth-child="7"><span class="bubble-copy">KATY PERRY</span></li> 
+       <li class="bubble" data-nth-child="8"><span class="bubble-copy">NE-YO</span></li> 
+       <li class="bubble" data-nth-child="9"><span class="bubble-copy">THE WEEKND</span></li> 
+       <li class="bubble bubble-large" data-nth-child="10"><span class="bubble-copy">NIRVANA</span></li> 
+       <li class="bubble" data-nth-child="11"><span class="bubble-copy">HOZIER</span></li> 
+       <li class="bubble" data-nth-child="12"><span class="bubble-copy">CALVIN HARRIS</span></li> 
+       <li class="bubble" data-nth-child="13"><span class="bubble-copy">FALL OUT BOY</span></li> 
+       <li class="bubble" data-nth-child="14"><span class="bubble-copy">SIA</span></li> 
+       <li class="bubble bubble-large" data-nth-child="15"><span class="bubble-copy">MAROON&nbsp;5</span></li> 
+       <li class="bubble" data-nth-child="16"><span class="bubble-copy">BEST COAST</span></li> 
+       <li class="bubble bubble-large" data-nth-child="17"><span class="bubble-copy">MEGHAN TRAINOR</span></li> 
+       <li class="bubble bubble-large" data-nth-child="18"><span class="bubble-copy">NICK JONAS</span></li> 
+       <li class="bubble bubble-large" data-nth-child="19"><span class="bubble-copy">ARIANA GRANDE</span></li> 
+       <li class="bubble" data-nth-child="20"><span class="bubble-copy">PITBULL</span></li> 
+       <li class="bubble bubble-large" data-nth-child="21"><span class="bubble-copy">ED SHEERAN</span></li> 
+       <li class="bubble bubble-large" data-nth-child="22"><span class="bubble-copy">IGGY AZALEA</span></li> 
+       <li class="bubble" data-nth-child="23"><span class="bubble-copy">SAM SMITH</span></li> 
+       <li class="bubble" data-nth-child="24"><span class="bubble-copy">CALVIN HARRIS</span></li> 
+       <li class="bubble bubble-large" data-nth-child="25"><span class="bubble-copy">FALLOUT BOY</span></li> 
+       <li class="bubble bubble-large" data-nth-child="26"><span class="bubble-copy">JESSIE&nbsp;J</span></li> 
+       <li class="bubble bubble-large" data-nth-child="27"><span class="bubble-copy">SIA</span></li> 
+       <li class="bubble bubble-large" data-nth-child="28"><span class="bubble-copy">MAROON&nbsp;5</span></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="section-foreground"> 
+     <div class="section-content"> 
+      <div class="row"> 
+       <div class="column large-5 medium-6 small-12"> 
+        <div class="content-copy"> 
+         <div class="copy-container" data-analytics-region="learn more"> 
+          <h2> It’s&nbsp;all&nbsp;your&nbsp;music. </h2> 
+          <p>When you’re a member, all the music you already have lives alongside the entire Apple Music library. With so much great music to hear, it’s nice to have someone in the know helping you find exactly the right tracks. Our experts handpick songs, artists, and albums based on what you listen to and like. And anytime you want to find out what’s going on in the world of music, our experts are there to give you their take on the freshest&nbsp;and most relevant stuff around.</p> 
+          <p class="more-block"><a href="/music/discover/" class="more">Learn more</a></p> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="column large-6 large-offset-1 medium-offset-0 small-12"> 
+        <div class="content-hardware"> 
+         <div class="hardware-container"> 
+          <figure class="image-music-phone"> 
+           <div> 
+            <figure class="image-music-music-01-screen"></figure> 
+            <figure class="image-music-music-02-screen"></figure> 
+            <figure class="image-music-music-03-screen"></figure> 
+           </div> 
+          </figure> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section tabindex="0" class="section section-dark section-fullheight section-radio" data-jump-section-name="radio" data-section-type="OverviewRadioSection" data-analytics-section-engagement="name:radio"> 
+    <div class="section-background"> 
+     <div class="section-bleed"> 
+      <div class="radio-location" id="la" data-index="1"> 
+       <div class="radio-location-transparent"></div> 
+       <div class="radio-location-deselected"></div> 
+       <div class="radio-location-selected"></div> 
+       <p>Los Angeles</p> 
+      </div> 
+      <div class="radio-location" id="ny" data-index="2"> 
+       <div class="radio-location-transparent"></div> 
+       <div class="radio-location-deselected"></div> 
+       <div class="radio-location-selected"></div> 
+       <p>New York</p> 
+      </div> 
+      <div class="radio-location" id="london" data-index="3"> 
+       <div class="radio-location-transparent"></div> 
+       <div class="radio-location-deselected"></div> 
+       <div class="radio-location-selected"></div> 
+       <p>London</p> 
+      </div> 
+      <div class="radio-gradient"></div> 
+      <div id="globe-data" data-heightmap-src="http://images.apple.com/media/us/music/2015/758e7234_576d_4c94_8dc0_54994631d0fb/radio/assets/globe/globe.png" data-label-la-path="http://images.apple.com/media/us/music/2015/758e7234_576d_4c94_8dc0_54994631d0fb/radio/assets/globe/globe_callout_la_large.png" data-label-nyc-path="http://images.apple.com/media/us/music/2015/758e7234_576d_4c94_8dc0_54994631d0fb/radio/assets/globe/globe_callout_nyc_large.png" data-label-lon-path="http://images.apple.com/media/us/music/2015/758e7234_576d_4c94_8dc0_54994631d0fb/radio/assets/globe/globe_callout_lon_large.png"></div> 
+     </div> 
+    </div> 
+    <div class="section-foreground"> 
+     <div class="section-content"> 
+      <div class="row"> 
+       <div class="column large-5 medium-6 small-12"> 
+        <div class="content-copy"> 
+         <div class="copy-container" data-analytics-region="learn more"> 
+          <h2>Beats&nbsp;1.<br class="small-hide"> The&nbsp;world’s<br class="small-hide"> local&nbsp;station.</h2> 
+          <p>This is radio as it’s never been done before. Beats&nbsp;1 brings you the latest music, interviews, and culture, 24/7. And it’s free — even without an Apple Music membership. Tune in to this shared listening experience, broadcast worldwide from our studios in Los Angeles, New York, and London. For members, we’ve also brought a fresh eye (and ear) to the rest of our radio stations. Our music experts have totally revamped each one to bring you a fresh take on the genres you&nbsp;love.</p> 
+          <p class="more-block"><a href="/music/radio/" class="more">Learn more about Radio</a></p> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="column large-6 large-offset-1 medium-offset-0 small-12"> 
+        <div class="content-hardware"> 
+         <div class="hardware-container"> 
+          <figure class="image-music-phone"> 
+           <div>
+            <figure class="image-music-radio-01-screen"></figure>
+           </div> 
+          </figure> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section tabindex="0" class="section section-blue section-fullheight section-connect" data-jump-section-name="connect" data-section-type="OverviewConnectSection" data-analytics-section-engagement="name:connect"> 
+    <div class="section-background"> 
+     <div class="section-bleed" data-video-fallback-src="http://images.apple.com/v/music/b/images/heros/connect-small.gif"> 
+      <video tabindex="-1" src="http://images.apple.com/media/us/music/2015/758e7234_576d_4c94_8dc0_54994631d0fb/overview/connect.mp4" loop></video> 
+     </div> 
+    </div> 
+    <div class="section-foreground"> 
+     <div class="section-content"> 
+      <div class="row"> 
+       <div class="column large-5 medium-6 small-12"> 
+        <div class="content-copy"> 
+         <div class="copy-container" data-analytics-region="learn more"> 
+          <h2> Where artists and&nbsp;fans&nbsp;come together. </h2> 
+          <p>Connect is a place where fans can engage with their favorite artists. They can see, comment on, like, and share whatever exciting material an artist chooses to post. Unreleased demo tracks, an acoustic version of the latest hit, a video shot in the studio — it’s right here and straight from the source.</p> 
+          <p class="more-block"><a href="/music/connect/" class="more">Learn more about Connect</a></p> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="column large-6 large-offset-1 medium-offset-0 small-12"> 
+        <div class="content-hardware"> 
+         <div class="hardware-container"> 
+          <figure class="image-music-phone"> 
+           <div>
+            <figure class="image-music-connect-01-screen"></figure>
+           </div> 
+          </figure> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-dark section-fullheight section-guided-tours" data-jump-section-name="guided-tours" data-section-type="OverviewGuidedToursSection" data-analytics-section-engagement="name:guided-tours"> 
+    <div class="section-background"> 
+     <div class="section-bleed"> 
+     </div> 
+    </div> 
+    <div class="section-foreground"> 
+     <div class="section-content"> 
+      <div class="row"> 
+       <div class="column large-5 medium-6 small-12"> 
+        <div class="content-copy"> 
+         <div class="copy-container" data-analytics-region="learn more"> 
+          <h2>Watch&nbsp;the Guided&nbsp;Tours.</h2> 
+          <p>Learn where to find and how to use all the amazing features and content in Apple Music. You’ll discover shortcuts and tips to help you make the most of your listening experience.</p> 
+          <p class="more-block"><a href="/music/guided-tours/" class="more">Explore now</a></p> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="column large-6 large-offset-1 medium-offset-0 small-12"> 
+        <div class="content-hardware"> 
+         <div class="hardware-container"> 
+          <figure class="image-music-phone-white"> 
+           <div>
+            <figure class="image-music-tours-01-screen"></figure>
+           </div> 
+          </figure> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-light section-membership" data-analytics-section-engagement="name:membership" data-jump-section-name="membership"> 
+    <div class="section-content"> 
+     <div class="row"> 
+      <div class="column small-12 large-6"> 
+       <h2>Free, three?month<br class="small-hide"> trial&nbsp;membership.</h2> 
+      </div> 
+      <div class="column small-12 large-6" data-analytics-region="learn more"> 
+       <p class="paragraph-top-offset">Experience Apple Music for three months, free. Whether you’re listening solo or looking for entertainment for the whole family, Apple Music has a membership that’s right for you. Individual memberships are $9.99 a month. And for a family, it’s just $14.99&nbsp;a&nbsp;month.</p> 
+       <p> <a href="/music/membership/" class="more">Learn more about Membership</a> </p> 
+       <p> <a href="http://itunes.apple.com/subscribe?app=music&amp;at=1000l4QJ&amp;ct=2&amp;itscg=1002" class="icon icon-external">Start your free trial now</a> </p> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-light section-devices" data-analytics-section-engagement="name:devices"> 
+    <div class="section-content platforms content-center"> 
+     <div class="row row-1 platform-icons six-up"> 
+      <div class="column large-3 small-10 small-centered" data-animate-in-slide="{&quot;delay&quot;:&quot;0.0&quot;, &quot;duration&quot;:&quot;0.6&quot;,&quot;shouldFadeIn&quot;:true, &quot;shouldSlideIn&quot;:true}"> 
+       <figure class="platform-icon multi-row image-icon-ios"></figure> 
+       <h4 class="caption-headline">iOS</h4> 
+       <p class="caption-copy">Update to the latest <br class="small-hide">iOS and launch Music.</p> 
+      </div> 
+      <div class="column large-3 small-10 small-centered" data-animate-in-slide="{&quot;delay&quot;:&quot;0.1&quot;, &quot;duration&quot;:&quot;0.7&quot;,&quot;shouldFadeIn&quot;:true, &quot;shouldSlideIn&quot;:true}"> 
+       <figure class="platform-icon multi-row image-icon-watch"></figure> 
+       <h4 class="caption-headline">Apple Watch</h4> 
+       <p class="caption-copy">Update from a <br class="small-hide">paired iPhone.<sup>*</sup></p> 
+      </div> 
+      <div class="column large-3 small-10 small-centered" data-animate-in-slide="{&quot;delay&quot;:&quot;0.2&quot;, &quot;duration&quot;:&quot;0.8&quot;,&quot;shouldFadeIn&quot;:true, &quot;shouldSlideIn&quot;:true}"> 
+       <figure class="platform-icon multi-row image-icon-carplay"></figure> 
+       <h4 class="caption-headline">CarPlay</h4> 
+       <p class="caption-copy">Available on vehicles <br> equipped with <a href="/ios/carplay/" class="more">CarPlay</a></p> 
+      </div> 
+      <div class="column large-3 small-10 small-centered" data-animate-in-slide="{&quot;delay&quot;:&quot;0.3&quot;, &quot;duration&quot;:&quot;0.9&quot;, &quot;shouldFadeIn&quot;:true, &quot;shouldSlideIn&quot;:true}"> 
+       <figure class="platform-icon multi-row image-icon-appletv"></figure> 
+       <h4 class="caption-headline">Apple TV</h4> 
+       <p class="caption-copy">Available on the <br class="small-hide">new&nbsp;Apple&nbsp;TV.</p> 
+      </div> 
+     </div> 
+     <div class="row platform-icons six-up"> 
+      <div class="column large-3 small-10 small-centered" data-animate-in-slide="{&quot;delay&quot;:&quot;0.4&quot;, &quot;duration&quot;:&quot;1.0&quot;, &quot;shouldFadeIn&quot;:true, &quot;shouldSlideIn&quot;:true}"> 
+       <figure class="platform-icon multi-row image-icon-mac"></figure> 
+       <h4 class="caption-headline">Mac</h4> 
+       <p class="caption-copy"><a href="/itunes/download/" class="more">Update to the <br class="small-hide">latest&nbsp;iTunes</a></p> 
+      </div> 
+      <div class="column large-3 small-10 small-centered" data-animate-in-slide="{&quot;delay&quot;:&quot;0.5&quot;, &quot;duration&quot;:&quot;1.1&quot;, &quot;shouldFadeIn&quot;:true, &quot;shouldSlideIn&quot;:true}"> 
+       <figure class="platform-icon multi-row image-icon-pc"></figure> 
+       <h4 class="caption-headline">PC</h4> 
+       <p class="caption-copy"><a href="/itunes/download/" class="more">Update to the <br class="small-hide">latest&nbsp;iTunes</a></p> 
+      </div> 
+      <div class="column large-3 small-10 small-centered" data-animate-in-slide="{&quot;delay&quot;:&quot;0.6&quot;, &quot;duration&quot;:&quot;1.2&quot;, &quot;shouldFadeIn&quot;:true, &quot;shouldSlideIn&quot;:true}"> 
+       <figure class="platform-icon multi-row image-icon-android"></figure> 
+       <h4 class="caption-headline">Android</h4> 
+       <p class="caption-copy"><a href="https://play.google.com/store/apps/details?id=com.apple.android.music" class="icon icon-external">Download the beta <br> on Google Play</a></p> 
+      </div> 
+      <div class="column large-3 small-10 small-centered" data-animate-in-slide="{&quot;delay&quot;:&quot;0.7&quot;, &quot;duration&quot;:&quot;1.3&quot;, &quot;shouldFadeIn&quot;:true, &quot;shouldSlideIn&quot;:true}"> 
+       <figure class="platform-icon multi-row image-icon-sonos"></figure> 
+       <h4 class="caption-headline">Sonos</h4> 
+       <p class="caption-copy"><a href="http://apple.co/sonos" class="icon icon-external">Download the <br class="small-hide">Sonos app</a></p> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-light section-giftcards" data-analytics-section-engagement="#####"> 
+    <div class="section-card"> 
+     <div class="content-width"> 
+      <div class="row"> 
+       <div class="column large-5 large-push-7 small-push-0 small-12 column-copy"> 
+        <div class="large-vertical-center small-vertical-reset" data-analytics-region="#####"> 
+         <h3> 
+          <figure class="icon-giftcards"></figure> Apple Music Gift Cards </h3> 
+         <p>Give music lovers a whole new way to play, discover, share, and connect with the sounds that move them.</p> 
+         <p class="mail-giftcard"><a href="http://www.apple.com/shop/personalize/itunes?product=ITUNES_GIFT_CARDS-101703" class="more">Mail a gift card</a></p> 
+         <p class="email-giftcard"><a href="https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/buyLandingPage" class="icon icon-external">Email a gift card</a></p> 
+         <p>Already have an Apple Music Gift Card? <a href="https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/redeemLandingPage" class="icon icon-external">Redeem</a></p> 
+        </div> 
+       </div> 
+       <div class="column large-6 large-pull-6 small-pull-0 small-12"> 
+        <figure data-animate-in-slide class="image-giftcards"></figure> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-light section-itunes" data-section-type="OverviewITunesSection" data-analytics-section-engagement="name:itunes"> 
+    <div class="section-lightgrey section-hardware"> 
+     <div class="content-width"> 
+      <div class="row"> 
+       <div class="column large-5 large-push-7 small-push-0 small-12 column-copy"> 
+        <div class="large-vertical-center small-vertical-reset" data-analytics-region="learn more"> 
+         <h3> 
+          <figure class="headline-icon image-icon-itunes"></figure> iTunes </h3> 
+         <p>The heart of Apple Music and home to a universe of entertainment. Movies, television, music, and&nbsp;more all come together here.</p> 
+         <p><a href="/itunes/" class="more">Learn more about iTunes</a></p> 
+         <p><a href="/itunes/working-itunes/" class="more">Working with iTunes</a></p> 
+        </div> 
+       </div> 
+       <div class="column large-7 large-pull-5 small-pull-0 small-12 column-hardware"> 
+        <a href="/itunes/">
+         <figure class="image-itunes-hw"></figure></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-light section-ipods" data-analytics-section-engagement="name:ipods" data-section-type="OverviewIpodsSection"> 
+    <div class="section-bleed content-spacing"> 
+     <div class="content-width"> 
+      <div class="row"> 
+       <div class="column large-5 large-push-7 small-push-0 small-12 column-copy"> 
+        <div class="large-vertical-center small-vertical-reset" data-analytics-region="learn more"> 
+         <h3> 
+          <figure class="headline-icon image-icon-ipod"></figure> iPod </h3> 
+         <p>The music you love. On the go.<sup>3</sup></p> 
+         <p><a href="/ipod/" class="more">Learn more about iPod</a></p> 
+        </div> 
+       </div> 
+       <div class="column large-7 large-pull-5 small-pull-0 small-12 column-hardware"> 
+        <div class="ipod-hardware"> 
+         <a href="/ipod/"> 
+          <figure data-animate-in-slide class="image-ipod-shuffle"></figure> 
+          <figure data-animate-in-slide class="image-ipod-nano-back"></figure> 
+          <figure data-animate-in-slide class="image-ipod-nano"></figure> 
+          <figure data-animate-in-slide class="image-ipod-touch"></figure> </a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-light section-beats" data-section-type="OverviewBeatsSection" data-analytics-section-engagement="name:beats"> 
+    <div class="section-bleed section-lightgrey"> 
+     <div class="row"> 
+      <div class="column large-6 small-12"> 
+       <a href="/us/shop/goto/accessories/audio_music" class="column-first block"> 
+        <figure class="image-headphones"></figure> <h4 class="caption-headline">Shop headphones</h4> </a> 
+      </div> 
+      <a href="http://www.apple.com/us/shop/goto/buy_accessories/speakers" class="column large-6 small-12"> 
+       <div class="column-second"> 
+        <figure class="image-speakers image-beats-plus"></figure> 
+        <h4 class="caption-headline">Shop speakers</h4> 
+       </div> </a> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-light section-social" data-analytics-section-engagement="name:social"> 
+    <div class="section-content"> 
+     <div class="social-container"> 
+      <ul class="social-icons"> 
+       <li class="social-icon facebook"><a href="http://www.facebook.com/applemusic" class="icon icon-facebook" aria-label="Apple Music on Facebook" data-analytics-click="prop3:facebook@share"></a></li> 
+       <li class="social-icon twitter"><a href="http://www.twitter.com/applemusic" class="icon icon-twitter" aria-label="Apple Music on Twitter" data-analytics-click="prop3:twitter@share"></a></li> 
+       <li class="social-icon instagram"><a href="https://instagram.com/applemusic" class="icon icon-instagram" aria-label="Apple Music on Instagram" data-analytics-click="prop3:instagram@share"></a></li> 
+       <li class="social-icon tumblr"><a href="http://applemusic.tumblr.com" class="icon icon-tumblr" aria-label="Apple Music on Tumblr" data-analytics-click="prop3:tumblr@share"></a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </section> 
+  </main> 
+  <div class="main-next" aria-hidden="true"> 
+   <section class="section section-dark section-hero section-hero-discover" data-section-type="HeroSection" data-analytics-section-engagement="name:hero"> 
+    <div class="hero-headline"> 
+     <div class="section-image"></div> 
+     <div class="section-content"> 
+      <h1><span class="eyebrow">Discover</span> All the music you already have. And&nbsp;all the music you could ever&nbsp;want. </h1> 
+     </div> 
+     <span class="icon icon-paddledown" aria-hidden="true">&nbsp;</span> 
+    </div> 
+    <div class="hero-intro"> 
+     <div class="section-content"> 
+      <p class="intro-copy">For Apple Music members, the collection you own and love is just the beginning. Now&nbsp;you can also listen to the tens of millions of tracks in the Apple Music library. Our dedicated team of experts is here to help you find new music to love. Enjoy&nbsp;recommendations handpicked just for you or explore everything they find&nbsp;that’s new and noteworthy in the world of music. It’s&nbsp;all yours.</p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-dark section-hero section-hero-radio" data-section-type="HeroSection" data-analytics-section-engagement="name:hero"> 
+    <div class="hero-headline"> 
+     <div class="section-image"></div> 
+     <div class="section-content"> 
+      <h1><span class="eyebrow">Radio</span> Not just radio reimagined.<br class="medium-hide"> Radio like you’ve never imagined. </h1> 
+      <p> <a href="http://itunes.apple.com/subscribe?app=music&amp;at=1000l4QJ&amp;ct=12&amp;itscg=1002" class="icon icon-external">Start your free, three-month trial<sup>1</sup></a> <a id="guided-tours-radio-film" class="ac-video poster-link" href="http://images.apple.com/media/us/music/2015/ffc4c6f7-b97d-4628-99d1-c9aa658bc3c9/guided-tours/radio/music-radio-cc-us-20150916_r848-9dwc.mov" data-analytics-id="radio-guided-tour-film">Watch the “Radio” Guided Tour<span class="icon icon-playalt"></span></a> </p> 
+     </div> 
+     <span class="icon icon-paddledown" aria-hidden="true">&nbsp;</span> 
+    </div> 
+    <div class="hero-intro"> 
+     <div class="section-content"> 
+      <p class="intro-copy radio-copy">Tune in to Beats&nbsp;1. It’s free for everyone — even if you’re not an Apple Music member. Broadcasting live from cities around the globe, Zane Lowe and his handpicked team of renowned DJs create an eclectic mix of the latest and best in music. Members can also dial in to on-demand stations that have been totally revamped.</p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-dark section-hero section-hero-connect" data-section-type="HeroSection" data-analytics-section-engagement="name:hero"> 
+    <div class="hero-headline"> 
+     <div class="section-image"></div> 
+     <div class="section-content"> 
+      <h1><span class="eyebrow">Connect</span> Artists. Fans.<br class="small-hide"> Zero&nbsp;interference. </h1> 
+      <p> <a id="guided-tours-connect-film" class="ac-video poster-link" href="http://images.apple.com/media/us/music/2015/ffc4c6f7-b97d-4628-99d1-c9aa658bc3c9/guided-tours/connect/music-connect-cc-us-20150916_r848-9dwc.mov" data-analytics-id="connect-guided-tour-film">Watch the “Connect” Guided Tour<span class="icon icon-playalt"></span></a> </p> 
+     </div> 
+     <span class="icon icon-paddledown" aria-hidden="true">&nbsp;</span> 
+    </div> 
+    <div class="hero-intro"> 
+     <div class="section-content"> 
+      <p class="intro-copy">Connect is a place where musicians give their&nbsp;fans a closer look at their work, their&nbsp;inspirations, and their world. It’s&nbsp;a&nbsp;main line into the heart of music&nbsp;—&nbsp;great&nbsp;stuff straight from the&nbsp;artists.</p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-dark section-hero section-hero-radio" data-section-type="HeroSection" data-analytics-section-engagement="name:hero"> 
+    <div class="hero-headline"> 
+     <div class="section-image"></div> 
+     <div class="section-content"> 
+      <h1><span class="eyebrow">Radio</span> Not just radio reimagined.<br class="medium-hide"> Radio like you’ve never imagined. </h1> 
+      <p> <a href="http://itunes.apple.com/subscribe?app=music&amp;at=1000l4QJ&amp;ct=12&amp;itscg=1002" class="icon icon-external">Start your free, three-month trial<sup>1</sup></a> <a id="guided-tours-radio-film" class="ac-video poster-link" href="http://images.apple.com/media/us/music/2015/ffc4c6f7-b97d-4628-99d1-c9aa658bc3c9/guided-tours/radio/music-radio-cc-us-20150916_r848-9dwc.mov" data-analytics-id="radio-guided-tour-film">Watch the “Radio” Guided Tour<span class="icon icon-playalt"></span></a> </p> 
+     </div> 
+     <span class="icon icon-paddledown" aria-hidden="true">&nbsp;</span> 
+    </div> 
+    <div class="hero-intro"> 
+     <div class="section-content"> 
+      <p class="intro-copy radio-copy">Tune in to Beats&nbsp;1. It’s free for everyone — even if you’re not an Apple Music member. Broadcasting live from cities around the globe, Zane Lowe and his handpicked team of renowned DJs create an eclectic mix of the latest and best in music. Members can also dial in to on-demand stations that have been totally revamped.</p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-dark section-hero section-hero-membership" data-section-type="HeroSection" data-analytics-section-engagement="name:hero"> 
+    <div class="hero-headline"> 
+     <div class="section-image"></div> 
+     <div class="section-content"> 
+      <h1><span class="eyebrow">Membership</span> Get an all?access&nbsp;pass.</h1> 
+      <p><a href="http://itunes.apple.com/subscribe?app=music&amp;at=1000l4QJ&amp;ct=3&amp;itscg=1002" class="icon icon-external">Start your free, three-month trial<sup>1</sup></a></p> 
+     </div> 
+     <span class="icon icon-paddledown" aria-hidden="true">&nbsp;</span> 
+    </div> 
+    <div class="hero-intro"> 
+     <div class="section-content"> 
+      <div class="intro-copy"> 
+       <p>Get the Apple Music experience on all your devices.<br class="small-hide"> Explore membership plans for individuals and families.</p> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-dark section-hero section-hero-guidedtours" data-section-type="HeroSection" data-analytics-section-engagement="name:hero"> 
+    <div class="hero-headline"> 
+     <div class="section-image"></div> 
+     <div class="section-content"> 
+      <h1><span class="eyebrow">Guided Tour Videos</span> See how easy it is to enjoy Apple&nbsp;Music. </h1> 
+      <p class="intro-copy"></p> 
+     </div> 
+     <span class="icon icon-paddledown" aria-hidden="true">&nbsp;</span> 
+    </div> 
+    <div class="hero-intro"> 
+     <div class="section-content"> 
+      <p class="intro-copy">These Guided Tour videos will show you how to discover new music, hear recommendations from experts, create playlists, connect with artists, and listen to all the music you love on all your devices. Watch now.</p> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <footer id="ac-globalfooter" class="no-js" lang="en-US" data-analytics-region="global footer" role="contentinfo" aria-labelledby="ac-gf-label"> 
+   <div class="ac-gf-content"> 
+    <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2> 
+    <section class="ac-gf-sosumi"> 
+     <ul> 
+      <li><small>*Apple Watch requires iPhone 5 or later.</small></li> 
+     </ul> 
+     <ol> 
+      <li><small>Sign-up required. Membership automatically renews monthly after trial.</small></li> 
+      <li><small>Requires iCloud Family Sharing. See <a href="/icloud/family-sharing/">www.apple.com/icloud/family-sharing</a>&nbsp;for more information.</small></li> 
+      <li><small>Apple Music is not available on iPod nano and iPod shuffle.</small></li> 
+     </ol> 
+     <ul> 
+      <li><small>Some features not available on Android.</small></li> 
+     </ul> 
+    </section> 
+    <nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation"> 
+     <a href="/" class="home ac-gf-breadcrumbs-home"> <span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true">?</span> <span class="ac-gf-breadcrumbs-home-label">Apple</span> <span class="ac-gf-breadcrumbs-home-chevron"></span> <span class="ac-gf-breadcrumbs-home-mask"></span> </a> 
+     <div class="ac-gf-breadcrumbs-path"> 
+      <ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList"> 
+       <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem"><span property="name">Music</span>
+        <meta property="position" content="1"></li> 
+      </ol> 
+     </div> 
+    </nav> 
+    <nav class="ac-gf-directory with-5-columns" aria-label="Apple Directory" role="navigation"> 
+     <!--googleoff: all--> 
+     <div class="ac-gf-directory-column">
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-products"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-products"> <h3 class="ac-gf-directory-column-section-title">Shop and Learn</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-products" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/mac/">Mac</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/">iPad</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/">iPhone</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/watch/">Watch</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/tv/">TV</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/music/">Music</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/itunes/">iTunes</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipod/">iPod</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/buy_accessories">Accessories</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/giftcards">Gift Cards</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column">
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-storeservices"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-storeservices"> <h3 class="ac-gf-directory-column-section-title">Apple Store</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-storeservices" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/">Find a Store</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/geniusbar/">Genius Bar</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/">Workshops and Learning</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/learn/youth/">Youth Programs</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://itunes.apple.com/app/apple-store/id375380948?mt=8">Apple Store App</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/special_deals">Refurbished</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/payment_plan">Financing</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/reuse_and_recycle">Reuse and Recycling</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Order Status</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/help">Shopping Help</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-education"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-education"> <h3 class="ac-gf-directory-column-section-title">For Education</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-education" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/">Apple and Education</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/educationrouting">Shop for College</a></li> 
+       </ul> 
+      </div> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-business"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-business"> <h3 class="ac-gf-directory-column-section-title">For Business</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-business" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/iphone/business/">iPhone in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/ipad/business/">iPad in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/business/mac/">Mac in Business</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/retail/business/">Shop for Your Business</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-accounts"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-accounts"> <h3 class="ac-gf-directory-column-section-title">Account</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-accounts" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://appleid.apple.com/us/">Manage Your Apple ID</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/us/shop/goto/account">Apple Store Account</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="https://www.icloud.com">iCloud.com</a></li> 
+       </ul> 
+      </div> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-responsibility"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-responsibility"> <h3 class="ac-gf-directory-column-section-title">Apple Values</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-responsibility" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/environment/">Environment</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/supplier-responsibility/">Supplier Responsibility</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/accessibility/">Accessibility</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/privacy/">Privacy</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/diversity/">Inclusion and Diversity</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/education/connectED/">Education</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ac-gf-directory-column"> 
+      <input class="ac-gf-directory-column-section-state" type="checkbox" id="ac-gf-directory-column-section-state-about"> 
+      <div class="ac-gf-directory-column-section"> 
+       <label class="ac-gf-directory-column-section-label" for="ac-gf-directory-column-section-state-about"> <h3 class="ac-gf-directory-column-section-title">About Apple</h3> </label> 
+       <a href="#ac-gf-directory-column-section-state-about" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-open"> <span class="ac-gf-directory-column-section-anchor-label">Open Menu</span> </a> 
+       <a href="#" class="ac-gf-directory-column-section-anchor ac-gf-directory-column-section-anchor-close"> <span class="ac-gf-directory-column-section-anchor-label">Close Menu</span> </a> 
+       <ul class="ac-gf-directory-column-section-list"> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/about/">Apple Info</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://www.apple.com/jobs/us/">Job Opportunities</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/pr/">Press Info</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="http://investor.apple.com">Investors</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/apple-events/">Events</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/hotnews/">Hot News</a></li> 
+        <li class="ac-gf-directory-column-section-item"><a class="ac-gf-directory-column-section-link" href="/contact/">Contact Apple</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <!--googleon: all--> 
+    </nav> 
+    <section class="ac-gf-footer" vocab="http://schema.org/" typeof="Organization"> 
+     <div class="ac-gf-footer-shop" x-ms-format-detection="none">
+       More ways to shop: Visit an 
+      <a href="/retail/">Apple Store</a>, 
+      <span class="nowrap">call 1-800-MY-APPLE, or <a href="https://locate.apple.com/">find a reseller</a></span>. 
+     </div> 
+     <div class="ac-gf-footer-locale"> 
+      <a class="ac-gf-footer-locale-link" href="/choose-your-country/" title="Choose your country or region" aria-label="United States. Choose your country or region"><span class="ac-gf-footer-locale-flag" data-hires="false"></span>United States</a> 
+     </div> 
+     <div class="ac-gf-footer-legal"> 
+      <div class="ac-gf-footer-legal-copyright">
+       Copyright © 2016 Apple Inc. All rights reserved.
+      </div> 
+      <div class="ac-gf-footer-legal-links"> 
+       <a class="ac-gf-footer-legal-link" href="/privacy/privacy-policy/">Privacy Policy</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/internet-services/terms/site.html">Terms of Use</a> 
+       <a class="ac-gf-footer-legal-link" href="/us/shop/goto/help/sales_refunds">Sales and Refunds</a> 
+       <a class="ac-gf-footer-legal-link" href="/legal/">Legal</a> 
+       <a class="ac-gf-footer-legal-link" href="/sitemap/">Site Map</a> 
+      </div> 
+     </div> 
+     <meta content="Apple" property="name"> 
+     <meta content="1-800-692-7753" property="telephone"> 
+    </section> 
+    <script type="text/javascript" src="/ac/globalfooter/2.0/en_US/scripts/ac-globalfooter.built.js"></script> 
+   </div> 
+  </footer> 
+  <script data-three-location="http://images.apple.com/v/music/b/scripts/three.js"></script> 
+  <script src="http://images.apple.com/v/music/b/scripts/shaders.built.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/v/music/b/scripts/externals.built.js" type="text/javascript" charset="utf-8"></script> 
+  <script src="http://images.apple.com/v/music/b/scripts/main.built.js" type="text/javascript" charset="utf-8"></script>   
+ </body>
+</html>

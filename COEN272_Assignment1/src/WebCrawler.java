@@ -1,7 +1,9 @@
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -11,6 +13,7 @@ import java.util.Queue;
 import java.util.Set;
 import java.util.StringTokenizer;
 
+import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -38,8 +41,9 @@ public class WebCrawler {
 	 * 
 	 * @param input	specifications.csv
 	 * @throws IllegalArgumentException bad input file
+	 * @throws IOException 
 	 */
-	public WebCrawler(FileReader input) throws IllegalArgumentException
+	public WebCrawler(FileReader input) throws IllegalArgumentException, IOException
 	{
 		seeds = new LinkedList<String>();	
 		pagesVisited = new HashSet<String>();
@@ -48,6 +52,19 @@ public class WebCrawler {
 		File dir = new File("repository");
 		if (!dir.exists())
 			dir.mkdirs();
+		// if directory already exists, then clean out all the files in it to save space on our disk
+		else
+		{
+			for(File file: dir.listFiles()) 
+				file.delete();
+		}
+		
+		// create our html report to display URL attributes, etc.
+		File report = new File("report.html");
+		// create new report every time crawler is run
+		if (report.exists())
+			report.delete();
+		report.createNewFile();
 		
 		BufferedReader br = new BufferedReader(input);
 		try {
@@ -58,10 +75,19 @@ public class WebCrawler {
 			// valid input file
 			if (fields.length >= 2 && fields.length <= 3)
 			{
+			    // add a '/' to end of url if it does not have it. This is to ensure our matching later is accurate
+				if (fields[0].charAt(fields[0].length() -1) != '/')
+					fields[0] = fields[0] + "/";
 				seeds.offer(fields[0]); // put first seed URL on queue
 				maxPages = Integer.parseInt(fields[1]); 
 				if (fields.length == 3) // a domain is specified
-					domain = fields[2];
+				{
+					// make sure domain has protocol in it so nothing weird happens during parsing for host name, etc.
+					if (!fields[2].startsWith("http:/") || !fields[2].startsWith("https:/"))
+						domain = "http://" + fields[2];
+					else
+						domain = fields[2];
+				}
 			}
 			// throw exception if bad input file
 			else
@@ -72,28 +98,69 @@ public class WebCrawler {
 	}
 	
 	/**
-	 * Crawl to a given url, add all links on the page to our seeds queue.
+	 * Start our crawler and crawl until we hit our max page limit.
+	 * @throws IOException 
 	 * 
-	 * @param url
 	 */
-	public void crawl(String url)
+	public void crawl() throws IOException
 	{
-		try
+		BufferedWriter output = null;
+		
+		// keep crawling until the number of pages visited is greater than max pages to crawl.
+		while (pagesVisited.size() < maxPages)
 		{
-			// make HTTP request to url using Jsoup
-			Document htmlDoc = Jsoup.connect(url).get();			
-			// get all the links on the page
-			Elements linksOnPage = htmlDoc.select("a[href]");
-	        for(Element link : linksOnPage)
-	        {
-	        	// add each link url to our seeds queue
-	        	seeds.offer(link.absUrl("href"));
-	        }
+			// get next valid URL
+			String url = nextURL();
+			// if no valid url then stop crawl
+			if (url == null || url.length() == 0)
+				break;
+			// add url to our visited set
+			pagesVisited.add(url);
+			
+			// only connect if safe to crawl based on robots.txt and our domain
+			if (robotSafe(url) && domainSafe(url))
+			{
+				try {
+					System.out.println("Crawling... " + url);
+					// use Jsoup to connect to url.  Specify an user agent so web server won't restrict us.
+					// maxBodySize is specified so we can grab the whole page. Set the timeout to 10 seconds
+					Connection.Response connection = Jsoup.connect(url).userAgent(USER_AGENT).maxBodySize(Integer.MAX_VALUE).timeout(10*1000).execute();
+					Document page = connection.parse();
+					// get all textual content of the page
+					String textContent = page.outerHtml();
+					// get all outlinks and store number of links on page
+					Elements linksOnPage = page.select("a[href]");
+					int numLinks = 0;
+					for (Element link : linksOnPage)
+					{
+						// add each link to seeds queue
+						seeds.offer(link.absUrl("href"));
+						numLinks++;
+					}
+					
+					// get all image elements on the page to use for our report.html statistics
+					Elements imagesOnPage = page.select("img");
+					
+					// save the text content of the page to a file into the repository folder.
+					// we use createTempFile to get a nice unique name for each url.
+					File cachedContent = File.createTempFile("URL", ".txt", new File("repository"));
+					output = new BufferedWriter(new FileWriter(cachedContent));
+			        output.write(textContent);
+			        
+			        // write to our report.html with url statistics
+			        // url, file name, number of outlinks, HTTP status Code, number of images
+			        writeToReport(url, cachedContent.getName(), numLinks, connection.statusCode(), imagesOnPage.size());
+			    // if we can not get a connection, then continue onto the next URL.
+				} catch (IOException e) {
+				}
+				finally {
+					// close our BufferedWriter stream
+					if ( output != null ) 
+		            	output.close();
+				}
+			}
 		}
-        catch(IOException e)
-        {
-			e.printStackTrace();
-        }
+		System.out.println("Finished crawl.");
 	}
 
 	/**
@@ -108,14 +175,7 @@ public class WebCrawler {
 		URL aURL;			// we use URL object to easily parse for domain part of URL
 		String host;		// string to store domain of URL
 		String robotsTXT;	// string to store robots.txt
-		
-		// make sure url has protocol in it so nothing weird happens during parsing for host name, etc.
-		if (url.startsWith("http:/"))
-		{
-	        if (!url.contains("http://")) 
-	            url = url.replaceAll("http:/", "http://");
-	    } else 
-	        url = "http://" + url;
+				
 	    // add a '/' to end of url if it does not have it. This is to ensure our matching later is accurate
 		if (url.charAt(url.length() -1) != '/')
 			url = url + "/";
@@ -156,6 +216,7 @@ public class WebCrawler {
 			    
 			    // get the disallowed category
 			    String disallowed = st.nextToken();
+			    
 			    // if the URL category matches with a disallowed path, we can not crawl the URL
 			    if (category.indexOf(disallowed) == 0)
 			    	return false;
@@ -169,19 +230,89 @@ public class WebCrawler {
 	}
 	
 	/**
+	 * Check if the url is within our domain, if a domain was specified as input
+	 * 
+	 * @param url
+	 * @return boolean
+	 */
+	private boolean domainSafe(String url)
+	{
+		// no domain specified then always return true;
+		if (domain == null || domain.length() == 0)
+			return true;
+		try {
+			// parse our domain restriction url to get only domain (no www)
+			URL domainURL = new URL(domain);
+			String domainParsed = domainURL.getHost();
+			if (domainParsed.startsWith("www"))
+				domainParsed = domainParsed.substring("www".length()+1);
+			// if url contains domain restriction then do not crawl
+			return url.contains(domainParsed);
+	    // something weird happened then assume not safe to crawl
+		} catch (MalformedURLException e) {
+			return false;
+		}
+	}
+	
+	/**
 	 * Get the next URL to crawl to, making sure that URL has not been visited yet.
 	 * 
 	 * @return url
 	 */
 	private String nextURL()
 	{
-		String url = seeds.poll();	// pop URL off queue
-		// keep popping off queue until we get an URL not yet visited
-		while (pagesVisited.contains(url))
+		String url;
+		// pop off an url off of our queue otherwise return null
+		if (!seeds.isEmpty())
 			url = seeds.poll();
+		else
+			return null;
+		// keep popping off queue until we get a valid URL not yet visited
+		while (url == null || url.length() == 0 || pagesVisited.contains(url))
+		{
+			// if no more urls then return null
+			if (seeds.isEmpty())
+				return null;
+			url = seeds.poll();
+		}
+		
 		return url;
 	}
 
+	/**
+	 * Write to reports.html with url statistics for each url we crawl.
+	 * Link to actual website url, Link to downloaded page, http status code,
+	 * number of outlinks on page, and number of images on page.
+	 * 
+	 * @param url
+	 * @param fileName
+	 * @param numLinks
+	 * @param httpStatusCode
+	 * @param numImages
+	 */
+	private void writeToReport(String url, String fileName, int numLinks, int httpStatusCode, int numImages)
+	{
+		try {
+			// basic HTML code, ugly formatting
+			BufferedWriter bw = new BufferedWriter(new FileWriter("report.html", true));
+			bw.write("<html>");
+			bw.write("<a href=\"" + url + "\">" + url + "</a>" );
+			bw.write("<br/>");
+			bw.write("<a href=\"repository\\" + fileName + "\">" + "Link to downloaded page" + "</a>");
+			bw.write("<br/>");
+			bw.write("HTTP Status Code: " + httpStatusCode);
+			bw.write("<br/>");
+			bw.write("Number of outlinks: " + numLinks);
+			bw.write("<br/>");
+			bw.write("Number of images: " + numImages);
+			bw.write("</html>");
+			bw.write("<hr>");
+			bw.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
 	/**
 	 * For testing purposes.
 	 * 
@@ -190,8 +321,10 @@ public class WebCrawler {
 		try {
 			FileReader file = new FileReader("specification.csv");
 			WebCrawler crawler = new WebCrawler(file);
-			System.out.println(crawler.robotSafe("google.com/search/"));
+			crawler.crawl();
 		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
 			e.printStackTrace();
 		}
 
