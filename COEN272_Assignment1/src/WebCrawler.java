@@ -130,13 +130,10 @@ public class WebCrawler {
 					String textContent = page.outerHtml();
 					// get all outlinks and store number of links on page
 					Elements linksOnPage = page.select("a[href]");
-					int numLinks = 0;
 					for (Element link : linksOnPage)
-					{
 						// add each link to seeds queue
 						seeds.offer(link.absUrl("href"));
-						numLinks++;
-					}
+
 					
 					// get all image elements on the page to use for our report.html statistics
 					Elements imagesOnPage = page.select("img");
@@ -149,7 +146,7 @@ public class WebCrawler {
 			        
 			        // write to our report.html with url statistics
 			        // url, file name, number of outlinks, HTTP status Code, number of images
-			        writeToReport(url, cachedContent.getName(), numLinks, connection.statusCode(), imagesOnPage.size());
+			        writeToReport(url, cachedContent.getName(), linksOnPage.size(), connection.statusCode(), imagesOnPage.size());
 			    // if we can not get a connection, then continue onto the next URL.
 				} catch (IOException e) {
 				}
