@@ -124,30 +124,38 @@ public class WebCrawler {
 					System.out.println("Crawling... " + url);
 					// use Jsoup to connect to url.  Specify an user agent so web server won't restrict us.
 					// maxBodySize is specified so we can grab the whole page. Set the timeout to 10 seconds
-					Connection.Response connection = Jsoup.connect(url).userAgent(USER_AGENT).maxBodySize(Integer.MAX_VALUE).timeout(10*1000).execute();
-					Document page = connection.parse();
-					// get all textual content of the page
-					String textContent = page.outerHtml();
-					// get all outlinks and store number of links on page
-					Elements linksOnPage = page.select("a[href]");
-					for (Element link : linksOnPage)
-						// add each link to seeds queue
-						seeds.offer(link.absUrl("href"));
-
-					
-					// get all image elements on the page to use for our report.html statistics
-					Elements imagesOnPage = page.select("img");
-					
-					// save the text content of the page to a file into the repository folder.
-					// we use createTempFile to get a nice unique name for each url.
-					File cachedContent = File.createTempFile("URL", ".txt", new File("repository"));
-					output = new BufferedWriter(new FileWriter(cachedContent));
-			        output.write(textContent);
-			        
-			        // write to our report.html with url statistics
-			        // url, file name, number of outlinks, HTTP status Code, number of images
-			        writeToReport(url, cachedContent.getName(), linksOnPage.size(), connection.statusCode(), imagesOnPage.size());
-			    // if we can not get a connection, then continue onto the next URL.
+					// ignore HTTP errors so we can grab all types of HTTP status codes
+					Connection.Response connection = Jsoup.connect(url).userAgent(USER_AGENT).maxBodySize(Integer.MAX_VALUE).ignoreHttpErrors(true).timeout(10*1000).execute();
+					// if HTTP Status Code is 200 then we can parse the page
+					if (connection.statusCode() == 200)
+					{
+						Document page = connection.parse();
+						// get all textual content of the page
+						String textContent = page.outerHtml();
+						// get all outlinks and store number of links on page
+						Elements linksOnPage = page.select("a[href]");
+						for (Element link : linksOnPage)
+							// add each link to seeds queue
+							seeds.offer(link.absUrl("href"));
+	
+						// get all image elements on the page to use for our report.html statistics
+						Elements imagesOnPage = page.select("img");
+						
+						// save the text content of the page to a file into the repository folder.
+						// we use createTempFile to get a nice unique name for each url.
+						File cachedContent = File.createTempFile("URL", ".txt", new File("repository"));
+						output = new BufferedWriter(new FileWriter(cachedContent));
+				        output.write(textContent);
+				        
+				        // write to our report.html with url statistics
+				        // url, file name, number of outlinks, HTTP status Code, number of images
+				        writeToReport(url, cachedContent.getName(), linksOnPage.size(), connection.statusCode(), imagesOnPage.size());
+					}
+					// not HTTP status code 200 then write what the status code is to report.html
+					else
+						writeToReport(url, "", 0, connection.statusCode(), 0);
+			    
+				// if we can not get a connection, then continue onto the next URL.
 				} catch (IOException e) {
 				}
 				finally {
