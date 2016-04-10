@@ -130,8 +130,6 @@ public class WebCrawler {
 					if (connection.statusCode() == 200)
 					{
 						Document page = connection.parse();
-						// get all textual content of the page
-						String textContent = page.outerHtml();
 						// get all outlinks and store number of links on page
 						Elements linksOnPage = page.select("a[href]");
 						for (Element link : linksOnPage)
@@ -140,10 +138,14 @@ public class WebCrawler {
 	
 						// get all image elements on the page to use for our report.html statistics
 						Elements imagesOnPage = page.select("img");
+						// we do not need to save images into our repository
+						imagesOnPage.remove();
+						// get all textual content of the page
+						String textContent = page.outerHtml();
 						
 						// save the text content of the page to a file into the repository folder.
 						// we use createTempFile to get a nice unique name for each url.
-						File cachedContent = File.createTempFile("URL", ".txt", new File("repository"));
+						File cachedContent = File.createTempFile("URL", ".html", new File("repository"));
 						output = new BufferedWriter(new FileWriter(cachedContent));
 				        output.write(textContent);
 				        
