@@ -66,7 +66,5 @@ public class ContentProcessor {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
 	}
-
 }
