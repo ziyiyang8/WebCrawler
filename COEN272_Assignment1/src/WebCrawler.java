@@ -75,6 +75,13 @@ public class WebCrawler {
 			// valid input file
 			if (fields.length >= 2 && fields.length <= 3)
 			{
+				// make sure url has protocol in it so nothing weird happens during parsing for host name, etc.
+				if (fields[0].startsWith("http:/"))
+				{
+			        if (!fields[0].contains("http://")) 
+			        	fields[0] = fields[0].replaceAll("http:/", "http://");
+			    } else 
+			    	fields[0] = "http://" + fields[0];
 			    // add a '/' to end of url if it does not have it. This is to ensure our matching later is accurate
 				if (fields[0].charAt(fields[0].length() -1) != '/')
 					fields[0] = fields[0] + "/";
@@ -82,9 +89,9 @@ public class WebCrawler {
 				maxPages = Integer.parseInt(fields[1]); 
 				if (fields.length == 3) // a domain is specified
 				{
-					// make sure domain has protocol in it so nothing weird happens during parsing for host name, etc.
-					if (!fields[2].startsWith("http:/") || !fields[2].startsWith("https:/"))
-						domain = "http://" + fields[2];
+					// remove www if it's specified
+					if (fields[2].startsWith("www"))
+						domain = fields[2].substring("www".length()+1);
 					else
 						domain = fields[2];
 				}
@@ -116,7 +123,6 @@ public class WebCrawler {
 				break;
 			// add url to our visited set
 			pagesVisited.add(url);
-			
 			// only connect if safe to crawl based on robots.txt and our domain
 			if (robotSafe(url) && domainSafe(url))
 			{
@@ -182,7 +188,7 @@ public class WebCrawler {
 		URL aURL;			// we use URL object to easily parse for domain part of URL
 		String host;		// string to store domain of URL
 		String robotsTXT;	// string to store robots.txt
-				
+			
 	    // add a '/' to end of url if it does not have it. This is to ensure our matching later is accurate
 		if (url.charAt(url.length() -1) != '/')
 			url = url + "/";
@@ -226,11 +232,14 @@ public class WebCrawler {
 			    
 			    // if the URL category matches with a disallowed path, we can not crawl the URL
 			    if (category.indexOf(disallowed) == 0)
+			    {
+			    	System.out.println(url + " disallowed by robots.txt");
 			    	return false;
+			    }
 			}
 		// if something bad happened, assume we should not crawl url
 		} catch (IOException e) {
-			return false;
+	    	return false;
 		}
 		// if everything still all good, then url must be safe to crawl
 		return true;
@@ -247,18 +256,14 @@ public class WebCrawler {
 		// no domain specified then always return true;
 		if (domain == null || domain.length() == 0)
 			return true;
-		try {
-			// parse our domain restriction url to get only domain (no www)
-			URL domainURL = new URL(domain);
-			String domainParsed = domainURL.getHost();
-			if (domainParsed.startsWith("www"))
-				domainParsed = domainParsed.substring("www".length()+1);
-			// if url contains domain restriction then do not crawl
-			return url.contains(domainParsed);
-	    // something weird happened then assume not safe to crawl
-		} catch (MalformedURLException e) {
+		// url not within domain then is not safe
+		if (!url.contains(domain))
+		{
+			System.out.println(url + " not within domain.");
 			return false;
 		}
+		else
+			return true;
 	}
 	
 	/**
