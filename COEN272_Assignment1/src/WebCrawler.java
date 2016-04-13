@@ -17,6 +17,7 @@ import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import org.jsoup.safety.Whitelist;
 import org.jsoup.select.Elements;
 
 /**
@@ -143,12 +144,12 @@ public class WebCrawler {
 							seeds.offer(link.absUrl("href"));
 	
 						// get all image elements on the page to use for our report.html statistics
-						Elements imagesOnPage = page.select("img");
+						Elements imagesOnPage = page.select("img, figure");
 						// we do not need to save images into our repository
 						imagesOnPage.remove();
 						// get all textual content of the page
 						String textContent = page.outerHtml();
-						
+								
 						// save the text content of the page to a file into the repository folder.
 						// we use createTempFile to get a nice unique name for each url.
 						File cachedContent = File.createTempFile("URL", ".html", new File("repository"));
