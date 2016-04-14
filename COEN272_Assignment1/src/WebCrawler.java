@@ -144,9 +144,15 @@ public class WebCrawler {
 							seeds.offer(link.absUrl("href"));
 	
 						// get all image elements on the page to use for our report.html statistics
-						Elements imagesOnPage = page.select("img, figure");
+						Elements imagesOnPage = page.select("img[src]");
 						// we do not need to save images into our repository
-						imagesOnPage.remove();
+						imagesOnPage.attr("src", " ");
+						// get other html tags that have src as an attribute
+						page.select("frame[src").attr("src", " ");
+						page.select("iframe[src]").attr("src", " ");
+						page.select("script[src]").attr("src", " ");
+						page.select("input[src]").attr("src", " ");
+						page.select("embed[src]").attr("src", " ");
 						// get all textual content of the page
 						String textContent = page.outerHtml();
 								
