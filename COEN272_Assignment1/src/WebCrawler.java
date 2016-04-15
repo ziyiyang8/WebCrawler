@@ -7,17 +7,26 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.security.GeneralSecurityException;
+import java.security.SecureRandom;
+import java.security.cert.CertificateException;
 import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Set;
 import java.util.StringTokenizer;
 
+import javax.net.ssl.HostnameVerifier;
+import javax.net.ssl.HttpsURLConnection;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.SSLSession;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.safety.Whitelist;
 import org.jsoup.select.Elements;
 
 /**
@@ -333,10 +342,50 @@ public class WebCrawler {
 	}
 	
 	/**
-	 * For testing purposes.
+	 * Main method
 	 * 
 	 */
 	public static void main(String[] args) {
+		
+
+			// allow Jsoup to connect to HTTPS sites
+			// http://stackoverflow.com/questions/2793150/using-java-net-urlconnection-to-fire-and-handle-http-requests/2793153#2793153
+		    TrustManager[] trustAllCertificates = new TrustManager[] {
+		        new X509TrustManager() {
+					@Override
+					public void checkClientTrusted(java.security.cert.X509Certificate[] arg0, String arg1)
+							throws CertificateException {						
+					}
+					@Override
+					public void checkServerTrusted(java.security.cert.X509Certificate[] arg0, String arg1)
+							throws CertificateException {						
+					}
+					@Override
+					public java.security.cert.X509Certificate[] getAcceptedIssuers() {
+						return null;
+					}
+		        }
+		    };
+
+		    HostnameVerifier trustAllHostnames = new HostnameVerifier() {
+		        @Override
+		        public boolean verify(String hostname, SSLSession session) {
+		            return true; // Just allow them all.
+		        }
+		    };
+
+		    try {
+		        System.setProperty("jsse.enableSNIExtension", "false");
+		        SSLContext sc = SSLContext.getInstance("SSL");
+		        sc.init(null, trustAllCertificates, new SecureRandom());
+		        HttpsURLConnection.setDefaultSSLSocketFactory(sc.getSocketFactory());
+		        HttpsURLConnection.setDefaultHostnameVerifier(trustAllHostnames);
+		    }
+		    catch (GeneralSecurityException e) {
+		        throw new ExceptionInInitializerError(e);
+		    }
+		
+		// kick off the crawling
 		try {
 			FileReader file = new FileReader("specification.csv");
 			WebCrawler crawler = new WebCrawler(file);

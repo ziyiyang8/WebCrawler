@@ -1,5 +1,4 @@
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -9,11 +8,13 @@ import java.util.Random;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.select.Elements;
 
 /**
  *  Goes through all downloaded pages in repository folder and removes noise
  *  such as main navigation bar and advertisements
+ *  
+ *  The main algorithm used is found in this paper:
+ *  https://www3.nd.edu/~tweninge/pubs/WH_TIR08.pdf
  *
  */
 public class ContentProcessor {	
@@ -31,8 +32,8 @@ public class ContentProcessor {
 	
 	/**
 	 * Start the noise removal process.
-	 * Iterates through all files in repository to get TTR, smooth the ratio, then finally update the pages
-	 * with noise removed.
+	 * Iterates through all files in repository to get Tag-To-Text Ratio (TTR), smooth the ratio, then categorize the TTR
+	 * into clusters using kMeans clustering algorithm.
 	 * 
 	 * @throws Exception
 	 */
@@ -49,43 +50,33 @@ public class ContentProcessor {
 		{
 		    for (File page : repository) 
 		    {
+		    	System.out.println("Processing " + page.getName());
 		    	TTR = calculateTTR(page);
-		    	smoothTTR = smooth(TTR, 2);	   
-		    	clusterFlag = kMeans(smoothTTR,4);
+		    	smoothTTR = smooth(TTR, 1);	   
+		    	clusterFlag = kMeans(smoothTTR,3);
 		    	
-//		    	for (int i=0;i<smoothTTR.size();i++) {
-//		    		System.out.println(lines.get(i));
-//					System.out.print(smoothTTR.get(i)+" is ");
-//					if (clusterFlag.get(i)) {
-//						System.out.println("good");
-//					}
-//					else {
-//						System.out.println("bad");
-//					}
-//				}
-		    	String goodHtml = null;
-		    	for (int i=0;i<lines.size();i++) {
+		    	// get only content lines of html page
+		    	String goodHtml = "";
+		    	for (int i=0;i<lines.size();i++) 
+		    	{
+		    		// if true that means line has content
 		    		if (clusterFlag.get(i)) 
-		    		{
 		    			goodHtml += lines.get(i);
-		    			System.out.println(lines.get(i));
-		    			
-		    		}
 		    	}
-				File test = File.createTempFile("URL", ".html", new File("test"));
-		    	fw = new FileWriter(test, false);
-		    	fw.write(goodHtml);
-		    	fw.close();
-		    	System.out.println(lines.size());
+		    	// write to file with noise removed
+				fw = new FileWriter(page, false);
+				fw.write(goodHtml);
+				fw.close();
 		    }
+		    System.out.println("Finished processing.");
 		} 
 		else 
 			throw new Exception ("repository folder not found");
 	}
 	
-	
 	/**
-	 * 
+	 * kMeans clustering algorithm
+	 * https://en.wikipedia.org/wiki/K-means_clustering
 	 * 
 	 * @param smoothTTR
 	 * @param k num of clusters
@@ -108,9 +99,7 @@ public class ContentProcessor {
 		
 		avgVal /= smoothTTR.size();
 		
-		int iter = 1;
 		while (true) {
-			System.out.println("Iteration "+iter);
 			// calculate the initial value for the clusters
 			for (int i=0;i<k;i++) {
 				clusterCount[i] = 0;
@@ -143,11 +132,6 @@ public class ContentProcessor {
 				clusterPos.set(i,minInd);
 			}
 			
-			for (int i=0;i<smoothTTR.size();i++) {
-				int x = clusterPos.get(i);
-				System.out.println(smoothTTR.get(i)+" Cluster "+x+" with value "+clusterVal[x]);
-			}
-			iter ++;
 			if (!clusterChange) break;
 		}
 		
@@ -180,15 +164,13 @@ public class ContentProcessor {
 	
 	/**
 	 * This method will calculate the TTR of each line of html page.
-	 * 	https://www3.nd.edu/~tweninge/pubs/WH_TIR08.pdf 
-	 *	text-to-tag algorithm
 	 * 
 	 * @param page
 	 * @throws IOException 
 	 */
 	public ArrayList<Double> calculateTTR(File page) throws IOException
 	{
-		BufferedWriter output = null;
+		FileWriter output = null;
 		ArrayList<Double> pageTTR = new ArrayList<Double>();
 		// make sure lines is empty
 		lines.clear();
@@ -197,16 +179,16 @@ public class ContentProcessor {
 			// use Jsoup to parse a html page in repository folder
 			Document doc = Jsoup.parse(page, "UTF-8");
 						
-			// remove all script and remark tags
-			Elements scripts = doc.select("script");
-			scripts.remove();		
-			Elements remarks = doc.select("remark");
-			remarks.remove();
+			// remove all script, noscript, remark, style tags
+			doc.select("script").remove();
+			doc.select("noscript").remove();
+			doc.select("remark").remove();
+			doc.select("style").remove();
 			
 			String strippedContent = doc.outerHtml();
 			
 			// update page with scripts and remarks tags removed
-			output = new BufferedWriter(new FileWriter(page));
+			output = new FileWriter(page, false);
 			output.write(strippedContent);
 			
 			// read html page line by line to calculate each line's Text To Tag (TTR) Ratio
@@ -277,6 +259,11 @@ public class ContentProcessor {
 		return smoothTTR;
 	}
 	
+	/**
+	 * Main method
+	 * 
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		try {
 			ContentProcessor cp = new ContentProcessor();
