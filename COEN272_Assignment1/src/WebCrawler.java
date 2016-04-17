@@ -25,6 +25,8 @@ import javax.net.ssl.X509TrustManager;
 
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
+import org.jsoup.nodes.Attribute;
+import org.jsoup.nodes.Attributes;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -153,15 +155,19 @@ public class WebCrawler {
 							seeds.offer(link.absUrl("href"));
 	
 						// get all image elements on the page to use for our report.html statistics
-						Elements imagesOnPage = page.select("img[src]");
-						// we do not need to save images into our repository
-						imagesOnPage.attr("src", " ");
-						// get other html tags that have src as an attribute
-						page.select("frame[src").attr("src", " ");
-						page.select("iframe[src]").attr("src", " ");
-						page.select("script[src]").attr("src", " ");
-						page.select("input[src]").attr("src", " ");
-						page.select("embed[src]").attr("src", " ");
+						Elements imagesOnPage = page.select("img");
+						
+						// save only html tags, don't download any images/scripts
+						Elements allElements = page.getAllElements();
+						for (Element e : allElements)
+						{
+							Attributes at = e.attributes();
+							for (Attribute a : at)
+							{
+								e.removeAttr(a.getKey());
+							}
+						}
+
 						// get all textual content of the page
 						String textContent = page.outerHtml();
 								

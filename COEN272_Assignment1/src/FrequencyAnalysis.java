@@ -1,7 +1,5 @@
-import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
@@ -18,14 +16,15 @@ import org.jsoup.nodes.Document;
  * 
  */
 public class FrequencyAnalysis {
-	public HashMap<String, Integer> wordFrequency;
-	public TreeMap<String, Integer> sorted;
+	public HashMap<String, Integer> wordFrequency;	// count for each word occurrence
+	public TreeMap<String, Integer> sorted;	// sorted to get rankings
 	
 	public FrequencyAnalysis()
 	{
 		wordFrequency = new HashMap<String, Integer>();
 	}
 	
+	// Comparator for TreeMap to sort by values
 	static class ValueComparator implements Comparator<String>{
 		 
 		HashMap<String, Integer> map = new HashMap<String, Integer>();
@@ -46,7 +45,6 @@ public class FrequencyAnalysis {
 	
 	public void getCount() throws IOException
 	{
-		BufferedReader br;
 		File dir = new File("repository");
 		File[] repository = dir.listFiles();
 		if (repository != null)
@@ -64,7 +62,6 @@ public class FrequencyAnalysis {
 					else
 						wordFrequency.put(tokens[i], wordFrequency.get(tokens[i]) + 1);
 				}
-				
 			}
 		}
 	}
@@ -76,13 +73,16 @@ public class FrequencyAnalysis {
 		return result;
 	}
 	
+	// write words and their counts to output.txt sorted by their ranks
 	public void print() throws FileNotFoundException, UnsupportedEncodingException 
 	{
+		int rank = 1;
 		sorted = sortMapByValue(wordFrequency);
 		PrintWriter writer = new PrintWriter("output.txt", "UTF-8");
 		for (Entry<String, Integer> e : sorted.entrySet())
 		{
-			writer.println(e.getKey() + "," + e.getValue());
+			writer.println(e.getKey() + "," + rank + "," + e.getValue());
+			rank++;
 		}
 		writer.close();
 	}
@@ -96,5 +96,4 @@ public class FrequencyAnalysis {
 			e.printStackTrace();
 		}
 	}
-
 }

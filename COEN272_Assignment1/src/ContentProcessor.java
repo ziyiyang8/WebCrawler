@@ -171,6 +171,7 @@ public class ContentProcessor {
 	public ArrayList<Double> calculateTTR(File page) throws IOException
 	{
 		FileWriter output = null;
+		BufferedReader br;
 		ArrayList<Double> pageTTR = new ArrayList<Double>();
 		// make sure lines is empty
 		lines.clear();
@@ -179,11 +180,9 @@ public class ContentProcessor {
 			// use Jsoup to parse a html page in repository folder
 			Document doc = Jsoup.parse(page, "UTF-8");
 						
-			// remove all script, noscript, remark, style tags
+			// remove all script, remark tags
 			doc.select("script").remove();
-			doc.select("noscript").remove();
 			doc.select("remark").remove();
-			doc.select("style").remove();
 			
 			String strippedContent = doc.outerHtml();
 			
@@ -192,7 +191,7 @@ public class ContentProcessor {
 			output.write(strippedContent);
 			
 			// read html page line by line to calculate each line's Text To Tag (TTR) Ratio
-			BufferedReader br = new BufferedReader(new FileReader(page));
+			br = new BufferedReader(new FileReader(page));
 			String line;
 			while ((line = br.readLine()) != null)
 			{
