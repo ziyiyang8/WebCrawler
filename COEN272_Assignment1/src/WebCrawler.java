@@ -164,7 +164,13 @@ public class WebCrawler {
 							for (Attribute a : imgAttrs)
 								e.removeAttr(a.getKey());
 						}
-
+						// get other html tags that have src as an attribute
+						page.select("frame[src").attr("src", " ");
+						page.select("iframe[src]").attr("src", " ");
+						page.select("script[src]").attr("src", " ");
+						page.select("input[src]").attr("src", " ");
+						page.select("embed[src]").attr("src", " ");
+						
 						// get all textual content of the page
 						String textContent = page.outerHtml();
 								
