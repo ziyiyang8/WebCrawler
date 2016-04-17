@@ -180,13 +180,14 @@ public class ContentProcessor {
 			// use Jsoup to parse a html page in repository folder
 			Document doc = Jsoup.parse(page, "UTF-8");
 						
-			// remove all script, remark tags
+			// remove all script, remark, and style tags
 			doc.select("script").remove();
 			doc.select("remark").remove();
+			doc.select("style").remove();
 			
 			String strippedContent = doc.outerHtml();
 			
-			// update page with scripts and remarks tags removed
+			// update page with scripts and remarks and style tags removed
 			output = new FileWriter(page, false);
 			output.write(strippedContent);
 			
