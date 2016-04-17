@@ -57,10 +57,14 @@ public class FrequencyAnalysis {
 				String [] tokens = text.split("\\s+");
 				for (int i = 0; i < tokens.length; i++)
 				{
-					if (!wordFrequency.containsKey(tokens[i]))
-						wordFrequency.put(tokens[i], 1);
-					else
-						wordFrequency.put(tokens[i], wordFrequency.get(tokens[i]) + 1);
+					// get only words with alphanumeric characters.
+					if (tokens[i].matches("[A-Za-z0-9]+"))
+					{
+						if (!wordFrequency.containsKey(tokens[i]))
+							wordFrequency.put(tokens[i], 1);
+						else
+							wordFrequency.put(tokens[i], wordFrequency.get(tokens[i]) + 1);
+					}
 				}
 			}
 		}
@@ -78,13 +82,18 @@ public class FrequencyAnalysis {
 	{
 		int rank = 1;
 		sorted = sortMapByValue(wordFrequency);
-		PrintWriter writer = new PrintWriter("output.txt", "UTF-8");
+		PrintWriter writer = new PrintWriter("output.csv", "UTF-8");
+		writer.println("rank" + "," + "frequency" + "," + "log(r)" + "," + "log(f)");
+		PrintWriter top100Writer = new PrintWriter("Top100.txt", "UTF-8");
 		for (Entry<String, Integer> e : sorted.entrySet())
 		{
-			writer.println(e.getKey() + "," + rank + "," + e.getValue());
+			writer.println(rank + "," + e.getValue() + "," + Math.log10(rank *1.0) + "," + Math.log10(e.getValue() * 1.0));
+			if (rank <= 100)
+				top100Writer.println(rank + "," + e.getKey() + "," + e.getValue());
 			rank++;
 		}
 		writer.close();
+		top100Writer.close();
 	}
 	
 	public static void main(String[] args) {
