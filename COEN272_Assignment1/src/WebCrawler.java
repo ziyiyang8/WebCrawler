@@ -260,7 +260,7 @@ public class WebCrawler {
 			    }
 			}
 		// if something bad happened, assume we should not crawl url
-		} catch (IOException e) {
+		} catch (Exception e) {
 	    	return false;
 		}
 		// if everything still all good, then url must be safe to crawl
