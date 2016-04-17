@@ -157,15 +157,12 @@ public class WebCrawler {
 						// get all image elements on the page to use for our report.html statistics
 						Elements imagesOnPage = page.select("img");
 						
-						// save only html tags, don't download any images/scripts
-						Elements allElements = page.getAllElements();
-						for (Element e : allElements)
+						// save only html tags, don't download any images
+						for (Element e : imagesOnPage)
 						{
-							Attributes at = e.attributes();
-							for (Attribute a : at)
-							{
+							Attributes imgAttrs = e.attributes();
+							for (Attribute a : imgAttrs)
 								e.removeAttr(a.getKey());
-							}
 						}
 
 						// get all textual content of the page
